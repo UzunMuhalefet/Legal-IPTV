@@ -6,7 +6,7 @@ FTA (Free-to-air veya ücretsiz uydu yayınları) ve internetten ücretsiz olara
 Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
 **UYARILAR**
- - Paylaşımlar içerisinde herhangi bir platforma ait içerikler veya ücretli içerikler bulunmamaktadır.
+ - Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
  - Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV playerlarının destekleyeceği şekilde yönlendirme yapılmaktadır.
 
 Merak edenler için en alt kısımda yaptığım çalışmaların detayları mevcuttur.
