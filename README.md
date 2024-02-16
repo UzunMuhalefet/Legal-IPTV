@@ -12,7 +12,10 @@ Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla ç
 Merak edenler için en alt kısımda yaptığım çalışmaların detayları mevcuttur.
 
 # Yapılan Çalışmalar
+
 Sistemin ayağa kaldırılması ve kurumlar tarafındaki desteği için limonsikacagi61 'e teşekkürler.
+<details>
+  <summary>Detaylar</summary>
 
 ## Canlı Kanalların Yönetimi
 
@@ -92,6 +95,8 @@ IPTV Org ekibinin geliştirdiği [EPG](https://github.com/iptv-org/epg) yazılı
 Destekleyen playerlarda aşağıdaki URL eklenip kullanılabilir.
 
 `http://epg.tvcdn.net/guide/tr-guide.xml`
+
+</details>
 
 # Listeler
 
