@@ -120,6 +120,8 @@ Türkiye ve KKTC'de bulunan aktif canlı yayın yapan kameraları içerir.
 `http://stream.tvcdn.net/lists/tr-cam.m3u`
 
 # Planlanan Çalışmalar
+<details>
+  <summary>Detaylar</summary>
 
 ## 🇹🇷 Türkçe - TV İçerikleri 
 Türkiye'de faaliyet gösteren TV kanallarına ait içeriklerin kanalların sitelerindeki yayın adresleri (mp4 ve m3u8 uzantılı) kullanılarak servis edilmesi.
@@ -147,3 +149,5 @@ Belirli konseptlere, ülke, bölge ve platform (websitesi) özelinde listeler ç
 
 **Planlanan Playlistler**
 1. Havaalanı kameraları
+
+</details>
