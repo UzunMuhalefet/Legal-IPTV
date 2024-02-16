@@ -13,7 +13,7 @@ Merak edenler için en alt kısımda yaptığım çalışmaların detayları mev
 
 # Yapılan Çalışmalar
 
-Sistemin ayağa kaldırılması ve kurumlar tarafındaki desteği için limonsikacagi61 'e teşekkürler.
+Sistemin ayağa kaldırılması ve kurulumlar tarafındaki desteği için limonsikacagi61 'e teşekkürler.
 <details>
   <summary>Detaylar</summary>
 
