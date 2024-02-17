@@ -165,7 +165,7 @@ Python ile BeautifulSoup ve Regex kullanılarak içerikler çıkarılmaktadır.
 | TRT Çocuk - Videolar | https://www.trtcocuk.net.tr/video  |
 | 360 TV - Programlar | https://www.tv360.com.tr/yasam-programlar  |
 | TV 4 - Programlar | https://www.tv4.com.tr/yasam-programlar  |
-| CNN Türk - Belgeseller | https://www.tv4.com.tr/yasam-programlar  |
+| CNN Türk - Belgeseller | https://www.cnnturk.com/tv-cnn-turk/arsiv/  |
 
 ## 🌎 Dünya Kameraları
 
