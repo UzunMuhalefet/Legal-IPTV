@@ -28,21 +28,27 @@ Sistemin ayağa kaldırılması ve kurulumlar tarafındaki desteği için limons
 - Python [Streamlink](https://streamlink.github.io/) kütüphanesi kullanılarak Youtube, Dailymotion ve Twitch üzerinden yayın yapan kanallar için sabit link oluşturan bir sistem geliştirilmiştir.
 - Sistem kendisine tanımlanan konfigürasyon dosyaları üzerinden [Github Actions](https://github.com/features/actions) kullanarak 2 saat aralıklar ile yayınları Multivariant (Master) ve Best (En Yüksek Kalite) listeleri güncellemektedir.
 
-```https://github.com/UzunMuhalefet/yayinlar```
+```
+https://github.com/UzunMuhalefet/yayinlar
+```
 
 ## YT, DM, Twitch Yayınlarının Dinamik Linkleri
 - [Query Streamlink](https://github.com/BellezaEmporium/query-streamlink/tree/flask) reposu [Render](https://render.com/) platformu üzerinde ücretsiz hesap ile aktif edilmiştir.
 - Streamlink desteği olan sitelere ait yayının bulunduğu linkler *url* sorgu parametresi ile geçilerek sonuç alınabilir. 
 - NOT: IP adresi bazlı link koruması bulunan sitelerde çalışmaz. Youtube, Dailymotion, Twitch siteleri için çalışmaktadır fakat ülke bazlı kısıtlama bulunan içeriklerde çalışmayabilir.
 
-```https://tvcdn.onrender.com/iptv-query?url={ICERIK_ADRESI}&.m3u8```
+```
+https://tvcdn.onrender.com/iptv-query?url={ICERIK_ADRESI}&.m3u8
+```
 
 ## Ticket (Secure Token) İçeren Sistemler
 - Stabil clean (saf) linki bulunmayan platform ve yayınları listelere ekleyebilmek için PHP ve Regex kullanılarak son kullanıcı için link elde eden basit scriptler geliştirilmiş ve [serv00](https://www.serv00.com/) platformu üzerinde ücretsiz hesap ile çalıştırılmaktadır.
 
 ### Click2Stream (click2stream.com)
 Pattern:
-```https://uzunmuhalefet.serv00.net/angelcam.php?id={SUBDOMAIN}&.m3u8```
+```
+https://uzunmuhalefet.serv00.net/angelcam.php?id={SUBDOMAIN}&.m3u8
+```
 
 Örnek Yayın:
 `https://abana-belediyesi.click2stream.com/`
@@ -52,7 +58,9 @@ Yayın URL:
 
 ### IPCamLive (ipcamlive.com)
 Pattern:
-```https://uzunmuhalefet.serv00.net/ipcamlive.php?id={ALIAS/ID}&.m3u8```
+```
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id={ALIAS/ID}&.m3u8
+```
 
 Örnek Yayın:
 `https://ipcamlive.com/player/player.php?alias=655b2fd67214e`
@@ -62,7 +70,9 @@ Yayın URL:
 
 ### RTSP Me (rtsp.me)
 Pattern:
-```https://uzunmuhalefet.serv00.net/rtspme.php?id={ID}&.m3u8```
+```
+https://uzunmuhalefet.serv00.net/rtspme.php?id={ID}&.m3u8
+```
 
 Örnek Yayın:
 `https://rtsp.me/embed/QRHD7Y2Q/`
@@ -72,7 +82,9 @@ Yayın URL:
 
 ### Bursa Büyükşehir Belediyesi
 Pattern:
-```https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8```
+```
+https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8
+```
 
 Örnek Yayın:
 `https://www.bursabuyuksehir.tv/canli-yunus-emre-kavsagi-yeni-23542.html`
@@ -82,7 +94,9 @@ Yayın URL:
 
 ### Kocaeli Büyükşehir Belediyesi
 Pattern:
-```https://uzunmuhalefet.serv00.net/kocaeli.php?id={ID}&.m3u8```
+```
+https://uzunmuhalefet.serv00.net/kocaeli.php?id={ID}&.m3u8
+```
 
 Örnek Yayın:
 `https://kocaeliyiseyret.com/Kamera/Index/cumhuriyet-bulvari2/2035`
@@ -94,7 +108,9 @@ Yayın URL:
 IPTV Org ekibinin geliştirdiği [EPG](https://github.com/iptv-org/epg) yazılımı kurulup devreye alınmıştır.
 Destekleyen playerlarda aşağıdaki URL eklenip kullanılabilir.
 
-`http://epg.tvcdn.net/guide/tr-guide.xml`
+```
+http://epg.tvcdn.net/guide/tr-guide.xml
+```
 
 </details>
 
@@ -104,20 +120,28 @@ Destekleyen playerlarda aşağıdaki URL eklenip kullanılabilir.
 M3U formatının standartlarının keskin olmaması sebebiyle 3 farklı çıktı üretilmektedir. Kullandığınız IPTV playerın formatına uyan halini seçebilirsiniz. Listelerin içeriği değişmemektedir.
 
  **Standard Liste**
-```http://stream.tvcdn.net/lists/tr.m3u```
+```
+http://stream.tvcdn.net/lists/tr.m3u
+```
 
 **Alternatif Liste**
-```http://stream.tvcdn.net/lists/tr-alt.m3u```
+```
+http://stream.tvcdn.net/lists/tr-alt.m3u
+```
 
 **SS-IPTV Listesi**
-```http://stream.tvcdn.net/lists/tr-ss.m3u```
+```
+http://stream.tvcdn.net/lists/tr-ss.m3u
+```
 
 ## 🇹🇷 Türkiye - Canlı Kameralar Listesi
 
 Türkiye ve KKTC'de bulunan aktif canlı yayın yapan kameraları içerir.
 
 **Liste URL**
-```http://stream.tvcdn.net/lists/tr-cam.m3u```
+```
+http://stream.tvcdn.net/lists/tr-cam.m3u
+```
 
 # Planlanan Çalışmalar
 <details>
