@@ -143,6 +143,17 @@ Türkiye ve KKTC'de bulunan aktif canlı yayın yapan kameraları içerir.
 http://stream.tvcdn.net/lists/tr-cam.m3u
 ```
 
+## 🌎 Dünya - Havaalanları Kameraları Listesi
+Dünya genelinden canlı yayın yapan havaalanlarına ait kameraları içerir.
+Kameralar ülke bazlı gruplanmıştır, eğer var ise IATA kodları belirtilmiştir.
+Kaynak: https://airportwebcams.net/
+
+**Liste URL**
+```
+https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/categories/airports.m3u
+```
+
+
 # Planlanan Çalışmalar
 <details>
   <summary>Detaylar</summary>
@@ -172,6 +183,5 @@ Python ile BeautifulSoup ve Regex kullanılarak içerikler çıkarılmaktadır.
 Belirli konseptlere, ülke, bölge ve platform (websitesi) özelinde listeler çıkartmayı planlıyorum. Talep ettiğiniz bir konsept var ise belirtebilirsiniz.
 
 **Planlanan Playlistler**
-1. Havaalanı kameraları
 
 </details>
