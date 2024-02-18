@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="" group-title="Australia",Ballina Byron Gateway Airport [BNK]
+https://uzunmuhalefet.serv00.net/angelcam.php?id=52ccc9670d616&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Australia",Canberra Airport [CBR]
+https://s81.ipcamlive.com/streams/51ssbrdkuaylqnga0/stream.m3u8
+#EXTINF:1 tvg-logo="" group-title="Australia",Tamworth Airport [TMW]
+https://ythlsgo.onrender.com/channel/UCeOIZbaQDOBBeHiFcmM0YeA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Austria",Krems Langenlois Airfield
+https://ythlsgo.onrender.com/channel/UCqTXVVS_hARDBgxzbYd37mA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Austria",Spitzerberg Airfield
+https://spitzerberg.at/webcam/stream.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Angra Dos Deis Airport [GDR]
+https://6ba18243db31.entrypoint.cloud.wowza.com/app-x01712Vk/ngrp:3a1f839c_all/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Arapongas Airport [APX] - RTSP.ME
+https://uzunmuhalefet.serv00.net/rtspme.php?id=ZeHQdsfR&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Canela Airport [CEL]
+https://inst-e76xs-srs-sd.camerite.services/record/4685b180-1595-11ec-9897-8364fd4dcff1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Cascavel Airport [CAC]
+https://5b33b873179a2.streamlock.net:1443/aeroportocascavel/aeroportocascavel.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Curitiba International Airport [CWB]
+https://ythlsgo.onrender.com/channel/UClRZWniZ39tsF-LHcevWY1Q.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Imbituba SkyZimba Airport - Cam 1
+https://uzunmuhalefet.serv00.net/rtspme.php?id=tYFERyYk&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Imbituba SkyZimba Airport - Cam 2
+https://uzunmuhalefet.serv00.net/rtspme.php?id=8EHS7T6h&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Porto Alegre Airport [POA]
+https://ythlsgo.onrender.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Recife International Airport [REC]
+https://ythlsgo.onrender.com/channel/UCdz_Kbzu83ZE86LVcGFN0JA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Sao Jose Dos Campos Airport [SJK]
+https://ythlsgo.onrender.com/channel/UCbndVRab66g23uQi9J1E8ww.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Sao Paulo-Guarulhos Airport [GRU]
+https://ythlsgo.onrender.com/channel/UCNZCKDhAVtbh7sddChTxI7w.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Sorocaba Airport [SOD]
+https://ythlsgo.onrender.com/channel/UCG096Tm3P5nCuiazCxTML9g.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Varginha Airport [VAG] - Cam 1
+http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Varginha Airport [VAG] - Cam 2
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Videira Airport [VIA]
+https://uzunmuhalefet.serv00.net/angelcam.php?id=aeroporto&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Viracopos Campinas Airport [VCP]
+https://ythlsgo.onrender.com/channel/UCiK_RbBojUpkfxsgw6ffdfw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Bulgaria",Sofia Airport [SOF]
+https://uzunmuhalefet.serv00.net/angelcam.php?id=533da07281c55&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Bulgaria",Sofia West Airport
+https://www.skydivesofia.com/play/hls/cam2/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Boundary Bay Airport [YDT] - Live Weather South East
+https://uzunmuhalefet.serv00.net/rtspme.php?id=d2f2H7yD&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Boundary Bay Airport [YDT] - Pacific Flying Club: East
+https://uzunmuhalefet.serv00.net/rtspme.php?id=3zh74386&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Boundary Bay Airport [YDT] - Pacific Flying Club: North
+https://uzunmuhalefet.serv00.net/rtspme.php?id=BKs6QAfN&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Boundary Bay Airport [YDT] - Pacific Flying Club: South
+https://uzunmuhalefet.serv00.net/rtspme.php?id=bnBFbQbD&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Courtenay Airfield [YCA]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=rZZTZdsN&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Delta Heritage Air Park
+https://uzunmuhalefet.serv00.net/angelcam.php?id=delta-airpark2&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Saint-Jean Airport [YJN]
+https://tvcdn.onrender.com/iptv-query?url=https://www.twitch.tv/apphcyjn&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Canada",Vancouver Harbour Heliport
+https://ythlsgo.onrender.com/channel/UCyOF8U3sS_GgYcV69gqjKmg.m3u8
+#EXTINF:1 tvg-logo="" group-title="Croatia",Jelsa Airport
+https://cdn-002.whatsupcams.com/hls/hr_jelsa07.m3u8
+#EXTINF:1 tvg-logo="" group-title="Croatia",Rab Island Harbour Airport
+https://cdn-001.whatsupcams.com/hls/hr_rab02.m3u8
+#EXTINF:1 tvg-logo="" group-title="Croatia",Split Divulje Airport
+https://cdn-004.whatsupcams.com/hls/hr_split04.m3u8
+#EXTINF:1 tvg-logo="" group-title="Czechia",Kromeriz Airfield
+https://ythlsgo.onrender.com/channel/UC8R5ZVLK-NjlaxQluDZuwYQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="Czechia",Medlanky Airfield - Hangar
+https://ythlsgo.onrender.com/channel/UCnIU5wIOhSmfW1vw_FbnvXg.m3u8
+#EXTINF:1 tvg-logo="" group-title="Czechia",Medlanky Airfield - Runway
+https://ythlsgo.onrender.com/channel/UCsuaovPzTnTMQZjk6DmozEg.m3u8
+#EXTINF:1 tvg-logo="" group-title="Czechia",Prague Airport [PRG]
+https://ythlsgo.onrender.com/channel/UCF7gGGK5faKRXZExCSp1Vyw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Czechia",Prostejov Airfield
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=59f0b2996cc43&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Czechia",Slusovice Airport
+http://streamer.i2net.cz:22090/live/letiste1_.m3u8
+#EXTINF:1 tvg-logo="" group-title="Denmark",Hammer Airfield - North
+https://uzunmuhalefet.serv00.net/rtspme.php?id=4k7Z5bYh&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Denmark",Hammer Airfield - Northwest
+https://uzunmuhalefet.serv00.net/rtspme.php?id=BF7RiZTb&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Denmark",Hammer Airfield - Parking Area
+https://uzunmuhalefet.serv00.net/rtspme.php?id=34BTYQhb&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Denmark",Narsarsuaq Airport [UAK]
+https://ythlsgo.onrender.com/channel/UCBcW1jAsEnkjq9gQ7tuOhsQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="Denmark",Saeby Airfield - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5f5789e308860&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Estonia",Talinn Airport [TLL]
+https://ythlsgo.onrender.com/channel/UC22QUFVUWdS-V0GzugQlivA.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Bagneres-De-Luchon Airport - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5c8650050b5b8&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Bagneres-De-Luchon Airport - Cam 2
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=643593006e8d6&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Brioude Beaumont Airport
+https://uzunmuhalefet.serv00.net/rtspme.php?id=28Frz6b7&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Chambley Airport
+https://tvcdn.onrender.com/iptv-query?url=https://www.twitch.tv/lesailesmosellanes&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Montauban Airport [XMW]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=td6sa8Kf&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Sarreguemines Neunkirch Airport
+https://tvcdn.onrender.com/iptv-query?url=https://www.twitch.tv/videao_eas&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Tahiti - Faa'a Airport [PPT] - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5a834ec592d12&.m3u8
+#EXTINF:1 tvg-logo="" group-title="France",Tahiti - Faa'a Airport [PPT] - Cam 2
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5a8447de32c5a&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Dortmund Airport [DTM]
+https://stream-5gw.1000eyes.de/cupertino/doF4F2A4.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Düsseldorf Airport [DUS] - Aircraft Handling
+https://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Düsseldorf Airport [DUS] - Airpon
+https://stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Düsseldorf Airport [DUS] - Check-in Area
+https://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Düsseldorf Airport [DUS] - Flight Operations
+https://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Düsseldorf Airport [DUS] - Taxiway
+https://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Hamburg Airport [HAM] - North
+https://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Hamburg Airport [HAM] - South
+https://stream-5gw.1000eyes.de/cupertino/hamDDFBCE.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Hamburg Airport [HAM] - Terminal 1
+https://stream-5gw.1000eyes.de/cupertino/hamDDD79C.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Hamburg Airport [HAM] - Terminal 2
+https://stream-5gw.1000eyes.de/cupertino/hamDD9CCF.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Köln-Bonn Airport [CGN] - Cargo
+https://stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Köln-Bonn Airport [CGN] - Terminal 1C
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Köln-Bonn Airport [CGN] - Terminal 2
+https://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Nordhorn Lingen Airfield
+https://uzunmuhalefet.serv00.net/rtspme.php?id=N2FA75ba&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Germany",Wyk Auf Fohr Airfield [OHR]
+https://ythlsgo.onrender.com/channel/UCSDARkfMeps8sDFCOSQAqGg.m3u8
+#EXTINF:1 tvg-logo="" group-title="Greece",Aktion Airport [PVK]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5ade0fe61fc44&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Greece",Rhodes International Airport [RHO]
+https://restreamer.lefiasco.de/memfs/dc9af6cc-83d0-4f55-9243-2bb6937e8bf8.m3u8
+#EXTINF:1 tvg-logo="" group-title="Hungary",Fertoszentmiklos Airport [QHF]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5ce2a3150f8d5&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Iceland",Reykjavik Airport [RKV]
+https://www.livefromiceland.is/api/p/idno/i.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Asiago Airfield - Cam 1
+https://www.terasweb.live/terasstream/aeroportoasiagofinepista.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Asiago Airfield - Cam 2
+https://www.terasweb.live/terasstream/aeroportoasiagoiniziopista.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Astigiana Airfield - Runway 18
+https://uzunmuhalefet.serv00.net/rtspme.php?id=FBYnkfsn&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Astigiana Airfield - Runway 36
+https://uzunmuhalefet.serv00.net/rtspme.php?id=tfYd9NSe&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Calcinate Del Pesce Airfield - Cam 1
+https://streaming.acao.it/tp28/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Calcinate Del Pesce Airfield - Cam 2
+https://streaming.acao.it/piaz/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Calcinate Del Pesce Airfield - Cam 3
+https://streaming.acao.it/ptz/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Calcinate Del Pesce Airfield - Cam 4
+https://streaming.acao.it/manica/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Calcinate Del Pesce Airfield - Cam 5
+https://streaming.acao.it/tp28/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Calcinate Del Pesce Airfield - Cam 6
+https://streaming.acao.it/piaz/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Chiusdino Airfield - Cam 1
+https://kadath.ivotv.it/reteivo/aviocam1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Chiusdino Airfield - Cam 2
+https://kadath.ivotv.it/reteivo/aviocam2/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Italy",Florence Municipal Airport [FMA]
+https://uzunmuhalefet.serv00.net/angelcam.php?id=city-of-florence-airport-runway&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Aomori Airport [AOJ] - Cam 1
+https://ythlsgo.onrender.com/channel/UCE5ajTJVTrsmxZJ-V3y8CLA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Aomori Airport [AOJ] - Cam 2
+https://ythlsgo.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Aomori Airport [AOJ] - Cam 3
+https://ythlsgo.onrender.com/channel/UCk_jA9Y8pb50Ab2EzV_KhLw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Fukuoka Airport [FUK]
+https://ythlsgo.onrender.com/channel/UCOsw8Of0n0JFV-nbnAmDizw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Hanamaki Airport [HNA]
+https://ythlsgo.onrender.com/channel/UCujqw4iys19UVg2JYVfVsYA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Matsumoto Airport [MMJ]
+https://ythlsgo.onrender.com/channel/UCvyqF5m-sSOf4W7Xxr0BtYw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Naha Airport [OKA]
+https://ythlsgo.onrender.com/channel/UCWzx-v_6kdTKi3oXhWOK1FA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Okayama Airport [OKJ]
+https://ythlsgo.onrender.com/channel/UCAzaZfwgfjYVRGn4S60xM6Q.m3u8
+#EXTINF:1 tvg-logo="" group-title="Japan",Tokyo Narita Airport [NRT]
+https://ythlsgo.onrender.com/channel/UCvJZPd6aw2lb54M4E-vtwjw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Namibia",Swakopmund Airport [SWP]
+https://ythlsgo.onrender.com/channel/UCRDYkSXQNIq1DMITnrmOWiQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="Netherlands",Terlet Airfield
+https://ythlsgo.onrender.com/channel/UC2aQVeexHEJo74OTrxfMvAQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="New Zealand",Nelson Airport [NSN] - East
+https://uzunmuhalefet.serv00.net/rtspme.php?id=aHArQ2NB&.m3u8
+#EXTINF:1 tvg-logo="" group-title="New Zealand",Nelson Airport [NSN] - West
+https://uzunmuhalefet.serv00.net/rtspme.php?id=eN7D5HFr&.m3u8
+#EXTINF:1 tvg-logo="" group-title="New Zealand",Pukaki Airport [TWZ]
+https://ythlsgo.onrender.com/channel/UCMsavYQ4rBvl2kfTkzp_YuQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="Norway",Kjeller Airport - North
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5abb7ecc277a8&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Norway",Kjeller Airport - South
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5abb802c8062f&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Norway",Kjeller Airport - Windsock
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5abb7f584a41b&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Norway",Mehamn Airport [MEH]
+https://ythlsgo.onrender.com/channel/UCUGQpicQSQOIAG6B_i4uSbQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="Norway",Molde Airport [MOL]
+https://ythlsgo.onrender.com/channel/UC5_UEwpA9D5p5TjbfI5Ys6w.m3u8
+#EXTINF:1 tvg-logo="" group-title="Norway",Stavanger Sola Airport [SVG]
+https://kamera.vegvesen.no/public/1129034_1/manifest.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Bezmiechowa Airport
+https://cdn2.bieszczady.live/hls-live/bezmiechowa1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Gdansk Airport [GDN] - Approach 29
+https://62abe29de64ab.streamlock.net:4444/EPGD/app29.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Gdansk Airport [GDN] - Arrivals Cam
+https://62abe29de64ab.streamlock.net:4444/EPGD/przyloty_t2.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Gdansk Airport [GDN] - PPS 1 Cam
+https://62abe29de64ab.streamlock.net:4444/EPGD/pps1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Gdansk Airport [GDN] - PPS 3 Cam
+https://62abe29de64ab.streamlock.net:4444/EPGD/pps3.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Gdansk Airport [GDN] - PPS Cam
+https://62abe29de64ab.streamlock.net:4444/EPGD/ppsy.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Gdansk Airport [GDN] - West Pier Cam
+https://62abe29de64ab.streamlock.net:4444/EPGD/pirs2.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Grudziadz Lisie Katy Airfield
+https://uzunmuhalefet.serv00.net/rtspme.php?id=ArNGZr7k&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Kakolewo Airport
+https://ythlsgo.onrender.com/channel/UCx1IfzLHEWVEzJEWmJmRMmA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Krakow International Airport [KRK]
+https://hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Leszno Airport
+https://s1.worldcam.live:8082/lotniskoleszno/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Lodz Airport [LCJ] - Cam 1
+https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Lodz Airport [LCJ] - Cam 2
+https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Lodz Airport [LCJ] - Cam 3
+https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek3.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Nowy Sacz Lososina Dolna Airfield
+https://videocdn.km-net.pl/Lososina_Dolna/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Ostrow Airport
+https://ythlsgo.onrender.com/channel/UCa5hoVLTl803FzSQOiQVz6w.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Plock Airfield [QPC]
+http://217.28.150.176:1935/lotnisko/kam2h.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Rzeszow Jasionka Airport [RZE]
+http://k-rz.pl/HLS/lotnisko31.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Stalowa Wola Turbia Airport
+https://camsecure.co/HLS/tomasz.m3u8
+#EXTINF:1 tvg-logo="" group-title="Poland",Zamosc Mokre Airfield
+https://s1.worldcam.live:8082/aeroklub/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Portugal",Lisbon Airport [LIS]
+https://ythlsgo.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Portugal",Sardoal Heliport
+https://uzunmuhalefet.serv00.net/angelcam.php?id=meteosardoal&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Arad Airport [ARW]
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-arad.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Brasov Ghimbav Airport [BRV]
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-brasov-ghimbav.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Caransebes Airport [CSB]
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-caransebes.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Clinceni Airport
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-clinceni-bucuresti.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Craiova Balta Verde Airport
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-craiova-balta-verde.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Dezmir Airport
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-cluj-napoca.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Maramures Airport [BAY]
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-baia-mare.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Pitesti Geamana Airport
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-pitesti.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Ploiesti Strejnic Airport
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-strejnic-ploiesti.m3u8
+#EXTINF:1 tvg-logo="" group-title="Romania",Targu Mures Erie Carofolie Airport
+https://live2.freecam.ro:5443/LiveApp/streams/aeroclubul-romaniei-aeroclubul-aerodrom-tirgu-mures.m3u8
+#EXTINF:1 tvg-logo="" group-title="Russia",Seredka Airport
+https://citycams.pskovline.ru:8443/seredka1/index.fmp4.m3u8
+#EXTINF:1 tvg-logo="" group-title="Slovenia",Bovec Airfield
+https://cdn-007.whatsupcams.com/hls/si_bovec03.m3u8
+#EXTINF:1 tvg-logo="" group-title="Slovenia",Lesce Bled Airfield
+https://premiumshopping.b-cdn.net/letal/alc/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Spain",Alicante Airport [ALC]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=arenales&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Spain",Moia Prat De La Plana Airport
+https://ythlsgo.onrender.com/channel/UCQh9h2OD13hY5HaF7DZJslA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Spain",San Luis Menorca Airport - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=650b105a82a5b&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Spain",San Luis Menorca Airport - Cam 2
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5e9ae8a8a46d1&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Spain",Santa Cilia De Jaca Airfield
+https://uzunmuhalefet.serv00.net/rtspme.php?id=H5ykd5ha&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Switzerland",Bressaucourt Airfield
+https://ythlsgo.onrender.com/channel/UCXk_TOVdLSVO4y7B70GtrdA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Taiwan",Taitung Airport [TTT]
+https://ythlsgo.onrender.com/channel/UCnKCrCu5RLG0Xr_Rxidho0g.m3u8
+#EXTINF:1 tvg-logo="" group-title="Ukraine",Odessa International Airport [ODS] - Cam 1
+https://uzunmuhalefet.serv00.net/angelcam.php?id=7km&.m3u8
+#EXTINF:1 tvg-logo="" group-title="Ukraine",Odessa International Airport [ODS] - Cam 2
+https://uzunmuhalefet.serv00.net/angelcam.php?id=7km5&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Barrow Walney Island Airport [BWF]
+https://camsecure.uk/HLS/owenbayliss.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Breighton Airport - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=egbr83&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Breighton Airport - Cam 2
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=egbr81&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Breighton Airport - Cam 3
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=egbr82&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Brighton City Airport [ESH]
+https://ythlsgo.onrender.com/channel/UCcjlnrL3_LV4fC9CcrHth7w.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Cotswold Airport [GBA]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=cotswold&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Dunkeswell Airfield [QKU] - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=62318ab5850ed&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Dunkeswell Airfield [QKU] - Cam 2
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=62318a7ba1540&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Fairoaks Airport [QKF]
+https://camsecure.co/HLS/ltfc.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Leicester Airport [LRC]
+https://camsecure.co/HLS/leicesterair.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Northrepps Airfield - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5fc0faa8f1c0d&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Northrepps Airfield - Cam 2
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=mastcam&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Northrepps Airfield - Cam 3
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=nmfc&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Priory Farm Airfield
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=60a689a22bdd7&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Sherburn In Elmet Airfield
+https://uzunmuhalefet.serv00.net/rtspme.php?id=5fRbGrf4&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Shobdon Airport [QKS]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=kesf3Ha8&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Sumburgh Airport [LSI] - 09-27
+https://zetcast-eu.b-cdn.net/cf_lsi_09_27/SumburghAirport-09-27ABR/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Sumburgh Airport [LSI] - 15-33
+https://zetcast-eu.b-cdn.net/cf_lsi_15_33/SumburghAirport-15-33ABR/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Tatenhill Airfield
+https://uzunmuhalefet.serv00.net/rtspme.php?id=fbhribHr&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United Kingdom",Tibenham Airfield
+https://ythlsgo.onrender.com/channel/UCCMVRowPXwa8Ip9pPtF2X4w.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Aspen Pitkin Airport [ASE] - Downvalley
+https://uzunmuhalefet.serv00.net/rtspme.php?id=HEKZkkt3&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Aspen Pitkin Airport [ASE] - Looking Up Valley
+https://uzunmuhalefet.serv00.net/rtspme.php?id=RGksHhbD&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Auburn Municipal Airport [AUN]
+https://ythlsgo.onrender.com/channel/UCycdLbuODd-iBKVR13zfPsg.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Big Bear City Airport [RBF]
+https://live.hdontap.com/hls/hosb1/bbad_ptz.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Carson City Airport [CSN]
+https://5b8462eb3469a.streamlock.net:444/mountainwestcxp/mountainwestcxp.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Cheyenne Regional Airport [CYS] - Cam 1
+https://2-fss-2.streamhoster.com/pl_126/200612-2294420-1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Cheyenne Regional Airport [CYS] - Cam 2
+https://2-fss-2.streamhoster.com/pl_126/200612-2294418-1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Clermont County Airport - Cincinati Avionics
+https://cdn-unified-hls.streamspot.com/ingest1/68822b86e5/playlist.m3u8?origin=1
+#EXTINF:1 tvg-logo="" group-title="United States",Clermont County Airport - Ramp Cam 1
+https://cdn-unified-hls.streamspot.com/ingest1/12d473a118/playlist.m3u8?origin=1
+#EXTINF:1 tvg-logo="" group-title="United States",Clermont County Airport - Ramp Cam 2
+https://cdn-unified-hls.streamspot.com/ingest1/sportya1c8/playlist.m3u8?origin=1
+#EXTINF:1 tvg-logo="" group-title="United States",Clermont County Airport - Tower View
+https://cdn-unified-hls.streamspot.com/ingest1/sporty6ba9/playlist.m3u8?origin=1
+#EXTINF:1 tvg-logo="" group-title="United States",Cleveland Burke Lakefront Airport [BKL]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=6400d096802b0&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Eagle County Airport [EGE]
+https://623bf6bf3ce68.streamlock.net:444/egeairportcam1/egeairportcam1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Friday Harbor Airport [FRD]
+https://ythlsgo.onrender.com/channel/UCM0qV6ZHBkjxBokQepECyFg.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Glenwood Springs Airport - Cam 1
+https://2-fss-2.streamhoster.com/pl_126/200612-1195930-1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Glenwood Springs Airport - Cam 2
+https://2-fss-2.streamhoster.com/pl_126/200612-1195934-1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Glenwood Springs Airport - Cam 3
+https://2-fss-2.streamhoster.com/pl_126/200612-1195932-1/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Greenville Downtown Airport [GMU]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=AHszzzSS&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Grove Field Airport
+https://5f9f690034fb0.streamlock.net:444/washougalairport/washougalairport.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Harford County Airport
+https://uzunmuhalefet.serv00.net/rtspme.php?id=aZN4Qhnz&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Harris Hill Airport - North
+https://uzunmuhalefet.serv00.net/rtspme.php?id=t7FEQNB2&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Harris Hill Airport - South
+https://uzunmuhalefet.serv00.net/rtspme.php?id=hY9a7iBb&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Independence State Airport
+https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Joplin Regional Airport [JLN]
+https://uzunmuhalefet.serv00.net/angelcam.php?id=joplin-airport&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Lake In The Hills Airport
+https://ythlsgo.onrender.com/channel/UCEOn9OO_KbX2lfLw_4KmXsg.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Lonesome Pine Airport [LNP] - Ramp Cam
+https://uzunmuhalefet.serv00.net/rtspme.php?id=YRf6GnHf&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Lonesome Pine Airport [LNP] - Rwy24 Cam
+https://uzunmuhalefet.serv00.net/rtspme.php?id=Hr9aSdtY&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Lonesome Pine Airport [LNP] - Rwy6 Cam
+https://uzunmuhalefet.serv00.net/rtspme.php?id=45QDr6F2&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Los Angeles Airport [LAX] - Across the Pacific
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5556e0f63563c&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Los Angeles Airport [LAX] - Cargo City
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=5556d41668a81&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Minden Tahoe Airport [MEV]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=ks6YFrz3&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Montgomery Regional Airport [MGM]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=6408a11f6fb74&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Mountain Air Airport - Cam 1
+https://wowza.skyrunner.net/mtnair/ch0.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Mountain Air Airport - Cam 2
+https://wowza.skyrunner.net/mtnair/ch1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Mountain Air Airport - Cam 3
+https://wowza.skyrunner.net/mtnair/ch2.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Mountain Air Airport - Cam 4
+https://wowza.skyrunner.net/mtnair/ch3.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Mountain Air Airport - Cam 5
+https://wowza.skyrunner.net/mtnair/ch4.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Mountain Air Airport - Cam 6
+https://wowza.skyrunner.net/mtnair/ch5.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",NAS North Island Air Base [NZY] - Cam 1
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=64640438b3900&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",NAS North Island Air Base [NZY] - Cam 2
+https://5f9f690034fb0.streamlock.net:444/islandpalms1/islandpalms1.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Northeast Kingdom Airport [EFK]
+https://ythlsgo.onrender.com/channel/UCeo88exHsaON4GZecTnYAxQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Oakland International Airport [OAK]
+https://uzunmuhalefet.serv00.net/angelcam.php?id=rwy-33&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Old Bridge Airport
+https://ythlsgo.onrender.com/channel/UCKiObhTepfujcMJaqZ9qzsQ.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Ortner Airport
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=fcscam&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Pitt Meadows Airport [YPK]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=8N2NtGFk&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Red Wing Regional Airport
+https://uzunmuhalefet.serv00.net/angelcam.php?id=krgk3&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Reid International Airport [LAS]
+https://ythlsgo.onrender.com/channel/UCpWekERnJ3zwk-0gFlfursg.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Reno Tahoe Airport [RNO]
+https://d237lhmlzpreh2.cloudfront.net/NSN/GSRNorth/m3u8/NSN-GSRNorth_live.m3u8?resize
+#EXTINF:1 tvg-logo="" group-title="United States",Rhinelander Oneida Airport [RHI]
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=rhiair&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Rosamond Skypark Airport
+https://ythlsgo.onrender.com/channel/UCwlp1-8qzsSMFyoLVc_pbtg.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Sandpoint Airport - Cam 1
+https://uzunmuhalefet.serv00.net/rtspme.php?id=t7rS33Sn&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Sandpoint Airport - Cam 2
+https://uzunmuhalefet.serv00.net/angelcam.php?id=granite-fbo&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",St Petersburg Albert Whitted Airport [SPG]
+https://tvcdn.onrender.com/iptv-query?url=https://www.earthcam.com/usa/florida/stpetersburg/?cam=stpeteair&.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Watertown Airport [ART]
+https://ythlsgo.onrender.com/channel/UCTuEAr2E3-931Nw9hbRu1vg.m3u8
+#EXTINF:1 tvg-logo="" group-title="United States",Watsonville Municipal Airport [WVI]
+https://uzunmuhalefet.serv00.net/rtspme.php?id=Ay4QAr5Z&.m3u8
