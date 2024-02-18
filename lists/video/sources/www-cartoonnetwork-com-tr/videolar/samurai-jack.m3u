@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_01010659_MEI_TUR/C_SAMURJ_01010659_MEI_TUR_VIDSCREENSHOT.jpg", - Jack ve Lav Canavarı
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_01010659_MEI_TUR/C_SAMURJ_01010659_MEI_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Jack ve Lav Canavarı
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_01010659_MEI_TUR/ec2dc376-f380-4985-a26e-e88239d2f469/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX542_MEI_TUR/C_SAMURJ_XXXXX542_MEI_TUR_VIDSCREENSHOT.jpg", - Jack Denizin Altında
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX542_MEI_TUR/C_SAMURJ_XXXXX542_MEI_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Jack Denizin Altında
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX542_MEI_TUR/bea3267f-1487-49c7-a205-f8e5ca827fad/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX432_MEI_TUR/C_SAMURJ_XXXXX432_MEI_TUR_VIDSCREENSHOT.jpg", - Önceden
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX432_MEI_TUR/C_SAMURJ_XXXXX432_MEI_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Önceden
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX432_MEI_TUR/2851486a-d995-47d6-8d7c-92a823eb6eff/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX388_MEI_TUR/C_SAMURJ_XXXXX388_MEI_TUR_VIDSCREENSHOT.jpg", - Jack ve Mad Jack
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX388_MEI_TUR/C_SAMURJ_XXXXX388_MEI_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Jack ve Mad Jack
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX388_MEI_TUR/c0ebbd64-65d0-4d20-b9d9-1f067dce7b41/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX203_MEI_TUR/C_SAMURJ_XXXXX203_MEI_TUR_VIDSCREENSHOT.jpg", - Jack ve Üç Kör Okçu
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX203_MEI_TUR/C_SAMURJ_XXXXX203_MEI_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Jack ve Üç Kör Okçu
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XXXXX203_MEI_TUR/5145b556-e0f2-4006-9af9-47091a853dfe/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XX001094_MEI_TUR/C_SAMURJ_XX001094_MEI_TUR_VIDSCREENSHOT.jpg", - Başlangıç
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XX001094_MEI_TUR/C_SAMURJ_XX001094_MEI_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Başlangıç
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XX001094_MEI_TUR/37a1218f-4002-4eb3-ae38-aa62a0fc1831/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XX004630_MET_TUR/C_SAMURJ_XX004630_MET_TUR_VIDSCREENSHOT.jpg", - Jack ve Kurt
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XX004630_MET_TUR/C_SAMURJ_XX004630_MET_TUR_VIDSCREENSHOT.jpg",Samurai Jack - Jack ve Kurt
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_SAMURJ_XX004630_MET_TUR/25307a55-8d6f-42a2-af29-46fbdf07bf6a/PCTV_DASH.mpd

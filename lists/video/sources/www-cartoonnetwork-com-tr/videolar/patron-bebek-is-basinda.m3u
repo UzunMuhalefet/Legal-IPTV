@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01003738_MET_TUR/C_GUMBAL_01003738_MET_TUR_VIDSCREENSHOT.jpg", - Aile Eğlencesi
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01003738_MET_TUR/C_GUMBAL_01003738_MET_TUR_VIDSCREENSHOT.jpg",Patron Bebek: İş Başında - Aile Eğlencesi
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01003738_MET_TUR/4eb5bf8b-f088-4282-b163-3ed491f6103c/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01004739_MET_TUR/C_GUMBAL_01004739_MET_TUR_VIDSCREENSHOT.jpg", - Büyüyen Bebekler
-https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01004739_MET_TUR/749a0a0e-4348-464f-98c0-1634c66b83b6/PCTV.m3u8
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01002737_MET_TUR/C_GUMBAL_01002737_MET_TUR_VIDSCREENSHOT.jpg", - Kedi İsyanı
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01004739_MET_TUR/C_GUMBAL_01004739_MET_TUR_VIDSCREENSHOT.jpg",Patron Bebek: İş Başında - Büyüyen Bebekler
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01004739_MET_TUR/749a0a0e-4348-464f-98c0-1634c66b83b6/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01002737_MET_TUR/C_GUMBAL_01002737_MET_TUR_VIDSCREENSHOT.jpg",Patron Bebek: İş Başında - Kedi İsyanı
 https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01002737_MET_TUR/98762371-3c21-4066-98ae-fbe87d48ee24/PCTV_DASH.mpd
-#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01001740_MET_TUR/C_GUMBAL_01001740_MET_TUR_VIDSCREENSHOT.jpg", - İş Ziyareti
-https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01001740_MET_TUR/8775569b-d7d8-4a1a-8e0e-a0147debc4f8/PCTV.m3u8
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01001740_MET_TUR/C_GUMBAL_01001740_MET_TUR_VIDSCREENSHOT.jpg",Patron Bebek: İş Başında - İş Ziyareti
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_GUMBAL_01001740_MET_TUR/8775569b-d7d8-4a1a-8e0e-a0147debc4f8/PCTV_DASH.mpd

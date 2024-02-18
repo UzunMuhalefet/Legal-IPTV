@@ -15,7 +15,7 @@ def get_all_shows():
     shows = r.json()
     for show in shows:
         temp_show = {
-            "name": shows[show]["name"],
+            "name": shows[show]["name"].replace('"', "'"),
             "id": shows[show]["id"]
         }
         all_shows.append(temp_show)
@@ -90,7 +90,7 @@ def main(start=0, end=0):
     for i in tqdm(range(start, end_index)):
         show = shows_list[i]
         print(i, show["name"])
-        episodes = get_all_episodes_by_show(show["id"])
+        episodes = get_all_episodes_by_show(show["id"], show["name"])
         if len(episodes) > 0:
             temp_show = {
                 "name": show["name"],
