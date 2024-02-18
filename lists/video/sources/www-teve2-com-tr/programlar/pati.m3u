@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/5906dbaca781b62fb01d47ad.jpg",1. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/130976_1f13/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/590d7bb0ae78491f80cd5519.jpg",2. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/131725_7db1/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/5916b9256ce4360820e52ecc.jpg",3. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/132594_506d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/591c95d2a781b624dc218dae.jpg",4. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/133063_ead3/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/59283937ac1fe3148468a4af.jpg",5. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/134177_e8b8/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/593151cf6ce4362c3c44bf05.jpg",6. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/135104_abca/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/593ae5135659341494465860.jpg",7. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/136019_b2fe/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/5943f570f0dc1e10d0f4a691.jpg",8. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/136879_8528/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/59565dfe6ce43612b4487365.jpg",9. Bölüm
+https://teve2vod.duhnet.tv/S9/HLS_VOD/138587_cd91/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/595f88eecbbf341514ea9fca.jpg",10. Bölüm
+https://teve2vod.duhnet.tv/S10/HLS_VOD/139414_6084/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/5968f60ecbbf3418406012e0.jpg",11. Bölüm
+https://teve2vod.duhnet.tv/S10/HLS_VOD/140180_fa52/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/597212fe40201138b4131394.jpg",12. Bölüm
+https://teve2vod.duhnet.tv/S10/HLS_VOD/141007_117c/index.m3u8
+#EXTINF:1 tvg-logo="https://image.teve2.com.tr/i/teve2/100/374x213/597b4aaa56593435300ed5c5.jpg",13. Bölüm
+https://teve2vod.duhnet.tv/S10/HLS_VOD/142197_cb55/index.m3u8
