@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/a37fc145-b308-4761-a1ac-2a4ca2a7f9c5-bodrum.jpg",Gökyüzünden Rehber - Bodrum
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-bodrum_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/9f5bce9a-c0d1-4535-8714-19533cd5690a-datca.jpg",Gökyüzünden Rehber - Datça
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-datca_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/3df3dbb0-7cbd-4b90-a268-0fa856a24125-eskisehr.jpg",Gökyüzünden Rehber - Eskişehir
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-eskisehir_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/6230a8fb-0a98-487a-8035-c6994c6b2d0f-giresun.jpg",Gökyüzünden Rehber - Giresun
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-giresun_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/9964039f-3827-45cd-aa62-ff8c00be1ae7-kapadokya.jpg",Gökyüzünden Rehber - Kapadokya
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-kapadokya_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/fabe6af1-1216-496b-80a9-d3c7bc6c4540-kastamonu.jpg",Gökyüzünden Rehber - Kastamonu
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-kastamonu_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/abbb0426-47d1-49ce-a999-f4fbac183625-inop.jpg",Gökyüzünden Rehber - Sinop
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-sinop_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/05997514-40bd-4fd3-8fdd-db65512bf503-urla.jpg",Gökyüzünden Rehber - Urla
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-urla_mobil.smil/playlist.m3u8
