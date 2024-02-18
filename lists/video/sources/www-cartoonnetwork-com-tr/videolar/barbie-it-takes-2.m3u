@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY036_MET_TUR/C_BRBTTK_XYXXY036_MET_TUR_VIDSCREENSHOT.jpg", - Tanışma Heyecanı
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY036_MET_TUR/464be485-f510-4657-8820-7ce80eff24f8/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY037_MET_TUR/C_BRBTTK_XYXXY037_MET_TUR_VIDSCREENSHOT.jpg", - Demo Kaydı
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY037_MET_TUR/2a4b238f-df2f-400c-be7b-2f3b44d7948b/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY035_MET_TUR/C_BRBTTK_XYXXY035_MET_TUR_VIDSCREENSHOT.jpg", - Okulun İlk Günü
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY035_MET_TUR/947c6a73-a865-4050-a568-161cbe593371/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY034_MET_TUR/C_BRBTTK_XYXXY034_MET_TUR_VIDSCREENSHOT.jpg", - Ayrılık Korkusu
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY034_MET_TUR/98f3c26a-9402-4d62-9d40-31d15453269a/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY038_MET_TUR/C_BRBTTK_XYXXY038_MET_TUR_VIDSCREENSHOT.jpg", - Tiyatro Görevi
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_BRBTTK_XYXXY038_MET_TUR/cf1a0c5e-9edc-4c66-a70c-53b2d684affb/PCTV_DASH.mpd

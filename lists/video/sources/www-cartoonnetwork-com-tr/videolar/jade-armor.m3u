@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY399_MET_TUR/C_JDRMR0_XYXXY399_MET_TUR_VIDSCREENSHOT.jpg", - Karmaşa
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY399_MET_TUR/5e0d4569-f3a9-47cb-aa48-632a7dbb0063/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY401_MET_TUR/C_JDRMR0_XYXXY401_MET_TUR_VIDSCREENSHOT.jpg", - Kaplanın Gözü
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY401_MET_TUR/6545d9b8-837a-4715-a763-0bfffce071c9/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY398_MET_TUR/C_JDRMR0_XYXXY398_MET_TUR_VIDSCREENSHOT.jpg", - Armağan
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY398_MET_TUR/27c53446-ee28-4387-946b-57dc9a8089f4/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY400_MET_TUR/C_JDRMR0_XYXXY400_MET_TUR_VIDSCREENSHOT.jpg", - Konuşma
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JDRMR0_XYXXY400_MET_TUR/5d26c2a2-bc47-4e79-887f-43fdf4f9db34/PCTV_DASH.mpd

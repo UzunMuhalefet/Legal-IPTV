@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01001689_MET_TUR/C_JLLSTN_01001689_MET_TUR_VIDSCREENSHOT.jpg", - Jellystone Hastanesi
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01001689_MET_TUR/77c2e489-0922-483e-a3a9-9f73d480428a/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01010693_MET_TUR/C_JLLSTN_01010693_MET_TUR_VIDSCREENSHOT.jpg", - El Kabong'un Kabong'u Gitti
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01010693_MET_TUR/2249ceb3-d672-4ef8-aff3-883970c936c6/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01002690_MET_TUR/C_JLLSTN_01002690_MET_TUR_VIDSCREENSHOT.jpg", - Aramızdaki Goril
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01002690_MET_TUR/5a815999-0d16-4182-a1eb-e0ac23eb29aa/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01005774_MET_TUR/C_JLLSTN_01005774_MET_TUR_VIDSCREENSHOT.jpg", - Magilla Mağazası Müdürü
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01005774_MET_TUR/d302c57a-3b80-4553-a75d-185034dc29b2/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_XXXXX777_MET_TUR/C_JLLSTN_XXXXX777_MET_TUR_VIDSCREENSHOT.jpg", - Jellystone Hakkında Bilmen Gereken Her Şey
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_XXXXX777_MET_TUR/66377f5a-5958-4979-9083-128e858f3b98/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01007775_MET_TUR/C_JLLSTN_01007775_MET_TUR_VIDSCREENSHOT.jpg", - Jelatin Kitap Kulübü
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01007775_MET_TUR/a302360d-c04a-48b9-b670-8408588e1722/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01008776_MET_TUR/C_JLLSTN_01008776_MET_TUR_VIDSCREENSHOT.jpg", - Sokak Sorunları
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01008776_MET_TUR/f4274696-e38e-4ddf-93e3-ccdbcfd2e243/PCTV_DASH.mpd
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01006778_MET_TUR/C_JLLSTN_01006778_MET_TUR_VIDSCREENSHOT.jpg", - Süpermarket
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01006778_MET_TUR/375d4231-5a6c-4059-a4d6-5b9055ef24df/PCTV.m3u8
+#EXTINF:1 tvg-logo="https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01XXX950_MET_TUR/C_JLLSTN_01XXX950_MET_TUR_VIDSCREENSHOT.jpg", - Zor Bir Gün
+https://ti-content-global.cdn.turner.com/PROD-APAC/C_JLLSTN_01XXX950_MET_TUR/fe528cdd-29a4-4683-81d2-50f76ed2b58f/PCTV_DASH.mpd
