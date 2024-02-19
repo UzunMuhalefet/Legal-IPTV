@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-11/23/EHD_144328_180.jpg",HAYVAN SALDIRILARI - 1. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_144328&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_144328&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-11/23/EHD_144329_120.jpg",HAYVAN SALDIRILARI - 1. Sezon 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_144329&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_144329&SecretKey=NtvApiSecret2014*&.m3u8

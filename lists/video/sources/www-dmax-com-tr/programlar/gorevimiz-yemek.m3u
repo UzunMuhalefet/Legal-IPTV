@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-05/06/EHD_323118G_10.jpg",GÖREVİMİZ YEMEK - 9. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_323118&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_323118&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-05/14/EHD_323119H_10.jpg",GÖREVİMİZ YEMEK - 9. Sezon 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_323119&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_323119&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-05/20/EHD_323120H_10.jpg",GÖREVİMİZ YEMEK - 9. Sezon 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_323120&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_323120&SecretKey=NtvApiSecret2014*&.m3u8

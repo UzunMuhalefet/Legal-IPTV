@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-02/01/EHD_394517_180.jpg",AVUSTRALYA AÇIK - Avustralya Açık 2022 Erkekler Finali Geniş Özeti
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_394517&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_394517&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-01/31/EHD_394516_10.jpg",AVUSTRALYA AÇIK - Avustralya Açık 2022 Kadınlar Finali Geniş Özeti
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_394516&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_394516&SecretKey=NtvApiSecret2014*&.m3u8

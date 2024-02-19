@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/02/EHD_430600_10.jpg",SON SÜRAT KAÇIŞ - 1. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_430600&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_430600&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/09/EHD_430601_10.jpg",SON SÜRAT KAÇIŞ - 1. Sezon 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_430601&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_430601&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/15/EHD_430602_420.jpg",SON SÜRAT KAÇIŞ - 1. Sezon 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_430602&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_430602&SecretKey=NtvApiSecret2014*&.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-08/17/EHD_922564I_10.jpg",TEKNE KURTARICILARI - 1. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_922564&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_922564&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-08/23/EHD_922565K_10.jpg",TEKNE KURTARICILARI - 1. Sezon 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_922565&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_922565&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-09/08/EHD_932408H_120.jpg",TEKNE KURTARICILARI - 1. Sezon 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_932408&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_932408&SecretKey=NtvApiSecret2014*&.m3u8

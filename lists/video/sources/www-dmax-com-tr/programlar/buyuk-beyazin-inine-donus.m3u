@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-10/11/ehd_350555_10.jpg",BÜYÜK BEYAZIN İNİNE DÖNÜŞ - Özel Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_350555&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_350555&SecretKey=NtvApiSecret2014*&.m3u8

@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-11/23/EHD_950461_420.jpg",KUTUP AYISI İSTİLASI - Özel Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_950461&SecretKey=NtvApiSecret2014*
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_950461&SecretKey=NtvApiSecret2014*&.m3u8
