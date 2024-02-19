@@ -11,20 +11,20 @@ Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla ç
 
 Merak edenler için en alt kısımda yaptığım çalışmaların detayları mevcuttur.
 
-# Yapılan Çalışmalar
+## Yapılan Çalışmalar
 
 Sistemin ayağa kaldırılması ve kurulumlar tarafındaki desteği için limonsikacagi61 'e teşekkürler.
 <details>
   <summary>Detaylar</summary>
 
-## Canlı Kanalların Yönetimi
+### Canlı Kanalların Yönetimi
 
  - Ön-tanımsız (Headless) bir CMS (İYS) çözümü olan [Directus](https://directus.io/) sistemi ayağa kaldırılmıştır. 
  - Directus üzerinde gereken veri tipleri (Kanal, Yayın, Kategori vb.) oluşturulup. 450+ kanal için logo, yayın, kaynak vb. bilgiler girilmiştir. ![enter image description here](https://i.imgur.com/a2E1HAQ.png)
 - Python ile geliştirilen sistem günlük olarak verileri [CMS API](https://docs.directus.io/reference/introduction.html) üzerinden çekip, yayınları denetleyip en yüksek öncelikli linke yönlendirme yapmaktadır.
 - Yayınların denetiminde basit istek atılıp cevap kontrol edilmektedir. FFmpeg çözümleri denenmiş fakat işlem süresini çok arttırması sebebiyle basit istek şekline geri döndürülmüştür.
 
-## YT, DM, Twitch Yayınlarının Sabit Linkleri
+### YT, DM, Twitch Yayınlarının Sabit Linkleri
 - Python [Streamlink](https://streamlink.github.io/) kütüphanesi kullanılarak Youtube, Dailymotion ve Twitch üzerinden yayın yapan kanallar için sabit link oluşturan bir sistem geliştirilmiştir.
 - Sistem kendisine tanımlanan konfigürasyon dosyaları üzerinden [Github Actions](https://github.com/features/actions) kullanarak 2 saat aralıklar ile yayınları Multivariant (Master) ve Best (En Yüksek Kalite) listeleri güncellemektedir.
 
@@ -32,7 +32,7 @@ Sistemin ayağa kaldırılması ve kurulumlar tarafındaki desteği için limons
 https://github.com/UzunMuhalefet/yayinlar
 ```
 
-## YT, DM, Twitch Yayınlarının Dinamik Linkleri
+### YT, DM, Twitch Yayınlarının Dinamik Linkleri
 - [Query Streamlink](https://github.com/BellezaEmporium/query-streamlink/tree/flask) reposu [Render](https://render.com/) platformu üzerinde ücretsiz hesap ile aktif edilmiştir.
 - Streamlink desteği olan sitelere ait yayının bulunduğu linkler *url* sorgu parametresi ile geçilerek sonuç alınabilir. 
 - NOT: IP adresi bazlı link koruması bulunan sitelerde çalışmaz. Youtube, Dailymotion, Twitch siteleri için çalışmaktadır fakat ülke bazlı kısıtlama bulunan içeriklerde çalışmayabilir.
@@ -41,10 +41,13 @@ https://github.com/UzunMuhalefet/yayinlar
 https://tvcdn.onrender.com/iptv-query?url={ICERIK_ADRESI}&.m3u8
 ```
 
-## Ticket (Secure Token) İçeren Sistemler
+### Ticket (Secure Token) İçeren Sistemler
 - Stabil clean (saf) linki bulunmayan platform ve yayınları listelere ekleyebilmek için PHP ve Regex kullanılarak son kullanıcı için link elde eden basit scriptler geliştirilmiş ve [serv00](https://www.serv00.com/) platformu üzerinde ücretsiz hesap ile çalıştırılmaktadır.
 
-### Click2Stream (click2stream.com)
+<details>
+  <summary>Detaylar</summary>
+
+#### Click2Stream (click2stream.com)
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/angelcam.php?id={SUBDOMAIN}&.m3u8
@@ -56,7 +59,7 @@ https://uzunmuhalefet.serv00.net/angelcam.php?id={SUBDOMAIN}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/angelcam.php?id=abana-belediyesi&.m3u8`
 
-### IPCamLive (ipcamlive.com)
+#### IPCamLive (ipcamlive.com)
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/ipcamlive.php?id={ALIAS/ID}&.m3u8
@@ -68,7 +71,7 @@ https://uzunmuhalefet.serv00.net/ipcamlive.php?id={ALIAS/ID}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/ipcamlive.php?id=655b2fd67214e&.m3u8`
 
-### RTSP Me (rtsp.me)
+#### RTSP Me (rtsp.me)
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/rtspme.php?id={ID}&.m3u8
@@ -80,7 +83,7 @@ https://uzunmuhalefet.serv00.net/rtspme.php?id={ID}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/rtspme.php?id=QRHD7Y2Q&.m3u8`
 
-### Bursa Büyükşehir Belediyesi
+#### Bursa Büyükşehir Belediyesi
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8
@@ -92,7 +95,7 @@ https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/bursa.php?id=23542&.m3u8`
 
-### Kocaeli Büyükşehir Belediyesi
+#### Kocaeli Büyükşehir Belediyesi
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/kocaeli.php?id={ID}&.m3u8
@@ -104,7 +107,9 @@ https://uzunmuhalefet.serv00.net/kocaeli.php?id={ID}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/kocaeli.php?id=2035&.m3u8`
 
-## EPG (Elektronik Program Rehberi)
+</details>
+
+### EPG (Elektronik Program Rehberi)
 IPTV Org ekibinin geliştirdiği [EPG](https://github.com/iptv-org/epg) yazılımı kurulup devreye alınmıştır.
 Destekleyen playerlarda aşağıdaki URL eklenip kullanılabilir.
 
@@ -114,12 +119,14 @@ http://epg.tvcdn.net/guide/tr-guide.xml
 
 </details>
 
-# Listeler
+## Listeler
 
-## 🇹🇷 Türkçe - Canlı Kanallar Listesi
+### Canlı Yayınlar
+
+#### 🇹🇷 Türkçe - Canlı Kanallar Listesi
 M3U formatının standartlarının keskin olmaması sebebiyle 3 farklı çıktı üretilmektedir. Kullandığınız IPTV playerın formatına uyan halini seçebilirsiniz. Listelerin içeriği değişmemektedir.
 
- **Standard Liste**
+**Standard Liste**
 ```
 http://stream.tvcdn.net/lists/tr.m3u
 ```
@@ -134,7 +141,11 @@ http://stream.tvcdn.net/lists/tr-alt.m3u
 http://stream.tvcdn.net/lists/tr-ss.m3u
 ```
 
-## 🇹🇷 Türkiye - Canlı Kameralar Listesi
+### Kameralar
+<details>
+  <summary>Detaylar</summary>
+
+#### 🇹🇷 Türkiye - Canlı Kameralar Listesi
 
 Türkiye ve KKTC'de bulunan aktif canlı yayın yapan kameraları içerir.
 
@@ -143,7 +154,7 @@ Türkiye ve KKTC'de bulunan aktif canlı yayın yapan kameraları içerir.
 http://stream.tvcdn.net/lists/tr-cam.m3u
 ```
 
-## 🌎 Dünya - Havaalanları Kameraları Listesi
+#### 🌎 Dünya - Havaalanları Kameraları Listesi
 Dünya genelinden canlı yayın yapan havaalanlarına ait kameraları içerir.
 Kameralar ülke bazlı gruplanmıştır, eğer var ise IATA kodları belirtilmiştir.
 Kaynak: https://airportwebcams.net/
@@ -154,11 +165,54 @@ https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/categories/ai
 ```
 
 
-# Planlanan Çalışmalar
+#### 🇺🇸 Amerika - Trafik Kameraları
+Amerika'da yer alan trafik kameralarını içermektedir.
+
+| Eyalet | Liste URL |
+|--|--|
+| California | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ca.m3u</code>|
+| Nevada | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/nv.m3u </code>|
+| New York | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ny.m3u </code> |
+
+
+</details>
+
+### Video İçerikler
+
+Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içerikleri içermektedir. Yayın linkleri direkt olarak resmi yayıncıdan alınmıştır. Herhangi bir şekilde indirme veya tekrardan işleyip dağıtma söz konusu değildir.
+
+- Her bir kaynakta belirli bir alt başlığa göre toplu liste(ler) bulunmaktadır.
+- Haricen alt klasörler aracılığıyla tekil içeriklerin listelerine erişilebilmektedir.
+
+<details>
+<summary> Detaylar </summary>
+
+| İçerik | Liste URL |
+|--|--|
+| Kanal D - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-diziler.m3u</code>|
+| Kanal D - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-programlar.m3u</code>|
+| Show TV - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-diziler.m3u</code>|
+| Show TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-programlar.m3u</code>|
+| TV8 | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv8-com-tr/all.m3u</code>|
+| teve2 - Diziler | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/diziler.m3u</code>|
+| teve2 - Programlar | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/programlar.m3u</code>|
+| DMAX | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-dmax-com-tr/all.m3u</code>|
+| TLC | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tlctv-com-tr/all.m3u</code>|
+| TV 360 - Arşiv | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv360-com-tr/arsiv.m3u</code>|
+| TV 360 - Programlar | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv360-com-tr/programlar.m3u</code>|
+| TV 4 | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv4-com-tr/all.m3u</code>|
+| CNN Türk - Belgeseller | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-cnnturk-com/belgeseller.m3u</code>|
+| TRT Çocuk | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trtcocuk-net-tr/all.m3u </code>
+| Cartoon Network | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-cartoonnetwork-com-tr/videolar.m3u</code>|
+
+</details>
+
+
+## Planlanan Çalışmalar
 <details>
   <summary>Detaylar</summary>
 
-## 🇹🇷 Türkçe - TV İçerikleri 
+### 🇹🇷 Türkçe - TV İçerikleri 
 Türkiye'de faaliyet gösteren TV kanallarına ait içeriklerin kanalların sitelerindeki yayın adresleri (mp4 ve m3u8 uzantılı) kullanılarak servis edilmesi.
 Python ile BeautifulSoup ve Regex kullanılarak içerikler çıkarılmaktadır.
 
@@ -166,22 +220,18 @@ Python ile BeautifulSoup ve Regex kullanılarak içerikler çıkarılmaktadır.
 | Kanal Adı | Site URL |
 |--|--|
 | TRT 1 - Arşiv | https://www.trt1.com.tr/tv/arsiv  |
-| Kanal D - Dizi Arşivi | https://www.kanald.com.tr/diziler/arsiv  |
-| Kanal D - Program Arşivi | https://www.kanald.com.tr/programlar/arsiv  |
-| teve2 - Dizi Arşivi | https://www.teve2.com.tr/diziler/arsiv  |
-| teve2 - Program Arşivi | https://www.teve2.com.tr/programlar/arsiv  |
-| Show TV - Dizi Arşivi | https://www.showtv.com.tr/diziler/arsivdeki-diziler  |
-| Show TV - Program Arşivi | https://www.showtv.com.tr/programlar/arsivdeki-programlar  |
-| TV 8 - Programlar | https://www.tv8.com.tr/programlar  |
-| TRT Çocuk - Videolar | https://www.trtcocuk.net.tr/video  |
-| 360 TV - Programlar | https://www.tv360.com.tr/yasam-programlar  |
-| TV 4 - Programlar | https://www.tv4.com.tr/yasam-programlar  |
-| CNN Türk - Belgeseller | https://www.cnnturk.com/tv-cnn-turk/arsiv/  |
+| Star TV - Diziler | https://www.startv.com.tr/dizi  |
+| Star TV - Programlar | https://www.startv.com.tr/program  |
+| Now TV - Dizi Arşivi | https://www.nowtv.com.tr/dizi-arsivi  |
+| Now TV - Program Arşivi | https://www.nowtv.com.tr/program-arsivi  |
 
-## 🌎 Dünya Kameraları
+
+### 🌎 Dünya Kameraları
 
 Belirli konseptlere, ülke, bölge ve platform (websitesi) özelinde listeler çıkartmayı planlıyorum. Talep ettiğiniz bir konsept var ise belirtebilirsiniz.
 
 **Planlanan Playlistler**
+1. Amerika Trafik Kameraları
+  
 
 </details>
