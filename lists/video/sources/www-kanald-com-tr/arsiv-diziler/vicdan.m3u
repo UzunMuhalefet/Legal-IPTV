@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f085cf45af1064b72b20.jpg",1.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/21184_8c3a/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f085cf45af1064b72b23.jpg",2.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24306_951f/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f085cf45af1064b72b26.jpg",3.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/25324_bcab/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f085cf45af1064b72b29.jpg",4.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/26171_5f7b/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f085cf45af1064b72b2c.jpg",5.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/27587_f033/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f085cf45af1064b72b2f.jpg",6.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28713_c7ba/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f086cf45af1064b72b32.jpg",7.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/30093_514b/index.m3u8

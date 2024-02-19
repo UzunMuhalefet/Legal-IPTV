@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660059cf45af1344b7bfbb.jpg",10.11.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/18037_9844/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660059cf45af1344b7bfb8.jpg",03.11.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17441_5a42/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660059cf45af1344b7bfb5.jpg",27.10.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/16917_8646/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660059cf45af1344b7bfaf.jpg",20.10.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/16426_4575/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660059cf45af1344b7bfac.jpg",06.10.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/15640_186c/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660058cf45af1344b7bfa9.jpg",22.09.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/14575_37f0/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660058cf45af1344b7bfa3.jpg",15.09.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/14039_7731/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660058cf45af1344b7bfa0.jpg",08.09.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/13611_3fbb/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660058cf45af1344b7bf9d.jpg",26.08.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12922_e1c6/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660058cf45af1344b7bf9a.jpg",19.08.2013 / Kızma Kazan
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12677_57e1/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660058cf45af1344b7bf97.jpg",12.08.2013 / Kızma Kazan
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kizmakazan/1208kizmakazan_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660057cf45af1344b7bf94.jpg",05.08.2013 / Kızma Kazan
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kizmakazan/kizmakazan_1.mp4

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/62a4853844539531c0a5f494.jpg",Afara Sezon Finali
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/357326_0f8d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/629b3000ebc830293c57ed8f.jpg",Afara 8. Bölüm / 03.06.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/356623_0a0d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/6291d504445395110490184d.jpg",Afara 7. Bölüm / 27.05.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/355944_04bf/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/62889b8aebc83018409f08f4.jpg",Afara 6. Bölüm / 20.05.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/355254_ff5b/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/627f74deebc8302854c47163.jpg",Afara 5. Bölüm / 13.05.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/354545_f9d1/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/627654a3e226011650dc93b4.jpg",Afara 4. Bölüm / 06.05.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/353812_f417/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/626cf2a7933ccb1a0ce3df8c.jpg",Afara 3. Bölüm / 30.04.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/353272_efdf/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/6263b241e22601113c8705ed.jpg",Afara 2. Bölüm / 22.04.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/352507_e9e3/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/625a87b44453952d444accd2.jpg",Afara 1. Bölüm / 15.04.2022
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/351735_e3db/index.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/57baf4958685764f8c371d2b.jpg",Para Odası Son Bölüm
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/103794_5d5c/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/57b211634020112d006684fa.jpg",Para Odası 3. Bölüm
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/103468_8b17/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/57a88a89ae784c2dfce110d1.jpg",Para Odası 2. Bölüm
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/103134_8a0d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/579fb2ba04207c5a203bc747.jpg",Para Odası 1. Bölüm
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/102725_5aaf/index.m3u8

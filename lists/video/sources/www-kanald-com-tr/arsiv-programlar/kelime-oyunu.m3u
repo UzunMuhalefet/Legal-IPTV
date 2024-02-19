@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5c67d0e67470f707a8b68a4c.jpg",Kelime Oyunu / 17.02.2019
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/238624_acb2/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5c67d02dd66c7f1b0cdf9933.jpg",Kelime Oyunu / 16.02.2019
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/238620_acaa/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5c5eac187470f72c1c50e557.jpg",Kelime Oyunu / 10.02.2019
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/237911_a720/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5c5ea9b34967832f509ab5d3.jpg",Kelime Oyunu / 09.02.2019
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/237910_a71e/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5c56fb3e04207c2ab8b08ba3.jpg",Kelime Oyunu / 03.02.2019
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/237257_a204/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5c55ac88d668401c9c6ba071.jpg",Kelime Oyunu / 02.02.2019
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/237217_a1b4/index.m3u8

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54fea5b9f97adb14c82a329f.jpg",Kara Kutu 1. Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/68712_35ea/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5502ed35f630990f7817054a.jpg",Kara Kutu 2. Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/69336_39ec/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/55113bdaf630991a88416a90.jpg",Kara Kutu 3. Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/69829_f3d5/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/551a911861361f19841b6994.jpg",Kara Kutu 4. Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/70366_67dc/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5523c1e56ce4360188be5ed0.jpg",Kara Kutu 5. Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/70907_59bc/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/552cfb8fae7849143cc93408.jpg",Kara Kutu 6. Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/71432_678b/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/553615d3a781b605d8d4877f.jpg",Kara Kutu Son Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/71984_8116/index.m3u8

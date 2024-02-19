@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001dcf45af1344b7bcaf.jpg",05.09.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/13399_b179/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001dcf45af1344b7bca9.jpg",29.08.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/13107_2cbe/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001dcf45af1344b7bca6.jpg",23.08.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12805_c42b/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001dcf45af1344b7bca0.jpg",22.08.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12746_343d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001ccf45af1344b7bc9a.jpg",16.08.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12679_9d1d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001ccf45af1344b7bc94.jpg",15.08.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12499_a56c/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001bcf45af1344b7bc8b.jpg",09.08.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis0908_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001bcf45af1344b7bc88.jpg",08.08.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis0808_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001bcf45af1344b7bc82.jpg",02.08.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis8_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001bcf45af1344b7bc7c.jpg",01.08.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis7_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001acf45af1344b7bc76.jpg",26.07.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis6_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466001acf45af1344b7bc6d.jpg",25.07.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis5_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660019cf45af1344b7bc64.jpg",19.07.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis4_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660019cf45af1344b7bc5e.jpg",18.07.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis3_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660019cf45af1344b7bc58.jpg",12.07.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis2_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660018cf45af1344b7bc52.jpg",11.07.2013 / Kapış Kapış
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/kapis/kapiskapis1_1_hd.mp4

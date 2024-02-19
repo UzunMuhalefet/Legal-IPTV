@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660242cf45af1344b7d65b.jpg",03.03.2013 / Şebeke
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/4585_8758/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660242cf45af1344b7d658.jpg",24.02.2013 / Şebeke
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/4188_fee7/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660242cf45af1344b7d655.jpg",17.02.2013 / Şebeke
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/4e62_3873/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660242cf45af1344b7d652.jpg",03.02.2013 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/sebeke/0302sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660242cf45af1344b7d64f.jpg",20.01.2013 / Şebeke
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/2377_2890/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660241cf45af1344b7d64c.jpg",06.01.2013 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/sebeke/0601sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660241cf45af1344b7d649.jpg",23.12.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/2312sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660241cf45af1344b7d646.jpg",16.12.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1612sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660241cf45af1344b7d643.jpg",09.12.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/0912sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660241cf45af1344b7d640.jpg",02.12.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/0212sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660240cf45af1344b7d63d.jpg",25.11.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/2511sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660240cf45af1344b7d63a.jpg",18.11.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1811sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660240cf45af1344b7d637.jpg",11.11.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1111sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660240cf45af1344b7d634.jpg",23.08.2012 Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/2308sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660240cf45af1344b7d631.jpg",16.08.2012 Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1608sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660240cf45af1344b7d62b.jpg",05.08.2012 Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/0508sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023fcf45af1344b7d628.jpg",29.07.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/2907sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023fcf45af1344b7d625.jpg",15.07.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1507sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023fcf45af1344b7d622.jpg",08.07.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/0807sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023fcf45af1344b7d61f.jpg",01.07.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/0107sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023fcf45af1344b7d61c.jpg",24.06.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/sebeke_3_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023fcf45af1344b7d619.jpg",17.06.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1706sebeke_1.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466023ecf45af1344b7d616.jpg",10.06.2012 / Şebeke
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2012kanald/program/sebeke/1006sebeke_1.mp4

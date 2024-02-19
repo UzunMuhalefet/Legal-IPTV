@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025dcf45af1344b7d854.jpg",25.11.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/20117_e22e/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025dcf45af1344b7d851.jpg",18.11.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/19167_e0ce/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025dcf45af1344b7d84e.jpg",11.11.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/18129_f40d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025dcf45af1344b7d84b.jpg",03.11.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17683_7293/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025dcf45af1344b7d848.jpg",26.10.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17067_2d02/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025ccf45af1344b7d845.jpg",19.10.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/16349_5d79/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025ccf45af1344b7d842.jpg",14.09.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/13967_253d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025ccf45af1344b7d83f.jpg",07.09.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/13474_1e9e/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025ccf45af1344b7d83c.jpg",31.08.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/13162_c3cc/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025bcf45af1344b7d833.jpg",24.08.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12841_e6b8/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025bcf45af1344b7d830.jpg",17.08.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12849_41bd/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025acf45af1344b7d82d.jpg",24.08.2013 / Tuhaf Taksi
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12841_e6b8/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025acf45af1344b7d82a.jpg",10.08.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi1008_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5466025acf45af1344b7d827.jpg",27.07.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi6_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660259cf45af1344b7d824.jpg",19.07.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi5_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660259cf45af1344b7d821.jpg",12.07.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi4_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660259cf45af1344b7d81e.jpg",05.07.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi3_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660258cf45af1344b7d81b.jpg",28.06.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi2_1_hd.mp4
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54660258cf45af1344b7d818.jpg",21.06.2013 / Tuhaf Taksi
+/https://cdn.duhnet.tv/S13/MP4/KD_VOD/2013kanald/program/tuhaftaksi/tuhaftaksi1_1.mp4

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5491379df493b83540ec14db.jpg",15. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/61695_ed49/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/54876445ae784903c04b5bdb.jpg",14. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/61112_4c8b/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/547e1e2fae78491f2805a8f7.jpg",13. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/60544_0f5f/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/546c4b92f493b8058c890648.jpg",12. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/59454_74f0/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbfcf45af0bec22167a.jpg",11. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58881_2d37/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbfcf45af0bec221677.jpg",10. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58314_6713/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbecf45af0bec221674.jpg",9. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/57139_f603/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbecf45af0bec221671.jpg",8. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/56386_738c/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbecf45af0bec22166e.jpg",7. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/55803_1e12/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbdcf45af0bec22166b.jpg",6. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/55426_8347/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbdcf45af0bec221668.jpg",5. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/54793_f31b/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbccf45af0bec221662.jpg",3. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/53225_ecd2/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbccf45af0bec22165f.jpg",2. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/52832_675c/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465fcbbcf45af0bec22165c.jpg",1. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/52437_6324/index.m3u8

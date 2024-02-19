@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef15cf45af1064b7109c.jpg",1.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/14942_0d81/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef15cf45af1064b7109f.jpg",2.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/15329_9f63/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef15cf45af1064b710a2.jpg",3.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/15896_1149/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef15cf45af1064b710a5.jpg",4.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/16664_5047/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef15cf45af1064b710a8.jpg",5.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17120_01b7/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef15cf45af1064b710ab.jpg",6.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17779_e645/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710ae.jpg",7.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/18612_e890/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710b1.jpg",8.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/19628_716d/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710b4.jpg",9.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/20334_66c7/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710b7.jpg",10.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/21774_de7a/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710ba.jpg",11.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24920_6f4a/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710bd.jpg",12.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/26222_0797/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465ef16cf45af1064b710c0.jpg",13.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/27332_f033/index.m3u8

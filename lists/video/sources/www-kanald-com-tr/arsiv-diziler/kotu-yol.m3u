@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f014cf45af1064b7236d.jpg",1.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/66b4_482/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f015cf45af1064b72370.jpg",2.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/e8fe_495/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f015cf45af1064b72373.jpg",3.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/3ba3_339/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f015cf45af1064b72376.jpg",4.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/585a_622/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f015cf45af1064b72379.jpg",5.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/5173_620/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f016cf45af1064b7237c.jpg",6. Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/0309_624/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f016cf45af1064b7237f.jpg",7.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/eb9c_630/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f016cf45af1064b72382.jpg",8.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/15e6_633/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f016cf45af1064b72385.jpg",9.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7baf_634/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f016cf45af1064b72388.jpg",10.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/5002_639/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f016cf45af1064b7238b.jpg",11. Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/ebb9_636/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f017cf45af1064b7238e.jpg",12.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/ede9_121/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/5465f017cf45af1064b72391.jpg",13.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/dd3f_640/index.m3u8
