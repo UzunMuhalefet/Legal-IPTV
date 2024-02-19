@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/06/EHD_268868_360.jpg",Gelinliğe Evet De: Amerika - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268868&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/13/EHD_268869_360.jpg",Gelinliğe Evet De: Amerika - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268869&SecretKey=NtvApiSecret2014*&.m3u8

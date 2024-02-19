@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/16/EHD_385013_420.jpg",Amerika'nın En Çirkin Evleri - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_385013&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/16/EHD_385014_240.jpg",Amerika'nın En Çirkin Evleri - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_385014&SecretKey=NtvApiSecret2014*&.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/19-05/27/30914_1e2a1caf66eda89ec86211e0ede55c13_00-04-42.jpg",Merhametsiz - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_190210&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/19-05/31/31163_dcaa9b63131b75ff82e4da6d0765abf6_00-04-41.jpg",Merhametsiz - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_190214&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/19-05/31/31175_841403bcd98ea676ab575f012d8d266e_00-04-40.jpg",Merhametsiz - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_195929&SecretKey=NtvApiSecret2014*&.m3u8

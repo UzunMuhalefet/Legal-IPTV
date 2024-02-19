@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/18/EHD_126999F_10.jpg",Acil Anne Aranıyor - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_126999&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/15/EHD_127000D_240.jpg",Acil Anne Aranıyor - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127000&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/17/EHD_127001E_120.jpg",Acil Anne Aranıyor - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127001&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/23/EHD_127002G_360.jpg",Acil Anne Aranıyor - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127002&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/17/EHD_127003F_480.jpg",Acil Anne Aranıyor - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127003&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/23/EHD_127004H_240.jpg",Acil Anne Aranıyor - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127004&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/17/EHD_150356C_480.jpg",Acil Anne Aranıyor - 1. Sezon 7. Bölüm 1. Kısım
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_150356&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-12/17/EHD_150355D_420.jpg",Acil Anne Aranıyor - 1. Sezon 7. Bölüm 2. Kısım
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_150355&SecretKey=NtvApiSecret2014*&.m3u8

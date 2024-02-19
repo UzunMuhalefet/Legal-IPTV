@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-07/06/17676_3d9a09e055ba2760d09004de4a4cb72c_00-09-30.jpg",Gerçek Hayatlar - 2. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_211498&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-07/13/18033_3800b4ec818a3f5930b167cf7e40b0e4_00-09-17.jpg",Gerçek Hayatlar - 2. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_211496&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-07/20/18366_71bd2a84268dec9ee432df9ec13dd575_00-08-02.jpg",Gerçek Hayatlar - 2. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_211495&SecretKey=NtvApiSecret2014*&.m3u8

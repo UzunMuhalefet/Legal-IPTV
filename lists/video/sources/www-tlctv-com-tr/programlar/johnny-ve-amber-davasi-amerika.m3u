@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-10/06/EHD_422147P_180.jpg",Johnny ve Amber Davası: Amerika - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_422147&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-10/06/EHD_422148N_300.jpg",Johnny ve Amber Davası: Amerika - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_422148&SecretKey=NtvApiSecret2014*&.m3u8

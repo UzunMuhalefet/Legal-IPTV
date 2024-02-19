@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-07/27/18699_11e03874abb7ca9eafff6cbcafef1cfb_00-09-22.jpg",1 Tonluk Aile - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_217118&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-08/03/19218_dabfcb73c3334a30fba7e92f4144f408_00-09-29.jpg",1 Tonluk Aile - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_217121&SecretKey=NtvApiSecret2014*&.m3u8

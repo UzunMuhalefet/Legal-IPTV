@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-09/06/20729_2dd1f8017b9028e0db0857a558f2638a_00-04-29.jpg",O Düğünü İstiyorum - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_195218&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-09/13/21072_97394c12c702857ea2982f332024ba91_00-04-42.jpg",O Düğünü İstiyorum - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_195212&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/18-10/05/22266_fd8cad1b82bb524e6884190f51d7cad5_00-04-47.jpg",O Düğünü İstiyorum - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_195215&SecretKey=NtvApiSecret2014*&.m3u8
