@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-03/03/EHD_265007K_420.jpg",DÖNÜŞSÜZ YOL - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_265007&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-03/21/EHD_265008L_360.jpg",DÖNÜŞSÜZ YOL - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_265008&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-03/22/EHD_265009L_10.jpg",DÖNÜŞSÜZ YOL - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_265009&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-03/30/EHD_265010L_10.jpg",DÖNÜŞSÜZ YOL - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_265010&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-04/13/EHD_265011K_240.jpg",DÖNÜŞSÜZ YOL - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_265011&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-04/18/EHD_265012L_10.jpg",DÖNÜŞSÜZ YOL - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_265012&SecretKey=NtvApiSecret2014*

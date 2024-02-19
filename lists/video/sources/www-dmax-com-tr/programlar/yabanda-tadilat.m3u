@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-11/22/EHD_124011H_10.jpg",YABANDA TADİLAT - ÖZEL BÖLÜM
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_124011&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-12/01/EHD_133223I_10.jpg",YABANDA TADİLAT - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_133223&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-12/02/EHD_133224I_300.jpg",YABANDA TADİLAT - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_133224&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-12/08/EHD_133225H_10.jpg",YABANDA TADİLAT - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_133225&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-12/16/EHD_133226H_10.jpg",YABANDA TADİLAT - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_133226&SecretKey=NtvApiSecret2014*

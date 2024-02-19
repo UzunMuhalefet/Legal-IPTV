@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-09/15/EHD_233098H_10.jpg",CEHENNEME GİDEN OTOYOL - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233098&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-09/21/EHD_233099H_10.jpg",CEHENNEME GİDEN OTOYOL - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233099&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/22-09/28/EHD_233100H_10.jpg",CEHENNEME GİDEN OTOYOL - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233100&SecretKey=NtvApiSecret2014*

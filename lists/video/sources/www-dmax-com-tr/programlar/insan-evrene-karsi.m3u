@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-01/05/EHD_941389J_10.jpg",İNSAN EVRENE KARŞI - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_941389&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-01/13/EHD_941387I_180.jpg",İNSAN EVRENE KARŞI - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_941387&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-01/20/EHD_941388I_240.jpg",İNSAN EVRENE KARŞI - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_941388&SecretKey=NtvApiSecret2014*

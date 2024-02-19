@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-09/02/ehd_210593k_480.jpg",ÖLMEK YOK - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_210593&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-09/10/ehd_210595n_420.jpg",ÖLMEK YOK - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_210595&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-09/16/ehd_210592k_420.jpg",ÖLMEK YOK - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_210592&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-09/24/ehd_210594k_480.jpg",ÖLMEK YOK - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_210594&SecretKey=NtvApiSecret2014*
+#EXTINF:1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/21-10/01/ehd_210597j_10.jpg",ÖLMEK YOK - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_210597&SecretKey=NtvApiSecret2014*
