@@ -1,0 +1,1437 @@
+[
+    {
+        "name": "Delaware - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "DE 1 @ MILFORD NECK ROAD (NORTH OFF)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM001.stream/playlist.m3u8"
+            },
+            {
+                "name": "W NORTH STREET @ WEST DOVER CONNECTOR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM002.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 (SB) @ WEST DOVER CONNECTOR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM003.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ RD 88",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM004.stream/playlist.m3u8"
+            },
+            {
+                "name": "NEW BURTON RD S @ WEST DOVER CONNECTOR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM005.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ HARRINGTON FAIR RD - HARRINGTON",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM020.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ RD 315 (TOWER HILL RD)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM021.stream/playlist.m3u8"
+            },
+            {
+                "name": "Leipsic Rd & Plaza Dr",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM024.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 & MAIN TOLL PLAZA",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM025.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ SCARBOROUGH RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM027.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ TOWNSEND BLVD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM028.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ WHITE OAK RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM029.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DIVISION ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM030.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 8 @ SAULSBURY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM031.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 & BAY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM032.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DOVER DOWNS (ENT)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM086.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 & TOLL RAMP E (S. SMYRNA)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM090.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 300",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM091.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ Thompsonville Rd",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM092.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 (SB) @ DE 14",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM102.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 14",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM103.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ SCARBOROUGH RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM109.stream/playlist.m3u8"
+            },
+            {
+                "name": "BAY RD & PUNCHEON RUN",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM110.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 & BOWERS BEACH RD (RD18)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM111.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ PUNCHEON RUN RAMP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM124.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 10",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM125.stream/playlist.m3u8"
+            },
+            {
+                "name": "BAY RD @ DE 10",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM126.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 9 INTERCHANGE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM127.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ N FREDERICA INTERCHANGE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM128.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 8 @ DE 44",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM129.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 300 @ CARTER RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM147.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ TRAP SHOOTERS RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM159.stream/playlist.m3u8"
+            },
+            {
+                "name": "CLAPHAM @ BUFFALO",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM161.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ JEFFERIC BLVD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM162.stream/playlist.m3u8"
+            },
+            {
+                "name": "BOWERS BEACH ROAD @ BAY ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM163.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ JACKSON DITCH ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM169.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DSP HQ (K335)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM170.stream/playlist.m3u8"
+            },
+            {
+                "name": "KENTON ROAD @ GREENTREE DRIVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM172.stream/playlist.m3u8"
+            },
+            {
+                "name": "SAULSBURY RD @ WALKER RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM173.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ RD 30",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM174.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ JEROME DR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM175.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ CARTER RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM176.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 12",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM177.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ BIG WOODS RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM178.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ BELMONT AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM179.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DOVER MALL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM180.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ BLUE HEN MALL S. ENT",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM181.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 8 @ CHESTNUT GROVE RD / NAU",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/KCAM186.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ DE 141 (ON RAMP)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM001.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 NB RAMP @ FASHION BV",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM002.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 1 @ RAMP B1 TO I 95 NB",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM005.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ DE 273",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM006.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ SOUTH OF DE 141",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM008.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 7 & DE 72",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM015.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 40 @ DE 1 SB RMP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM016.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 40 @ DE 896",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM017.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ BOYDS CORNER",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM018.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ US 40",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM019.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ PINE TREE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM022.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 40 @ DE 72",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM023.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 273 & DE 1 S.B. OFF RAMP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM034.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 273 & CHAPMAN RD / EAGLE RUN",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM035.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 273 @ HARMONY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM036.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 273 & DE 4 / STANTON-OGLETOWN RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM037.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 7 @ DE 4 STANTON",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM039.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 7 @ DE 4 MORGAN",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM040.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 7 @ NEW CHURCHMANS RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM041.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 4 & HARMONY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM042.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 4 & NEW CHURCHMANS RD (DEL PARK ENT.)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM043.stream/playlist.m3u8"
+            },
+            {
+                "name": "CHRISTIANA MALL @ TEMP RING RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM046.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 202 @ NAAMANS RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM048.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 202 @ SILVERSIDE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM049.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 202 @ MURPHY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM050.stream/playlist.m3u8"
+            },
+            {
+                "name": "FOULK RD @ SILVERSIDE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM051.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 92 @ FOULK RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM052.stream/playlist.m3u8"
+            },
+            {
+                "name": "MARSHALL ST @ JUSTIS ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM053.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 495 @ 12TH STREET / BRANDYWINE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM054.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 495 @ I 495 OFF-RAMP TO TERMINAL AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM055.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ I-495 RAMP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM057.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ DE 92 (NAAMANS RD)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM058.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ US 202",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM059.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 @ DUPONT EXPER STA",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM060.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 @ DE 52 - GREENVILLE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM062.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 BR @ 12TH STREET",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM063.stream/playlist.m3u8"
+            },
+            {
+                "name": "PHILADELPHIA PIKE @ WASHINGTON ST. EXT.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM064.stream/playlist.m3u8"
+            },
+            {
+                "name": "BUS 13 @ HOLLY OAK RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM065.stream/playlist.m3u8"
+            },
+            {
+                "name": "PHILADELPHIA PIKE @ GOV PRINTZ BLVD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM066.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 495 @ NORTH SLIP RAMPS/YALE AVENUE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM067.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 495 @ BELLEVUE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM068.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 273 @ LIBRARY AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM069.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 2 @ S COLLEGE AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM070.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 4 @ DE 896",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM071.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 4 @ DE 2",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM072.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 273",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM073.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ BOULDEN BLVD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM074.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 495 @ US 13 - SOUTHERN INTERCHANGE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM075.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 48 @ DE 141",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM076.stream/playlist.m3u8"
+            },
+            {
+                "name": "CENTERVILLE RD & BOXWOOD RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM077.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-95 @ MARSH RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM078.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ I 95 NB OFF-RAMP TO HARVEY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM080.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 @ KIRKWOOD HIGHWAY",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM087.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 @ DE 100",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM088.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ US 13 (BLACKBIRD, N. OF DE 71 H&H)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM089.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ RD 381",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM096.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ US 13 - SCOTT RUN (SOUTH OF C&D CANAL)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM097.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896 @ RD 15",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM100.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896 @ DE 71 NORTH OF C&D CANAL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM104.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896 @ BETHEL CHURCH RD (SB C&D CANAL)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM105.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 72 @ DE 1 S.B. OFF RMP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM106.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ OLD STATE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM107.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 299 @ DE 1 NB RMP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM108.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 @ DE 34",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM113.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ TOLL PLAZA SB",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM114.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ REST STOP SB",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM116.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 NB @ SR 141",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM117.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ I 495 SPLIT",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM118.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 @ BUNKER HILL RD (MAIN ST)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM121.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 @ SOUTH OF DE 299 SPLIT - MD LINE WEIGH STATION",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM122.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ NORTH SMYRNA RAMP FROM DE 1",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM123.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 71 @ DE 72",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM132.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ I 95 SB OFF-RAMP TO DE 141 SB",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM137.stream/playlist.m3u8"
+            },
+            {
+                "name": "9TH ST @ ADAMS STREET (N)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM138.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 2 @ OTTS CHAPEL RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM139.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896 & 281 S Old Balt Pike",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM140.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 @ LEVELS ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM141.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DUCK CREEK RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM142.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 7 @ VALLEY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM149.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 & COMMONS BLVD.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM150.stream/playlist.m3u8"
+            },
+            {
+                "name": "ELKTON RD @ APPLE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM152.stream/playlist.m3u8"
+            },
+            {
+                "name": "MARTIN L. KING @ S JUSTISON ST./ DE 48",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM153.stream/playlist.m3u8"
+            },
+            {
+                "name": "MD AVE @ 95 NB EXIT",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM154.stream/playlist.m3u8"
+            },
+            {
+                "name": "CHRISTIANA MALL RAMP @ DE 1",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM156.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ ROAD 336A",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM157.stream/playlist.m3u8"
+            },
+            {
+                "name": "I 95 @ DE 7 RAMP WITH I 95 SB",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM158.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ BAYLOR BOULEVARD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM159.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 273 @ AIRPORT RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM160.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 202 @ RIGHTER PARKWAY",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM161.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 2 @ DE 7",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM162.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ NORTH OF SCHOOL BELL BR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM163.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 2 (KIRKWOOD HWY) @ DELAWARE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM164.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 SB OFF-RAMP @ LEVELS RO",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM165.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 72 @ OBP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM166.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 52 @ N ADAMS ST (CITY OF WI",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM167.stream/playlist.m3u8"
+            },
+            {
+                "name": "E 4TH ST @ N WALNUT ST (CITY O",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM168.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 NORTHBOUND @ DE 896 (BO",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM170.stream/playlist.m3u8"
+            },
+            {
+                "name": "JAMISON CORNER ROAD @ US 301 I",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM171.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 NORTHBOUND @ US 301 OFF",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM172.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 SOUTHBOUND @ RAMP H & G",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM173.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 301 NORTHBOUND @ N. MIDDLET",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM174.stream/playlist.m3u8"
+            },
+            {
+                "name": "MALL RD @ W. CENTER BLVD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM175.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 40 @ PORTER RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM176.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 (DUPONT PARKWAY) NB @ DE 299",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM177.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 4 @ DE 72",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM178.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 (MARKET STREET) @ NEW SW",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM180.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896 (BOYDS CORNER ROAD @ JA",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM181.stream/playlist.m3u8"
+            },
+            {
+                "name": "E MAIN ST (SR 273) @ THE GREEN",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM183.stream/playlist.m3u8"
+            },
+            {
+                "name": "E MAIN ST @ POMEROY LANE (TRAI",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM185.stream/playlist.m3u8"
+            },
+            {
+                "name": "PHILADELPHIA PIKE (US 13) @ TR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM186.stream/playlist.m3u8"
+            },
+            {
+                "name": "TRANSIT CENTER DRIVE @ TRANSIT",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM187.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 72 @ PORTER ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM188.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896 @ PORTER ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM189.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 2 @ E CLEVELAND AVE/WOODLAW",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM190.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 299 @ BROAD STREET",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM191.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 & DE 299 (SOUTHBOUND)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM192.stream/playlist.m3u8"
+            },
+            {
+                "name": "OLD BALTIMORE PIKE @ SALEM CHU",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM194.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 72",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM195.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 4 @ ALBAN DRIVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM196.stream/playlist.m3u8"
+            },
+            {
+                "name": "LANCASTER AVE @ JACKSON ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM197.stream/playlist.m3u8"
+            },
+            {
+                "name": "4TH ST @ WASHINGTON ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM198.stream/playlist.m3u8"
+            },
+            {
+                "name": "4TH ST @ ADAMS ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM199.stream/playlist.m3u8"
+            },
+            {
+                "name": "2ND ST @ KING ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM201.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 299 @ CLEAVER FARM ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM203.stream/playlist.m3u8"
+            },
+            {
+                "name": "LANCASTER AVE @ LINCOLN STREET",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM204.stream/playlist.m3u8"
+            },
+            {
+                "name": "Portable Camera - NCAM205",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM205.stream/playlist.m3u8"
+            },
+            {
+                "name": "CONCORD AVENUE @ BAYNARD BOULE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM206.stream/playlist.m3u8"
+            },
+            {
+                "name": "MARKET STREET @ CONCORD AVENUE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM207.stream/playlist.m3u8"
+            },
+            {
+                "name": "4TH STREET @ UNION STREET",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM208.stream/playlist.m3u8"
+            },
+            {
+                "name": "DELAWARE AVENUE @ JACKSON STRE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM209.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 141 @ DE 273 (FRENCHTOWN RO",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM211.stream/playlist.m3u8"
+            },
+            {
+                "name": "KING ST./MARKET ST. @ 16TH ST.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM212.stream/playlist.m3u8"
+            },
+            {
+                "name": "WALNUT ST @ 11TH ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM213.stream/playlist.m3u8"
+            },
+            {
+                "name": "KING ST. @ 10TH ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM214.stream/playlist.m3u8"
+            },
+            {
+                "name": "MARKET ST @ CHRISTINA CROSSING",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM217.stream/playlist.m3u8"
+            },
+            {
+                "name": "BAYNARD BLVD. @ 16TH ST. / WAS",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM218.stream/playlist.m3u8"
+            },
+            {
+                "name": "HEALD ST. @ CHRISTINA AVE.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM219.stream/playlist.m3u8"
+            },
+            {
+                "name": "12TH ST. @ MARKET ST.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM221.stream/playlist.m3u8"
+            },
+            {
+                "name": "PENNSYLVANIA AVE. @ GREENHILL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM222.stream/playlist.m3u8"
+            },
+            {
+                "name": "PENNSYLVANIA AVE. @ North Rodney St",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM223.stream/playlist.m3u8"
+            },
+            {
+                "name": "LANCASTER AVE. @ S. DUPONT RD.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM224.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 52 @ DE 100",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM225.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 2 @ DE 100",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM226.stream/playlist.m3u8"
+            },
+            {
+                "name": "AUGUSTINE CUTOFF @ 18TH ST.",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM227.stream/playlist.m3u8"
+            },
+            {
+                "name": "OLD CAPITOL TRAIL @ NEWPORT GA",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM228.stream/playlist.m3u8"
+            },
+            {
+                "name": "CENTERVILLE ROAD @ OLD CAPITOL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM229.stream/playlist.m3u8"
+            },
+            {
+                "name": "CENTERVILLE ROAD @ GREENBANK R",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM230.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 34 (FAULKLAND ROAD) @ DE 10",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM236.stream/playlist.m3u8"
+            },
+            {
+                "name": "- CASHO MILL RD @ SOUTH OF CSX T",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM243.stream/playlist.m3u8"
+            },
+            {
+                "name": "CASHO MILL RD @ NORTH OF CSX T",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM244.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 261 (FOULK ROAD) @ BRANDYWI",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM247.stream/playlist.m3u8"
+            },
+            {
+                "name": "POLE BRIDGE RD @ SR 1 NB RAMPS",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM249.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 896 @ WELSH TRACT ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM253.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 9 @ CLINTON ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM255.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 72 & DE 9 (RIVER RD) / CLARKS CORNER RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM256.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 9 & HAMBURG RD (FLASHER)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM257.stream/playlist.m3u8"
+            },
+            {
+                "name": "LEVELS ROAD @ PATRIOT DRIVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM264.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 41 @ DE 48",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM271.stream/playlist.m3u8"
+            },
+            {
+                "name": "CENTER BLVD S @ CHRISTIANA RET",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM275.stream/playlist.m3u8"
+            },
+            {
+                "name": "MILLTOWN RD @ MCKENNANS CHURCH",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM281.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 7 @ MILLTOWN RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/NCAM282.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896/I-95 CONSTRUCTION PROJECT",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/PCAM8961.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896/I-95",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/PCAM8962.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896/I-95",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/PCAM8963.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 896/I-95",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/PCAM8964.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 54",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM001.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 26",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM002.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ US 9",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM003.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 26 @ DE 17",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM004.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 1A",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM009.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 1A REHOBOTH",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM010.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 24",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM011.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ RD 268A",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM012.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ COLLINS ST (DEWEY BEACH)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM013.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ CAMELOT",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM014.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ US 9",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM082.stream/playlist.m3u8"
+            },
+            {
+                "name": "HIGH ST @ FRONT ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM083.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ DE 24",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM084.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ RD 334",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM085.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 26 @ RD 357",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM093.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ DE 18",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM094.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 404",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM095.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ INDIAN RIVER BRIDGE INLET - NORTH",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM098.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ INDIAN RIVER BRIDGE INLET - SOUTH",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM099.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 54 @ DE 20",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM101.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ RD 534",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM112.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 20 NORTH",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM130.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ Town Center Blvd",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM133.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1A @ CHURCH ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM135.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 26 @ DE 20",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM143.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ RD 283",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM144.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ JAMES ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM146.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 30",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM148.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 26 @ MAIN ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM151.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ ARROW SAFETY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM155.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 26 @ RD 334",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM160.stream/playlist.m3u8"
+            },
+            {
+                "name": "PRIMEHOOK RD @ SNOW GOOSE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM161.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ DE 16",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM162.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 NB @ DE 16",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM163.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ FITZGERALD RD/JOHNS",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM164.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ DE 26",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM165.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ DE 16",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM166.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 NB @ NE FRONT STREET INTE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM168.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ IRIB SOUTH PYLON TOP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM169.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ IRIB NORTH PYLON TOP",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM170.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 9 @ DE 5",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM174.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ BEEBE ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM175.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ REHOBOTH MALL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM176.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ PLANTATION/WARRINGTON",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM177.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 9 @ SAND HILL RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM178.stream/playlist.m3u8"
+            },
+            {
+                "name": "EB DE 24 @ STATE ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM179.stream/playlist.m3u8"
+            },
+            {
+                "name": "WB DE 24 @ STATE ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM180.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ DE 5/23 (ROAD 22)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM181.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 9 KINGS HWY @ CLAY ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM182.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 9 @ PARK AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM183.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ DEER FOREST RD/E REDD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM184.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 24",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM188.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ US 9",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM189.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 & DE 54",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM190.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 @ DE 54",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM191.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ ROBINSONVILLE RD/ANGOL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM192.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ MOUNT JOY ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM193.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 & RD 279 (PEDDLERS VILLAGE)",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM194.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ AUTUMN RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM195.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 & BEACON MIDDLE SCHOOL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM196.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ HOLLYVILLE RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM197.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 24 @ HOLLYMOUNT ROAD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM198.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ SPRING LAKE DR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM199.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ BELLEVUE ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM200.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 54 @ LINCOLN AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM202.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ READ ST",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM203.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ RD 360",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM204.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ GOVERNOR STOCKLEY RD",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM206.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 113 @ AVENUE OF HONOR",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM207.stream/playlist.m3u8"
+            },
+            {
+                "name": "DE 1 @ REHOBOTH MALL",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM208.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 9 @ MINOS CONAWAY RD/ LAKEV",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM211.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 9 @ MONROE AVE",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM213.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 13 SB @ DE 16",
+                "img": "",
+                "stream_url": "https://video.deldot.gov:443/live/SCAM215.stream/playlist.m3u8"
+            }
+        ]
+    }
+]
