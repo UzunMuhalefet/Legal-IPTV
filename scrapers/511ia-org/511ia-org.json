@@ -1,0 +1,2407 @@
+[
+    {
+        "name": "Iowa - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "IA 1: 5BF - IA 1 at Lick Creek Road (IWZ 3178)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3178lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3178lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 5: DM - IA 5 at US 65/69 (32)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv32lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv32lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 5: DM - IA 5 at Fleur (33)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv33lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv33lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 5: DM - IA 5 at IA 28 (34)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv34lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv34lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 5: DM - IA 5 at SW Connector (35)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv35lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv35lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 13: CR - IA 13 at Bertram Rd (48)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv48lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv48lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 13: CR - IA 13 at Linn Aire Dr (51)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv51lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv51lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 13: CR - IA 13 at Cottage Grove Pkwy (50)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv50lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv50lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 13: CR - IA 13 at Mt Vernon Rd (49)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv49lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv49lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 13: CR - IA 13 at 7th Ave (52)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv52lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv52lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: SC - US 20 at Lakeport (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv14lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: SC - US 20 at Christy (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv15lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: SC - US 20 at Sunnybrook (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv16lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: SC - US 20 at Morningside (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv17lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: SC - US 20 at Gordon (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv18lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: WL - US 20 at US 63 (28)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv28lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv28lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: WL - US 20 at Ansborough (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv01lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: WL - US 20 at Hawkeye Road (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv02lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: WL - US 20 at Hammond (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv03lb/playlist.m3u8"
+            },
+            {
+                "name": "US 20: WL - US 20 at S. Canfield Road (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv18lb/playlist.m3u8"
+            },
+            {
+                "name": "23rd Avenue: CB - 23rd Avenue at 24th Street (32)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv32lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv32lb/playlist.m3u8"
+            },
+            {
+                "name": "23rd Avenue: CB - 23rd Avenue at Mid America Dr (33)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv33lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv33lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: 4DD - I-29 at MM 9.8 (IWZ 3197)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3197lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3197lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at IA 370 (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at 192nd Street (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at Basswood Road (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv15lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at S of US 275 (54)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv54lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv54lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at US 275 (53)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv53lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv53lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29S at North of US275 (67)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv67lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv67lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29S at I-29/80 Interchange (66)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv66lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv66lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-80 at East I-29 Interchange (57)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv57lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv57lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29N at I-80W Interchange (62)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv62lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv62lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29/80E at E. of S. Expressway (65)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv65lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv65lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29/80EB at S Expressway (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29/80 at 24th Street (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at I-80 EB Ramp (45)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv45lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv45lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at West I-80 Interchange (North) (52)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv52lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv52lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at Nebraska Avenue (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv17lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at Nebraska Ave DMS (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at RR Crossing (68)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv68lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv68lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 SB at 9th Ave DMS (69)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv69lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv69lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 S at MM 53 (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv18lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 N at MM 53.5 (73)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv73lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv73lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29N at I-480E Flyover (71)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv71lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv71lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB I-29 N at MM 54 (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv19lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29SB at MM 54.9 (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv21lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 NB at MM 55 (29)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv29lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv29lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at 25th Street (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv22lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at IA 192 (23)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv23lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv23lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at S of Hamilton Ln (34)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv34lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv34lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at S of South I-680 Interchange (35)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv35lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv35lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at South I-680 Interchange (36)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv36lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv36lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at North I-880 Interchange (37)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv37lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv37lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: CB - I-29 at Weigh Station (43)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv43lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv43lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Sergeant Bluff Rest Area (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at 1st St in Sergeant Bluff (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at 8th St in Sergeant Bluff (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Singing Hills (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv04lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at US 20 - South (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at US 20 (06)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv06lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv06lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at US 20 - North (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at MM 145.4 (46)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv46lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv46lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at South of RR Bridge (28)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv28lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv28lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at RR Bridge (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at MM 147 (31)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv31lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv31lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Floyd River (44)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv44lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv44lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Floyd (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Pavillion (43)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv43lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv43lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Wesley Parkway (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Bluff (26)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv26lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv26lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Hamilton (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at South of Riverside (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv12lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at S. Riverside (27)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv27lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv27lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at Riverside (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-29: SC - I-29 at IA-SD border (30)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv30lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv30lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: BN - US 30 at Story St - Quad (01Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/bntv01qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv01qlb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: BN - US 30 at Story St (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/bntv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv01lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: BN - US 30 at Quill Ave (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/bntv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv02lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: BN - US 30 at IA 17 (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/bntv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv03lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: BN - US 30 at MM 139 (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/bntv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv04lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: BN - US 30 at U Ave (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/bntv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv05lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at Lincoln Way W (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv11lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at 500th Ave (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv12lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at S Dakota Ave (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv13lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at 520th Ave (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv14lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at W of University Blvd (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv15lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at University Blvd (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv16lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at S Duff Ave (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv17lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at S Dayton Ave (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv18lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: AM - US 30 at E of I-35 (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv19lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: NV - US 30 at 580th Ave (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nvtv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv01lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: NV - US 30 at 600th Ave (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nvtv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv02lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: NV - US 30 at SW 4th St (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nvtv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv03lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: NV - US 30 at S 11th St (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nvtv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv04lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: NV - US 30 at 19th St (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nvtv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv05lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: WWD - US 30 at S27 near Nevada (49)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wwd49lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd49lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at IA 100 (22Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv22qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/crtv22qlb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at 16th Ave SW (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv22lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at 80th St SW (60)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv60lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv60lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at 80th St SW (60Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv60qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv60qlb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at Stoney Point Rd (23)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv23lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv23lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at Williams Blvd SW (24)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv24lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv24lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at Edgewood Rd SW (25)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv25lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv25lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at 21st St SW (26)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv26lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv26lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at W of 6th St SW (27)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv27lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv27lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at J St SW (28)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv28lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv28lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at Kirkwood Blvd SW (29)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv29lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv29lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at C St SW (30)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv30lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv30lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at Ivanhoe Rd SW (31)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv31lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv31lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at Honey Grove Rd (32)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv32lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv32lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at E of Jappa Rd (33)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv33lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv33lb/playlist.m3u8"
+            },
+            {
+                "name": "US 30: CR - US 30 at IA 13 (34)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv34lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv34lb/playlist.m3u8"
+            },
+            {
+                "name": "US 34: 6CO - I-80 at MM 255.5 (IWZ 3143)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3143lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3143lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Co. Rd G50 (80)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv80lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv80lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at McKinley St (79)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv79lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv79lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: WWD - I-35 at MM 56.8 (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wwd05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at IA 92 (78)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv78lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv78lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Hoover St (77)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv77lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv77lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: 5BG - I-35 at MM 58.65 (IWZ 3124)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3124lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3124lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Fillmore St. (76)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv76lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv76lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Cumming Ave (75)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv75lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv75lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Adams St (74)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv74lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv74lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Maffitt Lake Rd (73)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv73lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv73lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at IA 5  (36)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv36lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv36lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Grand (49)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv49lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv49lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Mills Civic (50)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv50lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv50lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 SB at  Mills Civic (50Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv50qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv50qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Ashworth Ave (55)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv55lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv55lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at NE MixMaster (North) (69)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv69lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv69lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Corporate Woods DMS (37)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv37lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv37lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Corporate Woods (53)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv53lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv53lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at Oralabor (40)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv40lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv40lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at 1st St in Ankeny QUAD (41Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv41qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv41qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at 1st St in Ankeny (41)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv41lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv41lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at MM 94 (60)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv60lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv60lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at NE 36th St (61)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv61lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv61lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: 1DH - I-35 at MM 95.8 (IWZ 3154 North)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3154nlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3154nlb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: 1DH - I-35 at MM 95.8 (IWZ 3154 South)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3154slb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3154slb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: 1DH - I-35 at MM 97.3 (IWZ 3704)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3704lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3704lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: 1DH - I-35 at MM 99.3 (IWZ 3703)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3703lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3703lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: DM - I-35 at NE 158 Ave (64)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv64lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv64lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at IA 210 (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at Heart of Iowa Nature Trail (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at MM 105.6 (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at MM 107.8 (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv04lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at MM 109 (20)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv20lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv20lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at 260th St (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at US 30 W Flyover Ramp (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv21lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at US 30 (06Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv06qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv06qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at US 30 (06)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv06lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv06lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at N of US 30 (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv22lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at E Lincoln Way (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at E 13th St (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: AM - I-35 at E 190th St (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/amtv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: D1 - I-35 at IA 175 Ellsworth (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/d1tv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: D1 - I-35 at 300th St (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/d1tv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: D1 - I-35 at MM 140 near Williams (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/d1tv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: D1 - I-35 at US 20 (10Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/d1tv10qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/d1tv10qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-35: D1 - I-35 at US 20 Williams (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/d1tv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv10lb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: D1 - US 65 at Scotch Ridge Rd ICWS QUAD (12Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/D1TV12Qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/D1TV12Qlb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: D1 - US 65 at Scotch Ridge Rd ICWS (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/D1TV12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/D1TV12lb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: DM - US 65 at IA 5 (31)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv31lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv31lb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: DM - US 65 at Army Post Rd (30)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv30lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv30lb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: DM - US 65 at Vandalia (29)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv29lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv29lb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: DM - US 65 at University (28)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv28lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv28lb/playlist.m3u8"
+            },
+            {
+                "name": "US 65: DM - US 65 at NE 46th (27)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv27lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv27lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at I-80 (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv19lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at 53rd St (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at Spruce Hills (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at Middle Rd (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at Last Iowa Exit (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at N of US 67/Grant (30)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv30lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv30lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 Off Ramp at Grant St (30F)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv30flb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv30flb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at N End of WB Bridge (31)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv31lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv31lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at N End of EB Bridge (32)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv32lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv32lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at EB Miss River Perch (33)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv33lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv33lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at 11th Ave-IL (39)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv39lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv39lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at 16th Ave-IL (40)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv40lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv40lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at S End of EB Bridge (36)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv36lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv36lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at S End of WB Bridge (37)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv37lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv37lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 EB Truss (34Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv34qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv34qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at Avenue of the Cities (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 EB Truss (34F)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv34flb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv34flb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 EB Truss (33Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv33qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv33qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at 7th Ave-IL (38)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv38lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv38lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at 35th Ave-IL (41)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv41lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv41lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 EB Truss (34B)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv34blb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv34blb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at WB Miss River (35)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv35lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv35lb/playlist.m3u8"
+            },
+            {
+                "name": "I-74: QC - I-74 at EB Miss River (34)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv34lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv34lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at West I-29 Interchange (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-29/80 at W of S 24th St (46)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv46lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv46lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-29/80 at E of S 24th St (47)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv47lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv47lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80/29 at On Ramp S Expressway St (59)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv59lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv59lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80/29 at S Expressway St (55)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv55lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv55lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-29 NB at I-80 EB EXIT 48A (63)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv63lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv63lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80/29 at Harry Langdon Blvd (64)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv64lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv64lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at US 6 (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv12lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at Minden Interchange (39)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv39lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv39lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 4CF - I-80 at MM 108.7 (IWZ 3117)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3117lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3117lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at Grand Prairie Pkwy (48)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv48lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv48lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at Ashworth Rd (70)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv70lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv70lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 4DA - I-80 at MM 121 (IWZ 3101)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3101lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3101lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at Douglas (42)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv42lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv42lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at Morningstar (43)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv43lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv43lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at 2nd Ave (23)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv23lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv23lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at East of US 65 (47)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv47lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv47lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 154",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV154lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV154lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 182",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV183lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV183lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 194",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV194lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV194lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 197",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV197lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV197lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 200",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV200lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV200lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 204",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV204lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV204lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 226",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV226lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV226lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Half Moon Rd (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Ireland Ave NW (02A)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv02alb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv02alb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Jasper Ave (35)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv35lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv35lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at I-380 NB Flyover (39)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv39lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv39lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at East of Coral Ridge Ave (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at 12th Avenue (23)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv23lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv23lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DF - 1st Ave at I-80 (IWZ 3158)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3158lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3158lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at IA 1 (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80 : 4CF - I-80 EB at MM 111.45 (IWZ 3164)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3164lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3164lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at Missouri River Bridge (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at West I-29 Interchange (West) (49)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv49lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv49lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at West I-29 Interchange (East) (50)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv50lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv50lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-29/80 at W of S 24th St (51)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv51lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv51lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80/29 at East of S 24th St (60)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv60lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv60lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80/29 at Indian Creek (61)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv61lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv61lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-29/80 at WB On Ramp S Expressway (48)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv48lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv48lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80/29 WB at East Interchange (56)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv56lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv56lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at Harry Langdon (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at Woodbury Ave (58)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv58lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv58lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at Madison Avenue (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 E at MM 5.7 (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at McPherson (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at Hubbard Road (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: CB - I-80 at I-880 Interchange (38)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv38lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv38lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 4CF - I-80 WB at MM 110.2 (IWZ 3167)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3167lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3167lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 114",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80tv114lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv114lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at Grand Prairie Pkwy Quad (48Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv48qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv48qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 4CD - I-80 at MM 119.75 (IWZ 3135)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3135lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3135lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 4CD - I-80 at MM 120.20 (IWZ 3180)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3180lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3180lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at Jordan Creek (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv18lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80/235 at West Mixmaster (44)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv44lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv44lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 E Exit to N I-35 (67)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv67lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv67lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at Westown Pkwy (68)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv68lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv68lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at University (51)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv51lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv51lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at Hickman (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv19lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at Meredith Dr (57)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv57lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv57lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at IA 141 Flyover (96)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv96lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv96lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 / 35 at 100th St (97)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv97lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv97lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at 86th St (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv21lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at Merle Hay (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv22lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at NW Beaver Dr (95)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv95lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv95lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at E 14th (24)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv24lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv24lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80 at E of US 69 (89)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv89lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv89lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at MM 137.7 (88)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv88lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv88lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 Ramps at I-35 SB NE MixMaster (87)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv87lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv87lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-35/80/235 at NE Mixmaster (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at NE Mixmaster (East) (58)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv58lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv58lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at 38th in Altoona (54)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv54lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv54lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at US 65 (26)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv26lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv26lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at 34th Ave (56)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv56lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv56lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 EB at Hubbell Ave (25)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv25lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv25lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at Hubbell Ave (59)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv59lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv59lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at 1st Ave in Altoona (39)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv39lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv39lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: DM - I-80 at NE 80th in Altoona (38)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv38lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv38lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 147",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV147lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV147lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 149",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV149lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV149lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 150",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV150lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV150lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 152",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV152lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV152lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 155",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV155lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV155lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 159",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV159lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV159lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 161",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV161lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV161lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at 52nd St (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at Newton OH (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at W of US 6 (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at IA 14 (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at W. 4th St. (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv04lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at E. 12th St. (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at Speedway (06)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv06lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv06lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at Speedway Dr. (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at MM 169.8 (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at E 84th St. (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at Co Rd T22 (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at W of Co Rd T38N (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: NW - I-80 at Co Rd T38N (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/nwtv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv12lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 181",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV181lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV181lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 184",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV184lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV184lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 186",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV186lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV186lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 188",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV188lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV188lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 190",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV190lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV190lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 192",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV192lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV192lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 196",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV196lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV196lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 198",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV198lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV198lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 202",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV202lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV202lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 205",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV205lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV205lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 206",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80tv206lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv206lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 208",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV208lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV208lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 210",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV210lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV210lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 212",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80tv212lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv212lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 214",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV214lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV214lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 215",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV215lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV215lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 217",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV217lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV217lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 219",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV219lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV219lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 220",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80tv220lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv220lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 222",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV222lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV222lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 223",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV223lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV223lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: I-80 at MM 225",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/80TV225lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV225lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Y Ave (26)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv26lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv26lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at MM 230 (29)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv29lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv29lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Black Hawk Ave NW (27)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv27lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv27lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Eagle Ave NW (28)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv28lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv28lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at I-380 NB Flyover (38)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv38lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv38lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at US 6 (40)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv40lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv40lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Coral Ridge Ave (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv04lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DF - I-80 at MM 242.9 (IWZ 3700)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3700lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3700lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DF - Ponsetti Way at IA River Landing Pl (IWZ3152 E)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3152elb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3152elb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DF - Ponsetti Way at IA River Landing Pl (IWZ3152 W)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3152wlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3152wlb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Dubuque St (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Prairie du Chien (24)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv24lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv24lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at MM 246 (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Herbert Hoover Hwy (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv19lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at Wapsi Ave (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6CO - I-80 at MM 252 (IWZ3192)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3192lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3192lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6CO - I-80 at MM 253 (IWZ3190)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3190lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3190lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: IC - I-80 at S Downey Dr (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv21lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DL - I-80 at MM 268.80 (IWZ 3136)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3136lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3136lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DL - I-80 at MM 269.05 (IWZ 3118 East)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3118lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3118lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DL - I-80 at MM 269.05 (IWZ 3118 West)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3118wlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3118wlb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: 6DL - I-80 at MM 270 (IWZ 3126)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3126lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3126lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at Walcott DMS (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at Co Rd Y48 (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv15lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at I-280 (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at Northwest Blvd (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv17lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at Brady (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv18lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at LeClaire (20)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv20lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv20lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at S Cody Rd/US 67 (61)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv61lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv61lb/playlist.m3u8"
+            },
+            {
+                "name": "I-80: QC - I-80 at Visitor Center (60)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv60lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv60lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at E Ave NW - MM 1.3 (59)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv59lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv59lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at Ellis Rd - MM 2.8 (58)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv58lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv58lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at Covington Rd - MM 3.8 (57)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv57lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv57lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 W of Cedar River - MM 5.3 (56)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv56lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv56lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 E of Cedar River - MM 5.7 (55)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv55lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv55lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 Near Xavier High School - MM 6.2 (54)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv54lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv54lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 W of Edgewood Rd NE - MM 6.6 (53)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv53lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv53lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at Edgewood Rd NE (35Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv35qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv35qlb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at Edgewood Rd NE (35)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv35lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv35lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 W of I-380 (36)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv36lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv36lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at Tama St (43)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv43lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv43lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at Menards Ln (44)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv44lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv44lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at E Post Rd (45)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv45lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv45lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at S 22nd St (46)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv46lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv46lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 100: CR - IA 100 at IA 13 (47)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv47lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv47lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 141: DM - IA 141 at NW 121st St - ICWS Quad (94Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv94qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv94qlb/playlist.m3u8"
+            },
+            {
+                "name": "IA 141: DM - IA 141 at NW 121st St - ICWS (94)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv94lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv94lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 141: DM - IA 141 at IA 415 (93)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv93lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv93lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 141: DM - IA 141 at E 1st St (92)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv92lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv92lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 141: DM - IA 141 at SE 19th St (91)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv91lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv91lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 141: DM - IA 141 at SE 37th St (90)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv90lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv90lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: IC - US 218 at IA 1 (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv11lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: IC - US 218 at Melrose (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv12lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: IC - US 218 at Melrose DMS (25)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv25lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv25lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: IC - US 218 at South of I-80 (34)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv34lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv34lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: IC - US 218 NB Ramp to I-80 (32)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv32lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv32lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at SB Ramp to I-380 SB (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv04lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at Hawthorn (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv22lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at Williston Rd (23)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv23lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv23lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at W 11th St (24)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv24lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv24lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at W 8th St (25)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv25lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv25lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at W 1st St (26)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv26lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv26lb/playlist.m3u8"
+            },
+            {
+                "name": "US 218: WL - US 218 at Sergeant Rd (27)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv27lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv27lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-35/80/235 at West Mixmaster (44Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv44qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv44qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: WWD - IA 141 at MM 148.8 (40)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wwd40lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd40lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 42nd WDM (72)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv72lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv72lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at Valley West in WDM (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv17lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 22nd St in WDM (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 63rd St (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv15lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at Polk Blvd (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 42nd St (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 35th St (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv12lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 28th St (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at MLK (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at Keo Way (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 7th Ave (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at 2nd Ave (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: WWD - I-235 at MM 8.3 (67)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wwd67lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd67lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at E 14th (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at University (71)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv71lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv71lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: WWD - I-235 at MM 10.5 (68)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wwd68lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd68lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at E 21st (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv04lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at Guthrie (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: DM - I-235 at Euclid (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-235: 1DD - I-235 at MM 13 (IWZ 3113)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3113lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3113lb/playlist.m3u8"
+            },
+            {
+                "name": "US 275: CB - US 275 at South Expressway (28)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv28lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv28lb/playlist.m3u8"
+            },
+            {
+                "name": "US 275: CB - US 275 at 11th Street (27)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv27lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv27lb/playlist.m3u8"
+            },
+            {
+                "name": "US 275: CB - US 275 at 24th Street (26)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv26lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv26lb/playlist.m3u8"
+            },
+            {
+                "name": "US 275: CB - US 275 East of Missouri River Bridge (25)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv25lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv25lb/playlist.m3u8"
+            },
+            {
+                "name": "I-280: 6DF - I-80 at MM 243.8 (IWZ 3196)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3196lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3196lb/playlist.m3u8"
+            },
+            {
+                "name": "I-280: QC - I-280 at Kimberly Rd (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv22lb/playlist.m3u8"
+            },
+            {
+                "name": "I-280: QC - I-280 at Rockingham Rd (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv21lb/playlist.m3u8"
+            },
+            {
+                "name": "I-280: QC - I-280 at MM 9.25 (51)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv51lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv51lb/playlist.m3u8"
+            },
+            {
+                "name": "I-280: QC - I-280 at Centennial Expwy - IL (50)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/qctv50lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv50lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Penn St (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Swan Lake (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv15lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Iowa River (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv17lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Swisher (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv18lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 76th Ave (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Wilson Ave SW (07Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv07qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv07qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 1st Ave SW (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 1st Ave SW (09Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv09qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv09qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 32nd St NE (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Collins Rd- South (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Collins Rd- North (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv17lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Boyson Rd (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv19lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Tower Terrace Rd (20)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv20lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv20lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at US 20 East 2 (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at S. Raymond Road (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at Gilbertville Road (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - Evansdale water Tower - West (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at River Road (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at Cedar River (06)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv06lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv06lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at N of US 20 (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv19lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - US 218 at San Marnan Dr (20)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv20lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv20lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at MM 0.2 (03)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv03lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv03lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 SB at I-80 EB Ramp (41)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv41lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv41lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Oak Hill School (36)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv36lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv36lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Forevergreen Rd (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at MM 3.15 (37)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv37lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv37lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: IC - I-380 at Hwy 965 NE (16)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv16lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv16lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Rest Area (01)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv01lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv01lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Wright Bros Blvd (02)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv02lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv02lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at US 30 South (04)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv04lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv04lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at US 30 North (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 33rd Ave SW (06)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv06lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv06lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Wilson Ave SW (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Diagonal Dr SW (08)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv08lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv08lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 4th St SE (10)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv10lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv10lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 8th St NE (11)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv11lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv11lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at H Ave NE (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv12lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Coldstream Ave NE (13)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv13lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv13lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at 42nd St NE (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv15lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Blairs Ferry Rd NE (18)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv18lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv18lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 at Tower Terrace (20Q)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv20qlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv20qlb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: CR - I-380 SB at MM 28.8 (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv21lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at Poyner Road (15)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv15lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv15lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at MM 64 (14)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv14lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv14lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at US 20 East 1 (12)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv12lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv12lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at Evansdale Drive (09)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv09lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv09lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - Evansdale water Tower - East (17)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv17lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv17lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at River Forest Road (07)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv07lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv07lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - I-380 at US 20 West (05)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv05lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv05lb/playlist.m3u8"
+            },
+            {
+                "name": "I-380: WL - US 218 at N of San Marnan Dr (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/wltv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv21lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 415: DM - IA 415 at Mile Long Bridge (66)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv66lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv66lb/playlist.m3u8"
+            },
+            {
+                "name": "IA 415: DM - IA 415 at NW 106th Ave (65)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv65lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv65lb/playlist.m3u8"
+            },
+            {
+                "name": "I-480: CB - I-480 at Missouri River Bridge (20)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv20lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv20lb/playlist.m3u8"
+            },
+            {
+                "name": "I-480: CB - I-480 W at MM 0.1 (72)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv72lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv72lb/playlist.m3u8"
+            },
+            {
+                "name": "Ankeny: 5BC - US 63 at MM 46 (IWZ 3103 East)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3103elb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3103elb/playlist.m3u8"
+            },
+            {
+                "name": "Ankeny: 5BC - US 63 at MM 46 (IWZ 3103 West)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/iwz3103wlb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3103wlb/playlist.m3u8"
+            },
+            {
+                "name": "Avenue G: CB - Avenue G at 16th Street (41)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv41lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv41lb/playlist.m3u8"
+            },
+            {
+                "name": "Avenue G: CB - Avenue G at 8th Street (42)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv42lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv42lb/playlist.m3u8"
+            },
+            {
+                "name": "Collins Rd: CR - Collins Rd at C Ave NE (40)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv40lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv40lb/playlist.m3u8"
+            },
+            {
+                "name": "Collins Rd: CR - Collins Rd at Council St NE (37)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv37lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv37lb/playlist.m3u8"
+            },
+            {
+                "name": "Collins Rd: CR - Collins Rd at F Ave NE (39)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv39lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv39lb/playlist.m3u8"
+            },
+            {
+                "name": "Collins Rd: CR - Collins Rd at Rockwell Dr NE (38)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv38lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv38lb/playlist.m3u8"
+            },
+            {
+                "name": "Collins Rd: CR - Collins Rd at 1st Ave E (42)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/crtv42lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv42lb/playlist.m3u8"
+            },
+            {
+                "name": "Gordon Dr: SC - Gordon Dr at Nebraska (19)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv19lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv19lb/playlist.m3u8"
+            },
+            {
+                "name": "Gordon Dr: SC - Gordon Dr at Virginia (20)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv20lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv20lb/playlist.m3u8"
+            },
+            {
+                "name": "Gordon Dr.: SC - Gordon Dr at Court St (42)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv42lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv42lb/playlist.m3u8"
+            },
+            {
+                "name": "Kanesville: CB - Kanesville at N Broadway (31)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv31lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv31lb/playlist.m3u8"
+            },
+            {
+                "name": "Kanesville: CB - Kanesville at 7th Street (30)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv30lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv30lb/playlist.m3u8"
+            },
+            {
+                "name": "Kansas Ave: IC - Kansas Ave at I-80/380 System IC (33)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/ictv33lb.flv.jpg",
+                "stream_url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv33lb/playlist.m3u8"
+            },
+            {
+                "name": "Larsen Park Rd.: SC - Larsen Park Rd at Virginia St (29)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv29lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv29lb/playlist.m3u8"
+            },
+            {
+                "name": "Nebraska Ave: CB - Nebraska Ave at 35th St (70)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/cbtv70lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv70lb/playlist.m3u8"
+            },
+            {
+                "name": "Nebraska St.: SC - Nebraska St at Gordon Dr (24)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv24lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv24lb/playlist.m3u8"
+            },
+            {
+                "name": "S Lewis: SC - S Lewis at Glenn (22)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv22lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv22lb/playlist.m3u8"
+            },
+            {
+                "name": "S Lewis: SC - S Lewis at Golf Course (23)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv23lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv23lb/playlist.m3u8"
+            },
+            {
+                "name": "S Lewis: SC - S Lewis at Singing Hills (21)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv21lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv21lb/playlist.m3u8"
+            },
+            {
+                "name": "S Lewis: SC - S Lewis at Gordon (25)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/sctv25lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv25lb/playlist.m3u8"
+            },
+            {
+                "name": "University Ave: DM - University Ave at Hickory (46)",
+                "img": "https://iowadotsnapshot.us-east-1.skyvdn.com/thumbs/dmtv46lb.flv.jpg",
+                "stream_url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv46lb/playlist.m3u8"
+            }
+        ]
+    }
+]
