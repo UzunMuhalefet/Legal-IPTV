@@ -1,0 +1,1117 @@
+[
+    {
+        "name": "Hawaii - Traffic Cameras",
+        "episodes": [
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0001.jpg",
+                "name": "Ala Moana and Ala Moana Makai Exit",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0001_Ala_Moana_and_Ala_Moana_Makai.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0002.jpg",
+                "name": "Ala Moana and Atkinson",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0002_Ala_Moana_and_Atkinson.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0226.jpg",
+                "name": "Ala Moana and Hobron",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0226_Ala_Moana_and_Hobron.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0198.jpg",
+                "name": "Ala Moana and Kahanamoku",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0198_Ala_Moana_and_Kahanamoku.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0004.jpg",
+                "name": "Ala Moana and Kamakee",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0004_Ala_Moana_and_Kamakee.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0005.jpg",
+                "name": "Ala Moana and Piikoi",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0005_Ala_Moana_and_Piikoi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0006.jpg",
+                "name": "Ala Moana and Ward",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0006_Ala_Moana_and_Ward.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0007.jpg",
+                "name": "Ala Wai and Kanekapolei",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0007_Ala_Wai_and_Kanekapolei.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0217.jpg",
+                "name": "Ala Wai and Kapahulu",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0217_Ala_Wai_and_Kapahulu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0008.jpg",
+                "name": "Ala Wai and McCully",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0008_Ala_Wai_and_McCully.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0200.jpg",
+                "name": "Ala Wai and Seaside",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0200_Ala_Wai_and_Seaside.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0193.jpg",
+                "name": "Alakea and Hotel",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0193_Alakea_and_Hotel.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0010.jpg",
+                "name": "Beretania and Bishop",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0010_Beretania_and_Bishop.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0011.jpg",
+                "name": "Beretania and Keeaumoku",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0011_Beretania_and_Keeaumoku.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0012.jpg",
+                "name": "Beretania and McCully",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0012_Beretania_and_McCully.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0013.jpg",
+                "name": "Beretania and Piikoi",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0013_Beretania_and_Piikoi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0014.jpg",
+                "name": "Beretania and Punahou",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0014_Beretania_and_Punahou.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0015.jpg",
+                "name": "Beretania and Punchbowl",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0015_Beretania_and_Punchbowl.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0016.jpg",
+                "name": "Beretania and Ward",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0016_Beretania_and_Ward.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0017.jpg",
+                "name": "Dillingham and Alakawa",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0017_Dillingham_and_Alakawa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0018.jpg",
+                "name": "Dillingham and Kalihi",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0018_Dillingham_and_Kalihi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0019.jpg",
+                "name": "Dillingham and Middle",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0019_Dillingham_and_Middle.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0020.jpg",
+                "name": "Dillingham and Waiakamilo",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0020_Dillingham_and_Waiakamilo.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0332.jpg",
+                "name": "Farrington Hwy and Auyong Homestead Rd",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0332_Farrington_and_Auyoung.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0306.jpg",
+                "name": "Farrington Hwy and Haleakala Ave",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0306_Farrington_and_Haleakala.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0309.jpg",
+                "name": "Farrington Hwy and Helelua St",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0309_Farrington_and_Helelua.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0255.jpg",
+                "name": "Farrington Hwy and Kealanani Ave",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0255_Farrington_Hwy_and_Kealanani_Ave.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0264.jpg",
+                "name": "Farrington Hwy and Kualakai Parkway",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0264_Farrington_and_Kualakai.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0256.jpg",
+                "name": "Farrington Hwy and Makakilo Drive and Fort Barrette Road #1",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0256_Farrington_and_Makakilo_1.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0307.jpg",
+                "name": "Farrington Hwy and Nanakuli Ave",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0307_Farrington_and_Nanakuli.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0308.jpg",
+                "name": "Farrington Hwy and Nanakuli Village",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0308_Farrington_and_Nanakuli_Village.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0024.jpg",
+                "name": "Farrington and H-1 Ramps",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0024_Farrington_and_H1_Ramps.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0026.jpg",
+                "name": "Farrington and Leoku St",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0026_Farrington_and_Leoku.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0027.jpg",
+                "name": "Farrington and Paiwa St",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0027_Farrington_and_Paiwa_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0029.jpg",
+                "name": "Farrington and Waipahu Depot Rd",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0029_Farrington_and_Waipahu_Depot_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0030.jpg",
+                "name": "Ft. Weaver and Aawa Dr",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0030_Fort_Weaver_and_Aawa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0031.jpg",
+                "name": "Ft. Weaver and Family Service",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0031_Fort_Weaver_and_Family_Service.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0032.jpg",
+                "name": "Ft. Weaver and Geiger",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0032_Fort_Weaver_and_Geiger.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0033.jpg",
+                "name": "Ft. Weaver and Kolowaka",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0033_Fort_Weaver_and_Kolowaka.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0034.jpg",
+                "name": "Ft. Weaver and Laulaunui",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0034_Fort_Weaver_and_Laulaunui.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0232.jpg",
+                "name": "H-1 Interchange at Paiwa Street (Eastbound On-Off Ramp)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0232_H1_and_Paiwa_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0233.jpg",
+                "name": "H-1 Interchange at Paiwa Street (Westbound On-Off Ramp)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0233_H1_and_Paiwa_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0057.jpg",
+                "name": "H-1 Viaduct (Eastbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0057_H1_Viaduct_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0038.jpg",
+                "name": "H-1 and Aiea Heights Overpass",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0038_H1_and_Aiea_Heights_Overpass.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0039.jpg",
+                "name": "H-1 and H-2 Merge (Eastbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0039_H1_and_H2_Merge_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0040.jpg",
+                "name": "H-1 and H-2 Merge (Westbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0040_H1_and_H2_Merge_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0041.jpg",
+                "name": "H-1 and Kaahumanu (Eastbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0041_H1_and_Kaahumanu_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0042.jpg",
+                "name": "H-1 and Kaahumanu (Westbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0042_H1_and_Kaahumanu_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0044.jpg",
+                "name": "H-1 and Kaonohi (Westbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0044_H1_and_Kaonohi_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0045.jpg",
+                "name": "H-1 and Kokohead",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0045_H1_and_Kokohead.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0048.jpg",
+                "name": "H-1 and Liliha",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0048_H1_and_Liliha.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0049.jpg",
+                "name": "H-1 and Middle St",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0049_H1_and_Middle_CCHNL.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0051.jpg",
+                "name": "H-1 and Punahou",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0051_H1_and_Punahou.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0054.jpg",
+                "name": "H-1 and Salt Lake Blvd (Westbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0054_H1_and_Salt_Lake_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0058.jpg",
+                "name": "H-1 and Vineyard Off Ramp",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0058_H1_and_Vineyard_Off_Ramp.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0059.jpg",
+                "name": "H-1 and Waikele (Eastbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0059_H1_and_Waikele_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0060.jpg",
+                "name": "H-1 and Waikele (Westbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0060_H1_and_Waikele_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0063.jpg",
+                "name": "H-1 and Ward",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0063_H1_and_Ward.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0062.jpg",
+                "name": "H-1 at Waimalu Exit (Eastbound)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0062_H1_and_Waimalu_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0243.jpg",
+                "name": "H-2 Interchange (Northbound) at Ka Uka Boulevard",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0243_H2_Interchange_NB_Ka_Uka_Blvd.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0122.jpg",
+                "name": "H-201 and Ft. Shafter",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0122_H201_and_Fort_Shafter.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0188.jpg",
+                "name": "H-201 and Halawa",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0188_H201_and_Halawa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0187.jpg",
+                "name": "H-201 and Kahuapaani St",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0187_H201_and_Kahuapaani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0168.jpg",
+                "name": "H-3 - Haiku Portal HB",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0168_Haiku_Portal_HB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0182.jpg",
+                "name": "H-3 - Haiku Valley",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0182_Haiku_Valley.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0175.jpg",
+                "name": "H-3 - Halawa Interchange",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0175_Halawa_Interchange.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0176.jpg",
+                "name": "H-3 - Halawa Portal HB",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0176_Halawa_Portal_HB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0177.jpg",
+                "name": "H-3 - Halawa Portal KB",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0177_Halawa_Portal_KB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0173.jpg",
+                "name": "H-3 - Halawa Tunnel Approach KB",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0173_Halawa_Tunnel_Approach_KB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0174.jpg",
+                "name": "H-3 - Halawa Valley",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0174_Halawa_Valley.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0172.jpg",
+                "name": "H-3 - Halawa Valley Emergency Escape Ramp",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0172_H3_Halawa_Valley_Emergency_Escape_Ramp.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0178.jpg",
+                "name": "H-3 - Halekou Interchange",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0178_Halekou_Interchange.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0185.jpg",
+                "name": "H-3 - Hospital Rock Tunnel",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0185_Hospital_Rock_Tunnel.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0184.jpg",
+                "name": "H-3 - Likelike Overpass",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0184_Likelike_Overpass.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0183.jpg",
+                "name": "H-3 - North Haiku Valley",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0183_North_Haiku_Valley.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0170.jpg",
+                "name": "H-3 - North Halawa Valley",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0170_North_Halawa_Valley.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0171.jpg",
+                "name": "H-3 - North of Halawa Interchange",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0171_North_of_Halawa_Interchange.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0181.jpg",
+                "name": "H-3 - South Haiku Valley",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0181_South_Haiku_Valley.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0169.jpg",
+                "name": "H-3 - South Halawa Valley",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0169_South_Halawa_Valley.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0180.jpg",
+                "name": "H-3 - South Halekou Interchange",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0180_South_Halekou_Interchange.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0167.jpg",
+                "name": "H-3 Ramp to Airport Viaduct EB",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0167_H3_Ramp_to_H1_Airport_Viaduct.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0186.jpg",
+                "name": "H-3 and Kahuapaani St",
+                "stream_url": "https://cdn3.wowza.com/5/eGNPNml0UHc3RFFI/HDOT/TL-0186_H3_and_Kahuapaani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0009.jpg",
+                "name": "Haiku Rd and Alaloa",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0009_Haiku_and_Alaloa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0064.jpg",
+                "name": "Hawaii Convention Center",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0064_Hawaii_Convention_Center.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0241.jpg",
+                "name": "Ka Uka Boulevard at Ukee Street (North)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0241_Ka_Uka_and_Ukee_North.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0239.jpg",
+                "name": "Ka Uka Boulevard at Ukee Street (South)",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0239_Ka_Uka_and_Ukee_South.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0240.jpg",
+                "name": "Ka Uka Boulevard at Waipio Uka Street",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0240_Ka_Uka_and_Waipio_Uka.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0066.jpg",
+                "name": "Kahekili and Kahuhipa",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0066_Kahekili_and_Kahuhipa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0067.jpg",
+                "name": "Kahekili and Keaahala",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0067_Kahekili_and_Keaahala.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0068.jpg",
+                "name": "Kahekili and Kulukeoe",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0068_Kahekili_and_Kulukeoe.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0069.jpg",
+                "name": "Kal Hwy and Ainakoa",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0069_Kal_Hwy_and_Ainakoa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0070.jpg",
+                "name": "Kal Hwy and E. Halemaumau",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0070_Kal_Hwy_and_E_Halemaumau.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0071.jpg",
+                "name": "Kal Hwy and Hawaii Kai Dr",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0071_Kal_Hwy_and_Hawaii_Kai.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0072.jpg",
+                "name": "Kal Hwy and Keahole",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0072_Kal_Hwy_and_Keahole.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0073.jpg",
+                "name": "Kal Hwy and Kuliouou",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0073_Kal_Hwy_and_Kuliouou.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0074.jpg",
+                "name": "Kal Hwy and Laukahi",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0074_Kal_Hwy_and_Laukahi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0075.jpg",
+                "name": "Kal Hwy and Puuikena",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0075_Kal_Hwy_and_Puuikena.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0076.jpg",
+                "name": "Kal Hwy and West Hind Dr",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0076_Kal_Hwy_and_West_Hind.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0219.jpg",
+                "name": "Kalakaua and Ala Moana",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0219_Kalakaua_and_Ala_Moana.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0218.jpg",
+                "name": "Kalakaua and Ala Wai",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0218_Kalakaua_and_Ala_Wai.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0222.jpg",
+                "name": "Kalakaua and Beachwalk",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0222_Kalakaua_and_Beachwalk.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0077.jpg",
+                "name": "Kalakaua and Kaiulani",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0077_Kalakaua_and_Kaiulani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0078.jpg",
+                "name": "Kalakaua and Kapahulu",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0078_Kalakaua_and_Kapahulu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0079.jpg",
+                "name": "Kalakaua and Kuhio",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0079_Kalakaua_and_Kuhio.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0080.jpg",
+                "name": "Kalakaua and Lewers",
+                "stream_url": "https://cdn3.wowza.com/5/SXBEWXZIK3ZOTG5U/W1CCHNL_A/TL-0080_Kalakaua_and_Lewers.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0206.jpg",
+                "name": "Kam Hwy and Ford Island Blvd",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0206_Kam_Hwy_and_Ford_Island_Blvd.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0093.jpg",
+                "name": "Kam Hwy and H-3 WB off ramp",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0093_Kam_Hwy_and_H1_SE.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0081.jpg",
+                "name": "Kam Hwy and Halaulani",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0081_Kam_Hwy_and_Halaulani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0094.jpg",
+                "name": "Kam Hwy and Kaahumanu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0094_Kam_Hwy_and_Kaahumanu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0203.jpg",
+                "name": "Kam Hwy and Kaahumanu #2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0203_Kam_Hwy_and_Kaahumanu_2.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0095.jpg",
+                "name": "Kam Hwy and Kaonohi",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0095_Kam_Hwy_and_Kaonohi_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0205.jpg",
+                "name": "Kam Hwy and Pali Momi",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0205_Kam_Hwy_and_Pali_Momi_IN.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0155.jpg",
+                "name": "Kam Hwy and Salt Lake Blvd",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0155_Kam_Hwy_and_Salt_Lake_Blvd.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0096.jpg",
+                "name": "Kam Hwy and Waimano Home Rd",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0096_Kam_Hwy_and_Waimano_Home_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0083.jpg",
+                "name": "Kam and Kaneohe and Likelike 2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0083_Kam_Hwy_and_Likelike_and_Kaneohe_Bay_2.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0084.jpg",
+                "name": "Kam and Keole",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0084_Kam_Hwy_and_Keole.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0086.jpg",
+                "name": "Kam and Lilipuna and Haiku",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0086_Kam_Hwy_and_Lilipuna_and_Haiku.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0087.jpg",
+                "name": "Kam and Lilipuna and Kahuhipa",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0087_Kam_Hwy_and_Lilipuna_and_Kahuipa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0088.jpg",
+                "name": "Kam and Luluku",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0088_Kam_Hwy_and_Luluku.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0089.jpg",
+                "name": "Kam and Mokulele",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0089_Kam_Hwy_and_Mokulele.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0090.jpg",
+                "name": "Kam and Wm Henry and Keaahala",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0090_Kam_Hwy_and_Wm_Henry_and_Keaahala.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0207.jpg",
+                "name": "Kamehameha Hwy and Center Dr WB",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0207_Kam_Hwy_and_Center.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0097.jpg",
+                "name": "Kamehameha Hwy and Halawa Dr EB",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0097_Kam_Hwy_and_Arizona.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0189.jpg",
+                "name": "Kamehameha Hwy and Honomanu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0189_Kam_Hwy_and_Honomanu_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0270.jpg",
+                "name": "Kamehameha Hwy and Lumiaina Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0270_Kam_Hwy_and_Lumiaina.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0269.jpg",
+                "name": "Kamehameha Hwy and Lumiauau Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0269_Kam_Hwy_and_Lumiauau.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0268.jpg",
+                "name": "Kamehameha Hwy and Waipahu Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0268_Kam_Hwy_and_Waipahu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0271.jpg",
+                "name": "Kamehameha Hwy and Waipio Uka Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0271_Kam_Hwy_and_Waipio_Uka.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0238.jpg",
+                "name": "Kamehameha Hwy at Ka Uka Boulevard",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0238_Kam_Hwy_and_Ka_Uka.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0258.jpg",
+                "name": "Kamokila Blvd Farrington and Kapowai Place",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0258_Kamokila_and_kapowai.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0261.jpg",
+                "name": "Kamokila Blvd and Uluohia St",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0261_Kamokila_Blvd_and_Uluohia_St.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0260.jpg",
+                "name": "Kamokila Blvd and Wakea Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0260_Kamokila_and_Wakea.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0021.jpg",
+                "name": "Kapahulu and Date",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0021_Kapahulu_and_Date.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0098.jpg",
+                "name": "Kapahulu and Olu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0098_Kapahulu_and_Olu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0208.jpg",
+                "name": "Kapiolani and Atkinson",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0208_Kapiolani_and_Atkinson.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0099.jpg",
+                "name": "Kapiolani and Date",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0099_Kapiolani_and_Date.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0100.jpg",
+                "name": "Kapiolani and Kalakaua",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0100_Kapiolani_and_Kalakaua.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0101.jpg",
+                "name": "Kapiolani and Keeaumoku",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0101_Kapiolani_and_Keeaumoku.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0102.jpg",
+                "name": "Kapiolani and McCully",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0102_Kapiolani_and_McCully.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0272.jpg",
+                "name": "Kapiolani and Pensacola",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0272_Kapiolani_and_Pensacola.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0103.jpg",
+                "name": "Kapiolani and Ward",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0103_Kapiolani_and_Ward.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0247.jpg",
+                "name": "Kapolei Parkway and Kamaaha Avenue",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0247_Kapolei_and_Kamaaha.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0262.jpg",
+                "name": "Kapolei Parkway and Kamokila Boulevard #1",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0262_Kapolei_and_Kamokila_1.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0263.jpg",
+                "name": "Kapolei Parkway and Kamokila Boulevard #2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0263_Kapolei_and_Kamokila_2.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0246.jpg",
+                "name": "Kapolei Parkway and Kualakai Parkway #2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0246_Kapolei_and_Kualakai_2.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0248.jpg",
+                "name": "Kapolei Parkway and Maluohi Street (Kapolei High School)",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0248_Kapolei_and_Maluohi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0231.jpg",
+                "name": "Kapolei and Kalaeloa",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0231_Kapolei_and_Kalaeloa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0244.jpg",
+                "name": "Kapolei and Renton Road",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0244_Kapolei_and_Renton.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0104.jpg",
+                "name": "Keeaumoku and Rycroft 1",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0104_Keeaumoku_and_Rycroft_IN.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0105.jpg",
+                "name": "Keeaumoku and Rycroft 2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0105_Keeaumoku_and_Rycroft_OUT.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0106.jpg",
+                "name": "King and Beretania",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0106_King_and_Beretania.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0107.jpg",
+                "name": "King and Bishop",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0107_King_and_Bishop.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0108.jpg",
+                "name": "King and Dillingham and Liliha",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0108_King_and_Dillingham_and_Liliha.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0109.jpg",
+                "name": "King and Houghtailing",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0109_King_and_Houghtailing.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0110.jpg",
+                "name": "King and Kalakaua",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0110_King_and_Kalakaua.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0111.jpg",
+                "name": "King and Kalihi",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0111_King_and_Kalihi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0112.jpg",
+                "name": "King and Maunakea",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0112_King_and_Maunakea.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0273.jpg",
+                "name": "King and Pensacola",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0273_King_and_Pensacola.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0113.jpg",
+                "name": "King and Punchbowl",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0113_King_and_Punchbowl.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0114.jpg",
+                "name": "King and South and Kapiolani",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0114_King_and_Kapiolani_and_South.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0115.jpg",
+                "name": "King and University",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0115_King_and_University.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0275.jpg",
+                "name": "King and Victoria",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0275_King_and_Victoria.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0195.jpg",
+                "name": "Kuala and Acacia",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0195_Kuala_and_Acacia.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0209.jpg",
+                "name": "Kuala and Kaakepa",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0209_Kuala_and_Kaakepa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0197.jpg",
+                "name": "Kuala and Makolu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0197_Kuala_and_Makolu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0196.jpg",
+                "name": "Kuala and Walmart",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0196_Kuala_and_Walmart.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0265.jpg",
+                "name": "Kualakai Parkway at H-1 Ramps",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0265_Kualakai_and_H1_Ramp.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0339.jpg",
+                "name": "Kualakai Pkwy and H-1 off ramp (WB)",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0339_Kualakai_and_H1_Off_Ramp_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0116.jpg",
+                "name": "Kuhio and Kaiulani",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0116_Kuhio_and_Kaiulani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0202.jpg",
+                "name": "Kuhio and Kapahulu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0202_Kuhio_and_Kapahulu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0338.jpg",
+                "name": "Kuhio and Seaside",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0338_Kuhio_and_Seaside.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0117.jpg",
+                "name": "Likelike and Anoi",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0117_Likelike_and_Anoi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0118.jpg",
+                "name": "Likelike and Kahekili",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0118_Likelike_and_Kahekili.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0119.jpg",
+                "name": "Likelike and Kam IV Rd",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0119_Likelike_and_Kam_IV.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0120.jpg",
+                "name": "Likelike and Kula Kolea",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0120_Likelike_and_Kula_Kolea.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0121.jpg",
+                "name": "Likelike and School",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0121_Likelike_and_School.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0237.jpg",
+                "name": "Lumiaina Street at Lumiauau Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0237_Lumiaina_and_Lumiauau.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0234.jpg",
+                "name": "Lumiaina Street at Paiwa Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0234_Lumiaina_and_Paiwa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0236.jpg",
+                "name": "Lumiaina Street at Pulelo Street",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0236_Lumiaina_and_Pulelo.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0235.jpg",
+                "name": "Lumiaina Street at Waikele Shopping Center Driveway",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0235_Lumiaina_and_Waikele_Shopping_Center.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0279.jpg",
+                "name": "Meheula Parkway and Kaapeha",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0279_Meheula_and_Kaapeha.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0278.jpg",
+                "name": "Meheula Parkway and Koolani",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0278_Meheula_and_Koolani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0281.jpg",
+                "name": "Meheula Parkway and Kuaoa",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0281_Meheula_and_Kuaoa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0280.jpg",
+                "name": "Meheula Parkway and Lehiwa",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0280_Meheula_and_Lehiwa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0277.jpg",
+                "name": "Meheula Parkway and Makaikai",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0277_Meheula_and_Makaikai.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0285.jpg",
+                "name": "Meheula Pkwy and Ainamakua Dr",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0285_Meheula_and_Ainamakua.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0284.jpg",
+                "name": "Meheula Pkwy and H-2 Interchange North",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0284_Meheula_and_H2_North.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0282.jpg",
+                "name": "Meheula Pkwy and H-2 Interchange South 1",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0282_Meheula_and_H2_South_1.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0283.jpg",
+                "name": "Meheula Pkwy and H-2 Interchange South 2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0283_Meheula_and_H2_South_2.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0123.jpg",
+                "name": "Moanalua Rd and Aiea Hts Dr",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0123_Moanalua_and_Aiea_Hts.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0124.jpg",
+                "name": "Moanalua Rd and Honomanu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0124_Moanalua_and_Honomanu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0125.jpg",
+                "name": "Moanalua Rd and Kaahumanu St",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0125_Moanalua_and_Kaahumanu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0129.jpg",
+                "name": "Nimitz and Alakawa 1",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0129_Nimitz_and_Alakawa_1.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0130.jpg",
+                "name": "Nimitz and Alakawa 2",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0130_Nimitz_and_Alakawa_2.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0131.jpg",
+                "name": "Nimitz and Alakea",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0131_Nimitz_and_Alakea.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0134.jpg",
+                "name": "Nimitz and Kalihi",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0134_Nimitz_and_Kalihi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0276.jpg",
+                "name": "Nimitz and Nuuanu",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0276_Nimitz_and_Nuuanu.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0135.jpg",
+                "name": "Nimitz and Ohohia St (Eastbound)",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0135_Nimitz_and_Ohohia_EB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0136.jpg",
+                "name": "Nimitz and Ohohia St (Westbound)",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0136_Nimitz_and_Ohohia_WB.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0137.jpg",
+                "name": "Nimitz and Pacific (EB lanes)",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0137_Nimitz_and_Pacific_IN.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0138.jpg",
+                "name": "Nimitz and Pacific (WB lanes)",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0138_Nimitz_and_Pacific_OUT.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0141.jpg",
+                "name": "Nimitz and Sand Island",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0141_Nimitz_and_Sand_Island.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0144.jpg",
+                "name": "Nimitz and Waiakamilo",
+                "stream_url": "https://cdn3.wowza.com/5/VjU2UEV3aHc5THo3/W2CCHNL/TL-0144_Nimitz_and_Waiakamilo.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0145.jpg",
+                "name": "Pali Hwy and H-1 Off Ramp",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0145_Pali_and_H1_Off_Ramp.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0146.jpg",
+                "name": "Pali Hwy and Jack Lane",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0146_Pali_and_Jack_Ln.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0147.jpg",
+                "name": "Pali Hwy and Laimi",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0147_Pali_and_Laimi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0149.jpg",
+                "name": "Pali Hwy and Puiwa",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0149_Pali_and_Puiwa.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0148.jpg",
+                "name": "Pali Hwy and Waokanaka",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0148_Pali_and_Waokanaka.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0150.jpg",
+                "name": "Queen and Punchbowl",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0150_Queen_and_Punchbowl.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0151.jpg",
+                "name": "Salt Lake and Ala Lilikoi",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0151_Salt_Lake_and_Ala_Lilikoi.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0152.jpg",
+                "name": "Salt Lake and Ala Napunani",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0152_Salt_Lake_and_Ala_Napunani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0154.jpg",
+                "name": "Salt Lake and Kahuapaani",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0154_Salt_Lake_and_Kahuapaani.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0157.jpg",
+                "name": "Saratoga and Kalia",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0157_Saratoga_and_Kalia.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0158.jpg",
+                "name": "University and Dole",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0158_University_and_Dole.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0159.jpg",
+                "name": "Vineyard and Liliha",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0159_Vineyard_and_Liliha.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0160.jpg",
+                "name": "Vineyard and Palama",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0160_Vineyard_and_Palama.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0161.jpg",
+                "name": "Vineyard and Pali",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0161_Vineyard_and_Pali.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0162.jpg",
+                "name": "Vineyard and Punchbowl",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0162_Vineyard_and_Punchbowl.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0163.jpg",
+                "name": "Waialae and 9th Ave",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0163_Waialae_and_9th_Ave.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0164.jpg",
+                "name": "Waialae and Kokohead",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0164_Waialae_and_Kokohead.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0165.jpg",
+                "name": "Waialae and Palolo",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0165_Waialae_and_Palolo.stream/playlist.m3u8"
+            },
+            {
+                "img": "http://cctv.cdn.goakamai.org/SnapShot/320x240/TL-0166.jpg",
+                "name": "Ward and Kinau",
+                "stream_url": "https://cdn3.wowza.com/5/WTN5aDFuVUlKU1cv/W3CCHNL/TL-0166_Ward_and_Kinau.stream/playlist.m3u8"
+            }
+        ]
+    }
+]
