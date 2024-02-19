@@ -164,8 +164,7 @@ Kaynak: https://airportwebcams.net/
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/categories/airports.m3u
 ```
 
-
-#### 🇺🇸 Amerika - Trafik Kameraları
+#### 🇺🇸 Amerika - Trafik Kameraları
 Amerika'da yer alan trafik kameralarını içermektedir.
 
 | Eyalet | Liste URL |
