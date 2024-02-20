@@ -224,26 +224,13 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 <details>
   <summary>Detaylar</summary>
 
-### 🇹🇷 Türkçe - TV İçerikleri 
-Türkiye'de faaliyet gösteren TV kanallarına ait içeriklerin kanalların sitelerindeki yayın adresleri (mp4 ve m3u8 uzantılı) kullanılarak servis edilmesi.
-Python ile BeautifulSoup ve Regex kullanılarak içerikler çıkarılmaktadır.
-
-**Planlanan Siteler**
-| Kanal Adı | Site URL |
-|--|--|
-| TRT 1 - Arşiv | https://www.trt1.com.tr/tv/arsiv  |
-| Star TV - Diziler | https://www.startv.com.tr/dizi  |
-| Star TV - Programlar | https://www.startv.com.tr/program  |
-| Now TV - Dizi Arşivi | https://www.nowtv.com.tr/dizi-arsivi  |
-| Now TV - Program Arşivi | https://www.nowtv.com.tr/program-arsivi  |
-
-
 ### 🌎 Dünya Kameraları
 
 Belirli konseptlere, ülke, bölge ve platform (websitesi) özelinde listeler çıkartmayı planlıyorum. Talep ettiğiniz bir konsept var ise belirtebilirsiniz.
 
 **Planlanan Playlistler**
 1. Amerika Trafik Kameraları
+2. Dünya - Şehir Kameraları
   
 
 </details>
