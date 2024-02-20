@@ -167,20 +167,25 @@ https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/categories/ai
 #### 🇺🇸 Amerika - Trafik Kameraları
 Amerika'da yer alan trafik kameralarını içermektedir.
 
+<details>
+  <summary>Listeler</summary>
+
 | Eyalet | Liste URL |
 |--|--|
 | California | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ca.m3u</code> |
 | Colorado | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/co.m3u</code> |
 | Delaware | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/de.m3u</code> |
+| Georgia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ga.m3u</code> |
 | Hawaii | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/hi.m3u</code> |
 | Iowa | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ia.m3u</code> |
+| Louisana | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/la.m3u</code> |
 | Minnesota | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/mn.m3u</code> |
 | Nevada | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/nv.m3u</code>|
 | New York | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ny.m3u</code> |
 | Oklahoma | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ok.m3u</code> |
 | South Carolina | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/sc.m3u</code> |
 | Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/va.m3u</code> |
-
+</details>
 
 </details>
 
@@ -214,7 +219,7 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 | TV 360 - Programlar | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv360-com-tr/programlar.m3u</code>|
 | TV 4 | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv4-com-tr/all.m3u</code>|
 | CNN Türk - Belgeseller | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-cnnturk-com/belgeseller.m3u</code>|
-| TRT Çocuk | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trtcocuk-net-tr/all.m3u </code>
+| TRT Çocuk | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trtcocuk-net-tr/all.m3u</code>
 | Cartoon Network | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-cartoonnetwork-com-tr/videolar.m3u</code>|
 
 </details>
