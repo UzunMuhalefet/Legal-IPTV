@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/1/FAMILYABOLUM1_90.jpg",Familya 1.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/2/PDTFAMILYA2HD_120.jpg",Familya 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/3/PDTFAMILYABOLUM3HDYENIENSON_30.jpg",Familya 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/4/PDTFAMILYABOLUM4HD_90.jpg",Familya 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/5/FAMILYABOLUM5_120.jpg",Familya 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=5&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/6/PDTFAMILYA6HDYENISOND_90.jpg",Familya 6. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=6&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/7/PPPFAMILYA7HDYENI_30.jpg",Familya 7. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=7&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/8/PDTFAMILYA8HDYENISON_90.jpg",Familya 8. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=8&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/9/FAMILYABOLUM9SON_60.jpg",Familya 9. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=9&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Familya/bolumler/10/FAMILYABOLUM10FINAL_360.jpg",Familya 10. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Familya&episode=10&.m3u8

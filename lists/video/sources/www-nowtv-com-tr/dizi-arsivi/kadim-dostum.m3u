@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/1/KDBOLUM1_360.jpg",Kadim Dostum 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/2/KDBLM2_180.jpg",Kadim Dostum 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/3/KDBOLUM3_60.jpg",Kadim Dostum 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/4/KDBOLUM4_120.jpg",Kadim Dostum 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/5/KADIMDOSTUM_5_30.jpg",Kadim Dostum 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=5&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/6/KDBOLUM6_180.jpg",Kadim Dostum 6. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=6&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/7/KD7HD_60.jpg",Kadim Dostum 7. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=7&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/8/KD8BOLUM_30.jpg",Kadim Dostum 8. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=8&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kadim-Dostum/bolumler/9/kadimdostum_90.jpg",Kadim Dostum 9. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kadim-Dostum&episode=9&.m3u8

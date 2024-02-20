@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nqg6bkpsnhen.merlincdn.net/resize/572x322//Programlar/Bu-Sayilmaz/Bolumler/Bu-Sayilmaz-19000-large-image-f0a805a6-9de2-4f87-b84c-ef9e8c097abc.jpg",Bu Sayılmaz 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bu-Sayilmaz&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nqg6bkpsnhen.merlincdn.net/resize/572x322//Programlar/Bu-Sayilmaz/Bolumler/Bu-Sayilmaz-19154-large-image-90107e8d-0b13-4f9e-bf14-f647b251d7a1.jpg",Bu Sayılmaz 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bu-Sayilmaz&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Bu-Sayilmaz/bolumler/3/PDTBUSAYILMAZ3HD_60.jpg",Bu Sayılmaz 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bu-Sayilmaz&episode=3&.m3u8

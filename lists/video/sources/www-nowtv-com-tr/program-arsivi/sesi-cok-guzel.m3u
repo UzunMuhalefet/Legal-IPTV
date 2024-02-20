@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sesi-Cok-Guzel/bolumler/1/SESICOKGUZEL1_10.jpg",Sesi Çok Güzel 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sesi-Cok-Guzel&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sesi-Cok-Guzel/bolumler/2/scg2bolum_5.jpg",Sesi Çok Güzel 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sesi-Cok-Guzel&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sesi-Cok-Guzel/bolumler/3/SCG3BOLUM_10.jpg",Sesi Çok Güzel 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sesi-Cok-Guzel&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sesi-Cok-Guzel/bolumler/4/scg4bolum_10.jpg",Sesi Çok Güzel 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sesi-Cok-Guzel&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sesi-Cok-Guzel/bolumler/5/scg5bolum_10.jpg",Sesi Çok Güzel 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sesi-Cok-Guzel&episode=5&.m3u8

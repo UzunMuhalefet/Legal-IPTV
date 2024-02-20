@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Ben-Soylerim/bolumler/1/BSBOLUM1_180.jpg",Ben Söylerim 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Ben-Soylerim&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Ben-Soylerim/bolumler/2/PPPBENSOYLERIM2HD_120.jpg",Ben Söylerim 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Ben-Soylerim&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Ben-Soylerim/bolumler/3/PPPBENSOYLERIM3HDENSONILAYDACROP_90.jpg",Ben Söylerim 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Ben-Soylerim&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Ben-Soylerim/bolumler/4/PPPBENSOYLERIM4HDYS_90.jpg",Ben Söylerim 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Ben-Soylerim&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Ben-Soylerim/bolumler/5/PDTBENSOYLERIM5HD_120.jpg",Ben Söylerim 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Ben-Soylerim&episode=5&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Ben-Soylerim/bolumler/6/PPPBENSOYLERIM6HDYENI_120.jpg",Ben Söylerim 6. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Ben-Soylerim&episode=6&.m3u8

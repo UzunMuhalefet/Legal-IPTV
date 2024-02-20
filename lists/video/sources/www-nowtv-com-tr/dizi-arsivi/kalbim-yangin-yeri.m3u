@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kalbim-Yangin-Yeri/bolumler/1/KYYBOLUM1_60.jpg",Kalbim Yangın Yeri 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kalbim-Yangin-Yeri&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kalbim-Yangin-Yeri/bolumler/2/KALBIMYANGINYERIBOLUM2_180.jpg",Kalbim Yangın Yeri 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kalbim-Yangin-Yeri&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kalbim-Yangin-Yeri/bolumler/3/KALBIMYANGINYERIBOLUM3_90.jpg",Kalbim Yangın Yeri 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kalbim-Yangin-Yeri&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kalbim-Yangin-Yeri/bolumler/4/KALBIMYANGINYERIBOLUM4_30.jpg",Kalbim Yangın Yeri 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kalbim-Yangin-Yeri&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Kalbim-Yangin-Yeri/bolumler/5/KALBIMYANGINYERIBOLUM5_120.jpg",Kalbim Yangın Yeri 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kalbim-Yangin-Yeri&episode=5&.m3u8

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sehrin-Melekleri/bolumler/1/SMBOLUM1_360.jpg",Şehrin Melekleri 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sehrin-Melekleri&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sehrin-Melekleri/bolumler/2/SMBOLUM2_360.jpg",Şehrin Melekleri 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sehrin-Melekleri&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sehrin-Melekleri/bolumler/3/SMBOLUM3_60.jpg",Şehrin Melekleri 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sehrin-Melekleri&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sehrin-Melekleri/bolumler/4/SMBOLUM4_360.jpg",Şehrin Melekleri 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sehrin-Melekleri&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Sehrin-Melekleri/bolumler/5/SMBOLUM5_30.jpg",Şehrin Melekleri 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sehrin-Melekleri&episode=5&.m3u8

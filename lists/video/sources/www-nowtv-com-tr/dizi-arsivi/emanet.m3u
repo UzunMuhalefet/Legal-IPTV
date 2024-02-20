@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/1/EMANETBLM1_360.jpg",Emanet 1. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=1&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/2/EMANETBLM2_360.jpg",Emanet 2. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=2&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/3/EMANETBLM3_180.jpg",Emanet 3. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=3&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/4/EMANETBOLUM4_360.jpg",Emanet 4. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=4&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/5/EMANET_BOLUM_5_180.jpg",Emanet 5. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=5&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/6/EMANET6_180.jpg",Emanet 6. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=6&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/7/EMANET_7_180.jpg",Emanet 7. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=7&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/8/EMANET_8_180.jpg",Emanet 8. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=8&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/9/EMANET9BOLUM_360.jpg",Emanet 9. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=9&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/10/EMANET10_90.jpg",Emanet 10. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=10&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/11/EMANET11HD_120.jpg",Emanet 11. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=11&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/12/EMANETBOLUM12_120.jpg",Emanet 12. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=12&.m3u8
+#EXTINF:1 tvg-logo="https://nowtv-static.ercdn.net/Emanet/bolumler/13/EMANET_BOLUM_13_10.jpg",Emanet 13. Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Emanet&episode=13&.m3u8
