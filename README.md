@@ -169,9 +169,16 @@ Amerika'da yer alan trafik kameralarını içermektedir.
 
 | Eyalet | Liste URL |
 |--|--|
-| California | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ca.m3u</code>|
-| Nevada | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/nv.m3u </code>|
-| New York | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ny.m3u </code> |
+| California | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ca.m3u</code> |
+| Delaware | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/de.m3u</code> |
+| Hawaii | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/hi.m3u</code> |
+| Iowa | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ia.m3u</code> |
+| Minnesota | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/mn.m3u</code> |
+| Nevada | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/nv.m3u</code>|
+| New York | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ny.m3u</code> |
+| Oklahoma | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ok.m3u</code> |
+| South Carolina | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/sc.m3u</code> |
+| Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/va.m3u</code> |
 
 
 </details>
@@ -192,6 +199,8 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 | Kanal D - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-programlar.m3u</code>|
 | Show TV - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-diziler.m3u</code>|
 | Show TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-programlar.m3u</code>|
+| Now TV - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/dizi-arsivi.m3u</code>|
+| Now TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/program-arsivi.m3u</code>|
 | TV8 | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv8-com-tr/all.m3u</code>|
 | teve2 - Diziler | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/diziler.m3u</code>|
 | teve2 - Programlar | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/programlar.m3u</code>|
