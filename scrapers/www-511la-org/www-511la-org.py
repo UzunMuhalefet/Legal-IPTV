@@ -27,14 +27,14 @@ def get_page_cameras(start):
                 url = cam["videoUrl"][i]
                 temp_cam = {
                     "name": cam["displayName"] + " " + str(i+1),
-                    "img": img_base_url + cam["cameraId"],
+                    "img": img_base_url + cam["id"],
                     "stream_url": url
                 }
                 all_items.append(temp_cam)
         elif type(cam["videoUrl"]) == str:
             temp_cam = {
                 "name": cam["displayName"],
-                "img": img_base_url + cam["cameraId"],
+                "img": img_base_url + cam["id"],
                 "stream_url": cam["videoUrl"]
             }
             all_items.append(temp_cam)        
