@@ -1,0 +1,1385 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W20870CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 208.70 WB at I-70 in Silverthorne
+https://publicstreamer4.cotrip.org:443/rtplive/006W20870CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E25785CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 257.85 EB : 0.6 miles E of I-70
+https://publicstreamer3.cotrip.org:443/rtplive/006E25785CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W25870CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 258.70 WB : 0.4 miles W of Tunnel 6
+https://publicstreamer3.cotrip.org:443/rtplive/006W25870CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E25950CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 259.50 EB at W Tunnel 5
+https://publicstreamer4.cotrip.org:443/rtplive/006E25950CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W25955CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 259.55 WB at E Tunnel 5
+https://publicstreamer2.cotrip.org:443/rtplive/006W25955CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W25970CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 259.70 WB : 0.2 miles E of Tunnel 5
+https://publicstreamer1.cotrip.org:443/rtplive/006W25970CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26030CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 260.30 WB at CO 119
+https://publicstreamer2.cotrip.org:443/rtplive/006W26030CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26070CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 260.70 EB : 0.5 miles E of CO 119
+https://publicstreamer3.cotrip.org:443/rtplive/006E26070CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26115CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 261.15 EB : 1.0 mile E of CO 119
+https://publicstreamer1.cotrip.org:443/rtplive/006E26115CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26150CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 261.50 EB : 1.3 miles E of CO 119
+https://publicstreamer2.cotrip.org:443/rtplive/006E26150CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26215CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 262.15 WB at Mayhem Gulch Trailhead
+https://publicstreamer3.cotrip.org:443/rtplive/006W26215CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26235CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 262.35 EB : 2.2 miles W of Tunnel 3
+https://publicstreamer4.cotrip.org:443/rtplive/006E26235CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26265CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 262.65 EB : 1.8 miles W of Tunnel 3
+https://publicstreamer3.cotrip.org:443/rtplive/006E26265CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26295CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 262.95 EB : 1.3 miles W of Tunnel 3
+https://publicstreamer2.cotrip.org:443/rtplive/006E26295CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26405CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 264.05 EB : 0.7 miles W of Tunnel 3
+https://publicstreamer1.cotrip.org:443/rtplive/006E26405CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26480CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 264.80 EB at Center of Tunnel 3
+https://publicstreamer1.cotrip.org:443/rtplive/006E26480CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26490CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 264.90 WB at E Tunnel 3
+https://publicstreamer1.cotrip.org:443/rtplive/006W26490CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26500CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 265.00 WB at W Tunnel 2 and E Tunnel 3
+https://publicstreamer4.cotrip.org:443/rtplive/006W26500CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26515CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 265.15 EB at W Center of tunnel 2
+https://publicstreamer1.cotrip.org:443/rtplive/006E26515CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26535CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 265.35 WB at E Tunnel 2
+https://publicstreamer1.cotrip.org:443/rtplive/006W26535CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26555CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 265.55 EB : 0.2 miles E of Tunnel 2
+https://publicstreamer3.cotrip.org:443/rtplive/006E26555CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26610CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 266.10 WB : 0.7 miles E of Tunnel 2
+https://publicstreamer4.cotrip.org:443/rtplive/006W26610CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26725CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 267.25 WB : 1.8 miles E of Tunnel 2
+https://publicstreamer1.cotrip.org:443/rtplive/006W26725CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26775CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 267.75 WB : 2.3 miles E of Tunnel 2
+https://publicstreamer2.cotrip.org:443/rtplive/006W26775CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26840CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 268.40 EB : 2.1 miles W of Tunnel 1
+https://publicstreamer3.cotrip.org:443/rtplive/006E26840CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26870CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 268.70 EB : 1.7 miles W of Tunnel 1
+https://publicstreamer1.cotrip.org:443/rtplive/006E26870CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26910CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 269.10 EB : 1.3 miles W of Tunnel 1
+https://publicstreamer2.cotrip.org:443/rtplive/006E26910CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26945CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 269.45 EB : 0.7 miles W of Tunnel 1
+https://publicstreamer1.cotrip.org:443/rtplive/006E26945CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26975CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 269.75 EB : 0.2 miles W of Tunnel 1
+https://publicstreamer4.cotrip.org:443/rtplive/006E26975CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26990CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 269.90 EB at W Tunnel 1
+https://publicstreamer1.cotrip.org:443/rtplive/006E26990CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E26995CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 269.95 EB at Center of Tunnel 1
+https://publicstreamer1.cotrip.org:443/rtplive/006E26995CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W26995CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 269.95 WB at Center of Tunnel 1
+https://publicstreamer1.cotrip.org:443/rtplive/006W26995CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W27000CAM1GP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 270.00 WB at E Tunnel 1
+https://publicstreamer1.cotrip.org:443/rtplive/006W27000CAM1GP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W27035CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 270.35 WB : 0.2 miles E of Tunnel 1
+https://publicstreamer3.cotrip.org:443/rtplive/006W27035CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W27160CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 271.60 WB at CO 58/CO 93 in Golden
+https://publicstreamer2.cotrip.org:443/rtplive/006W27160CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E27295CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 272.95 EB : 0.3 miles E of 19th St in Golden
+https://publicstreamer3.cotrip.org:443/rtplive/006E27295CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E27395CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 273.95 EB at Heritage Rd in Golden
+https://publicstreamer3.cotrip.org:443/rtplive/006E27395CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E27585CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 275.85 EB : 0.3 miles E of I-70
+https://publicstreamer1.cotrip.org:443/rtplive/006E27585CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E27785CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 277.85 EB : 0.4 miles W of Union Blvd in Lakewood
+https://publicstreamer1.cotrip.org:443/rtplive/006E27785CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W27985CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 279.85 WB at Garrison St in Lakewood
+https://publicstreamer1.cotrip.org:443/rtplive/006W27985CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W28085CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 280.85 WB at Wadsworth Blvd/CO 121 in Lakewood
+https://publicstreamer1.cotrip.org:443/rtplive/006W28085CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E28230CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 282.30 EB at Sheridan Blvd/CO 95
+https://publicstreamer1.cotrip.org:443/rtplive/006E28230CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W28350CAM1LHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 283.50 WB at Knox Ct on Frontage Rd
+https://publicstreamer1.cotrip.org:443/rtplive/006W28350CAM1LHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006W28400CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 284.00 WB : 0.1 miles E of Federal Blvd/CO 88
+https://publicstreamer1.cotrip.org:443/rtplive/006W28400CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/006E28440CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 6 MP 284.40 EB : SB I-25 Ramp to WB 6th Ave
+https://publicstreamer2.cotrip.org:443/rtplive/006E28440CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/007S06190CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 7 MP 061.90 SB at US 287 in Lafayette
+https://publicstreamer3.cotrip.org:443/rtplive/007S06190CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/007N06255CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 7 MP 062.55 NB at N Public Rd in Lafayette
+https://publicstreamer3.cotrip.org:443/rtplive/007N06255CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/007N06320CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO 7 MP 063.20 NB at N 119th St in Lafayette
+https://publicstreamer3.cotrip.org:443/rtplive/007N06320CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/007S06640CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 7 MP 066.40 SB at Mountain View Blvd in Broomfield
+https://publicstreamer3.cotrip.org:443/rtplive/007S06640CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/044E00025CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 44 MP 000.25 EB at Peoria Pkwy in Commerce City
+https://publicstreamer4.cotrip.org:443/rtplive/044E00025CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S08600CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 086.00 SB at River Park Dr in Breckenridge
+https://publicstreamer4.cotrip.org:443/rtplive/009S08600CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S08615CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 086.15 SB at Broken Lance Dr in Breckenridge
+https://publicstreamer3.cotrip.org:443/rtplive/009S08615CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009N08645CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 086.45 NB at S Main St in Breckenridge
+https://publicstreamer3.cotrip.org:443/rtplive/009N08645CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009N08675CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 086.75 NB at Ski Hill Rd in Breckenridge
+https://publicstreamer3.cotrip.org:443/rtplive/009N08675CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009N08720CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 087.20 NB at Airport Rd in Breckenridge
+https://publicstreamer2.cotrip.org:443/rtplive/009N08720CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S08735CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 087.35 SB at N Main St Ave in Breckenridge
+https://publicstreamer1.cotrip.org:443/rtplive/009S08735CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S08755CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 087.55 SB at Huron Rd in Breckenridge
+https://publicstreamer1.cotrip.org:443/rtplive/009S08755CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S08775CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 087.75 SB at Valley Brook St in Breckenridge
+https://publicstreamer4.cotrip.org:443/rtplive/009S08775CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S08920CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 089.20 SB at Coyne Valley Rd in Breckenridge
+https://publicstreamer1.cotrip.org:443/rtplive/009S08920CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S09000CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 090.00 SB at Fairview Blvd in Breckenridge
+https://publicstreamer3.cotrip.org:443/rtplive/009S09000CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009N09025CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 090.25 NB at Tiger Rd/Shores Ln in Breckenridge
+https://publicstreamer2.cotrip.org:443/rtplive/009N09025CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009N09290CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 092.90 NB at Swan Mountain Rd in Breckenridge
+https://publicstreamer1.cotrip.org:443/rtplive/009N09290CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S09245CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 095.45 SB at Peak One Blvd in Breckenridge
+https://publicstreamer4.cotrip.org:443/rtplive/009S09245CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009N09605CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 096.05 NB at Marina Rd in Frisco
+https://publicstreamer3.cotrip.org:443/rtplive/009N09605CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/009S09665CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 9 MP 096.65 SB at Hawn Dr in Frisco
+https://publicstreamer2.cotrip.org:443/rtplive/009S09665CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024E28700CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 287.00 EB at Morning Sun Dr in Woodland Park
+https://publicstreamer4.cotrip.org:443/rtplive/024E28700CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024W28610CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 286.10 WB at Paradise Cir in Woodland Park
+https://publicstreamer3.cotrip.org:443/rtplive/024W28610CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024W28505CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 285.05 WB at West St in Woodland Park
+https://publicstreamer3.cotrip.org:443/rtplive/024W28505CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024E29240CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 292.40 EB : 0.8 miles E of Chipita Park Rd in Cascade
+https://publicstreamer4.cotrip.org:443/rtplive/024E29240CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024E29755CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 297.55 EB at Cave of the Winds Rd in Manitou Springs
+https://publicstreamer2.cotrip.org:443/rtplive/024E29755CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024E29365CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 293.65 EB at Fountain Ave in Cascade
+https://publicstreamer3.cotrip.org:443/rtplive/024E29365CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024E29160CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 291.60 EB at Chipita Park Rd
+https://publicstreamer4.cotrip.org:443/rtplive/024E29160CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024E28970CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 289.70 EB : 0.2 miles E of Green Mountain Falls Rd
+https://publicstreamer2.cotrip.org:443/rtplive/024E28970CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/024W29785CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 24 MP 297.85 WB at Canon Ave in Manitou Springs
+https://publicstreamer4.cotrip.org:443/rtplive/024W29785CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N04855CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 048.55 NB : 0.6 miles S of I-25BL in Walsenburg
+https://publicstreamer1.cotrip.org:443/rtplive/025N04855CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S05275CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 052.75 SB : 0.2 miles N of Exit 52 in Walsenburg
+https://publicstreamer1.cotrip.org:443/rtplive/025S05275CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S05910CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 059.10 SB : 0.4 miles N of Butte Rd/CR 103 on Frontage Rd
+https://publicstreamer3.cotrip.org:443/rtplive/025S05910CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S06655CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 066.55 SB : 0.2 miles S of CR 670
+https://publicstreamer4.cotrip.org:443/rtplive/025S06655CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N07060CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 070.60 NB : 0.6 miles S of W Graneros Rd/CR CC319
+https://publicstreamer4.cotrip.org:443/rtplive/025N07060CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S07500CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 075.00 SB : 0.6 miles N of CO 165
+https://publicstreamer4.cotrip.org:443/rtplive/025S07500CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S09400CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 094.00 SB : 0.8 miles S of Pueblo Blvd/CO 45
+https://publicstreamer3.cotrip.org:443/rtplive/025S09400CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S09845CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 098.45 SB : 0.2 miles S of E 1st St
+https://publicstreamer3.cotrip.org:443/rtplive/025S09845CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N09995CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 099.95 NB at US 50 in Pueblo
+https://publicstreamer3.cotrip.org:443/rtplive/025N09995CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N10085CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 100.85 NB : 0.1 miles N of W 29th St in Pueblo
+https://publicstreamer4.cotrip.org:443/rtplive/025N10085CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S10135CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 101.35 SB at US 50/CO 47 in Pueblo
+https://publicstreamer4.cotrip.org:443/rtplive/025S10135CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S10615CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 106.15 SB : 1.8 miles S of Purcell Blvd in Pueblo West
+https://publicstreamer3.cotrip.org:443/rtplive/025S10615CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S10995CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 109.95 SB : 0.3 miles S of Pinon
+https://publicstreamer3.cotrip.org:443/rtplive/025S10995CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S11875CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 118.75 SB : 0.1 miles S of Rancho Colorado Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/025S11875CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S12170CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 121.70 SB at Midway Ranch Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025S12170CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S12400CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 124.00 SB : 0.6 miles S of Ray Nixon Rd
+https://publicstreamer2.cotrip.org:443/rtplive/025S12400CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S12520CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 125.20 SB : 0.6 miles N of Ray Nixon Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025S12520CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S12785CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 127.85 SB at Sante Fe Ave in Fountain
+https://publicstreamer3.cotrip.org:443/rtplive/025S12785CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N13020CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 130.20 NB : 2.0 miles S of CO 16/Mesa Ridge Pkwy in Fountain
+https://publicstreamer1.cotrip.org:443/rtplive/025N13020CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N13855CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 138.55 NB : 0.3 miles S of US 24 in Colorado Springs
+https://publicstreamer1.cotrip.org:443/rtplive/025N13855CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N14620CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 146.20 NB at Garden of the Gods Rd
+https://publicstreamer2.cotrip.org:443/rtplive/025N14620CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N15065CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 150.65 NB : 0.4 miles N of N Academy Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/025N15065CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N15425CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 154.25 NB : 1.2 miles N of Interquest Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/025N15425CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N15685CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",156.85 : 025N15685CAM1MED : 1.2 miles N of North Gate Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/025N15685CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S16080CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 160.80 SB at 2nd St/CO 105 in Monument
+https://publicstreamer1.cotrip.org:443/rtplive/025S16080CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N16080CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 160.80 NB : 0.1 miles N of CO 105 in Monument
+https://publicstreamer4.cotrip.org:443/rtplive/025N16080CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S16190CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 161.90 SB : 1.5 miles N of CO 105 in Monument
+https://publicstreamer2.cotrip.org:443/rtplive/025S16190CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S16295CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 162.95 SB : 0.5 miles S of CO 404/County Line Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025S16295CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S16405CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 164.05 SB : 0.9 miles N of CO 404/County Line Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025S16405CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N16485CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 164.85 NB : 1.9 miles N of CO 404/County Line Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N16485CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N16575CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 165.75 NB : 1.7 miles S of E Greenland Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N16575CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N16795CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 167.95 NB : 0.7 miles N of E Greenland Rd
+https://publicstreamer2.cotrip.org:443/rtplive/025N16795CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N16890CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 168.90 NB : 1.5 miles N of E Greenland Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025N16890CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S16970CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 169.70 SB : 2.8 miles N of E Greenland Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025S16970CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N17055CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 170.55 NB : 1.6 miles S of Upper Lake Gulch Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025N17055CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N17175CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 171.75 NB at Upper Lake Gulch Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N17175CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N17235CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 172.35 NB at Spruce Mountain Rd in Larkspur
+https://publicstreamer4.cotrip.org:443/rtplive/025N17235CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N17305CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 173.05 NB : 0.8 miles S of Sky View Ln in Larkspur
+https://publicstreamer1.cotrip.org:443/rtplive/025N17305CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S17380CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 173.80 SB at Sky View Ln in Larkspur
+https://publicstreamer1.cotrip.org:443/rtplive/025S17380CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S17445CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 174.45 SB : 0.6 miles N of Sky View Ln on Frontage Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025S17445CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S17550CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 175.50 SB : 1.0 mile N of Sky View Ln
+https://publicstreamer1.cotrip.org:443/rtplive/025S17550CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S17705CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 177.05 SB : 3.8 miles S of Plum Creek Pkwy
+https://publicstreamer4.cotrip.org:443/rtplive/025S17705CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N17840CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 178.40 NB : 2.4 miles S of Plum Creek Pkwy on Frontage Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N17840CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N17970CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 179.70 NB : 1.2 miles S of Plum Creek Pkwy
+https://publicstreamer2.cotrip.org:443/rtplive/025N17970CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S18070CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 180.70 SB : 0.2 miles S of Plum Creek Pkwy
+https://publicstreamer2.cotrip.org:443/rtplive/025S18070CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18185CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 181.85 NB at E Wolfensberger Rd/Wilcox St
+https://publicstreamer1.cotrip.org:443/rtplive/025N18185CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18265CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 182.65 NB : 0.8 miles N of Wolfensburger Rd/Wilcox St
+https://publicstreamer1.cotrip.org:443/rtplive/025N18265CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18420CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 184.20 NB at Founders Pkwy/Meadows Pkwy
+https://publicstreamer2.cotrip.org:443/rtplive/025N18420CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S18510CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 185.10 SB : 0.1 miles N of Castle Rock Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/025S18510CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18610CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 186.10 NB : 0.8 miles S of Happy Canyon Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N18610CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18690CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 186.90 NB at Happy Canyon Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N18690CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18850CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 188.50 NB at Castle Pines Pkwy to NB I-25 Ramp
+https://publicstreamer4.cotrip.org:443/rtplive/025N18850CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N18945CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 189.45 NB : 1.2 miles N of Castle Pines Pkwy
+https://publicstreamer4.cotrip.org:443/rtplive/025N18945CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19140CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 191.40 NB : 0.7 miles S of Ridgegate Pkwy
+https://publicstreamer4.cotrip.org:443/rtplive/025N19140CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S19205CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 192.05 SB at Ridgegate Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/025S19205CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S19300CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 193.00 SB at Lincoln Ave
+https://publicstreamer4.cotrip.org:443/rtplive/025S19300CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S19440CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 194.40 SB : SB I-25 Ramp to EB E-470
+https://publicstreamer1.cotrip.org:443/rtplive/025S19440CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19435CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 194.35 NB : NB I-25 Ramp to WB C-470
+https://publicstreamer4.cotrip.org:443/rtplive/025N19435CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19510CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 195.10 NB at E County Line Rd
+https://publicstreamer2.cotrip.org:443/rtplive/025N19510CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19625CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 196.25 NB : 0.1 miles N of E Dry Creek
+https://publicstreamer1.cotrip.org:443/rtplive/025N19625CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19710CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 197.10 NB : 0.1 miles S of E Arapahoe Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025N19710CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19765CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 197.65 NB : 0.6 miles N of E Arapahoe Rd
+https://publicstreamer3.cotrip.org:443/rtplive/025N19765CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19820CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 198.20 NB at E Orchard Rd
+https://publicstreamer4.cotrip.org:443/rtplive/025N19820CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S19945CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 199.45 SB at E Belleview Ave
+https://publicstreamer2.cotrip.org:443/rtplive/025S19945CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N19940CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 199.40 NB at E Belleview Ave NB I-25 Ramp
+https://publicstreamer4.cotrip.org:443/rtplive/025N19940CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S20010CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 200.10 SB : SB I-25 Ramp to NB I-225/DTC Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/025S20010CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S20045CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 200.45 SB at E Quincy Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025S20045CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20065CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 200.65 NB : 0.5 miles N of I-225
+https://publicstreamer3.cotrip.org:443/rtplive/025N20065CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S20155CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 201.55 SB at E Hampden Ave
+https://publicstreamer4.cotrip.org:443/rtplive/025S20155CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20270CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 202.70 NB at E Yale Ave
+https://publicstreamer2.cotrip.org:443/rtplive/025N20270CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20355CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 203.55 NB at Evans Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025N20355CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20385CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 203.85 NB : 0.2 miles S of Colorado Blvd/CO 2
+https://publicstreamer2.cotrip.org:443/rtplive/025N20385CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20405CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 204.05 NB at Colorado Blvd/CO 2
+https://publicstreamer1.cotrip.org:443/rtplive/025N20405CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S20540CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 205.40 SB : 0.4 miles N of S University Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/025S20540CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20590CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 205.90 NB at S Downing St
+https://publicstreamer1.cotrip.org:443/rtplive/025N20590CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S20600CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 206.00 SB : 0.2 miles N of S Downing St
+https://publicstreamer2.cotrip.org:443/rtplive/025S20600CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20640CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 206.40 NB : 0.3 miles S of S Logan St
+https://publicstreamer3.cotrip.org:443/rtplive/025N20640CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20665CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 206.65 NB at S Logan St
+https://publicstreamer4.cotrip.org:443/rtplive/025N20665CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S20740CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 207.40 SB : 0.2 miles S of Santa Fe Dr
+https://publicstreamer3.cotrip.org:443/rtplive/025S20740CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20770CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 207.70 NB : 0.1 miles N of Santa Fe Dr
+https://publicstreamer4.cotrip.org:443/rtplive/025N20770CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20875CAM1GP4.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 208.75 NB : 0.6 miles S of 6th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025N20875CAM1GP4/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20915CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 209.15 NB at 6th Ave/US 6
+https://publicstreamer1.cotrip.org:443/rtplive/025N20915CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N20945CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 209.45 NB at W 8th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/025N20945CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21090CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 210.90 NB at 20th Ave/Mile High Stadium Cir
+https://publicstreamer1.cotrip.org:443/rtplive/025N21090CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21110CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 211.10 SB at W 23rd Ave
+https://publicstreamer2.cotrip.org:443/rtplive/025S21110CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21165CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 211.65 NB : 0.2 miles N of Speer Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/025N21165CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21205CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 212.05 NB at 19th St and Wynkoop St
+https://publicstreamer2.cotrip.org:443/rtplive/025N21205CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21210CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 212.10 SB at 20th St
+https://publicstreamer3.cotrip.org:443/rtplive/025S21210CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21210CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 212.10 NB at 20th St and Market St
+https://publicstreamer2.cotrip.org:443/rtplive/025N21210CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21270CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 212.70 NB at W 38th Ave/Park Ave
+https://publicstreamer3.cotrip.org:443/rtplive/025N21270CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21290CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 212.90 NB : 0.1 miles N of W 38th Ave/Park Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025N21290CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21340CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 213.40 NB : 0.3 miles S of I-70
+https://publicstreamer4.cotrip.org:443/rtplive/025N21340CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21365CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 213.65 NB : NB I-25 Ramp to WB I-70
+https://publicstreamer2.cotrip.org:443/rtplive/025N21365CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21365CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 213.65 NB at I-70 Mousetrap
+https://publicstreamer4.cotrip.org:443/rtplive/025N21365CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21370CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 213.70 SB at WB I-70 Ramp to SB I-25
+https://publicstreamer1.cotrip.org:443/rtplive/025S21370CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21395CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 213.95 NB : 0.2 miles N of I-70
+https://publicstreamer1.cotrip.org:443/rtplive/025N21395CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21580CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 215.80 NB : 0.6 miles N of E 58th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025N21580CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21760CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 217.60 NB : 0.6 miles N of US 36/I-270
+https://publicstreamer3.cotrip.org:443/rtplive/025N21760CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21795CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 217.95 SB : 0.5 miles S of 84th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/025S21795CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21830CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 218.30 SB : 0.2 miles S of 84th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/025S21830CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21875CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 218.75 SB : 0.3 miles N of 84th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/025S21875CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S21950CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 219.50 SB : 0.4 miles S of Thornton Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/025S21950CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N21985CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 219.85 NB at Thornton Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/025N21985CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N22030CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 220.30 NB : 0.4 miles N of Thornton Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/025N22030CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22055CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 220.55 SB : 0.5 miles S of E 104th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/025S22055CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22100CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 221.00 SB at E 104th Ave
+https://publicstreamer2.cotrip.org:443/rtplive/025S22100CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22220CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 222.20 SB : 0.9 miles N of E 104th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025S22220CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N22265CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 222.65 NB : 0.4 miles S of 120th Ave/CO 128
+https://publicstreamer4.cotrip.org:443/rtplive/025N22265CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N22305CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 223.05 NB at 120th Ave/CO 128
+https://publicstreamer2.cotrip.org:443/rtplive/025N22305CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22410CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 224.10 SB at 128th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/025S22410CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22510CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 225.10 SB at E 136th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/025S22510CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22610CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 226.10 SB at W 144th Ave
+https://publicstreamer2.cotrip.org:443/rtplive/025S22610CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22705CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 227.05 SB : 0.7 miles S of Northwest Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/025S22705CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N22825CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 228.25 NB : 0.5 miles N of Northwest Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/025N22825CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S22910CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 229.10 SB at E Baseline Rd/CO 7
+https://publicstreamer3.cotrip.org:443/rtplive/025S22910CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S23055CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 230.55 SB : 1.9 miles N of E Baseline Rd/CO 7
+https://publicstreamer4.cotrip.org:443/rtplive/025S23055CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S23210CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 232.10 SB at Erie Pkwy/Summit Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/025S23210CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S23410CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 234.10 SB : 1.3 miles S of CO 52
+https://publicstreamer4.cotrip.org:443/rtplive/025S23410CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S23515CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 235.15 SB at CO 52
+https://publicstreamer2.cotrip.org:443/rtplive/025S23515CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S23710CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 237.10 SB : 2.6 miles N of CO 52
+https://publicstreamer2.cotrip.org:443/rtplive/025S23710CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N23875CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 238.75 NB : 1.9 miles S of CO 119
+https://publicstreamer1.cotrip.org:443/rtplive/025N23875CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S24015CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 240.15 SB at CO 119
+https://publicstreamer2.cotrip.org:443/rtplive/025S24015CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N24115CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 241.15 NB : 1.3 miles N of CO 119
+https://publicstreamer4.cotrip.org:443/rtplive/025N24115CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N24170CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 241.70 NB : 1.9 miles S of CO 66
+https://publicstreamer1.cotrip.org:443/rtplive/025N24170CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S24215CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 242.15 SB : 1.3 miles S of CO 66
+https://publicstreamer2.cotrip.org:443/rtplive/025S24215CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S24415CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 244.15 SB : 1.2 miles N of CO 66
+https://publicstreamer2.cotrip.org:443/rtplive/025S24415CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N24520CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 245.20 NB at WCR 34 Mead
+https://publicstreamer2.cotrip.org:443/rtplive/025N24520CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N24760CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 247.60 NB : 3.2 miles N of WCR 34 on Frontage Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025N24760CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N24920CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 249.20 NB : 1.0 mile S of CO 56 on Frontage Rd
+https://publicstreamer2.cotrip.org:443/rtplive/025N24920CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S25125CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 251.25 SB : 1.3 miles S of CO 60
+https://publicstreamer3.cotrip.org:443/rtplive/025S25125CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N25125CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 251.25 NB : 1.1 miles N of CO 56/WCR 44
+https://publicstreamer1.cotrip.org:443/rtplive/025N25125CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N25225CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 252.25 NB at CO 60
+https://publicstreamer4.cotrip.org:443/rtplive/025N25225CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S25425CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 254.25 SB at ECR 16 at Johnsons Corner
+https://publicstreamer4.cotrip.org:443/rtplive/025S25425CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S25530CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 255.30 SB at CO 402/14th St SE
+https://publicstreamer3.cotrip.org:443/rtplive/025S25530CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S25610CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 256.10 SB : 1.1 miles N of CO 402
+https://publicstreamer3.cotrip.org:443/rtplive/025S25610CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S25730CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 257.30 SB at US 34
+https://publicstreamer3.cotrip.org:443/rtplive/025S25730CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S25935CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 259.35 SB at Crossroads Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/025S25935CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S26230CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 262.30 SB at CO 392/ECR 32
+https://publicstreamer3.cotrip.org:443/rtplive/025S26230CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N26330CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 263.30 NB : 1.3 miles N of CO 392/ECR 32
+https://publicstreamer1.cotrip.org:443/rtplive/025N26330CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S26435CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 264.35 SB : 1.3 miles S of E Harmony Rd
+https://publicstreamer2.cotrip.org:443/rtplive/025S26435CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S26535CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 265.35 SB at E Harmony Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025S26535CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S26770CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 267.70 SB : 0.7 miles S of E Prospect Rd
+https://publicstreamer1.cotrip.org:443/rtplive/025S26770CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S27350CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 273.50 SB : 2.1 miles N of ECR 50/Mountain Vista Dr
+https://publicstreamer1.cotrip.org:443/rtplive/025S27350CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025N27640CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 276.40 NB : 1.9 miles S of Cleveland Ave/CO 1
+https://publicstreamer4.cotrip.org:443/rtplive/025N27640CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S27790CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 277.90 SB at Cleveland Ave/CO 1
+https://publicstreamer1.cotrip.org:443/rtplive/025S27790CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S27945CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 279.45 SB : 2.0 miles N of Cleveland Ave/CO 1
+https://publicstreamer4.cotrip.org:443/rtplive/025S27945CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S28135CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 281.35 SB at Owl Canyon Rd/ECR 70
+https://publicstreamer1.cotrip.org:443/rtplive/025S28135CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S28755CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 287.55 SB at Buckeye Rd/CR 82
+https://publicstreamer2.cotrip.org:443/rtplive/025S28755CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S29260CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 292.60 SB at WCR 126.5 in Carr
+https://publicstreamer2.cotrip.org:443/rtplive/025S29260CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/025S29820CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-25 MP 298.20 SB : 0.9 miles S of Wyoming Border
+https://publicstreamer1.cotrip.org:443/rtplive/025S29820CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/034W09640CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 34 MP 096.40 WB at NB I-25 Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/034W09640CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/034E09765CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 34 MP 097.65 EB : 0.2 miles W of N CR 3
+https://publicstreamer2.cotrip.org:443/rtplive/034E09765CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/034W09880CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US 34 MP 098.80 WB at LCR 1/WCR 13
+https://publicstreamer2.cotrip.org:443/rtplive/034W09880CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/034W10085CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 34 MP 100.85 WB at WCR 17
+https://publicstreamer2.cotrip.org:443/rtplive/034W10085CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/034W10280CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 34 MP 102.80 WB at CO 257
+https://publicstreamer2.cotrip.org:443/rtplive/034W10280CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E03815CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 038.15 EB : 0.6 miles E of Baseline Rd
+https://publicstreamer2.cotrip.org:443/rtplive/036E03815CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05690CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 056.90 EB : 0.2 miles W of Broadway
+https://publicstreamer4.cotrip.org:443/rtplive/036E05690CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05585CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 055.85 EB : 0.1 miles W of N Pecos St
+https://publicstreamer3.cotrip.org:443/rtplive/036E05585CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05720CAM1LHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 057.20 EB at I-25
+https://publicstreamer4.cotrip.org:443/rtplive/036E05720CAM1LHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W05465CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 054.65 WB : 0.3 miles W of Federal Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/036W05465CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E03920CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 039.20 EB at CO 157/Foothills Pkwy
+https://publicstreamer2.cotrip.org:443/rtplive/036E03920CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W05510CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 055.10 WB : 0.3 miles E of Federal Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/036W05510CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05600CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 056.00 EB : 0.1 miles E of N Pecos St
+https://publicstreamer3.cotrip.org:443/rtplive/036E05600CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04795CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 047.95 EB at CO 121/Wadsworth Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/036E04795CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05735CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 057.35 EB at EB US 36 Ramp to NB I-25
+https://publicstreamer3.cotrip.org:443/rtplive/036E05735CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05660CAM1ML1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 056.60 EB : 0.4 miles W of Broadway
+https://publicstreamer3.cotrip.org:443/rtplive/036E05660CAM1ML1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E03750CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 037.50 EB at Baseline Rd WB Ramp to US 36 EB
+https://publicstreamer2.cotrip.org:443/rtplive/036E03750CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04915CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 049.15 EB : 1.4 miles E of CO 121/Wadsworth Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/036E04915CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W04615CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 046.15 WB : 0.4 miles E of NW Pkwy/Interlocken Loop
+https://publicstreamer3.cotrip.org:443/rtplive/036W04615CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W05315CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 053.15 WB : 0.7 miles E of Sheridan Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/036W05315CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05260CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 052.60 EB at Sheridan Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/036E05260CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W04315CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 043.15 WB at McCaslin Blvd and US 36 WB On-ramp
+https://publicstreamer2.cotrip.org:443/rtplive/036W04315CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04040CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 040.45 EB at S Cherryvale Rd
+https://publicstreamer2.cotrip.org:443/rtplive/036E04040CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W05450CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 054.50 WB : 0.5 miles W of Federal Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/036W05450CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05055CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 050.55 EB : 0.2 miles E of W 104th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/036E05055CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04440CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 044.40 EB : 0.1 miles W of S 88th St
+https://publicstreamer2.cotrip.org:443/rtplive/036E04440CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04715CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 047.15 EB : 1.1 miles W of CO 121/Wadsworth Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/036E04715CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036W04820CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 048.20 WB : 0.2 miles E of CO 121/Wadsworth Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/036W04820CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04490CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 044.90 EB : 0.5 miles E of S 88th St
+https://publicstreamer2.cotrip.org:443/rtplive/036E04490CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E04190CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 041.90 EB : 1.7 W of McCaslin Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/036E04190CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/036E05005CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 36 MP 050.05 EB : 0.4 miles W of W 104th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/036E05005CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/040W25750CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 40 MP 257.50 WB at Empire Junction
+https://publicstreamer4.cotrip.org:443/rtplive/040W25750CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/040E28490CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 40 MP 284.90 EB at T-Rex Park and Ride in Golden
+https://publicstreamer4.cotrip.org:443/rtplive/040E28490CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/040W28665CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US 40 MP 286.65 WB at Interplaza W in Golden
+https://publicstreamer4.cotrip.org:443/rtplive/040W28665CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E27870CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 278.70 EB at 9th St
+https://publicstreamer2.cotrip.org:443/rtplive/050E27870CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W27980CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US-50 MP 279.80 WB at N Orchard Ave
+https://publicstreamer1.cotrip.org:443/rtplive/050W27980CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E28030CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US-50 MP 280.30 EB at N Raynolds Ave
+https://publicstreamer1.cotrip.org:443/rtplive/050E28030CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W28115CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US-50 MP 281.15 WB at Steinmeier Ave
+https://publicstreamer1.cotrip.org:443/rtplive/050W28115CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E28195CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US-50 MP 281.95 EB at MacKenzie Ave
+https://publicstreamer1.cotrip.org:443/rtplive/050E28195CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E28315CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 283.15 EB at Four Mile Pkwy in Canon City
+https://publicstreamer1.cotrip.org:443/rtplive/050E28315CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E28570CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 285.70 EB at Phantom Canyon Rd/CO 67 in Penrose
+https://publicstreamer4.cotrip.org:443/rtplive/050E28570CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E28625CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 286.25 EB : 0.7 miles E of Phantom Canyon Rd/CO 67 in Penrose
+https://publicstreamer4.cotrip.org:443/rtplive/050E28625CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E28970CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 289.70 EB : 0.1 miles W of CO 115
+https://publicstreamer4.cotrip.org:443/rtplive/050E28970CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W29215CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 292.15 WB at K St in Penrose
+https://publicstreamer4.cotrip.org:443/rtplive/050W29215CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E29425CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 294.25 EB at R St in Penrose
+https://publicstreamer4.cotrip.org:443/rtplive/050E29425CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E29605CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 296.05 EB : 0.5 miles W of Old Portland Rd/CO 120
+https://publicstreamer4.cotrip.org:443/rtplive/050E29605CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W30005CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 300.05 WB : 0.4 miles W of Stone City Rd in Pueblo
+https://publicstreamer4.cotrip.org:443/rtplive/050W30005CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E30280CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 302.80 EB : 3.7 miles W of S McCulloch Blvd W in Pueblo
+https://publicstreamer4.cotrip.org:443/rtplive/050E30280CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W30825CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 308.25 WB : 1.2 miles E of McCulloch Blvd in Pueblo
+https://publicstreamer4.cotrip.org:443/rtplive/050W30825CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W31210CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 312.10 WB at Pueblo Blvd/CO 45
+https://publicstreamer4.cotrip.org:443/rtplive/050W31210CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E31315CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 313.15 EB at Wills Blvd Pueblo
+https://publicstreamer1.cotrip.org:443/rtplive/050E31315CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050E31355CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 313.55 EB at Baltimore Ave in Pueblo
+https://publicstreamer4.cotrip.org:443/rtplive/050E31355CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W31370CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US-50 MP 313.70 WB at Morris Ave/Fortino Blvd
+https://publicstreamer4.cotrip.org:443/rtplive/050W31370CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/050W31450CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US 50 MP 314.50 WB at N Elizabeth St Pueblo
+https://publicstreamer1.cotrip.org:443/rtplive/050W31450CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085S19855CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 85 MP 198.55 SB at W Highlands Ranch Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/085S19855CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11620CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 116.20 EB : 0.4 miles W of CO 82 in Glenwood Springs
+https://publicstreamer2.cotrip.org:443/rtplive/070E11620CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W12085CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 120.85 WB : 0.2 miles W of Grizzly Creek Rest Area
+https://publicstreamer3.cotrip.org:443/rtplive/070W12085CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E12315CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 123.15 EB : 2.2 miles E of Grizzly Creek
+https://publicstreamer2.cotrip.org:443/rtplive/070E12315CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W12810CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 128.10 WB : 0.5 miles W of Bair Ranch Rest Area
+https://publicstreamer4.cotrip.org:443/rtplive/070W12810CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E12880CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 128.80 EB : 0.2 miles E of Bair Ranch Rest Area
+https://publicstreamer1.cotrip.org:443/rtplive/070E12880CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E13230CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 132.30 EB : 1.3 miles W of Colorado River Rd in Dotsero
+https://publicstreamer3.cotrip.org:443/rtplive/070E13230CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W13335CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 133.35 WB at Colorado River Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070W13335CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E14580CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 145.80 EB : 1.0 mile W of Eby Creek Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070E14580CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W16895CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 168.95 WB at US 6 in Eagle
+https://publicstreamer3.cotrip.org:443/rtplive/070W16895CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W17175CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 171.75 WB : 0.7 miles E of Dowd Junction
+https://publicstreamer3.cotrip.org:443/rtplive/070W17175CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W17210CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 172.10 WB : 1.0 mile E of Dowd Junction
+https://publicstreamer4.cotrip.org:443/rtplive/070W17210CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E17790CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 177.90 EB at West Vail Chain Station
+https://publicstreamer1.cotrip.org:443/rtplive/070E17790CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E18280CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 182.80 EB : 2.6 miles E of Big Horn Rd in Vail
+https://publicstreamer1.cotrip.org:443/rtplive/070E18280CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E18610CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 186.10 EB : 3.5 miles W of Vail Pass Summit
+https://publicstreamer1.cotrip.org:443/rtplive/070E18610CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19175CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 191.75 WB : 1.6 miles E Vail Pass Summit
+https://publicstreamer2.cotrip.org:443/rtplive/070W19175CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19310CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 193.10 WB : 2.6 miles W of CO 91
+https://publicstreamer4.cotrip.org:443/rtplive/070W19310CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20495CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 204.95 EB : 0.4 miles W of US 6/CO 9 in Silverthorne
+https://publicstreamer4.cotrip.org:443/rtplive/070E20495CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W20705CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 207.05 WB : 1.6 miles E of US 6/CO 9 in Silverthorne
+https://publicstreamer3.cotrip.org:443/rtplive/070W20705CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W20890CAM1RHS-2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 208.90 WB : 3.3 miles E of US 6/CO 9 2 in Silverthorne
+https://publicstreamer2.cotrip.org:443/rtplive/070W20890CAM1RHS-2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W21180CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 211.80 WB : 1.7 miles W of Eisenhower Tunnel
+https://publicstreamer2.cotrip.org:443/rtplive/070W21180CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W21590CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 215.90 WB : 0.7 miles E of Eisenhower Tunnel
+https://publicstreamer1.cotrip.org:443/rtplive/070W21590CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W21740CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 217.40 WB : 1.0 mile W of Herman Gulch Rd
+https://publicstreamer1.cotrip.org:443/rtplive/070W21740CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22225CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 222.25 WB : 1.1 miles E of Stevens Gulch Rd in Bakerville
+https://publicstreamer4.cotrip.org:443/rtplive/070W22225CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22240CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 222.40 WB : 1.2 miles E of Stevens Gulch Rd in Bakerville
+https://publicstreamer4.cotrip.org:443/rtplive/070W22240CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22550CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 225.50 WB : 0.2 miles W of Woodward St in Silver Plume
+https://publicstreamer2.cotrip.org:443/rtplive/070W22550CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22960CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 229.60 WB : 1.7 miles E of 15th St in Georgetown
+https://publicstreamer3.cotrip.org:443/rtplive/070W22960CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23365CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 233.65 WB : 0.7 miles W of Mountain St in Dumont
+https://publicstreamer2.cotrip.org:443/rtplive/070W23365CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23500CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 235.00 WB at Stanley Rd in Dumont
+https://publicstreamer1.cotrip.org:443/rtplive/070W23500CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23805CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 238.05 EB : 0.3 miles E of Fall River Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070E23805CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24105CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 241.05 WB at Colorado Blvd E Exit in Idaho Springs
+https://publicstreamer4.cotrip.org:443/rtplive/070W24105CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24245CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 242.45 WB at E Veterans Memorial Tunnels
+https://publicstreamer4.cotrip.org:443/rtplive/070W24245CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E25075CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 250.75 EB at El Rancho in Evergreen
+https://publicstreamer1.cotrip.org:443/rtplive/070E25075CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25600CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 256.00 WB at Lookout Mountain
+https://publicstreamer1.cotrip.org:443/rtplive/070W25600CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25660CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 256.60 WB : 0.6 miles E of Lookout Mountain
+https://publicstreamer3.cotrip.org:443/rtplive/070W25660CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25910CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 259.10 WB : 0.3 miles E of US 40/CR 93 in Golden
+https://publicstreamer2.cotrip.org:443/rtplive/070W25910CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26350CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 263.50 EB : 1.2 miles E of Denver West Colorado Mills Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/070E26350CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26895CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 268.95 WB at Wadsworth Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/070W26895CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26935CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 269.35 WB at WB I-76 to WB I-70 Ramp
+https://publicstreamer4.cotrip.org:443/rtplive/070W26935CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27460CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 274.60 EB at Washington St
+https://publicstreamer2.cotrip.org:443/rtplive/070E27460CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27660CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 276.60 EB at Colorado Blvd to EB I-70 Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/070E27660CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27705CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 277.05 WB at Dahlia St
+https://publicstreamer2.cotrip.org:443/rtplive/070W27705CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27960CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 279.60 EB at Central Park Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/070E27960CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27855CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 278.55 WB at Quebec St
+https://publicstreamer3.cotrip.org:443/rtplive/070W27855CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E13705CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 137.05 EB : 3.0 miles W of Trail Gulch Rd in Gypsum
+https://publicstreamer4.cotrip.org:443/rtplive/070E13705CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E13955CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 139.55 EB at Trail Gulch Rd in Gypsum
+https://publicstreamer2.cotrip.org:443/rtplive/070E13955CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W16665CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 166.65 WB at Avon Rd
+https://publicstreamer3.cotrip.org:443/rtplive/070W16665CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E16955CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 169.55 EB : 0.9 miles E of US 6 in Eagle
+https://publicstreamer1.cotrip.org:443/rtplive/070E16955CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E17110CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 171.10 EB at Dowd Junction
+https://publicstreamer3.cotrip.org:443/rtplive/070E17110CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19960CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 199.60 WB : 1.3 miles W of Main St in Frisco
+https://publicstreamer4.cotrip.org:443/rtplive/070W19960CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20685CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 206.85 EB : 1.4 miles E of US 6/CO 9 in Silverthorne
+https://publicstreamer3.cotrip.org:443/rtplive/070E20685CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23175CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 231.75 EB : 0.1 miles W of US 40
+https://publicstreamer2.cotrip.org:443/rtplive/070E23175CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E24165CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 241.65 EB : 0.6 miles W of Veterans Memorial Tunnels
+https://publicstreamer4.cotrip.org:443/rtplive/070E24165CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24540CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 245.40 WB : 1.2 miles E of US 6/US 40
+https://publicstreamer1.cotrip.org:443/rtplive/070W24540CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25015CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 250.15 WB : 0.8 miles W of El Rancho in Evergreen
+https://publicstreamer2.cotrip.org:443/rtplive/070W25015CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E25395CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 253.95 EB : 0.4 miles E of Genesee Park
+https://publicstreamer2.cotrip.org:443/rtplive/070E25395CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26015CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 260.15 EB : 0.1 miles E of C-470
+https://publicstreamer1.cotrip.org:443/rtplive/070E26015CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27410CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 274.10 EB at I-25
+https://publicstreamer4.cotrip.org:443/rtplive/070E27410CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27590CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 275.90 WB at E Cover on I-70
+https://publicstreamer4.cotrip.org:443/rtplive/070W27590CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27635CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 276.35 EB at Monroe St Overpass
+https://publicstreamer2.cotrip.org:443/rtplive/070E27635CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W28220CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 282.20 WB : 0.4 miles W of I-225
+https://publicstreamer2.cotrip.org:443/rtplive/070W28220CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E28355CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 283.55 EB at Pena Blvd Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/070E28355CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E30640CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 306.40 EB : 0.8 miles E of CR 2/15th Ave in Bennett
+https://publicstreamer4.cotrip.org:443/rtplive/070E30640CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W30930CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 309.30 WB : 0.9 miles W of Wagner St in Strasburg
+https://publicstreamer2.cotrip.org:443/rtplive/070W30930CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W35855CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 358.55 WB : 1.2 miles W of Williams Ave in Limon
+https://publicstreamer4.cotrip.org:443/rtplive/070W35855CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E37150CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 371.50 EB at CR 31/CR 109 in Genoa
+https://publicstreamer4.cotrip.org:443/rtplive/070E37150CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W28155CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 281.55 WB at Peoria St Underpass
+https://publicstreamer3.cotrip.org:443/rtplive/070W28155CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11800CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 118.00 EB at E No Name Tunnel
+https://publicstreamer4.cotrip.org:443/rtplive/070E11800CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W13095CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 130.95 WB : 3.0 miles W of Colorado River Rd in Dotsero
+https://publicstreamer2.cotrip.org:443/rtplive/070W13095CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27520CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 275.20 WB : 0.1 miles W of Brighton Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/070W27520CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W28060CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 280.60 WB at Havana St Underpass
+https://publicstreamer2.cotrip.org:443/rtplive/070W28060CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E15420CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 154.20 EB : 2.8 miles W of CO 131
+https://publicstreamer2.cotrip.org:443/rtplive/070E15420CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E17530CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 175.30 EB : 1.0 mile W of Vail Rd
+https://publicstreamer1.cotrip.org:443/rtplive/070E17530CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E18365CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 183.65 EB : 4.5 miles E of Big Horn Rd in Vail
+https://publicstreamer1.cotrip.org:443/rtplive/070E18365CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22045CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 220.45 WB : 0.9 miles W of Stevens Gulch Rd in Bakerville
+https://publicstreamer2.cotrip.org:443/rtplive/070W22045CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22320CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 223.20 WB : 1.9 miles E of Stevens Gulch Rd in Bakerville
+https://publicstreamer4.cotrip.org:443/rtplive/070W22320CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22335CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 223.35 WB : 2.1 miles E of Stevens Gulch Rd in Bakerville
+https://publicstreamer1.cotrip.org:443/rtplive/070W22335CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23915CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 239.15 WB : 0.3 miles E of Stanley Rd/CR 312
+https://publicstreamer1.cotrip.org:443/rtplive/070W23915CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E24760CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 247.60 EB at CR 65 E 
+https://publicstreamer4.cotrip.org:443/rtplive/070E24760CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W28460CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 284.60 WB at N Airport Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/070W28460CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27605CAM2SWC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 276.05 WB at Steele St to WB I-70 Ramp
+https://publicstreamer3.cotrip.org:443/rtplive/070W27605CAM2SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11595CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 115.95 EB : 0.8 miles W of CO 82 in Glenwood Springs
+https://publicstreamer2.cotrip.org:443/rtplive/070E11595CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11660CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 116.60 EB at Grand Ave in Glenwood Springs
+https://publicstreamer3.cotrip.org:443/rtplive/070E11660CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11685CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 116.85 EB : 0.4 miles E of Grand Ave in Glenwood Springs
+https://publicstreamer4.cotrip.org:443/rtplive/070E11685CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W11765CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 117.65 WB at W No Name Tunnel
+https://publicstreamer3.cotrip.org:443/rtplive/070W11765CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11825CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 118.25 EB : 0.3 miles E of No Name Tunnel
+https://publicstreamer4.cotrip.org:443/rtplive/070E11825CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E11870CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 118.70 EB at No Name Lane
+https://publicstreamer2.cotrip.org:443/rtplive/070E11870CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W12250CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 122.50 WB : 1.5 miles E of Grizzly Creek
+https://publicstreamer4.cotrip.org:443/rtplive/070W12250CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W13405CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 134.05 WB at US 6 in Dotsero
+https://publicstreamer4.cotrip.org:443/rtplive/070W13405CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W15580CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 155.80 WB : 0.9 miles W of CO 131
+https://publicstreamer2.cotrip.org:443/rtplive/070W15580CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W15660CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 156.60 WB at CO 131
+https://publicstreamer3.cotrip.org:443/rtplive/070W15660CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W15710CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 157.10 WB : 0.7 miles E of CO 131
+https://publicstreamer2.cotrip.org:443/rtplive/070W15710CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W15810CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 158.10 WB : 1.8 miles E of CO 131
+https://publicstreamer1.cotrip.org:443/rtplive/070W15810CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W16015CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 160.15 WB at Wilmore Lake
+https://publicstreamer4.cotrip.org:443/rtplive/070W16015CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W16285CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 162.85 WB at Beard Creek Rd in Edwards
+https://publicstreamer4.cotrip.org:443/rtplive/070W16285CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W16595CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 165.95 WB : 0.9 miles W of Avon Rd
+https://publicstreamer4.cotrip.org:443/rtplive/070W16595CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W17045CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 170.45 WB : 0.8 miles W of Dowd Junction
+https://publicstreamer2.cotrip.org:443/rtplive/070W17045CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W17365CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 173.65 WB : 0.4 miles E of Charmonix Rd in Vail
+https://publicstreamer4.cotrip.org:443/rtplive/070W17365CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W17585CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 175.85 WB : 0.3 miles W of Vail Rd
+https://publicstreamer4.cotrip.org:443/rtplive/070W17585CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E17820CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 178.20 EB at West Central Vail Chain Station
+https://publicstreamer1.cotrip.org:443/rtplive/070E17820CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E17845CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 178.45 EB at East Central Vail Chain Station
+https://publicstreamer3.cotrip.org:443/rtplive/070E17845CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E17865CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 178.65 EB at East Vail Chain Station
+https://publicstreamer1.cotrip.org:443/rtplive/070E17865CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E18215CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 182.15 WB : 2.2 miles E of Big Horn Rd in Vail
+https://publicstreamer1.cotrip.org:443/rtplive/070E18215CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E18635CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 186.35 EB : 3.3 miles W of Vail Pass Summit
+https://publicstreamer3.cotrip.org:443/rtplive/070E18635CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W18725CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 187.25 WB : 2.6 miles W of Vail Pass Summit
+https://publicstreamer2.cotrip.org:443/rtplive/070W18725CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W18915CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 189.15 WB : 1.0 mile W of Vail Pass Summit
+https://publicstreamer1.cotrip.org:443/rtplive/070W18915CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W18945CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 189.45 WB : 0.7 miles W of Vail Pass Summit
+https://publicstreamer4.cotrip.org:443/rtplive/070W18945CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E19010CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 190.10 EB at Vail Pass Summit
+https://publicstreamer1.cotrip.org:443/rtplive/070E19010CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19210CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 192.10 WB : 1.8 miles E Vail Pass Summit
+https://publicstreamer2.cotrip.org:443/rtplive/070W19210CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E19525CAM2RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 195.25 EB at CO 91 in Copper Mountain
+https://publicstreamer4.cotrip.org:443/rtplive/070E19525CAM2RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19585CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 195.85 WB : 0.7 miles E of CO 91
+https://publicstreamer4.cotrip.org:443/rtplive/070W19585CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19780CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 197.80 WB at Officers Gulch
+https://publicstreamer1.cotrip.org:443/rtplive/070W19780CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E19840CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 198.40 EB : 0.5 miles E of Officers Gulch
+https://publicstreamer4.cotrip.org:443/rtplive/070E19840CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W19870CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 198.70 WB : 0.8 miles E of Officers Gulch
+https://publicstreamer4.cotrip.org:443/rtplive/070W19870CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20075CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 200.75 EB : 0.2 miles W of Main St in Frisco
+https://publicstreamer1.cotrip.org:443/rtplive/070E20075CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20145CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 201.45 EB : 0.6 miles E of Main St in Frisco
+https://publicstreamer3.cotrip.org:443/rtplive/070E20145CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20235CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 202.35 EB at CO 9 in Frisco
+https://publicstreamer3.cotrip.org:443/rtplive/070E20235CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20320CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 203.20 EB : 0.9 miles E of CO 9 in Frisco
+https://publicstreamer3.cotrip.org:443/rtplive/070E20320CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E20465CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 204.65 EB : 0.7 miles W of US 6/CO 9 in Silverthorne
+https://publicstreamer3.cotrip.org:443/rtplive/070E20465CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W20575CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 205.75 WB : 0.3 miles E of US 6/CO 9 in Silverthorne
+https://publicstreamer2.cotrip.org:443/rtplive/070W20575CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W20800CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 208.00 WB : 2.4 miles E of US 6/CO 9 in Silverthorne
+https://publicstreamer3.cotrip.org:443/rtplive/070W20800CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W20985CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 209.85 WB : 3.8 miles W of Eisenhower Tunnel
+https://publicstreamer2.cotrip.org:443/rtplive/070W20985CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E21065CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 210.65 EB : 2.9 miles W of Eisenhower Tunnel
+https://publicstreamer3.cotrip.org:443/rtplive/070E21065CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E21345CAM1RHS-V.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 213.45 EB : 0.1 miles W of Eisenhower Tunnel
+https://publicstreamer1.cotrip.org:443/rtplive/070E21345CAM1RHS-V/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E21345CAM1RHS-T.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 213.45 EB : 0.1 miles W of Eisenhower Tunnel
+https://publicstreamer4.cotrip.org:443/rtplive/070E21345CAM1RHS-T/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E21560CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 215.60 EB : 0.3 miles E of Eisenhower Tunnel
+https://publicstreamer4.cotrip.org:443/rtplive/070E21560CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E21660CAM2RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 216.60 EB : 0.4 miles E of US 6 Loveland Pass
+https://publicstreamer2.cotrip.org:443/rtplive/070E21660CAM2RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W21860CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 218.60 WB : 0.2 miles E of Herman Gulch Rd
+https://publicstreamer4.cotrip.org:443/rtplive/070W21860CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E22130CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 221.30 EB at Stevens Gulch Rd in Bakerville
+https://publicstreamer2.cotrip.org:443/rtplive/070E22130CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22405CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 224.05 WB : 2.0 miles W of Woodward St in Silver Plume
+https://publicstreamer1.cotrip.org:443/rtplive/070W22405CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22580CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 225.80 WB : 0.1 miles E of Woodward St in Silver Plume
+https://publicstreamer2.cotrip.org:443/rtplive/070W22580CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E22650CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 226.50 EB : 0.9 miles E of Woodward St in Silver Plume
+https://publicstreamer4.cotrip.org:443/rtplive/070E22650CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22800CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 228.00 WB : 0.1 miles E of 15th St in Georgetown
+https://publicstreamer4.cotrip.org:443/rtplive/070W22800CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22850CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 228.50 WB at Georgetown Truck Parking W
+https://publicstreamer2.cotrip.org:443/rtplive/070W22850CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22860CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 228.60 WB at Georgetown Truck Parking E
+https://publicstreamer4.cotrip.org:443/rtplive/070W22860CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W22880CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 228.80 WB : 0.9 miles E of 15th St in Georgetown
+https://publicstreamer1.cotrip.org:443/rtplive/070W22880CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23045CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 230.45 EB : 1.4 miles W of US 40
+https://publicstreamer2.cotrip.org:443/rtplive/070E23045CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23125CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 231.25 WB : 0.6 miles W of US 40
+https://publicstreamer2.cotrip.org:443/rtplive/070W23125CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23190CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 231.90 EB at US 40
+https://publicstreamer2.cotrip.org:443/rtplive/070E23190CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23260CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 232.60 WB : 0.7 miles E of US 40
+https://publicstreamer4.cotrip.org:443/rtplive/070W23260CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23420CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 234.20 EB at Mountain St in Dumont
+https://publicstreamer3.cotrip.org:443/rtplive/070E23420CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23585CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 235.85 WB : 0.8 miles E of Stanley Rd in Dumont
+https://publicstreamer4.cotrip.org:443/rtplive/070W23585CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23655CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 236.55 EB : 1.1 miles W of Fall River Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070E23655CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23725CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 237.25 EB : 0.4 miles W of Fall River Rd
+https://publicstreamer3.cotrip.org:443/rtplive/070E23725CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23765CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 237.65 EB at Fall River Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070E23765CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W23850CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 238.50 WB : 0.5 miles W of Stanley Rd/CR 312
+https://publicstreamer3.cotrip.org:443/rtplive/070W23850CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23890CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 238.90 EB at Stanley Rd/CR 312 in Idaho Springs
+https://publicstreamer3.cotrip.org:443/rtplive/070E23890CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23905CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 239.05 EB : 0.2 miles E of Stanley Rd/CR 312
+https://publicstreamer1.cotrip.org:443/rtplive/070E23905CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E23965CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 239.65 EB at CO 103/13th Ave in Idaho Springs
+https://publicstreamer1.cotrip.org:443/rtplive/070E23965CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24060CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 240.60 WB : 0.5 miles W of Colorado Blvd E Exit in Idaho Springs
+https://publicstreamer4.cotrip.org:443/rtplive/070W24060CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E24200CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 242.00 EB : 0.3 miles W of W Veterans Memorial Tunnels
+https://publicstreamer4.cotrip.org:443/rtplive/070E24200CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24285CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 242.85 WB : 0.2 miles W of Central City Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/070W24285CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24325CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 243.25 WB : 0.3 miles E of Central City Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/070W24325CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24375CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 243.75 WB : 0.5 miles W of US 6/US 40
+https://publicstreamer2.cotrip.org:443/rtplive/070W24375CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E24630CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 246.30 EB : 0.3 miles W of Homestead Rd 
+https://publicstreamer1.cotrip.org:443/rtplive/070E24630CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24635CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 246.35 WB : 0.3 miles W of Homestead Rd in Beaver Brook
+https://publicstreamer1.cotrip.org:443/rtplive/070W24635CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E24660CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 246.60 EB at Homestead Rd W 
+https://publicstreamer2.cotrip.org:443/rtplive/070E24660CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W24910CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 249.10 WB : 1.4 miles E of CR 65 
+https://publicstreamer1.cotrip.org:443/rtplive/070W24910CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E25165CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 251.65 EB : 0.3 miles E of in Evergreen Pkwy in Evergreen
+https://publicstreamer1.cotrip.org:443/rtplive/070E25165CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25355CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 253.55 WB at Genesee Park
+https://publicstreamer1.cotrip.org:443/rtplive/070W25355CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25465CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 254.65 WB : 1.1 miles E of Genesee Park
+https://publicstreamer4.cotrip.org:443/rtplive/070W25465CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E25875CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 258.75 EB at EB I-70 Ramp to CR 93 in Golden
+https://publicstreamer4.cotrip.org:443/rtplive/070E25875CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W25975CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 259.75 WB at C-470
+https://publicstreamer1.cotrip.org:443/rtplive/070W25975CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26085CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 260.85 EB : 0.2 miles W of W 6th Ave
+https://publicstreamer2.cotrip.org:443/rtplive/070E26085CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26415CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 264.15 EB : 0.2 miles W of W 32nd Ave
+https://publicstreamer1.cotrip.org:443/rtplive/070E26415CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26470CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 264.70 WB : 0.4 miles E of W 32nd Ave
+https://publicstreamer4.cotrip.org:443/rtplive/070W26470CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26570CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 265.70 EB at Ward Rd
+https://publicstreamer3.cotrip.org:443/rtplive/070E26570CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26605CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 266.05 EB at EB I-70 Ramp to W 44th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/070E26605CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26695CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 266.95 WB : 0.4 miles W of Kipling St
+https://publicstreamer2.cotrip.org:443/rtplive/070W26695CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E26740CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 267.40 EB at Kipling St to EB I-70 Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/070E26740CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26740CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 267.40 WB at EB I-70 Ramp to Kipling St
+https://publicstreamer4.cotrip.org:443/rtplive/070W26740CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26805CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 268.05 WB : 0.9 miles W of Kipling St
+https://publicstreamer1.cotrip.org:443/rtplive/070W26805CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W26995CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 269.95 WB at Harlan St
+https://publicstreamer1.cotrip.org:443/rtplive/070W26995CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27030CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 270.30 WB : 0.3 miles E of N Harlan St
+https://publicstreamer1.cotrip.org:443/rtplive/070W27030CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27135CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 271.35 WB : 0.2 miles W of Lowell Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/070W27135CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27365CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 273.65 EB : 0.4 miles W of I-25
+https://publicstreamer2.cotrip.org:443/rtplive/070E27365CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27475CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 274.75 WB : 0.1 miles E of Washington St
+https://publicstreamer2.cotrip.org:443/rtplive/070W27475CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27525CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 275.25 EB at Brighton Blvd
+https://publicstreamer4.cotrip.org:443/rtplive/070E27525CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27555CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 275.55 EB at York St
+https://publicstreamer2.cotrip.org:443/rtplive/070E27555CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27605CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 276.05 WB at SB Steele St Ramp to WB I-70
+https://publicstreamer1.cotrip.org:443/rtplive/070W27605CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27655CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 276.55 WB at Colorado Blvd to WB I-70 Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/070W27655CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27750CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 277.50 EB at Holly St
+https://publicstreamer1.cotrip.org:443/rtplive/070E27750CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27790CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 277.90 EB : 0.8 miles E of Quebec St
+https://publicstreamer2.cotrip.org:443/rtplive/070E27790CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W27840CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 278.40 WB : 0.2 miles W of Quebec St
+https://publicstreamer3.cotrip.org:443/rtplive/070W27840CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E27890CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 278.90 EB at I-270
+https://publicstreamer4.cotrip.org:443/rtplive/070E27890CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E28105CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 281.05 EB : 0.6 miles E of Havana St
+https://publicstreamer2.cotrip.org:443/rtplive/070E28105CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E28150CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 281.50 EB at Peoria St
+https://publicstreamer2.cotrip.org:443/rtplive/070E28150CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W28280CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 282.80 WB at I-225
+https://publicstreamer2.cotrip.org:443/rtplive/070W28280CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W28350CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 283.50 WB at Chambers Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070W28350CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E28855CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 288.55 EB : 0.4 miles W of E-470
+https://publicstreamer4.cotrip.org:443/rtplive/070E28855CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E29110CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 291.10 EB : 0.1 miles W of Powhaton Rd
+https://publicstreamer1.cotrip.org:443/rtplive/070E29110CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E29365CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 293.65 EB : 1.9 miles E of CO-36 in Aurora
+https://publicstreamer4.cotrip.org:443/rtplive/070E29365CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E29625CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 296.25 EB : 1.3 miles E of Watkins Rd
+https://publicstreamer4.cotrip.org:443/rtplive/070E29625CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E29735CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 297.35 EB : 2.7 miles E of Watkins Rd
+https://publicstreamer4.cotrip.org:443/rtplive/070E29735CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E29935CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 299.35 EB at N Manila Rd in Bennett
+https://publicstreamer4.cotrip.org:443/rtplive/070E29935CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E30230CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 302.30 EB : 2.6 miles W of S 1st St in Bennett
+https://publicstreamer4.cotrip.org:443/rtplive/070E30230CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E32090CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 320.90 EB : 1.6 miles W of Peoria Rd/CR 201
+https://publicstreamer4.cotrip.org:443/rtplive/070E32090CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E32865CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 328.65 EB : 0.3 miles E of Cedar St Deer Trail
+https://publicstreamer2.cotrip.org:443/rtplive/070E32865CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E34035CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 340.35 EB at CR 166 Ramp to EB I-70 in Agate
+https://publicstreamer4.cotrip.org:443/rtplive/070E34035CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W36230CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 362.30 WB : 0.5 miles E of US 40/US 287W in Limon
+https://publicstreamer4.cotrip.org:443/rtplive/070W36230CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E36530CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 365.30 EB : 2.9 miles E of US 40/US 287 on Frontage Rd in Limon
+https://publicstreamer4.cotrip.org:443/rtplive/070E36530CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E38350CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 383.50 EB at CR 43 to EB I-70 Ramp in Arriba
+https://publicstreamer1.cotrip.org:443/rtplive/070E38350CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E40505CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 405.05 Ebb at CO-59 Ramp to EB I-70 in Seibert
+https://publicstreamer1.cotrip.org:443/rtplive/070E40505CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E41985CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 419.85 EB : 0.5 miles E of Colorado Ave/Rd 30.5 in Stratton
+https://publicstreamer3.cotrip.org:443/rtplive/070E41985CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E42885CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 428.85 EB at CR 40 to EB I-70 Ramp in Bethune
+https://publicstreamer4.cotrip.org:443/rtplive/070E42885CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W43680CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 436.80 WB at S Lincoln St/US 385 in Burlington
+https://publicstreamer3.cotrip.org:443/rtplive/070W43680CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E43845CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 438.45 EB : 0.2 miles E of Rose Ave in Burlington
+https://publicstreamer2.cotrip.org:443/rtplive/070E43845CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00030CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 72 MP 000.30 WB at W 48th Ave/W I-70 Frontage Rd N
+https://publicstreamer1.cotrip.org:443/rtplive/072W00030CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00080CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 72 MP 000.80 WB at W 52nd Ave
+https://publicstreamer4.cotrip.org:443/rtplive/072W00080CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00235CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-72 MP 002.35 WB at W 64th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/072W00235CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00325CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-72 MP 003.25 WB at Eldridge St
+https://publicstreamer1.cotrip.org:443/rtplive/072W00325CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072E00365CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 72 MP 003.65 EB at Indiana St
+https://publicstreamer1.cotrip.org:443/rtplive/072E00365CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00465CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-72 MP 004.65 WB at W 72nd Ave
+https://publicstreamer1.cotrip.org:443/rtplive/072W00465CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00590CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-72 MP 005.90 WB at W 80th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/072W00590CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072E00625CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-72 MP 006.25 WB at W 86th Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/072E00625CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/072W00160CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 72 MP 001.60 WB at W 58th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/072W00160CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/074E00450CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 74 MP 004.50 EB at Lewis Ridge Rd in Evergreen
+https://publicstreamer4.cotrip.org:443/rtplive/074E00450CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/074W00535CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO 74 MP 005.35 WB at Stagecoach Blvd in Evergreen
+https://publicstreamer4.cotrip.org:443/rtplive/074W00535CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W00175CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 001.75 WB at Sheridan Blvd/CO 95
+https://publicstreamer2.cotrip.org:443/rtplive/076W00175CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W00320CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 003.20 WB at Federal Blvd/US 287
+https://publicstreamer1.cotrip.org:443/rtplive/076W00320CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W00440CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 004.40 WB at N Pecos St
+https://publicstreamer4.cotrip.org:443/rtplive/076W00440CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W00440CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 004.40 WB at N Pecos St to WB I-76 Ramp
+https://publicstreamer4.cotrip.org:443/rtplive/076W00440CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W00570CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 005.70 WB at I-25
+https://publicstreamer4.cotrip.org:443/rtplive/076W00570CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W00640CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 006.40 WB : 0.4 miles W of I-270
+https://publicstreamer4.cotrip.org:443/rtplive/076W00640CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076E00945CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 009.45 EB at Vasquez Blvd/US 6
+https://publicstreamer4.cotrip.org:443/rtplive/076E00945CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W01110CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 011.10 WB : 0.6 miles W of E 96th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/076W01110CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076E01650CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 016.50 EB at Sable Blvd/CO 2
+https://publicstreamer3.cotrip.org:443/rtplive/076E01650CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W01975CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 019.75 WB at E 136th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/076W01975CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W02515CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 025.15 WB at E 168th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/076W02515CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W02895CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 028.95 WB at CR 8
+https://publicstreamer2.cotrip.org:443/rtplive/076W02895CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W03445CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 034.45 WB at CR 49 in Hudson
+https://publicstreamer4.cotrip.org:443/rtplive/076W03445CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076E03650CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 036.50 EB at CR 53 in Keenesburg
+https://publicstreamer2.cotrip.org:443/rtplive/076E03650CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076E03890CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 038.90 EB at Market St in Keenesburg
+https://publicstreamer1.cotrip.org:443/rtplive/076E03890CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076E04720CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 047.20 EB : 0.8 miles W of CR 73 in Roggen
+https://publicstreamer1.cotrip.org:443/rtplive/076E04720CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W04880CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 048.80 WB : 1.0 mile E of CR 73 in Roggen
+https://publicstreamer1.cotrip.org:443/rtplive/076W04880CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/076W05865CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-76 MP 058.65 WB : 1.5 miles W of CR 36 in Wiggins
+https://publicstreamer1.cotrip.org:443/rtplive/076W05865CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/083S05075CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-83 MP 050.75 SB at CO-86 Franktown
+https://publicstreamer1.cotrip.org:443/rtplive/083S05075CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/083N06480CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-83 MP 064.80 NB at S Chambers Way Aurora
+https://publicstreamer1.cotrip.org:443/rtplive/083N06480CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/083N06585CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-83 MP 065.85 NB at S Lewiston Way Centennial
+https://publicstreamer1.cotrip.org:443/rtplive/083N06585CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085N19620CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US-85 MP 196.20 NB at Titan Pkwy to NB US-85 Ramp
+https://publicstreamer1.cotrip.org:443/rtplive/085N19620CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085N19915CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 85 MP 199.15 NB at Town Center Dr
+https://publicstreamer4.cotrip.org:443/rtplive/085N19915CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085S20735CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 85 MP 207.35 SB at W Dartmouth Ave
+https://publicstreamer2.cotrip.org:443/rtplive/085S20735CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085N22735CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US-85 MP 227.35 NB at E 104th Ave Commerce City
+https://publicstreamer1.cotrip.org:443/rtplive/085N22735CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085S22860CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US-85 MP 228.60 SB at E 112th Ave Commerce City
+https://publicstreamer1.cotrip.org:443/rtplive/085S22860CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085S23130CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",US 85 MP 231.30 SB at E-470
+https://publicstreamer4.cotrip.org:443/rtplive/085S23130CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/085N23410CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US-85 MP 234.10 NB at W Bromley Ln Brighton
+https://publicstreamer1.cotrip.org:443/rtplive/085N23410CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/086W10065CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-86 MP 100.65 WB at Trail Boss Dr Castle Rock
+https://publicstreamer1.cotrip.org:443/rtplive/086W10065CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/086W10100CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-86 MP 101.00 WB at Woodlands Blvd Castle Rock
+https://publicstreamer1.cotrip.org:443/rtplive/086W10100CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088W00595CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 005.95 WB at W Hampden Ave
+https://publicstreamer1.cotrip.org:443/rtplive/088W00595CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E00605CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 006.05 EB at NB US-285 Ramp to S Federal Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/088E00605CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01155CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 011.55 EB at S University Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/088E01155CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01365CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 013.65 EB at S Holly St
+https://publicstreamer1.cotrip.org:443/rtplive/088E01365CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01420CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 014.20 EB at S Monaco St
+https://publicstreamer1.cotrip.org:443/rtplive/088E01420CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01465CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 014.65 EB at S Quebec St
+https://publicstreamer1.cotrip.org:443/rtplive/088E01465CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088W01700CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 17.00 WB at E Arapahoe Rd NB I-25 Ramp
+https://publicstreamer1.cotrip.org:443/rtplive/088W01700CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088W01715CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 017.15 WB at S Boston St/S Clinton St TSG
+https://publicstreamer1.cotrip.org:443/rtplive/088W01715CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088W01735CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 017.35 WB at S Dayton St
+https://publicstreamer1.cotrip.org:443/rtplive/088W01735CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01850CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 018.50 EB at S Lima St
+https://publicstreamer1.cotrip.org:443/rtplive/088E01850CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01905CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 019.05 EB at S Peoria St
+https://publicstreamer1.cotrip.org:443/rtplive/088E01905CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E01950CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 019.50 EB at S Revere Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/088E01950CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E02000CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 020.00 EB at S Potomac St
+https://publicstreamer1.cotrip.org:443/rtplive/088E02000CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088W02050CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 020.50 WB at S Jordan Rd
+https://publicstreamer1.cotrip.org:443/rtplive/088W02050CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/088E02165CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-88 MP 021.65 EB at S Parker Rd/CO-83 Centennial
+https://publicstreamer1.cotrip.org:443/rtplive/088E02165CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/091N02220CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 91 MP 022.20 NB at Copper Rd in Copper Mountain
+https://publicstreamer3.cotrip.org:443/rtplive/091N02220CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N00070CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-93 MP 000.70 NB at Iowa Dr
+https://publicstreamer1.cotrip.org:443/rtplive/093N00070CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093S00085CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-93 MP 000.85 SB at Washington Ave
+https://publicstreamer1.cotrip.org:443/rtplive/093S00085CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093S00125CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-93 MP 001.25 SB at Golden Gate Canyon Rd
+https://publicstreamer1.cotrip.org:443/rtplive/093S00125CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N00250CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 002.50 NB : 0.6 miles S of W 56th Ave in Golden
+https://publicstreamer3.cotrip.org:443/rtplive/093N00250CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N00305CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-93 MP 003.05 NB at W 58th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/093N00305CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N00380CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 003.80 NB : 0.5 miles S of W 64th Pkwy in Golden
+https://publicstreamer4.cotrip.org:443/rtplive/093N00380CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093S00415CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-93 MP 004.15 SB at W 64th Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/093S00415CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N00685CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 006.85 NB : 0.8 miles S of Coal Creek Canyon Rd/CO 72
+https://publicstreamer1.cotrip.org:443/rtplive/093N00685CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093S00755CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 007.55 SB at Coal Creek Canyon Rd/CO 72
+https://publicstreamer1.cotrip.org:443/rtplive/093S00755CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093S00880CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 008.80 SB at Westgate Rd in Golden
+https://publicstreamer3.cotrip.org:443/rtplive/093S00880CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093S01040CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 010.40 SB : 1.7 miles S of CO 128 in Golden
+https://publicstreamer2.cotrip.org:443/rtplive/093S01040CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N01180CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-93 MP 011.80 NB at CO-128
+https://publicstreamer1.cotrip.org:443/rtplive/093N01180CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/093N01365CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 93 MP 013.65 NB at Eldorado Springs Dr/CO 170
+https://publicstreamer4.cotrip.org:443/rtplive/093N01365CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/094W00100CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO 94 MP 001.00 WB at Marksheffel Rd in Colorado Springs
+https://publicstreamer1.cotrip.org:443/rtplive/094W00100CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/094E00810CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO 94 MP 008.10 EB at N Curtis Rd in Colorado Springs
+https://publicstreamer1.cotrip.org:443/rtplive/094E00810CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/095N00965CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-95 MP 009.65 NB at W 53rd Ave
+https://publicstreamer1.cotrip.org:443/rtplive/095N00965CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/095S00980CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-95 MP 009.80 SB at I-76 EB Ramp to Sheridan Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/095S00980CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/095S00995CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-95 MP 009.95 SB at Sheridan Blvd to I-76 WB Ramp
+https://publicstreamer1.cotrip.org:443/rtplive/095S00995CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/114W06150CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 114 MP 061.50 WB : 0.2 mi W of 8th St/US 285 Saguache
+https://publicstreamer2.cotrip.org:443/rtplive/114W06150CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/115S04035CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO 115 MP 040.35 SB at Pine Oaks Rd in Fort Carson
+https://publicstreamer2.cotrip.org:443/rtplive/115S04035CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/115S04385CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",CO 115 MP 043.85 SB at S Academy Blvd in Fort Carson
+https://publicstreamer3.cotrip.org:443/rtplive/115S04385CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00015CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 000.15 SB : 0.2 miles N of US 6
+https://publicstreamer1.cotrip.org:443/rtplive/119S00015CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00040CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 000.40 SB : 0.5 miles N of US 6
+https://publicstreamer1.cotrip.org:443/rtplive/119S00040CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00100CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 001.00 SB : 1.0 mile N of US 6
+https://publicstreamer4.cotrip.org:443/rtplive/119S00100CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00165CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 001.65 SB : 1.7 miles N of US 6
+https://publicstreamer1.cotrip.org:443/rtplive/119S00165CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00215CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 002.15 SB : 2.1 miles N of US 6
+https://publicstreamer4.cotrip.org:443/rtplive/119S00215CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00275CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 002.75 SB : 2.8 miles N of US 6
+https://publicstreamer3.cotrip.org:443/rtplive/119S00275CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00335CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 003.35 SB : 3.4 miles N of US 6
+https://publicstreamer3.cotrip.org:443/rtplive/119S00335CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/119S00370CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 119 MP 003.70 SB : 3.5 miles S of Black Hawk St
+https://publicstreamer1.cotrip.org:443/rtplive/119S00370CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N02065CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 020.65 NB at W 80th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/121N02065CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N01800CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 018.00 NB at Ralston Rd
+https://publicstreamer3.cotrip.org:443/rtplive/121N01800CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S01860CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 018.60 SB at W 64th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/121S01860CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S00230CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 002.30 SB at W Ken Caryl Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121S00230CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N00280CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 002.80 NB at W Columbine Dr
+https://publicstreamer1.cotrip.org:443/rtplive/121N00280CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S01965CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 019.65 SB at W 72nd Ave
+https://publicstreamer3.cotrip.org:443/rtplive/121S01965CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N01695CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 016.95 NB at WB I-70 Ramp to SB Wadsworth Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/121N01695CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N00360CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 003.60 NB at W Peakview Dr
+https://publicstreamer1.cotrip.org:443/rtplive/121N00360CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N02435CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 121 MP 024.35 NB at W 108th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N02435CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N02615CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 026.15 NB at WB US-36 Ramp to Wadsworth Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/121N02615CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N00335CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 003.35 NB at W Coal Mine Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N00335CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N02210CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 022.10 NB at W 92nd Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N02210CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N01515CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 015.15 NB at W 32nd Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N01515CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N01775CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 017.75 NB at W 56th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/121N01775CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N00535CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 005.35 NB at W Belleview Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N00535CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N01485CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 014.85 NB at W 29th Ave
+https://publicstreamer4.cotrip.org:443/rtplive/121N01485CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S00620CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 006.20 SB at W Stanford Ave
+https://publicstreamer4.cotrip.org:443/rtplive/121S00620CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S02570CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 025.70 SB at Interlocken Loop/CO-128
+https://publicstreamer1.cotrip.org:443/rtplive/121S02570CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N00435CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 004.35 NB at W Bowles Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N00435CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S00655CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 006.55 SB at W Quincy Ave
+https://publicstreamer4.cotrip.org:443/rtplive/121S00655CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S00580CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 005.80 SB at W Layton Dr
+https://publicstreamer1.cotrip.org:443/rtplive/121S00580CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121N00120CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 001.20 NB at W Chatfield Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121N00120CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/121S00495CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-121 MP 004.95 SB at W Crestline Ave
+https://publicstreamer1.cotrip.org:443/rtplive/121S00495CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128E00420CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 004.20 EB at Indiana St
+https://publicstreamer1.cotrip.org:443/rtplive/128E00420CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128E00535CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 005.35 EB at Eldorado Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/128E00535CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128E00575CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 005.75 EB at Simms St
+https://publicstreamer1.cotrip.org:443/rtplive/128E00575CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128W00620CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 006.20 WB at Interlocken Loop
+https://publicstreamer3.cotrip.org:443/rtplive/128W00620CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128W00720CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 007.20 WB at Interlocken Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/128W00720CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128W00750CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 007.50 WB at Interlocken Blvd/Airport Way
+https://publicstreamer3.cotrip.org:443/rtplive/128W00750CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128E00870CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 008.70 EB at Wadsworth Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/128E00870CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/128W01265CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-128 MP 012.65 WB at N Zuni St
+https://publicstreamer3.cotrip.org:443/rtplive/128W01265CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/160W18610CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 160 MP 186.10 WB at CO 149 in South Fork
+https://publicstreamer1.cotrip.org:443/rtplive/160W18610CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/177N00010CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",CO-177 MP 000.10 NB at E County Line Rd
+https://publicstreamer3.cotrip.org:443/rtplive/177N00010CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/177S00100CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-177 MP 001.00 SB at E Dry Creek Rd
+https://publicstreamer3.cotrip.org:443/rtplive/177S00100CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/177N00155CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-177 MP 001.55 NB at E Easter Ave
+https://publicstreamer3.cotrip.org:443/rtplive/177N00155CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/177N00200CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-177 MP 002.00 NB at E Arapahoe Rd
+https://publicstreamer3.cotrip.org:443/rtplive/177N00200CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/177N00245CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO-177 MP 002.45 NB at S Josephine Way
+https://publicstreamer1.cotrip.org:443/rtplive/177N00245CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/224E00030CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",CO 224 MP 000.30 EB at CO 53/Broadway
+https://publicstreamer3.cotrip.org:443/rtplive/224E00030CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/224W00060CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 224 MP 000.60 WB at I-25
+https://publicstreamer2.cotrip.org:443/rtplive/224W00060CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/224W00065CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",CO 224 MP 000.65 WB : 0.1 miles E of I-25
+https://publicstreamer3.cotrip.org:443/rtplive/224W00065CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00010CAM2RHS.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 000.10 SB (2) : SB I-225 Ramp to SB I-25
+https://publicstreamer4.cotrip.org:443/rtplive/225S00010CAM2RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00025CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 000.25 SB : SB I-225 Ramp to SB I-25
+https://publicstreamer1.cotrip.org:443/rtplive/225S00025CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00080CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 000.80 SB at DTC Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/225S00080CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N00140CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 001.40 NB at S Yosemite St and NB I-225 Ramps
+https://publicstreamer2.cotrip.org:443/rtplive/225N00140CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N00230CAM1GP4.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 002.30 NB : 1.2 miles N of S Yosemite St
+https://publicstreamer1.cotrip.org:443/rtplive/225N00230CAM1GP4/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00355CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 003.55 SB : 0.4 miles S of S Parker Rd/CO 83
+https://publicstreamer2.cotrip.org:443/rtplive/225S00355CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N00400CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 004.00 NB at S Parker Rd/CO 83
+https://publicstreamer2.cotrip.org:443/rtplive/225N00400CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00425CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 004.25 SB : 0.3 miles N of S Parker Rd/CO 83
+https://publicstreamer2.cotrip.org:443/rtplive/225S00425CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N00535CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 005.35 NB at E Iliff Ave
+https://publicstreamer1.cotrip.org:443/rtplive/225N00535CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00635CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 006.35 SB : 0.7 miles S of E Mississippi Ave
+https://publicstreamer4.cotrip.org:443/rtplive/225S00635CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N00695CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 006.95 NB at E Mississippi Ave
+https://publicstreamer1.cotrip.org:443/rtplive/225N00695CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N00780CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 007.80 NB : 0.1 miles S of E Alameda Ave
+https://publicstreamer2.cotrip.org:443/rtplive/225N00780CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00895CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 008.95 SB at E 6th Ave
+https://publicstreamer3.cotrip.org:443/rtplive/225S00895CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S00995CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 009.95 SB at E Colfax Ave
+https://publicstreamer2.cotrip.org:443/rtplive/225S00995CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225S01010CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 010.10 SB : 0.1 miles N of E Colfax Ave
+https://publicstreamer1.cotrip.org:443/rtplive/225S01010CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/225N01050CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-225 MP 010.50 NB : 0.7 miles N of E Colfax Ave
+https://publicstreamer2.cotrip.org:443/rtplive/225N01050CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/270E00050CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-270 MP 000.50 EB at York St
+https://publicstreamer2.cotrip.org:443/rtplive/270E00050CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/270E00240CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-270 MP 002.40 EB at Vasquez Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/270E00240CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/270W00395CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",I-270 MP 003.95 WB : 0.7 miles W of Quebec St
+https://publicstreamer2.cotrip.org:443/rtplive/270W00395CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285S24315CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 285 MP 243.15 SB : 0.9 miles S of N Turkey Creek Rd
+https://publicstreamer4.cotrip.org:443/rtplive/285S24315CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285N24465CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 285 MP 244.65 NB : 0.6 miles N of N Turkey Creek Rd
+https://publicstreamer2.cotrip.org:443/rtplive/285N24465CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285N24515CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 285 MP 245.15 NB at Twin Forks
+https://publicstreamer2.cotrip.org:443/rtplive/285N24515CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285S24590CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",US 285 MP 245.90 SB at Parmalee Gulch Rd in Indian Hills
+https://publicstreamer4.cotrip.org:443/rtplive/285S24590CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285S25065CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",US 285 MP 250.65 SB : 0.8 miles E of C-470
+https://publicstreamer1.cotrip.org:443/rtplive/285S25065CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285S25770CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US-285 MP 257.70 SB at S Knox Ct/S Lowell Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/285S25770CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/285N26175CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US-285 MP 257.65 NB at S University Blvd/CO-177
+https://publicstreamer1.cotrip.org:443/rtplive/285N26175CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287S28955CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 289.55 SB at Cottonwood Dr/WB US 36 Ramp
+https://publicstreamer1.cotrip.org:443/rtplive/287S28955CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287S29205CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US-287 MP 292.05 SB at W 98th Ave/Pine St
+https://publicstreamer1.cotrip.org:443/rtplive/287S29205CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287N29700CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 297.00 NB at Main St in Broomfield
+https://publicstreamer3.cotrip.org:443/rtplive/287N29700CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287S29745CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 297.45 SB at Upham St/CO 128
+https://publicstreamer2.cotrip.org:443/rtplive/287S29745CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287N29835CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US-287 MP 298.35 NB at W Midway Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/287N29835CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287S29865CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US-287 MP 298.65 SB at W 6th Ave
+https://publicstreamer1.cotrip.org:443/rtplive/287S29865CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287N29885CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 298.85 NB at W 10th Ave
+https://publicstreamer2.cotrip.org:443/rtplive/287N29885CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287N30085CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 300.85 NB at W Dillon Rd/NW Pkwy South Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/287N30085CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287N30095CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 300.95 NB at W Dillon Rd/NW Pkwy North Ramp
+https://publicstreamer2.cotrip.org:443/rtplive/287N30095CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287N30180CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 301.80 NB at Empire Rd/CO 42
+https://publicstreamer2.cotrip.org:443/rtplive/287N30180CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287S30230CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 302.30 SB at S Public Rd in Lafayette
+https://publicstreamer2.cotrip.org:443/rtplive/287S30230CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/287S30315CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",US 287 MP 303.15 SB at W South Boulder Rd
+https://publicstreamer2.cotrip.org:443/rtplive/287S30315CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/391S00785CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-391 MP 007.85 SB at W 32nd Ave
+https://publicstreamer2.cotrip.org:443/rtplive/391S00785CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/391S00860CAM1NWC.flv.png" group-title="Colorado - Traffic Cameras",CO-391 MP 008.60 SB at W 39th Ave
+https://publicstreamer2.cotrip.org:443/rtplive/391S00860CAM1NWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/391S00945CAM1SWC.flv.png" group-title="Colorado - Traffic Cameras",CO-391 MP 009.45 SB at W 48th Ave/I-70 Frontage Rd S
+https://publicstreamer2.cotrip.org:443/rtplive/391S00945CAM1SWC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01170CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 011.70 EB : 0.8 miles W of S Kipling Pkwy
+https://publicstreamer3.cotrip.org:443/rtplive/470E01170CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W01430CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 013.40 WB : 0.4 miles E of S Wadsworth Blvd/CO 121
+https://publicstreamer1.cotrip.org:443/rtplive/470W01430CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W01555CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 015.55 WB : 0.1 miles E of S Platte Canyon Rd/CO 75
+https://publicstreamer2.cotrip.org:443/rtplive/470W01555CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W01955CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 019.55 WB at S Broadway
+https://publicstreamer2.cotrip.org:443/rtplive/470W01955CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E02110CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 021.10 EB at S University Blvd/CO 177
+https://publicstreamer1.cotrip.org:443/rtplive/470E02110CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01245CAM1SEC.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 012.45 EB at S Kipling Pkwy Ramp to EB C-470
+https://publicstreamer1.cotrip.org:443/rtplive/470E01245CAM1SEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E00005CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 000.05 EB at I-70
+https://publicstreamer1.cotrip.org:443/rtplive/470E00005CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E00045CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 000.45 EB : 0.5 miles E of I-70
+https://publicstreamer2.cotrip.org:443/rtplive/470E00045CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E00120CAM1GP3.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 001.20 EB : 0.6 miles W of W Alameda Pkwy
+https://publicstreamer2.cotrip.org:443/rtplive/470E00120CAM1GP3/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E00125CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 001.25 EB : 0.5 miles W of W Alameda Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/470E00125CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E00270CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 002.70 EB : 0.9 miles E of W Alameda Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/470E00270CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E00415CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 004.15 EB : 0.1 miles W of CO-8/W Morrison Rd
+https://publicstreamer4.cotrip.org:443/rtplive/470E00415CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W00565CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 005.65 WB at US-285
+https://publicstreamer3.cotrip.org:443/rtplive/470W00565CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W00695CAM1GP2.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 006.95 WB : 0.8 miles E of Quincy Ave
+https://publicstreamer1.cotrip.org:443/rtplive/470W00695CAM1GP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W00875CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 008.75 WB : 0.9 miles E of W Bowles Ave
+https://publicstreamer3.cotrip.org:443/rtplive/470W00875CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W01245CAM1NEC.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 012.45 WB at WB C-470 Ramp to S Kipling Pkwy
+https://publicstreamer2.cotrip.org:443/rtplive/470W01245CAM1NEC/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01250CAM1MED.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 012.50 EB at S Kipling Pkwy
+https://publicstreamer1.cotrip.org:443/rtplive/470E01250CAM1MED/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01395CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 013.95 EB at S Wadsworth Blvd/CO 121
+https://publicstreamer2.cotrip.org:443/rtplive/470E01395CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01450CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 014.50 EB : 0.7 miles E of S Wadsworth Blvd/CO 121
+https://publicstreamer3.cotrip.org:443/rtplive/470E01450CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W01500CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 015.00 WB : 0.5 miles W of S Platte Canyon Rd/CO 75
+https://publicstreamer4.cotrip.org:443/rtplive/470W01500CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01705CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 017.05 EB at S Santa Fe Dr/US 85
+https://publicstreamer1.cotrip.org:443/rtplive/470E01705CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01775CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 017.75 EB : 0.7 miles E of S Santa Fe Dr/US 85
+https://publicstreamer3.cotrip.org:443/rtplive/470E01775CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01800CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 018.00 EB : 0.5 miles W of Lucent Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/470E01800CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W01840CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 018.40 WB at Lucent Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/470W01840CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01855CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 018.55 EB : 0.1 miles E of Lucent Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/470E01855CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E01900CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 019.00 EB : 0.6 miles E of Lucent Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/470E01900CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02035CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 020.35 WB : 0.7 miles W of S University Blvd/CO 177
+https://publicstreamer3.cotrip.org:443/rtplive/470W02035CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E02075CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 020.75 EB : 0.4 miles W of S University Blvd/CO 177
+https://publicstreamer3.cotrip.org:443/rtplive/470E02075CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02165CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 021.65 WB : 0.6 miles E of S University Blvd/CO 177
+https://publicstreamer1.cotrip.org:443/rtplive/470W02165CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E02210CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 022.10 EB at S Colorado Blvd
+https://publicstreamer2.cotrip.org:443/rtplive/470E02210CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E02255CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 022.55 EB : 0.5 miles E of S Colorado Blvd
+https://publicstreamer3.cotrip.org:443/rtplive/470E02255CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02290CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 022.90 WB : 0.8 miles E of Colorado Blvd
+https://publicstreamer1.cotrip.org:443/rtplive/470W02290CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02410CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 024.10 WB at S Quebec St
+https://publicstreamer2.cotrip.org:443/rtplive/470W02410CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02465CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 024.65 WB : 0.6 miles E of S Quebec St
+https://publicstreamer2.cotrip.org:443/rtplive/470W02465CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02555CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 025.55 WB at S Yosemite St
+https://publicstreamer4.cotrip.org:443/rtplive/470W02555CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470E02585CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 025.85 EB : 0.3 miles E of S Yosemite St
+https://publicstreamer1.cotrip.org:443/rtplive/470E02585CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02595CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 025.95 WB : SB I-25 Ramp to WB C-470
+https://publicstreamer2.cotrip.org:443/rtplive/470W02595CAM1RP1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/470W02615CAM1RHS.flv.png" group-title="Colorado - Traffic Cameras",C-470 MP 026.15 WB at I-25
+https://publicstreamer3.cotrip.org:443/rtplive/470W02615CAM1RHS/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070E28520CAM1RP2.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 285.20 EB : 0.5 miles W of Tower Rd
+https://publicstreamer2.cotrip.org:443/rtplive/070E28520CAM1RP2/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cocam.carsprogram.org/Snapshots/070W30435CAM1RP1.flv.png" group-title="Colorado - Traffic Cameras",I-70 MP 304.35WB at S 1st St Bennett
+https://publicstreamer2.cotrip.org:443/rtplive/070W30435CAM1RP1/playlist.m3u8
