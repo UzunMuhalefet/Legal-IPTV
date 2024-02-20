@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///test.trtvod.com/thumb/testuser/5a/d4/5ad4f5586ae1732b3cfa157e862ee7ed-09.jpg",Milat 1.Bölüm
+https://test.trtvod.com/vod/testuser/5a/d4/5ad4f5586ae1732b3cfa157e862ee7ed-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///trtvod.com/thumb/trt1/91/ca/91ca43694e137d6abccddc1940870735-09.jpg",Milat 2.Bölüm
+https://trtvod.com/vod/trt1/91/ca/91ca43694e137d6abccddc1940870735-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///trtvod.com/thumb/trt1/60/7f/607f84e5f01cfc666c61e4bab041a353-09.jpg",Milat 3.Bölüm
+https://trtvod.com/vod/trt1/60/7f/607f84e5f01cfc666c61e4bab041a353-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///trtvod.com/thumb/trt1/f5/a3/f5a31993ccaff9273ac179369e285fb4-09.jpg",Milat 4.Bölüm
+https://trtvod.com/vod/trt1/f5/a3/f5a31993ccaff9273ac179369e285fb4-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///test.trtvod.com/thumb/testuser/be/e7/bee74fcc6e8c0cf0cdcd2b77594d3862-09.jpg",Milat 5.Bölüm
+https://test.trtvod.com/vod/testuser/be/e7/bee74fcc6e8c0cf0cdcd2b77594d3862-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///test.trtvod.com/thumb/testuser/e6/36/e636ea0c34612c2c19d26628c26ca943-09.jpg",Milat 7.Bölüm
+https://test.trtvod.com/vod/testuser/e6/36/e636ea0c34612c2c19d26628c26ca943-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///test.trtvod.com/thumb/testuser/f3/68/f368e508f7e4ed64e83afb353d42ff36-09.jpg",Milat 8.Bölüm
+https://test.trtvod.com/vod/testuser/f3/68/f368e508f7e4ed64e83afb353d42ff36-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///trtvod.com/thumb/trt1/ef/e9/efe905a5be369e16327028c3a0c267b1-09.jpg",Milat 9.Bölüm
+https://trtvod.com/vod/trt1/ef/e9/efe905a5be369e16327028c3a0c267b1-high.mp4
+#EXTINF:1 tvg-logo="https://www.trt1.com.tr///trtvod.com/thumb/trt1/7d/18/7d18c936c7e0287f649aa206e240cab7-09.jpg",Milat 10.Bölüm (Sezon Finali)
+https://trtvod.com/vod/trt1/7d/18/7d18c936c7e0287f649aa206e240cab7-high.mp4
