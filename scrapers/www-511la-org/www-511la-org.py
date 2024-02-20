@@ -7,7 +7,7 @@ from math import ceil
 sys.path.insert(0, '../../utilities')
 from jsontom3u import create_single_m3u, create_m3us
 
-img_base_url = "https://www.511la.org/g/map/Cctv/"
+img_base_url = "https://www.511la.org/map/Cctv/"
 
 query = {"columns":[{"data":None,"name":""},{"name":"sortId","s":True},{"name":"roadway","s":True},{"data":3,"name":""}],"order":[{"column":1,"dir":"asc"},{"column":2,"dir":"asc"}],"start":0,"length":100,"search":{"value":""}}
 
