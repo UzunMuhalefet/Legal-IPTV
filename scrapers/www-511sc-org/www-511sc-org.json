@@ -1,0 +1,3157 @@
+[
+    {
+        "name": "South Carolina - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "US 501 N @ 16th Ave",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50001.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50001/playlist.m3u8"
+            },
+            {
+                "name": "US 501 S @ US 701",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50002.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50002/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ SC 544",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50003.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50003/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Gardner Lacy Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50005.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50005/playlist.m3u8"
+            },
+            {
+                "name": "US 501 S @ South of Gardner Lacy Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50006.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50006/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Waccamaw Pines Dr",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50008.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50008/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP S @ US 501 N",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50010.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50010/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N @ US 17 Business",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50011.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50011/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S @ Lake Arrowhead Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50012.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50012/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ SC 22",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50015.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50015/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Intracoastal Waterway",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50016.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50016/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP N @ 10th Ave (Joe White Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50017.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50017/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP N @ 29th Avenue",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50018.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50018/playlist.m3u8"
+            },
+            {
+                "name": "US 501 S @ Waccamaw River",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50020.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50020/playlist.m3u8"
+            },
+            {
+                "name": "US 501 S @ University Blvd (Coastal Carolina)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50021.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50021/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ SC 31 (Carolina Bays Pkwy)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50023.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50023/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Burcale Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50025.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50025/playlist.m3u8"
+            },
+            {
+                "name": "US 501 S @ SC 31 (Carolina Bays Pkwy)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50026.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50026/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ George Bishop Pkwy",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50027.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50027/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Entrance from George Bishop Pkwy",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50028.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50028/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Main St (Aynor)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50210.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50210/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 197",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50301.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50301/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 160 (I-20 E)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50201.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50201/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 162.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50202.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50202/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 164 (US 52)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50203.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50203/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 165",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50204.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50204/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 167",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50205.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50205/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 169 (TV Road)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50206.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50206/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 170 (Williston Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50207.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50207/playlist.m3u8"
+            },
+            {
+                "name": "I-126 E @ MM 2.7 Broad River Bridge",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10007.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10007/playlist.m3u8"
+            },
+            {
+                "name": "I-126 E @ MM 1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10010.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10010/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 107 (I-20 W)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10014.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10014/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 108 (I-126 Flyover)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10017.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10017/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 115.5 (I-77 S Flyover)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10020.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10020/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 106",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10023.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10023/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 104 (Piney Grove Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10026.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10026/playlist.m3u8"
+            },
+            {
+                "name": "I-126 W @ MM 2.5 Greystone Blvd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10029.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10029/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 110.3 (Leaphart Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10032.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10032/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 112.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10035.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10035/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 114 (Old Dunbar Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10038.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10038/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 102",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10041.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10041/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 90.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10044.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10044/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 93.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10047.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10047/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 96.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10050.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10050/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 65",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10061.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10061/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 67",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10064.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10064/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 68.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10067.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10067/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 70.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10070.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10070/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 72 (Farrow Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10073.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10073/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 74 (Two Notch Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10076.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10076/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 75.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10079.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10079/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 13.8 (Decker Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10110.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10110/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 10.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10113.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10113/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 9 (Garners Ferry Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10116.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10116/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 5 (Bluff Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10119.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10119/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10122.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10122/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 55",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30003.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30003/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 57 (Airport Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30006.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30006/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 58.5 (Deyoung Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30009.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30009/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 60 (SC 101)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30012.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30012/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 61 (Danzler Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30015.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30015/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 62.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30018.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30018/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 64 (Mid Tyger River)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30021.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30021/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 65.5 (Nazareth Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30024.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30024/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 67",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30027.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30027/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 54.3 (North of Pelham Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30030.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30030/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 45.5 (SC 291 Pleasantburg Dr)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30034.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30034/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 47",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30037.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30037/playlist.m3u8"
+            },
+            {
+                "name": "Bus. 85 S @ MM 2.4 (Fairforest Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30047.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30047/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 32 (Hwy 8)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30052.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30052/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 23 (Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30055.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30055/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 42 (At I-185)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30060.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30060/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 69",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30069.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30069/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 73.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30072.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30072/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 38",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30091.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30091/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 39.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30094.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30094/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 41",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30097.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30097/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 34 (Butler Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30104.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30104/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 32.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30107.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30107/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ Exit 31",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30110.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30110/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 30.25 (Old Stage Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30113.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30113/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 77",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40002.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40002/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 79",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40005.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40005/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 80.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40008.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40008/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 82.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40011.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40011/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 84.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40014.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40014/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 85.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40017.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40017/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 87.8 (Gold Hill Rd Overpass)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40020.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40020/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 90",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40023.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40023/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 78.6 (Dave Lyle Blvd Exit Ramp)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40028.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40028/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 81.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40032.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40032/playlist.m3u8"
+            },
+            {
+                "name": "US 21 N @ Catawba River",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40301.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40301/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 199.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60004.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60004/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 201.5 (WB Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60007.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60007/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 203.5 (EB Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60010.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60010/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 205.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60014.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60014/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 207.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60017.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60017/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 209.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60020.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60020/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 212.5 (I-526)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60023.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60023/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 20.5 (Don Holt )",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60026.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60026/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 21.5 (Don Holt (Down))",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60029.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60029/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 214.5 (Bennett Yard Overpass)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60032.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60032/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 213 (Montague Ave)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60038.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60038/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 11.5 (Hwy 61)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60041.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60041/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 19",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60044.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60044/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 24 (Daniel Island)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60047.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60047/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 30 (US 17)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60050.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60050/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 215.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60058.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60058/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @  MM 219.7 (Romney St)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60061.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60061/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N Ravenel Bridge @ MM 31.9 (Morrison Dr)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60064.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60064/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S Ravenel Bridge @ MM 33.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60067.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60067/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S @ Magrath Darby Blvd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60070.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60070/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S Ravenel Bridge @ Mt. Pleasant Tower - Lower",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60075.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60075/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N Ravenel Bridge @ Charleston Tower - Upper",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60078.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60078/playlist.m3u8"
+            },
+            {
+                "name": "SC 517 IOP Connector @ SC 703",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/61000.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/61000/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 159",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10108.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10108/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 162",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10107.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10107/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 163",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10106.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10106/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 165",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10105.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10105/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 172",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10102.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10102/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 174",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10101.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10101/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 168 (I-95 N)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10104.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10104/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 86 (I-26 W)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10103.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10103/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 82",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10099.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10099/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 79",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10100.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10100/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 90",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10098.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10098/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 91.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10097.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10097/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 93.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10096.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10096/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60051.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60051/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 16.4 (International Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60054.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60054/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 115.6 (I-77 S Ramp)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/11018.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/11018/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 76.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10081.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10081/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 77",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10082.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10082/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 83.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10093.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10093/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 116.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10123.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10123/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 117.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10124.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10124/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 118.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10125.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10125/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 119",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10126.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10126/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 130.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10137.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10137/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 131.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10138.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10138/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 132",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10139.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10139/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 133.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10140.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10140/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 134.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10141.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10141/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 58.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10154.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10154/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 57",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10156.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10156/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 56.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10157.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10157/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 54",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10160.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10160/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 22.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10171.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10171/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 23.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10172.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10172/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 24 (Wilson Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10173.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10173/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 25",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10174.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10174/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 26",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10175.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10175/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 27 (Blythewood Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10176.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10176/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 10.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60053.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60053/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 13.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60055.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60055/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 55",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10159.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10159/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ Exit 187",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60108.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60108/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 154 (US 301)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10177.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10177/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 97 (US 301)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10181.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10181/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 94.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10178.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10178/playlist.m3u8"
+            },
+            {
+                "name": "SC 22 E @ MM 24",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50036.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50036/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 72.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10195.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10195/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 62.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10209.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10209/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 57.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10212.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10212/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 56.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10213.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10213/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 55.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10215.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10215/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 54.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10218.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10218/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 53.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10221.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10221/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 197 (Nexton Pkwy)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60098.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60098/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 198.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60001.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60001/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 66.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10203.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10203/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 66.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10204.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10204/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 87.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80002.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/80002/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10301.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10301/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 145 (US 601)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10237.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10237/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 145.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10238.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10238/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 146.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10239.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10239/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10004.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10004/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 102 (US 301)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10240.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10240/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 105.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10242.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10242/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 106.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10243.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10243/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 107",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10244.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10244/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 108 (S-102)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10245.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10245/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 108.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10246.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10246/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 109.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10247.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10247/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 110.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10248.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10248/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 49.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30039.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30039/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ Exit 51 (Woodruff Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30041.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30041/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 50.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30043.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30043/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 122.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10262.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10262/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 123.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10263.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10263/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 126.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10264.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10264/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 126.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10265.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10265/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 127.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10266.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10266/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 128.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10267.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10267/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 99.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/81642.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/81642/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 97.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/81448.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/81448/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 86.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/81453.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/81453/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 50",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30040.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30040/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 50.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30042.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30042/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 133.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10271.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10271/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 135 (US 378)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10273.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10273/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 139.1 (Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10275.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10275/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 141 (SC 53)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10277.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10277/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 35.5 (Woodruff Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30102.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30102/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 196.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60099.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60099/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 195.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60100.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60100/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 194.17",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60101.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60101/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 193.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60102.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60102/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 144",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10280.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10280/playlist.m3u8"
+            },
+            {
+                "name": "SB 5.8 I-77 S @ MM 5.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10003.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10003/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 4.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10002.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10002/playlist.m3u8"
+            },
+            {
+                "name": "SC 703 Ben Sawyer Blvd NB @ North Point Ln",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60119.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60119/playlist.m3u8"
+            },
+            {
+                "name": "SC 703 Ben Sawyer Blvd NB @ Station 22 1/2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60121.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60121/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 187.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60500.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60500/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 189.5 (Volvo Flyover)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60501.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60501/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 192.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60502.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60502/playlist.m3u8"
+            },
+            {
+                "name": "Isle of Palms Connector @ Rifle Range Rd.",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60122.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60122/playlist.m3u8"
+            },
+            {
+                "name": "US 21 Bus @ Woods Memorial Bridge",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60124.flv.png",
+                "stream_url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60124/playlist.m3u8"
+            },
+            {
+                "name": "I-126 E @ MM 3.4 Elmwood Ave",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10005.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10005/playlist.m3u8"
+            },
+            {
+                "name": "I-126 E @ MM 2 Greystone Blvd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10008.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10008/playlist.m3u8"
+            },
+            {
+                "name": "I-126 W @ MM 0.5 (Charleston Flyover)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10011.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10011/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 110.1 (US 378)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10015.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10015/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 115.7 (I-77 S Entrance Ramp)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10018.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10018/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 105.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10021.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10021/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 105.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10024.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10024/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 103.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10027.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10027/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 108.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10030.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10030/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 111 (US 1)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10033.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10033/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 113 (SC 302)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10036.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10036/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 115 (US 21)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10039.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10039/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 101",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10042.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10042/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 91.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10045.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10045/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 94.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10048.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10048/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 100.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10051.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10051/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 65.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10062.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10062/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 67.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10065.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10065/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 70 (Fairfield Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10068.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10068/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 71 (North Main St)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10071.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10071/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 73 (SC 277)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10074.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10074/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 74.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10077.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10077/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 76 (I-77 S Exit)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10080.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10080/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 12.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10111.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10111/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 10.3 (Fort Jackson Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10114.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10114/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 7.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10117.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10117/playlist.m3u8"
+            },
+            {
+                "name": "I-77 @ MM 4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10120.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10120/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 54 (Pelham Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30001.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30001/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 55.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30004.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30004/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 57.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30007.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30007/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 59 (South of BMW)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30010.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30010/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 60.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30013.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30013/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 61.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30016.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30016/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 63 (SC 290)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30019.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30019/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 64.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30022.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30022/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 66 (US 29)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30025.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30025/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 67.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30028.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30028/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 43",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30032.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30032/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 46 (Mauldin Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30035.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30035/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 48 (Hwy. 276)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30038.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30038/playlist.m3u8"
+            },
+            {
+                "name": "Bus. 85 S @ MM 1 (Blackstock Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30045.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30045/playlist.m3u8"
+            },
+            {
+                "name": "Bus. 85 S @ MM 3.5 (New Cut Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30048.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30048/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 27 (Hwy 81)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30053.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30053/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 21 (Hwy. 178)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30056.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30056/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 41",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30061.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30061/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 70.9 (New Cut Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30070.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30070/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 72.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30073.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30073/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 38.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30092.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30092/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 40",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30095.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30095/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 41.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30098.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30098/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 33.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30105.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30105/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 32",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30108.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30108/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 31",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30111.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30111/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 29.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30114.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30114/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 77.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40003.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40003/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 79.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40006.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40006/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 81.4 (Cherry Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40009.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40009/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 83.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40012.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40012/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 84.8 (Entrance to Weigh Station)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40015.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40015/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 86.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40018.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40018/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 88.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40021.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40021/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 90.8 (State Line)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40025.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40025/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 90.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40030.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40030/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 85.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40033.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40033/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP S @ SC 707 (Backgate)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50009.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50009/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 198.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60002.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60002/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 200.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60005.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60005/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 202",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60008.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60008/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 204",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60012.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60012/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 208 (US 52 Connector)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60018.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60018/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 209.6 (Midland Park)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60021.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60021/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 210 (Eagle Drive)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60024.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60024/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 23 (Clements Ferry Road)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60030.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60030/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 215 (Dorchester Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60033.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60033/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 211",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60036.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60036/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 10 (US 17)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60039.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60039/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 16 (International Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60042.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60042/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 14 (Leeds Ave)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60045.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60045/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 27 (Wando Bridge)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60048.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60048/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 15 (Dorchester Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60052.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60052/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E. @ MM 220 (Ravenel Bridge Entrance)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60062.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60062/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S Ravenel Bridge @ MM 32.3 (East Bay Entrance)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60065.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60065/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S Ravenel Bridge @ MM 33.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60068.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60068/playlist.m3u8"
+            },
+            {
+                "name": "SC 703 W Coleman Blvd @ Patriots Point Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60071.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60071/playlist.m3u8"
+            },
+            {
+                "name": "I-26 @ US 78 (Exit 205)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60095.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60095/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N Ravenel Bridge @ Mt. Pleasant Tower - Upper",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60076.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60076/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 77.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10083.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10083/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 78.2 (Smallwood Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10084.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10084/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 78.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10085.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10085/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 79.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10087.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10087/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 120.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10127.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10127/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 121.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10128.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10128/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 123 (Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10129.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10129/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 123.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10130.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10130/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 125",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10131.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10131/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 135.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10142.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10142/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 136",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10143.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10143/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 139",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10144.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10144/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 149",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10145.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10145/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 62.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10146.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10146/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 53",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10161.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10161/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 52.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10162.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10162/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 51",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10163.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10163/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 16.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10164.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10164/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 16.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10165.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10165/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N @ Bayshore Dr",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50037.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50037/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP N @ Bellamy Ave",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50035.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50035/playlist.m3u8"
+            },
+            {
+                "name": "SC 544 @ Dick Pond Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50029.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50029/playlist.m3u8"
+            },
+            {
+                "name": "SC 544 @ Windsor Bay Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50030.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50030/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP N @ Palmetto Point",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50031.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50031/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP N @ 38th Ave N",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50032.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50032/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP @ Harrelson Blvd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50033.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50033/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 85.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80005.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80005/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 181.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60109.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60109/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 85.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80009.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80009/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 95",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80011.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80011/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 102",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10186.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10186/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 82.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80013.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80013/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 87 (S-11-39)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80015.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80015/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 80.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80017.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80017/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 96.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80019.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80019/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 90",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80022.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80022/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 77.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10188.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10188/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 74.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10191.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10191/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 74",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10193.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10193/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 70.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10197.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10197/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 68.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10199.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10199/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 22 (US 17)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10303.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10303/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10305.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10305/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 72.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10194.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10194/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 62.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10208.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10208/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 58.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10211.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10211/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 55.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10214.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10214/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 55",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10217.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10217/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 53.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10220.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10220/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 177 (SC 453)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60113.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60113/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 52.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10222.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10222/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 50.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10223.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10223/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 48.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10224.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10224/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 47 (SB Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10225.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10225/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 41.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10226.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10226/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 41.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10227.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10227/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 84.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80001.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80001/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 37.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10230.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10230/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 36.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10231.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10231/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 34.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10233.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10233/playlist.m3u8"
+            },
+            {
+                "name": "I-95 @ MM 33.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10234.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10234/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 33.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10235.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10235/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 33 (Hwy 17)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10236.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10236/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 36.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10232.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10232/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 197.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/61068.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/61068/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 102.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10241.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10241/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 118.8 (SC 261)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10258.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10258/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ I-77 N",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/12018.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/12018/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 52.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30082.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30082/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 52.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30083.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30083/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 52",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30084.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30084/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 51.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30085.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30085/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 35",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30103.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30103/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 36.2 (Off-Ramp to I-85 N)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30101.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30101/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 36.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30089.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30089/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 36.5 (On-Ramp from I-85 N)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30088.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30088/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 36.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30087.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30087/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 51.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30086.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30086/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 79.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80026.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80026/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 80.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80027.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80027/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 82.8 (Catawba River Bridge)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/41011.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/41011/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 147.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50225.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50225/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 160.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50212.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50212/playlist.m3u8"
+            },
+            {
+                "name": "I-95 @ MM 157.3 (US 76)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50214.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50214/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 156.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50215.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50215/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 155.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50216.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50216/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 154.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50217.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50217/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 153.5 (Center Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50218.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50218/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 141 (I-95)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50226.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50226/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 152.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50219.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50219/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 151.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50220.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50220/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 150.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50221.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50221/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 150 (SC 403)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50222.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50222/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 148",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50224.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50224/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 98.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40079.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40079/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 100 (Blacksburg Hwy)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40081.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40081/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 102.2 (SC 5)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40085.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40085/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 106 (US 29)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40091.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40091/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 64",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80029.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80029/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 84",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80031.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80031/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 0.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80032.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80032/playlist.m3u8"
+            },
+            {
+                "name": "I-126 E @ Candy Lane",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10009.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10009/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 64.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80033.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80033/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 159.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50213.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50213/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 119.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10500.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10500/playlist.m3u8"
+            },
+            {
+                "name": "Folly Rd S @ Terns Nest",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60115.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60115/playlist.m3u8"
+            },
+            {
+                "name": "Folly Rd  N @ Teal Marsh Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60116.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60116/playlist.m3u8"
+            },
+            {
+                "name": "Folly Rd N @ Tides End",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60117.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60117/playlist.m3u8"
+            },
+            {
+                "name": "Folly Rd S @ Oak Island Creek",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60118.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60118/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 24.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60072.flv.png",
+                "stream_url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60072/playlist.m3u8"
+            },
+            {
+                "name": "I-126 E @ MM 3 Huger Street",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10006.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10006/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 63",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10013.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10013/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 107.5 (Bush River Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10016.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10016/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 117",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10019.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10019/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 106.5 (St. Andrews Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10022.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10022/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 105",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10025.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10025/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 103 (Harbison Blvd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10028.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10028/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 110 (US 378)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10031.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10031/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 112",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10034.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10034/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 113.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10037.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10037/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 102.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10040.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10040/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 89.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10043.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10043/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 92.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10046.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10046/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 95.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10049.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10049/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 64.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10060.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10060/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 66.5 (Broad River Bridge)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10063.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10063/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 68.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10066.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10066/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 70.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10069.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10069/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 71.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10072.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10072/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 73.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10075.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10075/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 75",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10078.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10078/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 14.9 (Percival Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10109.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10109/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 12 (Forest Dr)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10112.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10112/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 9.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10115.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10115/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 6.3 (Shop Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10118.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10118/playlist.m3u8"
+            },
+            {
+                "name": "I-77 @ MM 3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10121.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10121/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 54.5 (Bateville Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30002.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30002/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 56 (SC 14 Bridge)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30005.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30005/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 58",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30008.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30008/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 59.5 (BMW)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30011.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30011/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 60.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30014.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30014/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 62",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30017.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30017/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 63.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30020.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30020/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 65",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30023.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30023/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 66.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30026.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30026/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 68 (SC 129)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30029.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30029/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 44 (White Horse Rd.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30033.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30033/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 46.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30036.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30036/playlist.m3u8"
+            },
+            {
+                "name": "Bus. 85 S @ MM 2 (I-26)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30046.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30046/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 34 (US 29)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30051.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30051/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 24",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30054.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30054/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 40 (Hwy 153)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30062.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30062/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 71 (At I-26)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30071.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30071/playlist.m3u8"
+            },
+            {
+                "name": "I 85 S @ MM 76",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30076.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30076/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 37 (Roper Mtn Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30090.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30090/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 39 (Haywood Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30093.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30093/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 40.2 (Pleasantburg Dr.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30096.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30096/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 42 (Stone Ave.)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30099.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30099/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 33 (Bridges Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30106.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30106/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 31.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30109.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30109/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 30.2 (I-185)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30112.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30112/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 76.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40001.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40001/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 78.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40004.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40004/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 81.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40010.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40010/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 83.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40013.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40013/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 85.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40016.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40016/playlist.m3u8"
+            },
+            {
+                "name": "I-77 N @ MM 87.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40019.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40019/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 89.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40022.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40022/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 82.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40027.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40027/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Singleton Ridge Rd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50004.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50004/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Carolina Forest Blvd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50007.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50007/playlist.m3u8"
+            },
+            {
+                "name": "US 17 BYP Median @ SC 544",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50013.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50013/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N @ SC 22",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50019.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50019/playlist.m3u8"
+            },
+            {
+                "name": "US 501 S @ North of Carolina Forest Blvd",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50022.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50022/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 199",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60003.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60003/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 201 (Royal Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60006.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60006/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 203 (College Park Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60009.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60009/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 205 (US 78 East)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60013.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60013/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 207",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60016.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60016/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 209 (Ashley Phosphate Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60019.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60019/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 212",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60022.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60022/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 20 (Virginia Ave)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60025.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60025/playlist.m3u8"
+            },
+            {
+                "name": "I-526 W @ MM 21 (Don Holt Bridge)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60028.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60028/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 214",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60031.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60031/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 216 (Cosgrove Ave)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60034.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60034/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 211.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60037.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60037/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 11 (Ash. Rv. Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60040.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60040/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 18 (Rivers Ave)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60043.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60043/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 23",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60046.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60046/playlist.m3u8"
+            },
+            {
+                "name": "I-526 E @ MM 28 (Wando Br)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60049.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60049/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 219.4 ( Morrison/East Bay St)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60060.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60060/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 220.6 (US 17N)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60063.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60063/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S Ravenel Bridge @ MM 32.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60066.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60066/playlist.m3u8"
+            },
+            {
+                "name": "US 17 N Ravenel Bridge @ SC 703 (Mt Pleasant)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60069.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60069/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 199 (US 17A N Charleston)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60096.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60096/playlist.m3u8"
+            },
+            {
+                "name": "US 17 S Ravenel Bridge @ Charleston Tower - Lower",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60077.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60077/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 79.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10088.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10088/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 80 (Clemson Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10089.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10089/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 81",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10090.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10090/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 82 (Spears Creek Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10091.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10091/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 82.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10092.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10092/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 126",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10132.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10132/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 127.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10133.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10133/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 128.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10134.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10134/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 129",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10135.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10135/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 129.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10136.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10136/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 62",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10147.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10147/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 61",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10148.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10148/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 59.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10152.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10152/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 59",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10153.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10153/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 17 (Two Notch Road)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10166.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10166/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 19 (Farrow Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10167.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10167/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 19.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10168.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10168/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 20.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10169.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10169/playlist.m3u8"
+            },
+            {
+                "name": "I-77 S @ MM 22",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10170.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10170/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 161.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50208.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50208/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 159 (Pine Needles)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50209.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50209/playlist.m3u8"
+            },
+            {
+                "name": "US 501 N @ Academy Dr",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/50034.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50034/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 95.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10179.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10179/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 95.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10180.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10180/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 97.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10182.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10182/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 99 (SB Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10184.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10184/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 98 (SC 6)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10183.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10183/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 99.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10185.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10185/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 84.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80006.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80006/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 84",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80007.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80007/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 98.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80008.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80008/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 150.5 (Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10200.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10200/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 152 (Rest Area)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10201.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10201/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 80.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80010.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80010/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 78.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10187.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10187/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 75.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10190.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10190/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 84.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80012.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80012/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 73.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10192.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10192/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 71.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10196.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10196/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 96",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80014.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80014/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 70.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10198.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10198/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 153",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10202.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10202/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ Exit 8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10304.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10304/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 88.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80016.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80016/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 93.6 (Exit 95)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80018.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80018/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 92.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80020.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80020/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 91.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80023.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80023/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 77",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10189.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10189/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 63.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10207.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10207/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 59.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10210.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10210/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 55.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10216.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10216/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 54.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10219.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10219/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 64.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10205.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10205/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 63.0",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10206.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10206/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 88.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80021.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80021/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 3.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30301.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30301/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30302.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30302/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 26",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30303.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30303/playlist.m3u8"
+            },
+            {
+                "name": "I-385 S @ MM 29",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30304.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30304/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 24",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30305.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30305/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 21",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30306.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30306/playlist.m3u8"
+            },
+            {
+                "name": "US-25 S @ SC/NC Line",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30307.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30307/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 88.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80025.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80025/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 39.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10228.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10228/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 111.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10249.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10249/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 112.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10250.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10250/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 113.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10252.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10252/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 117.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10257.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10257/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 119.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10259.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10259/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 120",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10260.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10260/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 122 (US 521)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10261.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10261/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 38 (Hwy 68)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10229.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10229/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 113.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10251.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10251/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 115 (US 301)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10253.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10253/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 115.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10254.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10254/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 115.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10255.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10255/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 116.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10256.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10256/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 131",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10268.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10268/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 131.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10269.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10269/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 132.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10270.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10270/playlist.m3u8"
+            },
+            {
+                "name": "I-20 E @ MM 2.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10302.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10302/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 217 (Meeting Street)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60035.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60035/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 218",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60059.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60059/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 218.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60074.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60074/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 134.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10272.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10272/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 137.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10274.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10274/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 140.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10276.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10276/playlist.m3u8"
+            },
+            {
+                "name": "I-95 N @ MM 142.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10278.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10278/playlist.m3u8"
+            },
+            {
+                "name": "I-20 W @ MM 58",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/80003.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/80003/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 48.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/31038.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/31038/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 80 (Gossett Rd)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30120.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30120/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 79.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30119.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30119/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 79",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30118.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30118/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 77 (SC 85 BUS)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30115.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30115/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 77.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30116.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30116/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 78 (US 221)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30117.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30117/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 52.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30308.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30308/playlist.m3u8"
+            },
+            {
+                "name": "I-385 N @ MM 6.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30309.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30309/playlist.m3u8"
+            },
+            {
+                "name": "SC 517 IOP Connector @ SC 703 Camera2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/61001.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/61001/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 63.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10306.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10306/playlist.m3u8"
+            },
+            {
+                "name": "I-20 WB @ MM 59.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10151.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10151/playlist.m3u8"
+            },
+            {
+                "name": "I-95 S @ MM 145.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10282.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10282/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 104.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40089.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40089/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 104.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40088.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40088/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 101.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40083.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40083/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 101.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40084.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40084/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 106.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40092.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40092/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 99.2",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40080.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40080/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 100.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40082.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40082/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 103.4 (Welcome Center)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40087.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40087/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 102.8",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40086.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40086/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 105.5",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40090.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40090/playlist.m3u8"
+            },
+            {
+                "name": "Ben Sawyer Bridge",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60114.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60114/playlist.m3u8"
+            },
+            {
+                "name": "I-26 W @ MM 119.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10501.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10501/playlist.m3u8"
+            },
+            {
+                "name": "SC 703 Ben Sawyer Blvd SB @ Center St Ext",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/60120.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60120/playlist.m3u8"
+            },
+            {
+                "name": "I-26 E @ MM 109",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/10502.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10502/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 82.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40050.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40050/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 83.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40051.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40051/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 86.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40055.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40055/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 87.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40058.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40058/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 88.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40059.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40059/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 89.7 (Exit 90)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40062.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40062/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 92.1 (Exit 92)",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40067.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40067/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 84.6",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40052.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40052/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 86.9",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40057.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40057/playlist.m3u8"
+            },
+            {
+                "name": "I-85 S @ MM 89.4",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/40060.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40060/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 80.1",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30121.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30121/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 81.7",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30124.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30124/playlist.m3u8"
+            },
+            {
+                "name": "I-85 N @ MM 82.3",
+                "img": "https://scdotsnap.us-east-1.skyvdn.com/thumbs/30125.flv.png",
+                "stream_url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30125/playlist.m3u8"
+            }
+        ]
+    }
+]
