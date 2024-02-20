@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/d02c14864ef1b533e69e7342.jpg",Küçük Hesaplar - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36716_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/5bb202254f0489b96ebcf5ab.jpg",Küçük Hesaplar - 1. Bölüm 2. Fragmanı
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36699&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/d5e024cb4eb9a480a64a15ec.jpg",Küçük Hesaplar - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37395_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/375b7fcc448d8cb0cf47bef1.jpg",Küçük Hesaplar - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37616_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/d2a6e43f4e89ae1837b26600.jpg",Küçük Hesaplar - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37678_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/4261c0434fb4ba74c1db0a81.jpg",Küçük Hesaplar - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37773_p1&SecretKey=NtvApiSecret2014*&.m3u8

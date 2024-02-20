@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/f398d5174c4bb981ca6d04e0.jpg",Evlerden Biri - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37715_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/f857fde54ba39aa774c9e031.jpg",Evlerden Biri - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37774_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/2b3197b145be86dfcfb3d92c.jpg",Evlerden Biri - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37505_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/672979a64cdf91804814bc7e.jpg",Evlerden Biri - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37293_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/0af4d864437b9857654219ae.jpg",Evlerden Biri - 8.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38126_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/9f0795064715add08d547ddf.jpg",Evlerden Biri - 7.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37975_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/a70fad004a7ea93cc582f3e4.jpg",Evlerden Biri - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38205_p1&SecretKey=NtvApiSecret2014*&.m3u8

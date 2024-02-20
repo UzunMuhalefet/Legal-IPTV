@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/8c19609742988a9102f5c0e3.jpg",Tek Başımıza - 1.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31163_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/69ece72e42bbb4729e7067c5.jpg",Tek Başımıza - 2.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31204_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/a401b64048f29e454aa71f32.jpg",Tek Başımıza - 3.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31232_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/0d26ea864fcfa2051b87e2ac.jpg",Tek Başımıza - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31263_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/624e985642cc9e8f7fba2cda.jpg",Tek Başımıza - 5.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31271_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/1eed369141dbb33c57033c97.jpg",Tek Başımıza - 6.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31306_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/00f5ccd54402bfeb234936dd.jpg",Tek Başımıza - 7.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31346_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/1597b1be47308db5fce3c725.jpg",Tek Başımıza - 8.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_31357&SecretKey=NtvApiSecret2014*&.m3u8

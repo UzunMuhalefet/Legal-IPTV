@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/42c711444b54a98de1d741db.jpg",Ateşe Yürümek - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a524e386fed5312c8c0d3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/2a2617d24b9793659e743871.jpg",Ateşe Yürümek - 2.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5250386fed5312c8c0d6_p1_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/7eee480347d393122cfa5d91.jpg",Ateşe Yürümek - 3.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5252386fed5312c8c0d8_p1_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/c79aa7d74214b37abd9b1fb8.jpg",Ateşe Yürümek - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5253386fed5312c8c0da&SecretKey=NtvApiSecret2014*&.m3u8

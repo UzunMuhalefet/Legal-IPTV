@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/043080b64237a1fd909e79c4.jpg",İyi Günde Kötü Günde - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_83575&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/7dec5be2472ebd892904a62c.jpg",İyi Günde Kötü Günde - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_83651&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/cac9c86644cfb48ccdb90a9c.jpg",İyi Günde Kötü Günde - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_83742&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/7cc3b9364d8dbe147c7be5dc.jpg",İyi Günde Kötü Günde - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_83839&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/4b137ec940309e5881d6685d.jpg",İyi Günde Kötü Günde - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_83921&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/820ef90544689216646c49fb.jpg",İyi Günde Kötü Günde - Final Bölümü
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_84017&SecretKey=NtvApiSecret2014*&.m3u8

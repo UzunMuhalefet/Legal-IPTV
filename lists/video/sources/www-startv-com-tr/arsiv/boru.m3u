@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/9095f53742a487992633e506.jpg",Börü - Bölüm 1 'Bazen Canavarlar Kazanır'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_72130&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/da9fbf1644b5848023ff5fb8.jpg",Börü - Bölüm 2 'Kar Gibi Beyaz'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_72274&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/de02d5ee48959dc51b0f8298.jpg",Börü - Bölüm 3 'Çirkin Olsan Bile'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_72426&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/c3c7996040a2a7db2fd4fcce.jpg",Börü - Bölüm 4 'Mahalle'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_72584&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/ab2ebbb143f991982b880d83.jpg",Börü - Bölüm 5 'Mahşerin Ayak Sesleri'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_72926&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/1e9c43f24c188413d0c841f0.jpg",Börü - BÖRÜ 'Özel Bölüm'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_72774&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://media.startv.com.tr/star-tv/images/3891411b41fc9759a8497d58.jpg",Börü - Bölüm 6 'Her Güzel Şeyin Sonu'
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_73075&SecretKey=NtvApiSecret2014*&.m3u8
