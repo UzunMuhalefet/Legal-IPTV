@@ -1,0 +1,2342 @@
+[
+    {
+        "name": "Wisconsin - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "84th St at N of I-94",
+                "img": "https://511wi.gov/map/Cctv/449--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0210/playlist.m3u8"
+            },
+            {
+                "name": "84th St at Schlinger Ave",
+                "img": "https://511wi.gov/map/Cctv/450--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0213/playlist.m3u8"
+            },
+            {
+                "name": "Bluemound Rd at 84th St",
+                "img": "https://511wi.gov/map/Cctv/553--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0149/playlist.m3u8"
+            },
+            {
+                "name": "Bluemound Rd at 124th St",
+                "img": "https://511wi.gov/map/Cctv/563--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0190/playlist.m3u8"
+            },
+            {
+                "name": "Bluemound Rd at 114th St",
+                "img": "https://511wi.gov/map/Cctv/564--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0191/playlist.m3u8"
+            },
+            {
+                "name": "Bluemound Rd at 99th St/County Zoo",
+                "img": "https://511wi.gov/map/Cctv/569--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0211/playlist.m3u8"
+            },
+            {
+                "name": "Braun Rd/60th St at Wisconn Valley Way",
+                "img": "https://511wi.gov/map/Cctv/1093--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0231/playlist.m3u8"
+            },
+            {
+                "name": "BUS 53 at US 12",
+                "img": "https://511wi.gov/map/Cctv/122--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0046/playlist.m3u8"
+            },
+            {
+                "name": "County KR at County H",
+                "img": "https://511wi.gov/map/Cctv/583--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0230/playlist.m3u8"
+            },
+            {
+                "name": "E Washington Ave at Dayton St",
+                "img": "https://511wi.gov/map/Cctv/472--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0019/playlist.m3u8"
+            },
+            {
+                "name": "E Washington Ave at WIS 30",
+                "img": "https://511wi.gov/map/Cctv/473--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0018/playlist.m3u8"
+            },
+            {
+                "name": "E Washington Ave at Stoughton Rd",
+                "img": "https://511wi.gov/map/Cctv/474--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0017/playlist.m3u8"
+            },
+            {
+                "name": "E Washington Ave at Continental Ln",
+                "img": "https://511wi.gov/map/Cctv/475--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0016/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at 84th St",
+                "img": "https://511wi.gov/map/Cctv/549--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0116/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at 124th St",
+                "img": "https://511wi.gov/map/Cctv/554--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0155/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at 116th St",
+                "img": "https://511wi.gov/map/Cctv/555--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0156/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at 92nd St",
+                "img": "https://511wi.gov/map/Cctv/570--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0212/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at Moorland Rd",
+                "img": "https://511wi.gov/map/Cctv/615--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0152/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at Sunnyslope Rd",
+                "img": "https://511wi.gov/map/Cctv/616--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0153/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at Elm Grove Rd",
+                "img": "https://511wi.gov/map/Cctv/617--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0154/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at Barker Rd",
+                "img": "https://511wi.gov/map/Cctv/620--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0198/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at Brookfield Rd",
+                "img": "https://511wi.gov/map/Cctv/621--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0199/playlist.m3u8"
+            },
+            {
+                "name": "Greenfield Ave at Calhoun Rd",
+                "img": "https://511wi.gov/map/Cctv/622--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0200/playlist.m3u8"
+            },
+            {
+                "name": "I-39 at WIS 16",
+                "img": "https://511wi.gov/map/Cctv/459--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0131/playlist.m3u8"
+            },
+            {
+                "name": "I-39 at WIS 33",
+                "img": "https://511wi.gov/map/Cctv/460--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0146/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at WIS 26",
+                "img": "https://511wi.gov/map/Cctv/1135--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0023/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at Buckeye Rd/County AB",
+                "img": "https://511wi.gov/map/Cctv/468--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0008/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at County BB/Cottage Grove Rd",
+                "img": "https://511wi.gov/map/Cctv/469--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0009/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at S of US 12/18",
+                "img": "https://511wi.gov/map/Cctv/477--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0014/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at I-94",
+                "img": "https://511wi.gov/map/Cctv/490--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0042/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at County N",
+                "img": "https://511wi.gov/map/Cctv/501--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0100/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at County B",
+                "img": "https://511wi.gov/map/Cctv/502--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0101/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at US 51N",
+                "img": "https://511wi.gov/map/Cctv/503--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0102/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at US 51/WIS 73",
+                "img": "https://511wi.gov/map/Cctv/504--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0103/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at County BN",
+                "img": "https://511wi.gov/map/Cctv/505--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0112/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at S County AB",
+                "img": "https://511wi.gov/map/Cctv/506--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0113/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at US 12/18",
+                "img": "https://511wi.gov/map/Cctv/513--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0145/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at US 14",
+                "img": "https://511wi.gov/map/Cctv/584--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0024/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at Racine Ave/WIS 11",
+                "img": "https://511wi.gov/map/Cctv/585--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0029/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at Avalon Rd",
+                "img": "https://511wi.gov/map/Cctv/586--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0034/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at County S",
+                "img": "https://511wi.gov/map/Cctv/587--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0039/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at I-43/WIS 81",
+                "img": "https://511wi.gov/map/Cctv/588--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0044/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at S of Woodman Rd",
+                "img": "https://511wi.gov/map/Cctv/589--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0045/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at State Line Rd",
+                "img": "https://511wi.gov/map/Cctv/590--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0048/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at WIS 59",
+                "img": "https://511wi.gov/map/Cctv/591--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0104/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at S of County M",
+                "img": "https://511wi.gov/map/Cctv/592--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0105/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at Townline Rd",
+                "img": "https://511wi.gov/map/Cctv/593--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0106/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90 at Milwaukee St",
+                "img": "https://511wi.gov/map/Cctv/594--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0107/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at WIS 60",
+                "img": "https://511wi.gov/map/Cctv/454--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0025/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at County CS",
+                "img": "https://511wi.gov/map/Cctv/455--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0026/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at US 51",
+                "img": "https://511wi.gov/map/Cctv/470--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0010/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at US 151",
+                "img": "https://511wi.gov/map/Cctv/476--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0015/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at WIS 19",
+                "img": "https://511wi.gov/map/Cctv/480--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0011/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at Wisconsin River",
+                "img": "https://511wi.gov/map/Cctv/483--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0024/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at County V",
+                "img": "https://511wi.gov/map/Cctv/488--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0040/playlist.m3u8"
+            },
+            {
+                "name": "I-39/90/94 at County T",
+                "img": "https://511wi.gov/map/Cctv/491--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0043/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at County B",
+                "img": "https://511wi.gov/map/Cctv/1--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0011/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at Grand Ave",
+                "img": "https://511wi.gov/map/Cctv/1059--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-37-0006/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at County HH",
+                "img": "https://511wi.gov/map/Cctv/2--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0012/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at Reserve St",
+                "img": "https://511wi.gov/map/Cctv/3--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0015/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at US 10/WIS 66",
+                "img": "https://511wi.gov/map/Cctv/4--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0013/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at WIS 54",
+                "img": "https://511wi.gov/map/Cctv/5--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0010/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at WIS 66/Stanley St",
+                "img": "https://511wi.gov/map/Cctv/6--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0014/playlist.m3u8"
+            },
+            {
+                "name": "I-39/US 51 at WIS 29E",
+                "img": "https://511wi.gov/map/Cctv/7--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-37-0002/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County A",
+                "img": "https://511wi.gov/map/Cctv/10--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0081/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Scheuring Rd",
+                "img": "https://511wi.gov/map/Cctv/1073--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0040/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Ashland Ave",
+                "img": "https://511wi.gov/map/Cctv/1074--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0041/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 172",
+                "img": "https://511wi.gov/map/Cctv/1075--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0051/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Lombardi Ave",
+                "img": "https://511wi.gov/map/Cctv/1076--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0043/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Mason St",
+                "img": "https://511wi.gov/map/Cctv/1077--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0044/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 29",
+                "img": "https://511wi.gov/map/Cctv/1078--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0045/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County BB",
+                "img": "https://511wi.gov/map/Cctv/11--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0093/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Military Rd",
+                "img": "https://511wi.gov/map/Cctv/1182--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0150/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County II",
+                "img": "https://511wi.gov/map/Cctv/12--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0091/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Nee-vin Rd",
+                "img": "https://511wi.gov/map/Cctv/13--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0067/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at US 10/WIS 441",
+                "img": "https://511wi.gov/map/Cctv/14--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0092/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 114/County JJ/Winneconne Ave",
+                "img": "https://511wi.gov/map/Cctv/15--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0090/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 125",
+                "img": "https://511wi.gov/map/Cctv/16--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0079/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 15/County OO",
+                "img": "https://511wi.gov/map/Cctv/17--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0080/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 441",
+                "img": "https://511wi.gov/map/Cctv/18--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0084/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 47",
+                "img": "https://511wi.gov/map/Cctv/19--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0076/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Wisconsin Ave",
+                "img": "https://511wi.gov/map/Cctv/20--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0104/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at I-43",
+                "img": "https://511wi.gov/map/Cctv/21--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0047/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Oneida St",
+                "img": "https://511wi.gov/map/Cctv/22--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0042/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Velp Ave",
+                "img": "https://511wi.gov/map/Cctv/23--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0046/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County J",
+                "img": "https://511wi.gov/map/Cctv/55--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0094/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County N/Freedom Rd",
+                "img": "https://511wi.gov/map/Cctv/56--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0111/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County S",
+                "img": "https://511wi.gov/map/Cctv/57--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0098/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County U",
+                "img": "https://511wi.gov/map/Cctv/58--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0096/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Larry Ln",
+                "img": "https://511wi.gov/map/Cctv/59--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0099/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Miners Way",
+                "img": "https://511wi.gov/map/Cctv/60--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0097/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at US 45 Split",
+                "img": "https://511wi.gov/map/Cctv/605--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0205/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Mayfield Rd",
+                "img": "https://511wi.gov/map/Cctv/606--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0206/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 60",
+                "img": "https://511wi.gov/map/Cctv/607--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0207/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County D",
+                "img": "https://511wi.gov/map/Cctv/608--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0233/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 33",
+                "img": "https://511wi.gov/map/Cctv/609--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0234/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 55/Delanglade St",
+                "img": "https://511wi.gov/map/Cctv/61--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0112/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County K",
+                "img": "https://511wi.gov/map/Cctv/610--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0235/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 144",
+                "img": "https://511wi.gov/map/Cctv/611--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0236/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Wrightstown Rd",
+                "img": "https://511wi.gov/map/Cctv/62--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0095/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County B",
+                "img": "https://511wi.gov/map/Cctv/63--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0109/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County F",
+                "img": "https://511wi.gov/map/Cctv/64--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0110/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County N",
+                "img": "https://511wi.gov/map/Cctv/65--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0103/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County OO",
+                "img": "https://511wi.gov/map/Cctv/66--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0102/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Lincoln Rd",
+                "img": "https://511wi.gov/map/Cctv/67--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0108/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at US 151",
+                "img": "https://511wi.gov/map/Cctv/69--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0070/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 23",
+                "img": "https://511wi.gov/map/Cctv/70--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0069/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 28",
+                "img": "https://511wi.gov/map/Cctv/71--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-14-0150/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 49/County KK",
+                "img": "https://511wi.gov/map/Cctv/72--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-14-0148/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 67",
+                "img": "https://511wi.gov/map/Cctv/73--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-14-0149/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at 9th Ave",
+                "img": "https://511wi.gov/map/Cctv/74--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0063/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at County Z",
+                "img": "https://511wi.gov/map/Cctv/75--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0074/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at US 45",
+                "img": "https://511wi.gov/map/Cctv/77--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0065/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 21",
+                "img": "https://511wi.gov/map/Cctv/78--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0064/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 26",
+                "img": "https://511wi.gov/map/Cctv/79--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0061/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 44",
+                "img": "https://511wi.gov/map/Cctv/80--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0062/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at WIS 76",
+                "img": "https://511wi.gov/map/Cctv/81--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0066/playlist.m3u8"
+            },
+            {
+                "name": "I-41 at Breezewood Ln",
+                "img": "https://511wi.gov/map/Cctv/9--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0068/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 19th St",
+                "img": "https://511wi.gov/map/Cctv/164--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0023/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 22nd St EB",
+                "img": "https://511wi.gov/map/Cctv/165--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0189/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 27th St",
+                "img": "https://511wi.gov/map/Cctv/166--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0024/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 51st St",
+                "img": "https://511wi.gov/map/Cctv/167--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0223/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 60th St",
+                "img": "https://511wi.gov/map/Cctv/168--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0026/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 76th St",
+                "img": "https://511wi.gov/map/Cctv/169--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0027/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 84th St",
+                "img": "https://511wi.gov/map/Cctv/170--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0028/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at 92nd St",
+                "img": "https://511wi.gov/map/Cctv/171--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0029/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at Loomis Rd",
+                "img": "https://511wi.gov/map/Cctv/172--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0025/playlist.m3u8"
+            },
+            {
+                "name": "I-41/43/894 at Mitchell Interchange",
+                "img": "https://511wi.gov/map/Cctv/173--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0053/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Beloit Rd",
+                "img": "https://511wi.gov/map/Cctv/174--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0032/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Cleveland Ave",
+                "img": "https://511wi.gov/map/Cctv/175--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0150/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Coldspring Rd",
+                "img": "https://511wi.gov/map/Cctv/176--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0031/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Greenfield Ave",
+                "img": "https://511wi.gov/map/Cctv/177--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0035/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Lincoln Ave",
+                "img": "https://511wi.gov/map/Cctv/178--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0034/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at National Ave",
+                "img": "https://511wi.gov/map/Cctv/179--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0209/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Oklahoma Ave",
+                "img": "https://511wi.gov/map/Cctv/180--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0033/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at College Ave",
+                "img": "https://511wi.gov/map/Cctv/425--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0058/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Drexel Ave",
+                "img": "https://511wi.gov/map/Cctv/426--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0060/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Elm Rd",
+                "img": "https://511wi.gov/map/Cctv/427--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0237/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Grange Ave",
+                "img": "https://511wi.gov/map/Cctv/428--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0128/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Layton Ave",
+                "img": "https://511wi.gov/map/Cctv/429--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0056/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Layton Ave SB",
+                "img": "https://511wi.gov/map/Cctv/430--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0188/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Oakwood Rd",
+                "img": "https://511wi.gov/map/Cctv/431--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0143/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Rawson Ave",
+                "img": "https://511wi.gov/map/Cctv/432--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0059/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at Ryan Rd",
+                "img": "https://511wi.gov/map/Cctv/433--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0061/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 119",
+                "img": "https://511wi.gov/map/Cctv/434--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0057/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 142",
+                "img": "https://511wi.gov/map/Cctv/521--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0067/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 50",
+                "img": "https://511wi.gov/map/Cctv/522--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0068/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 165",
+                "img": "https://511wi.gov/map/Cctv/523--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0069/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County A",
+                "img": "https://511wi.gov/map/Cctv/524--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0132/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County E",
+                "img": "https://511wi.gov/map/Cctv/525--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0133/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 158",
+                "img": "https://511wi.gov/map/Cctv/526--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0134/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County C",
+                "img": "https://511wi.gov/map/Cctv/527--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0135/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County ML",
+                "img": "https://511wi.gov/map/Cctv/528--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0136/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at S 27th St",
+                "img": "https://511wi.gov/map/Cctv/574--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0229/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at 7 Mile Rd",
+                "img": "https://511wi.gov/map/Cctv/577--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0062/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County G",
+                "img": "https://511wi.gov/map/Cctv/578--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0063/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County K",
+                "img": "https://511wi.gov/map/Cctv/579--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0064/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 20",
+                "img": "https://511wi.gov/map/Cctv/580--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0065/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at County KR",
+                "img": "https://511wi.gov/map/Cctv/581--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0066/playlist.m3u8"
+            },
+            {
+                "name": "I-41/94 at WIS 11",
+                "img": "https://511wi.gov/map/Cctv/582--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0131/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 @ Main St",
+                "img": "https://511wi.gov/map/Cctv/1178--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0245/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 @ Burleigh St",
+                "img": "https://511wi.gov/map/Cctv/1181--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0227/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Hampton Ave",
+                "img": "https://511wi.gov/map/Cctv/133--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0151/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 @ S of Bluemound Rd Tunnel",
+                "img": "https://511wi.gov/map/Cctv/135--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0218/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at 124th St",
+                "img": "https://511wi.gov/map/Cctv/136--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0047/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Appleton Ave",
+                "img": "https://511wi.gov/map/Cctv/137--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0044/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Bluemound Rd",
+                "img": "https://511wi.gov/map/Cctv/138--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0036/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Capitol Dr",
+                "img": "https://511wi.gov/map/Cctv/139--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0042/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Center St",
+                "img": "https://511wi.gov/map/Cctv/140--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0040/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at County Q",
+                "img": "https://511wi.gov/map/Cctv/141--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0050/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Good Hope Rd",
+                "img": "https://511wi.gov/map/Cctv/142--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0045/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Leon Rd",
+                "img": "https://511wi.gov/map/Cctv/143--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0048/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Mayfair Rd",
+                "img": "https://511wi.gov/map/Cctv/144--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0038/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at N of Burleigh St",
+                "img": "https://511wi.gov/map/Cctv/145--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0041/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at North Ave",
+                "img": "https://511wi.gov/map/Cctv/146--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0039/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Park Place",
+                "img": "https://511wi.gov/map/Cctv/148--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0046/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Pilgrim Rd",
+                "img": "https://511wi.gov/map/Cctv/149--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0049/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Silver Spring Dr",
+                "img": "https://511wi.gov/map/Cctv/150--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0043/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Swan Blvd",
+                "img": "https://511wi.gov/map/Cctv/151--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0146/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Under Capitol Dr",
+                "img": "https://511wi.gov/map/Cctv/152--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0228/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Watertown Plank Rd",
+                "img": "https://511wi.gov/map/Cctv/153--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0037/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Wisconsin Ave",
+                "img": "https://511wi.gov/map/Cctv/154--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0217/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Lannon Rd",
+                "img": "https://511wi.gov/map/Cctv/602--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0051/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Freistadt Rd",
+                "img": "https://511wi.gov/map/Cctv/603--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0147/playlist.m3u8"
+            },
+            {
+                "name": "I-41/US 45 at Holy Hill Rd",
+                "img": "https://511wi.gov/map/Cctv/604--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0148/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at I-94 W-N Ramp",
+                "img": "https://511wi.gov/map/Cctv/1062--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0178/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Atkinson Dr",
+                "img": "https://511wi.gov/map/Cctv/1081--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0057/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Webster Ave",
+                "img": "https://511wi.gov/map/Cctv/1082--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0056/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Danz Ave",
+                "img": "https://511wi.gov/map/Cctv/1083--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0071/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at University Ave",
+                "img": "https://511wi.gov/map/Cctv/1084--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0072/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Mason St/County V",
+                "img": "https://511wi.gov/map/Cctv/1085--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0039/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at County JJ",
+                "img": "https://511wi.gov/map/Cctv/1086--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0073/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at WIS 172",
+                "img": "https://511wi.gov/map/Cctv/1087--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0055/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Hart Rd",
+                "img": "https://511wi.gov/map/Cctv/1138--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0046/playlist.m3u8"
+            },
+            {
+                "name": "I-41/894/US 45 at Hale Interchange",
+                "img": "https://511wi.gov/map/Cctv/181--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0224/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at 108th St",
+                "img": "https://511wi.gov/map/Cctv/24--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0030/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at 112th St",
+                "img": "https://511wi.gov/map/Cctv/25--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0085/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at 124th St",
+                "img": "https://511wi.gov/map/Cctv/26--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0086/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Brown Deer Rd",
+                "img": "https://511wi.gov/map/Cctv/27--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0089/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Brown St",
+                "img": "https://511wi.gov/map/Cctv/28--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0073/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Calhoun Rd",
+                "img": "https://511wi.gov/map/Cctv/29--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0225/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Capitol Dr",
+                "img": "https://511wi.gov/map/Cctv/30--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0076/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Crowbar Rd",
+                "img": "https://511wi.gov/map/Cctv/31--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0139/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Daphne Rd",
+                "img": "https://511wi.gov/map/Cctv/32--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0079/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Good Hope Rd",
+                "img": "https://511wi.gov/map/Cctv/33--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0080/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Hampton Ave",
+                "img": "https://511wi.gov/map/Cctv/34--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0077/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Highland Ave",
+                "img": "https://511wi.gov/map/Cctv/35--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0071/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Juneau Ave",
+                "img": "https://511wi.gov/map/Cctv/36--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0181/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Keefe Ave",
+                "img": "https://511wi.gov/map/Cctv/37--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0075/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Locust St",
+                "img": "https://511wi.gov/map/Cctv/40--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0221/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at McKinley Ave",
+                "img": "https://511wi.gov/map/Cctv/41--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0096/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Mequon Rd",
+                "img": "https://511wi.gov/map/Cctv/42--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-45-0081/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Moorland Rd",
+                "img": "https://511wi.gov/map/Cctv/43--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0088/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Racine Ave",
+                "img": "https://511wi.gov/map/Cctv/44--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0125/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Silver Spring Dr",
+                "img": "https://511wi.gov/map/Cctv/45--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0078/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at State St",
+                "img": "https://511wi.gov/map/Cctv/46--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0070/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Sunnyslope Rd",
+                "img": "https://511wi.gov/map/Cctv/47--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0087/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Walnut St",
+                "img": "https://511wi.gov/map/Cctv/48--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0072/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Wells St",
+                "img": "https://511wi.gov/map/Cctv/49--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0095/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at WIS 141/County MM",
+                "img": "https://511wi.gov/map/Cctv/50--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0107/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at WIS 164",
+                "img": "https://511wi.gov/map/Cctv/51--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0140/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Wisconsin Ave",
+                "img": "https://511wi.gov/map/Cctv/52--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0159/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at Wright St",
+                "img": "https://511wi.gov/map/Cctv/53--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0074/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at WIS 23",
+                "img": "https://511wi.gov/map/Cctv/82--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-59-0026/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at WIS 28",
+                "img": "https://511wi.gov/map/Cctv/83--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-59-0027/playlist.m3u8"
+            },
+            {
+                "name": "I-43 at WIS 42",
+                "img": "https://511wi.gov/map/Cctv/84--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-59-0028/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at 15th St",
+                "img": "https://511wi.gov/map/Cctv/435--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0055/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at Chase Ave",
+                "img": "https://511wi.gov/map/Cctv/436--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0019/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at Holt Ave",
+                "img": "https://511wi.gov/map/Cctv/437--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0021/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at Howard Ave",
+                "img": "https://511wi.gov/map/Cctv/438--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0022/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at Mitchell St",
+                "img": "https://511wi.gov/map/Cctv/439--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0018/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at National Ave",
+                "img": "https://511wi.gov/map/Cctv/440--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0017/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at Oklahoma Ave",
+                "img": "https://511wi.gov/map/Cctv/441--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0020/playlist.m3u8"
+            },
+            {
+                "name": "I-43/94 at Plainfield Curve",
+                "img": "https://511wi.gov/map/Cctv/442--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0054/playlist.m3u8"
+            },
+            {
+                "name": "I-794 at 2nd St",
+                "img": "https://511wi.gov/map/Cctv/155--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0016/playlist.m3u8"
+            },
+            {
+                "name": "I-794 at Carferry Dr",
+                "img": "https://511wi.gov/map/Cctv/156--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0094/playlist.m3u8"
+            },
+            {
+                "name": "I-794 at James Lovell St",
+                "img": "https://511wi.gov/map/Cctv/157--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0098/playlist.m3u8"
+            },
+            {
+                "name": "I-794 at Lincoln Memorial Dr",
+                "img": "https://511wi.gov/map/Cctv/158--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0097/playlist.m3u8"
+            },
+            {
+                "name": "I-794 at N of Hoan Bridge",
+                "img": "https://511wi.gov/map/Cctv/159--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0162/playlist.m3u8"
+            },
+            {
+                "name": "I-794 at S of Hoan Bridge",
+                "img": "https://511wi.gov/map/Cctv/160--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0093/playlist.m3u8"
+            },
+            {
+                "name": "I-90 at US 12/WIS 16",
+                "img": "https://511wi.gov/map/Cctv/1096--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0055/playlist.m3u8"
+            },
+            {
+                "name": "I-90 at WIS 131",
+                "img": "https://511wi.gov/map/Cctv/1136--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0056/playlist.m3u8"
+            },
+            {
+                "name": "I-90 at County B (French Island)",
+                "img": "https://511wi.gov/map/Cctv/529--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0070/playlist.m3u8"
+            },
+            {
+                "name": "I-90 at WIS 35",
+                "img": "https://511wi.gov/map/Cctv/530--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0071/playlist.m3u8"
+            },
+            {
+                "name": "I-90 at US 53/WIS 157",
+                "img": "https://511wi.gov/map/Cctv/531--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0072/playlist.m3u8"
+            },
+            {
+                "name": "I-90 at WIS 16",
+                "img": "https://511wi.gov/map/Cctv/532--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0073/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at County C",
+                "img": "https://511wi.gov/map/Cctv/1094--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0057/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at I-39 Split",
+                "img": "https://511wi.gov/map/Cctv/456--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0036/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at WIS 33",
+                "img": "https://511wi.gov/map/Cctv/457--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0037/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at Columbia-Sauk Line",
+                "img": "https://511wi.gov/map/Cctv/458--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0038/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at US 12/WIS 16",
+                "img": "https://511wi.gov/map/Cctv/517--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0124/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at County HH",
+                "img": "https://511wi.gov/map/Cctv/518--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0142/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at WIS 82",
+                "img": "https://511wi.gov/map/Cctv/519--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0143/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at WIS 80",
+                "img": "https://511wi.gov/map/Cctv/520--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0144/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at County PP",
+                "img": "https://511wi.gov/map/Cctv/575--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0054/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at US 12",
+                "img": "https://511wi.gov/map/Cctv/596--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0058/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at WIS 13",
+                "img": "https://511wi.gov/map/Cctv/597--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0125/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at Trout Rd",
+                "img": "https://511wi.gov/map/Cctv/598--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0126/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at WIS 23",
+                "img": "https://511wi.gov/map/Cctv/599--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0127/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at County T",
+                "img": "https://511wi.gov/map/Cctv/600--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0140/playlist.m3u8"
+            },
+            {
+                "name": "I-90/94 at County A",
+                "img": "https://511wi.gov/map/Cctv/601--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0141/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 312",
+                "img": "https://511wi.gov/map/Cctv/100--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0012/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 37",
+                "img": "https://511wi.gov/map/Cctv/101--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0016/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 93",
+                "img": "https://511wi.gov/map/Cctv/102--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0017/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County O Millston",
+                "img": "https://511wi.gov/map/Cctv/103--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0036/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at US12/WIS 27",
+                "img": "https://511wi.gov/map/Cctv/104--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0023/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 121",
+                "img": "https://511wi.gov/map/Cctv/105--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0022/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 54",
+                "img": "https://511wi.gov/map/Cctv/106--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0024/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 95 Hixton",
+                "img": "https://511wi.gov/map/Cctv/107--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0015/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 160th St",
+                "img": "https://511wi.gov/map/Cctv/108--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0047/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 250th St",
+                "img": "https://511wi.gov/map/Cctv/109--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0048/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Industrial Ave",
+                "img": "https://511wi.gov/map/Cctv/1099--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0051/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County B Menomonie",
+                "img": "https://511wi.gov/map/Cctv/110--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0020/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 21",
+                "img": "https://511wi.gov/map/Cctv/1100--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0050/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County Q",
+                "img": "https://511wi.gov/map/Cctv/111--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0027/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 25",
+                "img": "https://511wi.gov/map/Cctv/112--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0019/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 29",
+                "img": "https://511wi.gov/map/Cctv/113--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0011/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 14th St",
+                "img": "https://511wi.gov/map/Cctv/114--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0031/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County B",
+                "img": "https://511wi.gov/map/Cctv/115--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0025/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County T",
+                "img": "https://511wi.gov/map/Cctv/116--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0032/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at US 12",
+                "img": "https://511wi.gov/map/Cctv/117--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0006/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at US 63",
+                "img": "https://511wi.gov/map/Cctv/118--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0033/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 128",
+                "img": "https://511wi.gov/map/Cctv/119--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0026/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 35/2nd St",
+                "img": "https://511wi.gov/map/Cctv/120--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0030/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 65",
+                "img": "https://511wi.gov/map/Cctv/121--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0007/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Calhoun Rd",
+                "img": "https://511wi.gov/map/Cctv/182--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0003/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County F",
+                "img": "https://511wi.gov/map/Cctv/183--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0124/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County P",
+                "img": "https://511wi.gov/map/Cctv/184--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0123/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County SS",
+                "img": "https://511wi.gov/map/Cctv/185--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0120/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County T",
+                "img": "https://511wi.gov/map/Cctv/186--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0129/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Elm Grove Rd",
+                "img": "https://511wi.gov/map/Cctv/187--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0097/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Moorland Rd",
+                "img": "https://511wi.gov/map/Cctv/188--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0004/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Springdale Rd",
+                "img": "https://511wi.gov/map/Cctv/189--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0001/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Sunnyslope Rd",
+                "img": "https://511wi.gov/map/Cctv/190--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0005/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at US 18",
+                "img": "https://511wi.gov/map/Cctv/191--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0002/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at W of Brookfield Rd",
+                "img": "https://511wi.gov/map/Cctv/192--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0138/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 164",
+                "img": "https://511wi.gov/map/Cctv/193--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0053/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 67",
+                "img": "https://511wi.gov/map/Cctv/194--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0122/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 83",
+                "img": "https://511wi.gov/map/Cctv/195--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0121/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 113th St",
+                "img": "https://511wi.gov/map/Cctv/196--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0220/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 121st St",
+                "img": "https://511wi.gov/map/Cctv/197--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0006/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 13th St",
+                "img": "https://511wi.gov/map/Cctv/198--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0015/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 20th St",
+                "img": "https://511wi.gov/map/Cctv/199--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0014/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 25th St",
+                "img": "https://511wi.gov/map/Cctv/200--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0177/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 30th St",
+                "img": "https://511wi.gov/map/Cctv/201--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0013/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 35th St",
+                "img": "https://511wi.gov/map/Cctv/202--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0222/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 39th St",
+                "img": "https://511wi.gov/map/Cctv/203--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0012/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 68th St",
+                "img": "https://511wi.gov/map/Cctv/204--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0142/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 76th St",
+                "img": "https://511wi.gov/map/Cctv/205--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0009/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at 84th St",
+                "img": "https://511wi.gov/map/Cctv/206--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0141/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Hawley Rd",
+                "img": "https://511wi.gov/map/Cctv/207--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0010/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at I-41/US 45 HM",
+                "img": "https://511wi.gov/map/Cctv/208--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0101/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Mitchell Blvd",
+                "img": "https://511wi.gov/map/Cctv/209--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0011/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Stadium Interchange HM",
+                "img": "https://511wi.gov/map/Cctv/210--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0102/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WB 84th St Ramp",
+                "img": "https://511wi.gov/map/Cctv/211--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0219/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 100",
+                "img": "https://511wi.gov/map/Cctv/212--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0007/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County N",
+                "img": "https://511wi.gov/map/Cctv/478--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0013/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Gaston Rd",
+                "img": "https://511wi.gov/map/Cctv/479--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0012/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 73",
+                "img": "https://511wi.gov/map/Cctv/485--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0030/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at Sprecher Rd",
+                "img": "https://511wi.gov/map/Cctv/489--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0041/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 26",
+                "img": "https://511wi.gov/map/Cctv/514--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-28-0031/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County F",
+                "img": "https://511wi.gov/map/Cctv/515--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-28-0032/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at WIS 89",
+                "img": "https://511wi.gov/map/Cctv/516--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-28-0060/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County EW Warrens",
+                "img": "https://511wi.gov/map/Cctv/576--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0111/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County HH",
+                "img": "https://511wi.gov/map/Cctv/96--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0014/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at County K",
+                "img": "https://511wi.gov/map/Cctv/97--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0021/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at US 10",
+                "img": "https://511wi.gov/map/Cctv/98--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-61-0008/playlist.m3u8"
+            },
+            {
+                "name": "I-94 at US 53",
+                "img": "https://511wi.gov/map/Cctv/99--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0009/playlist.m3u8"
+            },
+            {
+                "name": "I-94 EB at I-90 WB",
+                "img": "https://511wi.gov/map/Cctv/1098--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0053/playlist.m3u8"
+            },
+            {
+                "name": "I-94 WB at Ramp to I-90",
+                "img": "https://511wi.gov/map/Cctv/1097--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0052/playlist.m3u8"
+            },
+            {
+                "name": "US 10 at County CB",
+                "img": "https://511wi.gov/map/Cctv/87--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0078/playlist.m3u8"
+            },
+            {
+                "name": "US 10 at WIS 76",
+                "img": "https://511wi.gov/map/Cctv/88--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0077/playlist.m3u8"
+            },
+            {
+                "name": "US 12 at Parmenter St",
+                "img": "https://511wi.gov/map/Cctv/512--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0134/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at W of Verona Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1108--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0154/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at W of SW Commuter Path (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1109--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0153/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at Whitney Way (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1110--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0151/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at W of Pheasant Ridge Trail (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1114--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0168/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at Whitney Way",
+                "img": "https://511wi.gov/map/Cctv/461--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0001/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at Gammon Rd",
+                "img": "https://511wi.gov/map/Cctv/487--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0035/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at Mineral Point Rd",
+                "img": "https://511wi.gov/map/Cctv/498--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0065/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at Old Sauk Rd",
+                "img": "https://511wi.gov/map/Cctv/499--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0066/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at Greenway Blvd",
+                "img": "https://511wi.gov/map/Cctv/500--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0067/playlist.m3u8"
+            },
+            {
+                "name": "US 12/14 at University Ave",
+                "img": "https://511wi.gov/map/Cctv/511--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0133/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at West Broadway Lower",
+                "img": "https://511wi.gov/map/Cctv/1061--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-13-0175/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at West of Yahara River",
+                "img": "https://511wi.gov/map/Cctv/1095--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0178/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Todd Dr",
+                "img": "https://511wi.gov/map/Cctv/1101--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0161/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Landmark Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1102--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0160/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Grandview Blvd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1103--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0159/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Seminole Hwy (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1104--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0158/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Seminole Hwy (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1105--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0157/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Verona Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1106--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0156/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Verona Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1107--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0155/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of John Nolan Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1111--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0171/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Rimrock Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1112--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0170/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Rimrock Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1113--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0169/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Park St (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1115--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0167/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Park St (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1116--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0166/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Fish Hatchery Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1117--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0165/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Fish Hatchery Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1118--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0164/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Cannonball Path (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1119--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0163/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Todd Dr/Ped Bridge (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1120--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0162/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Monona Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1121--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0182/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Monona Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1124--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0179/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of West Broadway (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1127--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0174/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of John Nolan Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1128--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0173/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at John Nolan Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1129--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0172/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Agriculture Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1130--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0187/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Agriculture Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1131--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0186/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at E of Stoughton Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1132--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0185/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Stoughton Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1133--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0184/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at W of Stoughton Rd (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1134--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0183/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at County AB",
+                "img": "https://511wi.gov/map/Cctv/1176--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0188/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Verona Rd",
+                "img": "https://511wi.gov/map/Cctv/462--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0002/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Seminole Hwy",
+                "img": "https://511wi.gov/map/Cctv/463--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0003/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Park St",
+                "img": "https://511wi.gov/map/Cctv/464--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0004/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Fish Hatchery Rd",
+                "img": "https://511wi.gov/map/Cctv/465--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0005/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Monona Dr",
+                "img": "https://511wi.gov/map/Cctv/466--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0006/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Stoughton Rd",
+                "img": "https://511wi.gov/map/Cctv/467--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0007/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Todd Dr",
+                "img": "https://511wi.gov/map/Cctv/484--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0025/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at Rimrock Rd",
+                "img": "https://511wi.gov/map/Cctv/492--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0049/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at John Nolen Dr",
+                "img": "https://511wi.gov/map/Cctv/494--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0061/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 at West Broadway Upper",
+                "img": "https://511wi.gov/map/Cctv/495--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0062/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 EB at Monona Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1122--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0181/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 EB at E of West Broadway (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1125--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0177/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 WB at Monona Dr (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1123--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0180/playlist.m3u8"
+            },
+            {
+                "name": "US 12/18 WB at E of West Broadway (Flex)",
+                "img": "https://511wi.gov/map/Cctv/1126--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0176/playlist.m3u8"
+            },
+            {
+                "name": "US 151 at Main St",
+                "img": "https://511wi.gov/map/Cctv/486--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0033/playlist.m3u8"
+            },
+            {
+                "name": "US 151 at County C",
+                "img": "https://511wi.gov/map/Cctv/497--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0064/playlist.m3u8"
+            },
+            {
+                "name": "US 151 at WIS 19",
+                "img": "https://511wi.gov/map/Cctv/507--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0128/playlist.m3u8"
+            },
+            {
+                "name": "US 151 at County N",
+                "img": "https://511wi.gov/map/Cctv/508--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0129/playlist.m3u8"
+            },
+            {
+                "name": "US 151 at American Pkwy",
+                "img": "https://511wi.gov/map/Cctv/510--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0132/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Moorland Rd",
+                "img": "https://511wi.gov/map/Cctv/612--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0117/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Calhoun Rd",
+                "img": "https://511wi.gov/map/Cctv/613--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0118/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Barker Rd",
+                "img": "https://511wi.gov/map/Cctv/614--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0119/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Sunnyslope Rd",
+                "img": "https://511wi.gov/map/Cctv/618--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0157/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Elm Grove Rd",
+                "img": "https://511wi.gov/map/Cctv/619--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0158/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Janacek Rd",
+                "img": "https://511wi.gov/map/Cctv/623--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0201/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Brookfield Rd",
+                "img": "https://511wi.gov/map/Cctv/624--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0202/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Woelfel Rd",
+                "img": "https://511wi.gov/map/Cctv/625--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0203/playlist.m3u8"
+            },
+            {
+                "name": "US 18 at Executive Dr",
+                "img": "https://511wi.gov/map/Cctv/626--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0204/playlist.m3u8"
+            },
+            {
+                "name": "US 41 at S of Lakeview Dr",
+                "img": "https://511wi.gov/map/Cctv/1079--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0048/playlist.m3u8"
+            },
+            {
+                "name": "US 41 at Lineville Rd",
+                "img": "https://511wi.gov/map/Cctv/1080--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0049/playlist.m3u8"
+            },
+            {
+                "name": "US 51 at County N",
+                "img": "https://511wi.gov/map/Cctv/1069--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0008/playlist.m3u8"
+            },
+            {
+                "name": "US 51 at County NN",
+                "img": "https://511wi.gov/map/Cctv/1070--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0001/playlist.m3u8"
+            },
+            {
+                "name": "US 51 at Sherman St",
+                "img": "https://511wi.gov/map/Cctv/1071--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0004/playlist.m3u8"
+            },
+            {
+                "name": "US 51 at WIS 29 W/WIS 52",
+                "img": "https://511wi.gov/map/Cctv/1072--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0005/playlist.m3u8"
+            },
+            {
+                "name": "US 51 at WIS 19",
+                "img": "https://511wi.gov/map/Cctv/493--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0059/playlist.m3u8"
+            },
+            {
+                "name": "US 51 at County K",
+                "img": "https://511wi.gov/map/Cctv/8--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-37-0007/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at US 12 Tunnel",
+                "img": "https://511wi.gov/map/Cctv/1060--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0001/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at US 63 Trego",
+                "img": "https://511wi.gov/map/Cctv/1063--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-65-0013/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at 40th Ave",
+                "img": "https://511wi.gov/map/Cctv/123--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0040/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at County OO",
+                "img": "https://511wi.gov/map/Cctv/124--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0038/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at County X/Business 29",
+                "img": "https://511wi.gov/map/Cctv/125--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0041/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at Golf Rd",
+                "img": "https://511wi.gov/map/Cctv/126--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0042/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at Melby St",
+                "img": "https://511wi.gov/map/Cctv/127--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0037/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at River Prairie Dr",
+                "img": "https://511wi.gov/map/Cctv/128--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0034/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at US 12",
+                "img": "https://511wi.gov/map/Cctv/129--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0010/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at WIS 312",
+                "img": "https://511wi.gov/map/Cctv/130--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0035/playlist.m3u8"
+            },
+            {
+                "name": "US 53 at WIS 93",
+                "img": "https://511wi.gov/map/Cctv/131--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0043/playlist.m3u8"
+            },
+            {
+                "name": "US 18/Verona Rd at County PD",
+                "img": "https://511wi.gov/map/Cctv/496--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0063/playlist.m3u8"
+            },
+            {
+                "name": "US 18/Verona Rd at Raymond Rd",
+                "img": "https://511wi.gov/map/Cctv/509--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0130/playlist.m3u8"
+            },
+            {
+                "name": "Watertown Plank Rd at 92nd St",
+                "img": "https://511wi.gov/map/Cctv/452--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0193/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Bluemound Rd",
+                "img": "https://511wi.gov/map/Cctv/538--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0100/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Research Dr",
+                "img": "https://511wi.gov/map/Cctv/539--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0104/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Silver Spring Dr",
+                "img": "https://511wi.gov/map/Cctv/540--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0105/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Hampton Ave",
+                "img": "https://511wi.gov/map/Cctv/541--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0106/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Capitol Dr",
+                "img": "https://511wi.gov/map/Cctv/542--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0107/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Burleigh St",
+                "img": "https://511wi.gov/map/Cctv/543--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0108/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at North Ave",
+                "img": "https://511wi.gov/map/Cctv/544--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0110/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Watertown Plank Rd",
+                "img": "https://511wi.gov/map/Cctv/545--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0111/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Greenfield Ave",
+                "img": "https://511wi.gov/map/Cctv/546--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0112/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Lincoln Ave",
+                "img": "https://511wi.gov/map/Cctv/547--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0113/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Center St",
+                "img": "https://511wi.gov/map/Cctv/565--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0192/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Theo Trecker Way",
+                "img": "https://511wi.gov/map/Cctv/566--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0194/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at National Ave",
+                "img": "https://511wi.gov/map/Cctv/567--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0195/playlist.m3u8"
+            },
+            {
+                "name": "WIS 100 at Oklahoma Ave",
+                "img": "https://511wi.gov/map/Cctv/568--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0196/playlist.m3u8"
+            },
+            {
+                "name": "WIS 11 at County H/105th St",
+                "img": "https://511wi.gov/map/Cctv/1092--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0232/playlist.m3u8"
+            },
+            {
+                "name": "WIS 113 at Merrimac Ferry South Shore",
+                "img": "https://511wi.gov/map/Cctv/453--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0001/playlist.m3u8"
+            },
+            {
+                "name": "WIS 113 at Merrimac Ferry North Shore",
+                "img": "https://511wi.gov/map/Cctv/595--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0001/playlist.m3u8"
+            },
+            {
+                "name": "WIS 119 at Howell Ave",
+                "img": "https://511wi.gov/map/Cctv/548--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0114/playlist.m3u8"
+            },
+            {
+                "name": "WIS 172 at Bellevue St/County XX",
+                "img": "https://511wi.gov/map/Cctv/1089--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0054/playlist.m3u8"
+            },
+            {
+                "name": "WIS 172 at Riverside/WIS 57",
+                "img": "https://511wi.gov/map/Cctv/1090--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0053/playlist.m3u8"
+            },
+            {
+                "name": "WIS 172 at WIS 32",
+                "img": "https://511wi.gov/map/Cctv/1091--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0052/playlist.m3u8"
+            },
+            {
+                "name": "WIS 172 at County GV",
+                "img": "https://511wi.gov/map/Cctv/85--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0105/playlist.m3u8"
+            },
+            {
+                "name": "WIS 175 at Bluemound Rd",
+                "img": "https://511wi.gov/map/Cctv/533--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0082/playlist.m3u8"
+            },
+            {
+                "name": "WIS 175 at Stadium",
+                "img": "https://511wi.gov/map/Cctv/534--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0083/playlist.m3u8"
+            },
+            {
+                "name": "WIS 175 at National Ave",
+                "img": "https://511wi.gov/map/Cctv/535--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0084/playlist.m3u8"
+            },
+            {
+                "name": "WIS 175 at Wells St",
+                "img": "https://511wi.gov/map/Cctv/552--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0145/playlist.m3u8"
+            },
+            {
+                "name": "WIS 241/S 27th St at College Ave",
+                "img": "https://511wi.gov/map/Cctv/571--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0214/playlist.m3u8"
+            },
+            {
+                "name": "WIS 241/S 27th St at Rawson Ave",
+                "img": "https://511wi.gov/map/Cctv/572--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0215/playlist.m3u8"
+            },
+            {
+                "name": "WIS 241/S 27th St at Drexel Ave",
+                "img": "https://511wi.gov/map/Cctv/573--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0216/playlist.m3u8"
+            },
+            {
+                "name": "WIS 29 at Packerland Dr",
+                "img": "https://511wi.gov/map/Cctv/1088--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0050/playlist.m3u8"
+            },
+            {
+                "name": "WIS 29 at County VV",
+                "img": "https://511wi.gov/map/Cctv/1137--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0113/playlist.m3u8"
+            },
+            {
+                "name": "WIS 29 at E of US 53/130th St",
+                "img": "https://511wi.gov/map/Cctv/132--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0039/playlist.m3u8"
+            },
+            {
+                "name": "WIS 29 at County FF",
+                "img": "https://511wi.gov/map/Cctv/86--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0075/playlist.m3u8"
+            },
+            {
+                "name": "WIS 30 at Stoughton Rd",
+                "img": "https://511wi.gov/map/Cctv/482--7",
+                "stream_url": "https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0023/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at County AP",
+                "img": "https://511wi.gov/map/Cctv/89--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0086/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at County CE",
+                "img": "https://511wi.gov/map/Cctv/90--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0083/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at County KK",
+                "img": "https://511wi.gov/map/Cctv/91--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0082/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at County P",
+                "img": "https://511wi.gov/map/Cctv/92--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0085/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at Oneida St",
+                "img": "https://511wi.gov/map/Cctv/93--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-08-0088/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at Telulah Ave",
+                "img": "https://511wi.gov/map/Cctv/94--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-08-0089/playlist.m3u8"
+            },
+            {
+                "name": "WIS 441 at WIS 47",
+                "img": "https://511wi.gov/map/Cctv/95--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0087/playlist.m3u8"
+            },
+            {
+                "name": "WIS 54/57 at Nicolet Dr/University Ave",
+                "img": "https://511wi.gov/map/Cctv/54--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0106/playlist.m3u8"
+            },
+            {
+                "name": "WIS 794 at Howard Ave",
+                "img": "https://511wi.gov/map/Cctv/161--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0226/playlist.m3u8"
+            },
+            {
+                "name": "WIS 794 at Layton Ave",
+                "img": "https://511wi.gov/map/Cctv/162--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0115/playlist.m3u8"
+            },
+            {
+                "name": "WIS 794 at Oklahoma Ave",
+                "img": "https://511wi.gov/map/Cctv/163--7",
+                "stream_url": "https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0144/playlist.m3u8"
+            }
+        ]
+    }
+]

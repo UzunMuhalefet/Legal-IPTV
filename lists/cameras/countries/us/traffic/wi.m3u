@@ -1,0 +1,935 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/449--7" group-title="Wisconsin - Traffic Cameras",84th St at N of I-94
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0210/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/450--7" group-title="Wisconsin - Traffic Cameras",84th St at Schlinger Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0213/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/553--7" group-title="Wisconsin - Traffic Cameras",Bluemound Rd at 84th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0149/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/563--7" group-title="Wisconsin - Traffic Cameras",Bluemound Rd at 124th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0190/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/564--7" group-title="Wisconsin - Traffic Cameras",Bluemound Rd at 114th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0191/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/569--7" group-title="Wisconsin - Traffic Cameras",Bluemound Rd at 99th St/County Zoo
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0211/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1093--7" group-title="Wisconsin - Traffic Cameras",Braun Rd/60th St at Wisconn Valley Way
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0231/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/122--7" group-title="Wisconsin - Traffic Cameras",BUS 53 at US 12
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0046/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/583--7" group-title="Wisconsin - Traffic Cameras",County KR at County H
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0230/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/472--7" group-title="Wisconsin - Traffic Cameras",E Washington Ave at Dayton St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0019/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/473--7" group-title="Wisconsin - Traffic Cameras",E Washington Ave at WIS 30
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0018/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/474--7" group-title="Wisconsin - Traffic Cameras",E Washington Ave at Stoughton Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0017/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/475--7" group-title="Wisconsin - Traffic Cameras",E Washington Ave at Continental Ln
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0016/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/549--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at 84th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0116/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/554--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at 124th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0155/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/555--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at 116th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0156/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/570--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at 92nd St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0212/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/615--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at Moorland Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0152/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/616--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at Sunnyslope Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0153/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/617--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at Elm Grove Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0154/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/620--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at Barker Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0198/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/621--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at Brookfield Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0199/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/622--7" group-title="Wisconsin - Traffic Cameras",Greenfield Ave at Calhoun Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0200/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/459--7" group-title="Wisconsin - Traffic Cameras",I-39 at WIS 16
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0131/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/460--7" group-title="Wisconsin - Traffic Cameras",I-39 at WIS 33
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0146/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1135--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at WIS 26
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0023/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/468--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at Buckeye Rd/County AB
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0008/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/469--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at County BB/Cottage Grove Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0009/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/477--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at S of US 12/18
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0014/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/490--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at I-94
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0042/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/501--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at County N
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0100/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/502--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at County B
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0101/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/503--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at US 51N
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0102/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/504--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at US 51/WIS 73
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0103/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/505--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at County BN
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0112/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/506--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at S County AB
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0113/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/513--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at US 12/18
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0145/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/584--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at US 14
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0024/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/585--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at Racine Ave/WIS 11
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0029/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/586--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at Avalon Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0034/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/587--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at County S
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0039/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/588--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at I-43/WIS 81
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0044/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/589--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at S of Woodman Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0045/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/590--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at State Line Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0048/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/591--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at WIS 59
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0104/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/592--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at S of County M
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0105/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/593--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at Townline Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0106/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/594--7" group-title="Wisconsin - Traffic Cameras",I-39/90 at Milwaukee St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0107/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/454--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at WIS 60
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0025/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/455--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at County CS
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0026/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/470--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at US 51
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0010/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/476--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at US 151
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0015/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/480--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at WIS 19
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0011/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/483--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at Wisconsin River
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0024/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/488--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at County V
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0040/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/491--7" group-title="Wisconsin - Traffic Cameras",I-39/90/94 at County T
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0043/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at County B
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0011/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1059--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at Grand Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-37-0006/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/2--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at County HH
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0012/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/3--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at Reserve St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0015/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/4--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at US 10/WIS 66
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0013/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/5--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at WIS 54
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0010/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/6--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at WIS 66/Stanley St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-49-0014/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/7--7" group-title="Wisconsin - Traffic Cameras",I-39/US 51 at WIS 29E
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-37-0002/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/10--7" group-title="Wisconsin - Traffic Cameras",I-41 at County A
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0081/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1073--7" group-title="Wisconsin - Traffic Cameras",I-41 at Scheuring Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0040/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1074--7" group-title="Wisconsin - Traffic Cameras",I-41 at Ashland Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0041/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1075--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 172
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0051/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1076--7" group-title="Wisconsin - Traffic Cameras",I-41 at Lombardi Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0043/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1077--7" group-title="Wisconsin - Traffic Cameras",I-41 at Mason St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0044/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1078--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 29
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0045/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/11--7" group-title="Wisconsin - Traffic Cameras",I-41 at County BB
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0093/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1182--7" group-title="Wisconsin - Traffic Cameras",I-41 at Military Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0150/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/12--7" group-title="Wisconsin - Traffic Cameras",I-41 at County II
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0091/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/13--7" group-title="Wisconsin - Traffic Cameras",I-41 at Nee-vin Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0067/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/14--7" group-title="Wisconsin - Traffic Cameras",I-41 at US 10/WIS 441
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0092/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/15--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 114/County JJ/Winneconne Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0090/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/16--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 125
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0079/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/17--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 15/County OO
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0080/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/18--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 441
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0084/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/19--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 47
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0076/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/20--7" group-title="Wisconsin - Traffic Cameras",I-41 at Wisconsin Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0104/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/21--7" group-title="Wisconsin - Traffic Cameras",I-41 at I-43
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0047/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/22--7" group-title="Wisconsin - Traffic Cameras",I-41 at Oneida St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0042/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/23--7" group-title="Wisconsin - Traffic Cameras",I-41 at Velp Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0046/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/55--7" group-title="Wisconsin - Traffic Cameras",I-41 at County J
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0094/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/56--7" group-title="Wisconsin - Traffic Cameras",I-41 at County N/Freedom Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0111/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/57--7" group-title="Wisconsin - Traffic Cameras",I-41 at County S
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0098/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/58--7" group-title="Wisconsin - Traffic Cameras",I-41 at County U
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0096/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/59--7" group-title="Wisconsin - Traffic Cameras",I-41 at Larry Ln
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0099/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/60--7" group-title="Wisconsin - Traffic Cameras",I-41 at Miners Way
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0097/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/605--7" group-title="Wisconsin - Traffic Cameras",I-41 at US 45 Split
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0205/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/606--7" group-title="Wisconsin - Traffic Cameras",I-41 at Mayfield Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0206/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/607--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 60
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0207/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/608--7" group-title="Wisconsin - Traffic Cameras",I-41 at County D
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0233/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/609--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 33
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0234/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/61--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 55/Delanglade St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0112/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/610--7" group-title="Wisconsin - Traffic Cameras",I-41 at County K
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0235/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/611--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 144
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0236/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/62--7" group-title="Wisconsin - Traffic Cameras",I-41 at Wrightstown Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0095/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/63--7" group-title="Wisconsin - Traffic Cameras",I-41 at County B
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0109/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/64--7" group-title="Wisconsin - Traffic Cameras",I-41 at County F
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0110/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/65--7" group-title="Wisconsin - Traffic Cameras",I-41 at County N
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0103/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/66--7" group-title="Wisconsin - Traffic Cameras",I-41 at County OO
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0102/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/67--7" group-title="Wisconsin - Traffic Cameras",I-41 at Lincoln Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0108/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/69--7" group-title="Wisconsin - Traffic Cameras",I-41 at US 151
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0070/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/70--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 23
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-20-0069/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/71--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 28
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-14-0150/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/72--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 49/County KK
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-14-0148/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/73--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 67
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-14-0149/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/74--7" group-title="Wisconsin - Traffic Cameras",I-41 at 9th Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0063/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/75--7" group-title="Wisconsin - Traffic Cameras",I-41 at County Z
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0074/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/77--7" group-title="Wisconsin - Traffic Cameras",I-41 at US 45
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0065/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/78--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 21
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0064/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/79--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 26
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0061/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/80--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 44
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0062/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/81--7" group-title="Wisconsin - Traffic Cameras",I-41 at WIS 76
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0066/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/9--7" group-title="Wisconsin - Traffic Cameras",I-41 at Breezewood Ln
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0068/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/164--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 19th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0023/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/165--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 22nd St EB
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0189/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/166--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 27th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0024/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/167--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 51st St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0223/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/168--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 60th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0026/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/169--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 76th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0027/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/170--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 84th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0028/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/171--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at 92nd St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0029/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/172--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at Loomis Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0025/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/173--7" group-title="Wisconsin - Traffic Cameras",I-41/43/894 at Mitchell Interchange
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0053/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/174--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Beloit Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0032/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/175--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Cleveland Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0150/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/176--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Coldspring Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0031/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/177--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Greenfield Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0035/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/178--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Lincoln Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0034/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/179--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at National Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0209/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/180--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Oklahoma Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0033/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/425--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at College Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0058/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/426--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Drexel Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0060/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/427--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Elm Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0237/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/428--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Grange Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0128/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/429--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Layton Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0056/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/430--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Layton Ave SB
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0188/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/431--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Oakwood Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0143/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/432--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Rawson Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0059/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/433--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at Ryan Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0061/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/434--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 119
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0057/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/521--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 142
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0067/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/522--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 50
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0068/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/523--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 165
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0069/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/524--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County A
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0132/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/525--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County E
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0133/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/526--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 158
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0134/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/527--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County C
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0135/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/528--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County ML
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-30-0136/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/574--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at S 27th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0229/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/577--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at 7 Mile Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0062/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/578--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County G
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0063/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/579--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County K
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0064/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/580--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 20
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0065/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/581--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at County KR
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0066/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/582--7" group-title="Wisconsin - Traffic Cameras",I-41/94 at WIS 11
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0131/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1178--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Main St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0245/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1181--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Burleigh St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0227/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/133--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Hampton Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0151/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/135--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at S of Bluemound Rd Tunnel
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0218/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/136--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at 124th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0047/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/137--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Appleton Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0044/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/138--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Bluemound Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0036/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/139--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Capitol Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0042/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/140--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Center St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0040/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/141--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at County Q
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0050/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/142--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Good Hope Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0045/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/143--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Leon Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0048/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/144--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Mayfair Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0038/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/145--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at N of Burleigh St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0041/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/146--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at North Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0039/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/148--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Park Place
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0046/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/149--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Pilgrim Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0049/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/150--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Silver Spring Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0043/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/151--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Swan Blvd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0146/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/152--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Under Capitol Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0228/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/153--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Watertown Plank Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0037/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/154--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Wisconsin Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0217/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/602--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Lannon Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0051/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/603--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Freistadt Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0147/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/604--7" group-title="Wisconsin - Traffic Cameras",I-41/US 45 at Holy Hill Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-66-0148/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1062--7" group-title="Wisconsin - Traffic Cameras",I-43 at I-94 W-N Ramp
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0178/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1081--7" group-title="Wisconsin - Traffic Cameras",I-43 at Atkinson Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0057/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1082--7" group-title="Wisconsin - Traffic Cameras",I-43 at Webster Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0056/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1083--7" group-title="Wisconsin - Traffic Cameras",I-43 at Danz Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0071/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1084--7" group-title="Wisconsin - Traffic Cameras",I-43 at University Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0072/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1085--7" group-title="Wisconsin - Traffic Cameras",I-43 at Mason St/County V
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0039/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1086--7" group-title="Wisconsin - Traffic Cameras",I-43 at County JJ
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0073/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1087--7" group-title="Wisconsin - Traffic Cameras",I-43 at WIS 172
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0055/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1138--7" group-title="Wisconsin - Traffic Cameras",I-43 at Hart Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-53-0046/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/181--7" group-title="Wisconsin - Traffic Cameras",I-41/894/US 45 at Hale Interchange
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0224/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/24--7" group-title="Wisconsin - Traffic Cameras",I-43 at 108th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0030/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/25--7" group-title="Wisconsin - Traffic Cameras",I-43 at 112th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0085/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/26--7" group-title="Wisconsin - Traffic Cameras",I-43 at 124th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0086/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/27--7" group-title="Wisconsin - Traffic Cameras",I-43 at Brown Deer Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0089/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/28--7" group-title="Wisconsin - Traffic Cameras",I-43 at Brown St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0073/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/29--7" group-title="Wisconsin - Traffic Cameras",I-43 at Calhoun Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0225/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/30--7" group-title="Wisconsin - Traffic Cameras",I-43 at Capitol Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0076/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/31--7" group-title="Wisconsin - Traffic Cameras",I-43 at Crowbar Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0139/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/32--7" group-title="Wisconsin - Traffic Cameras",I-43 at Daphne Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0079/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/33--7" group-title="Wisconsin - Traffic Cameras",I-43 at Good Hope Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0080/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/34--7" group-title="Wisconsin - Traffic Cameras",I-43 at Hampton Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0077/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/35--7" group-title="Wisconsin - Traffic Cameras",I-43 at Highland Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0071/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/36--7" group-title="Wisconsin - Traffic Cameras",I-43 at Juneau Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0181/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/37--7" group-title="Wisconsin - Traffic Cameras",I-43 at Keefe Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0075/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/40--7" group-title="Wisconsin - Traffic Cameras",I-43 at Locust St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0221/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/41--7" group-title="Wisconsin - Traffic Cameras",I-43 at McKinley Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0096/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/42--7" group-title="Wisconsin - Traffic Cameras",I-43 at Mequon Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-45-0081/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/43--7" group-title="Wisconsin - Traffic Cameras",I-43 at Moorland Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0088/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/44--7" group-title="Wisconsin - Traffic Cameras",I-43 at Racine Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0125/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/45--7" group-title="Wisconsin - Traffic Cameras",I-43 at Silver Spring Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0078/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/46--7" group-title="Wisconsin - Traffic Cameras",I-43 at State St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0070/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/47--7" group-title="Wisconsin - Traffic Cameras",I-43 at Sunnyslope Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0087/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/48--7" group-title="Wisconsin - Traffic Cameras",I-43 at Walnut St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0072/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/49--7" group-title="Wisconsin - Traffic Cameras",I-43 at Wells St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0095/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/50--7" group-title="Wisconsin - Traffic Cameras",I-43 at WIS 141/County MM
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0107/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/51--7" group-title="Wisconsin - Traffic Cameras",I-43 at WIS 164
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0140/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/52--7" group-title="Wisconsin - Traffic Cameras",I-43 at Wisconsin Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0159/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/53--7" group-title="Wisconsin - Traffic Cameras",I-43 at Wright St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0074/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/82--7" group-title="Wisconsin - Traffic Cameras",I-43 at WIS 23
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-59-0026/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/83--7" group-title="Wisconsin - Traffic Cameras",I-43 at WIS 28
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-59-0027/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/84--7" group-title="Wisconsin - Traffic Cameras",I-43 at WIS 42
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-59-0028/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/435--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at 15th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0055/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/436--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at Chase Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0019/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/437--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at Holt Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0021/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/438--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at Howard Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0022/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/439--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at Mitchell St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0018/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/440--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at National Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0017/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/441--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at Oklahoma Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0020/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/442--7" group-title="Wisconsin - Traffic Cameras",I-43/94 at Plainfield Curve
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0054/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/155--7" group-title="Wisconsin - Traffic Cameras",I-794 at 2nd St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0016/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/156--7" group-title="Wisconsin - Traffic Cameras",I-794 at Carferry Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0094/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/157--7" group-title="Wisconsin - Traffic Cameras",I-794 at James Lovell St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0098/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/158--7" group-title="Wisconsin - Traffic Cameras",I-794 at Lincoln Memorial Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0097/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/159--7" group-title="Wisconsin - Traffic Cameras",I-794 at N of Hoan Bridge
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0162/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/160--7" group-title="Wisconsin - Traffic Cameras",I-794 at S of Hoan Bridge
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0093/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1096--7" group-title="Wisconsin - Traffic Cameras",I-90 at US 12/WIS 16
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0055/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1136--7" group-title="Wisconsin - Traffic Cameras",I-90 at WIS 131
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0056/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/529--7" group-title="Wisconsin - Traffic Cameras",I-90 at County B (French Island)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0070/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/530--7" group-title="Wisconsin - Traffic Cameras",I-90 at WIS 35
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0071/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/531--7" group-title="Wisconsin - Traffic Cameras",I-90 at US 53/WIS 157
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0072/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/532--7" group-title="Wisconsin - Traffic Cameras",I-90 at WIS 16
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-32-0073/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1094--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at County C
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0057/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/456--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at I-39 Split
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0036/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/457--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at WIS 33
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0037/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/458--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at Columbia-Sauk Line
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0038/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/517--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at US 12/WIS 16
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0124/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/518--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at County HH
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0142/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/519--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at WIS 82
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0143/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/520--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at WIS 80
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-29-0144/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/575--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at County PP
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0054/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/596--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at US 12
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0058/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/597--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at WIS 13
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0125/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/598--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at Trout Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0126/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/599--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at WIS 23
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0127/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/600--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at County T
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0140/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/601--7" group-title="Wisconsin - Traffic Cameras",I-90/94 at County A
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0141/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/100--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 312
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0012/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/101--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 37
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0016/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/102--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 93
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0017/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/103--7" group-title="Wisconsin - Traffic Cameras",I-94 at County O Millston
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0036/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/104--7" group-title="Wisconsin - Traffic Cameras",I-94 at US12/WIS 27
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0023/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/105--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 121
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0022/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/106--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 54
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0024/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/107--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 95 Hixton
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-27-0015/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/108--7" group-title="Wisconsin - Traffic Cameras",I-94 at 160th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0047/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/109--7" group-title="Wisconsin - Traffic Cameras",I-94 at 250th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0048/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1099--7" group-title="Wisconsin - Traffic Cameras",I-94 at Industrial Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0051/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/110--7" group-title="Wisconsin - Traffic Cameras",I-94 at County B Menomonie
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0020/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1100--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 21
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0050/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/111--7" group-title="Wisconsin - Traffic Cameras",I-94 at County Q
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0027/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/112--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 25
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0019/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/113--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 29
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-17-0011/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/114--7" group-title="Wisconsin - Traffic Cameras",I-94 at 14th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0031/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/115--7" group-title="Wisconsin - Traffic Cameras",I-94 at County B
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0025/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/116--7" group-title="Wisconsin - Traffic Cameras",I-94 at County T
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0032/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/117--7" group-title="Wisconsin - Traffic Cameras",I-94 at US 12
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0006/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/118--7" group-title="Wisconsin - Traffic Cameras",I-94 at US 63
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0033/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/119--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 128
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0026/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/120--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 35/2nd St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0030/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/121--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 65
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-55-0007/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/182--7" group-title="Wisconsin - Traffic Cameras",I-94 at Calhoun Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0003/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/183--7" group-title="Wisconsin - Traffic Cameras",I-94 at County F
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0124/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/184--7" group-title="Wisconsin - Traffic Cameras",I-94 at County P
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0123/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/185--7" group-title="Wisconsin - Traffic Cameras",I-94 at County SS
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0120/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/186--7" group-title="Wisconsin - Traffic Cameras",I-94 at County T
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0129/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/187--7" group-title="Wisconsin - Traffic Cameras",I-94 at Elm Grove Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0097/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/188--7" group-title="Wisconsin - Traffic Cameras",I-94 at Moorland Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0004/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/189--7" group-title="Wisconsin - Traffic Cameras",I-94 at Springdale Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0001/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/190--7" group-title="Wisconsin - Traffic Cameras",I-94 at Sunnyslope Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0005/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/191--7" group-title="Wisconsin - Traffic Cameras",I-94 at US 18
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0002/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/192--7" group-title="Wisconsin - Traffic Cameras",I-94 at W of Brookfield Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0138/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/193--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 164
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0053/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/194--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 67
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0122/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/195--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 83
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-67-0121/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/196--7" group-title="Wisconsin - Traffic Cameras",I-94 at 113th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0220/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/197--7" group-title="Wisconsin - Traffic Cameras",I-94 at 121st St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0006/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/198--7" group-title="Wisconsin - Traffic Cameras",I-94 at 13th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0015/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/199--7" group-title="Wisconsin - Traffic Cameras",I-94 at 20th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0014/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/200--7" group-title="Wisconsin - Traffic Cameras",I-94 at 25th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0177/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/201--7" group-title="Wisconsin - Traffic Cameras",I-94 at 30th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0013/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/202--7" group-title="Wisconsin - Traffic Cameras",I-94 at 35th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0222/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/203--7" group-title="Wisconsin - Traffic Cameras",I-94 at 39th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0012/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/204--7" group-title="Wisconsin - Traffic Cameras",I-94 at 68th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0142/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/205--7" group-title="Wisconsin - Traffic Cameras",I-94 at 76th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0009/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/206--7" group-title="Wisconsin - Traffic Cameras",I-94 at 84th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0141/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/207--7" group-title="Wisconsin - Traffic Cameras",I-94 at Hawley Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0010/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/208--7" group-title="Wisconsin - Traffic Cameras",I-94 at I-41/US 45 HM
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0101/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/209--7" group-title="Wisconsin - Traffic Cameras",I-94 at Mitchell Blvd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0011/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/210--7" group-title="Wisconsin - Traffic Cameras",I-94 at Stadium Interchange HM
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0102/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/211--7" group-title="Wisconsin - Traffic Cameras",I-94 at WB 84th St Ramp
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0219/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/212--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 100
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0007/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/478--7" group-title="Wisconsin - Traffic Cameras",I-94 at County N
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0013/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/479--7" group-title="Wisconsin - Traffic Cameras",I-94 at Gaston Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0012/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/485--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 73
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0030/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/489--7" group-title="Wisconsin - Traffic Cameras",I-94 at Sprecher Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0041/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/514--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 26
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-28-0031/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/515--7" group-title="Wisconsin - Traffic Cameras",I-94 at County F
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-28-0032/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/516--7" group-title="Wisconsin - Traffic Cameras",I-94 at WIS 89
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-28-0060/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/576--7" group-title="Wisconsin - Traffic Cameras",I-94 at County EW Warrens
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0111/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/96--7" group-title="Wisconsin - Traffic Cameras",I-94 at County HH
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0014/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/97--7" group-title="Wisconsin - Traffic Cameras",I-94 at County K
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0021/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/98--7" group-title="Wisconsin - Traffic Cameras",I-94 at US 10
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-61-0008/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/99--7" group-title="Wisconsin - Traffic Cameras",I-94 at US 53
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0009/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1098--7" group-title="Wisconsin - Traffic Cameras",I-94 EB at I-90 WB
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0053/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1097--7" group-title="Wisconsin - Traffic Cameras",I-94 WB at Ramp to I-90
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-41-0052/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/87--7" group-title="Wisconsin - Traffic Cameras",US 10 at County CB
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0078/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/88--7" group-title="Wisconsin - Traffic Cameras",US 10 at WIS 76
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0077/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/512--7" group-title="Wisconsin - Traffic Cameras",US 12 at Parmenter St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0134/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1108--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at W of Verona Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0154/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1109--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at W of SW Commuter Path (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0153/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1110--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at Whitney Way (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0151/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1114--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at W of Pheasant Ridge Trail (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0168/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/461--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at Whitney Way
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0001/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/487--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at Gammon Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0035/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/498--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at Mineral Point Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0065/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/499--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at Old Sauk Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0066/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/500--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at Greenway Blvd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0067/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/511--7" group-title="Wisconsin - Traffic Cameras",US 12/14 at University Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0133/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1061--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at West Broadway Lower
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-13-0175/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1095--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at West of Yahara River
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0178/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1101--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Todd Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0161/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1102--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Landmark Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0160/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1103--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Grandview Blvd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0159/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1104--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Seminole Hwy (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0158/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1105--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Seminole Hwy (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0157/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1106--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Verona Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0156/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1107--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Verona Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0155/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1111--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of John Nolan Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0171/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1112--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Rimrock Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0170/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1113--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Rimrock Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0169/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1115--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Park St (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0167/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1116--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Park St (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0166/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1117--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Fish Hatchery Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0165/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1118--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Fish Hatchery Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0164/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1119--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Cannonball Path (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0163/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1120--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Todd Dr/Ped Bridge (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0162/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1121--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Monona Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0182/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1124--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Monona Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0179/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1127--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of West Broadway (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0174/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1128--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of John Nolan Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0173/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1129--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at John Nolan Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0172/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1130--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Agriculture Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0187/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1131--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Agriculture Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0186/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1132--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at E of Stoughton Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0185/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1133--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Stoughton Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0184/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1134--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at W of Stoughton Rd (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0183/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1176--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at County AB
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0188/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/462--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Verona Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0002/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/463--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Seminole Hwy
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0003/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/464--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Park St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0004/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/465--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Fish Hatchery Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0005/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/466--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Monona Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0006/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/467--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Stoughton Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0007/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/484--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Todd Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0025/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/492--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at Rimrock Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0049/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/494--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at John Nolen Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0061/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/495--7" group-title="Wisconsin - Traffic Cameras",US 12/18 at West Broadway Upper
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0062/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1122--7" group-title="Wisconsin - Traffic Cameras",US 12/18 EB at Monona Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0181/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1125--7" group-title="Wisconsin - Traffic Cameras",US 12/18 EB at E of West Broadway (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0177/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1123--7" group-title="Wisconsin - Traffic Cameras",US 12/18 WB at Monona Dr (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0180/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1126--7" group-title="Wisconsin - Traffic Cameras",US 12/18 WB at E of West Broadway (Flex)
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0176/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/486--7" group-title="Wisconsin - Traffic Cameras",US 151 at Main St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0033/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/497--7" group-title="Wisconsin - Traffic Cameras",US 151 at County C
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0064/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/507--7" group-title="Wisconsin - Traffic Cameras",US 151 at WIS 19
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0128/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/508--7" group-title="Wisconsin - Traffic Cameras",US 151 at County N
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0129/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/510--7" group-title="Wisconsin - Traffic Cameras",US 151 at American Pkwy
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0132/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/612--7" group-title="Wisconsin - Traffic Cameras",US 18 at Moorland Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0117/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/613--7" group-title="Wisconsin - Traffic Cameras",US 18 at Calhoun Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0118/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/614--7" group-title="Wisconsin - Traffic Cameras",US 18 at Barker Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0119/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/618--7" group-title="Wisconsin - Traffic Cameras",US 18 at Sunnyslope Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0157/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/619--7" group-title="Wisconsin - Traffic Cameras",US 18 at Elm Grove Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0158/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/623--7" group-title="Wisconsin - Traffic Cameras",US 18 at Janacek Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0201/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/624--7" group-title="Wisconsin - Traffic Cameras",US 18 at Brookfield Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0202/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/625--7" group-title="Wisconsin - Traffic Cameras",US 18 at Woelfel Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0203/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/626--7" group-title="Wisconsin - Traffic Cameras",US 18 at Executive Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-67-0204/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1079--7" group-title="Wisconsin - Traffic Cameras",US 41 at S of Lakeview Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0048/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1080--7" group-title="Wisconsin - Traffic Cameras",US 41 at Lineville Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0049/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1069--7" group-title="Wisconsin - Traffic Cameras",US 51 at County N
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0008/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1070--7" group-title="Wisconsin - Traffic Cameras",US 51 at County NN
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0001/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1071--7" group-title="Wisconsin - Traffic Cameras",US 51 at Sherman St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0004/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1072--7" group-title="Wisconsin - Traffic Cameras",US 51 at WIS 29 W/WIS 52
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-37-0005/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/493--7" group-title="Wisconsin - Traffic Cameras",US 51 at WIS 19
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0059/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/8--7" group-title="Wisconsin - Traffic Cameras",US 51 at County K
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-37-0007/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1060--7" group-title="Wisconsin - Traffic Cameras",US 53 at US 12 Tunnel
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0001/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1063--7" group-title="Wisconsin - Traffic Cameras",US 53 at US 63 Trego
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-65-0013/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/123--7" group-title="Wisconsin - Traffic Cameras",US 53 at 40th Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0040/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/124--7" group-title="Wisconsin - Traffic Cameras",US 53 at County OO
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0038/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/125--7" group-title="Wisconsin - Traffic Cameras",US 53 at County X/Business 29
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0041/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/126--7" group-title="Wisconsin - Traffic Cameras",US 53 at Golf Rd
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0042/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/127--7" group-title="Wisconsin - Traffic Cameras",US 53 at Melby St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0037/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/128--7" group-title="Wisconsin - Traffic Cameras",US 53 at River Prairie Dr
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0034/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/129--7" group-title="Wisconsin - Traffic Cameras",US 53 at US 12
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0010/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/130--7" group-title="Wisconsin - Traffic Cameras",US 53 at WIS 312
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0035/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/131--7" group-title="Wisconsin - Traffic Cameras",US 53 at WIS 93
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-18-0043/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/496--7" group-title="Wisconsin - Traffic Cameras",US 18/Verona Rd at County PD
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0063/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/509--7" group-title="Wisconsin - Traffic Cameras",US 18/Verona Rd at Raymond Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0130/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/452--7" group-title="Wisconsin - Traffic Cameras",Watertown Plank Rd at 92nd St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0193/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/538--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Bluemound Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0100/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/539--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Research Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0104/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/540--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Silver Spring Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0105/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/541--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Hampton Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0106/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/542--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Capitol Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0107/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/543--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Burleigh St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0108/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/544--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at North Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0110/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/545--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Watertown Plank Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0111/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/546--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Greenfield Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0112/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/547--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Lincoln Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0113/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/565--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Center St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0192/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/566--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Theo Trecker Way
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0194/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/567--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at National Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0195/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/568--7" group-title="Wisconsin - Traffic Cameras",WIS 100 at Oklahoma Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0196/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1092--7" group-title="Wisconsin - Traffic Cameras",WIS 11 at County H/105th St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-51-0232/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/453--7" group-title="Wisconsin - Traffic Cameras",WIS 113 at Merrimac Ferry South Shore
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-11-0001/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/595--7" group-title="Wisconsin - Traffic Cameras",WIS 113 at Merrimac Ferry North Shore
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-56-0001/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/548--7" group-title="Wisconsin - Traffic Cameras",WIS 119 at Howell Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0114/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1089--7" group-title="Wisconsin - Traffic Cameras",WIS 172 at Bellevue St/County XX
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0054/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1090--7" group-title="Wisconsin - Traffic Cameras",WIS 172 at Riverside/WIS 57
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0053/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1091--7" group-title="Wisconsin - Traffic Cameras",WIS 172 at WIS 32
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0052/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/85--7" group-title="Wisconsin - Traffic Cameras",WIS 172 at County GV
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0105/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/533--7" group-title="Wisconsin - Traffic Cameras",WIS 175 at Bluemound Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0082/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/534--7" group-title="Wisconsin - Traffic Cameras",WIS 175 at Stadium
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0083/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/535--7" group-title="Wisconsin - Traffic Cameras",WIS 175 at National Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0084/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/552--7" group-title="Wisconsin - Traffic Cameras",WIS 175 at Wells St
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0145/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/571--7" group-title="Wisconsin - Traffic Cameras",WIS 241/S 27th St at College Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0214/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/572--7" group-title="Wisconsin - Traffic Cameras",WIS 241/S 27th St at Rawson Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0215/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/573--7" group-title="Wisconsin - Traffic Cameras",WIS 241/S 27th St at Drexel Ave
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-40-0216/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1088--7" group-title="Wisconsin - Traffic Cameras",WIS 29 at Packerland Dr
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0050/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/1137--7" group-title="Wisconsin - Traffic Cameras",WIS 29 at County VV
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-05-0113/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/132--7" group-title="Wisconsin - Traffic Cameras",WIS 29 at E of US 53/130th St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-09-0039/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/86--7" group-title="Wisconsin - Traffic Cameras",WIS 29 at County FF
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0075/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/482--7" group-title="Wisconsin - Traffic Cameras",WIS 30 at Stoughton Rd
+https://cctv2.dot.wi.gov:443/rtplive/CCTV-13-0023/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/89--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at County AP
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0086/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/90--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at County CE
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0083/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/91--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at County KK
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-44-0082/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/92--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at County P
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0085/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/93--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at Oneida St
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-08-0088/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/94--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at Telulah Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-08-0089/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/95--7" group-title="Wisconsin - Traffic Cameras",WIS 441 at WIS 47
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-70-0087/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/54--7" group-title="Wisconsin - Traffic Cameras",WIS 54/57 at Nicolet Dr/University Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-05-0106/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/161--7" group-title="Wisconsin - Traffic Cameras",WIS 794 at Howard Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0226/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/162--7" group-title="Wisconsin - Traffic Cameras",WIS 794 at Layton Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0115/playlist.m3u8
+#EXTINF:1 tvg-logo="https://511wi.gov/map/Cctv/163--7" group-title="Wisconsin - Traffic Cameras",WIS 794 at Oklahoma Ave
+https://cctv1.dot.wi.gov:443/rtplive/CCTV-40-0144/playlist.m3u8
