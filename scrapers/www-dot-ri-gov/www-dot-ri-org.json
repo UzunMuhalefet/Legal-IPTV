@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Rhode Island - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "Camera at I-95 S @ Rt 10",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_33.6_S_CAM - Rt 10.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/eUp6WUZ2Q0NiTnNh/K2VvaWJo/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Elmwood Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_34.0_S_CAM - Elmwood Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SDlmZ3dZaUkyakVl/VkJrR2Zw/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Detroit Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_34.4_S_CAM - Detriot Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SmhURWlnU0pveTM2/Mm5Dak1W/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Thurbers Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_35.2_N_CAM - Thurbers Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/ZDdEQkhqNDFkTk1u/eHFMUk4y/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Public St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_35.8_N_CAM - Public St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/L3E4Z0NpRWZkWEhZ/SDQ5dVdX/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Broad St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_36.8_S_CAM - Broad St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/c2FPYjV5NENIcC9C/Q29XaGtz/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Rt 10",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_33.6_S_CAM - Rt 10.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/eUp6WUZ2Q0NiTnNh/K2VvaWJo/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Elmwood Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_34.0_S_CAM - Elmwood Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SDlmZ3dZaUkyakVl/VkJrR2Zw/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Detroit Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_34.4_S_CAM - Detriot Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SmhURWlnU0pveTM2/Mm5Dak1W/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Thurbers Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_35.2_N_CAM - Thurbers Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/ZDdEQkhqNDFkTk1u/eHFMUk4y/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Public St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_35.8_N_CAM - Public St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/L3E4Z0NpRWZkWEhZ/SDQ5dVdX/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Broad St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_36.8_S_CAM - Broad St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/c2FPYjV5NENIcC9C/Q29XaGtz/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 @ Broadway (Prov)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_37.0_S_CAM - Broadway (Prov).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/K1BOYVhLYlZQVzEz/U2taVnRF/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ 6/10 Interchange",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_37.4_S_CAM - 6_10 Interchange.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/cnFkMExDMWdpbUdv/UC9mOXlD/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Kinsley Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_37.6_N_CAM - Kinsley Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UVZwZFN0R2U1bGNn/OWhQMi9K/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Orms St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_38.0_S_CAM - Orms St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/cHVVQ21DWGJ2Qnpy/bDhTTVlD/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Branch Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_38.8_N_CAM - Branch Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/K1g4UTlTQzF5ZGdV/TEhZNCs0/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Smithfield Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_39.4_N_CAM - Exit 39B & 39C.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/ZTdLZmtEVnB1aVEz/M3lZck51/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Smithfield Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_40.0_N_CAM - Smithfield Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bTRwbVZrNUlKOUx3/b3pHWWlE/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Lonsdale",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_40.6_N_CAM - Lonsdale Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/M2I4Mm5OdGxvQ3g4/SGZjcUxN/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at 95-27 I-95 S @ Garden",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_41.0_S_CAM - Garden St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bUpoYVNwZlBIaTAw/dzVjWm9O/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Vernon St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_41.8_N_CAM - Vernon St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/TzB2dzNuaGgybVFs/MndKekth/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Broadway",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_42.4_N_CAM - Broadway (Pawt).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SW4yU0tJN2hmVUNZ/THh0V2h6/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ East St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_43.0_S_CAM - East St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/eGhaTjRuL3l3bGg5/M1FCVDRq/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Central Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_42.0_S_CAM - Central Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Tk9TUXZtelhITzdz/YlhCTjNa/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 W @ Mass State Line",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-8 I-195 W @ Mass State Line.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/S25rZ2lObHFOL1Zo/R21qVzhK/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 E @ Rt 114",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-7 I-195 E @ Rt 114.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Rm8zcEM0NFRwMk1J/MFVNUlhk/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 W @ Washington Bridge",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-5 I-195 W @ Washington Bridge.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/VkxzemhLak1HL2tO/Z01ENHl0/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 W @ Gano St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-3 I-195 W @ Gano DMS and Camera.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/K2dGTStHZjhqZkhD/aTNZenFh/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 E @ India St.",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-2 I-195 E @ India St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UEVONS9LdlVTcXVs/ZkNVS3Rq/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 WB Split @ I-95",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-1 I-195 W Split @ I-95.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/T05XOENNUVZBQ0cr/STJqWUVl/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 E @ Point St.",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-0 I-195 E @ Point St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Qis0Y1U4bUJxeEtX/TEROUGFP/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Memorial @ Francis St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Memorial Blvd @ Francis St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/LzhLdUlsTHQ5aG9k/YVZybnlS/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Promenade St @ Dean St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Promenade St @ Dean St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/TGF3cncxekFxazFM/Ymg2T1Ev/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "North Main Street at Branch Avenue",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/North Main St @ Branch Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/NE9UaDdEc2pLR2VC/Wm1IdXRI/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 6 W @ Atwood",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/6-6 Rt 6 W @ Atwood Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/RERYRTlUL2VHdW11/VjZ0cEN4/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 6 W @ Glenbridge",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/6-5 Rt 6 W @ Glenbridge Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/ZXFXUkJFZ2NSV3BO/QkVwdlFt/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 6 W DMS and Camera",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/6-4 Rt 6 W DMS and Camera.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/QStJM3lUL3hrRmsw/RDhlL0py/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 6 E 10 N @ Dean St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/6-1 Rt 6 E   10 N @ Dean St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Y2ZmK1ErdG1zUXZF/TWJFdzNI/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 10 N @ Elmwood",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/10_00.4_N_CAM Exit 1A - Elmwood Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/R3FpanNleVVGTS90/RG9OQ1M3/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 10 S @ Reservoir",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/10_01.4_S_CAM Exit 2A - Reservoir Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/c2JzN2VTUEFwMjBh/YmM5UWMx/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 10 N @ Kenwood Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/10_02.2_N_CAM 2B - Kenwood St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/d01Za3draDF4NnJt/Z0plK1o2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 10 S @ Union Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/10_03.0_S_CAM 3A - Union Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/RWNoZFBOSVVEdzB3/WDZyOEx1/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at DMS and Camera Rt 146 SB",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_01.6_S_CAM Exit 1 - DMS.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bHQzelM2aHlNZlRm/L2N5SHg2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 NB @ Rt 116",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_07.0_N_CAM Exit 7 - Rt 116.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/N0FHOUcvRHNpQUMy/QUZyYVB4/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 North at Sherman Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_05.6_N_CAM Exit 6 - Sherman Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SkRQeFhmUk9sTDJG/dkovKzdK/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 S @ Branch Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_01.2_S_CAM Exit 1 - Branch Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/LzhZSERKYXgySVVU/SGY3d1RH/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 North at Charles Street",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_02.8_N_CAM Exit 2 - Charles St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/eHZKc2lEaThhNEtJ/bWU4RlpI/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 North at Admiral Street",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_00.4_N_CAM Exit 1 - Admiral St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SVlYZ2c0cFdia1I4/RHk5YVZs/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 North State Police",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_04.0_N_CAM Exit 4 - State Police.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/anByd1AxSVVzSVUw/aDZQZXdS/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 W @ Mass State Line",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-8 I-195 W @ Mass State Line.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/S25rZ2lObHFOL1Zo/R21qVzhK/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 E @ Rt 114",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-7 I-195 E @ Rt 114.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Rm8zcEM0NFRwMk1J/MFVNUlhk/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 W @ Washington Bridge",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-5 I-195 W @ Washington Bridge.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/VkxzemhLak1HL2tO/Z01ENHl0/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 W @ Gano St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-3 I-195 W @ Gano DMS and Camera.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/K2dGTStHZjhqZkhD/aTNZenFh/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 E @ India St.",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-2 I-195 E @ India St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UEVONS9LdlVTcXVs/ZkNVS3Rq/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 WB Split @ I-95",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-1 I-195 W Split @ I-95.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/T05XOENNUVZBQ0cr/STJqWUVl/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-195 E @ Point St.",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/195-0 I-195 E @ Point St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Qis0Y1U4bUJxeEtX/TEROUGFP/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 114 @ Mink St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 114 @ Mink St DMS and Camera.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/R3BCVnN5dmxyVEUy/UVlwSjNw/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rte 136 Market St @ Kickemuit Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 136 Market St @ Kickemuit Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UjI2WFRKYnNKS2pY/SVk3Vi9q/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 24 S @ Main Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/24_04.4_S_CAM Exit 4 - Main Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bWtWUmhOV2o3M096/RzZmMnNP/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Sakonnet River Bridge (Tiverton)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/24_03.6_N_CAM - Sakonnet River Bridge (Tiverton).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Zm04bzRXNzNNSFJs/MTM2d1dL/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Sakonnet River Bridge (Portsmouth)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/24_04.1_N_CAM - Sakonnet River Bridge (Portsmouth).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/aDlYN3N5ZGhDa2tS/VWlobHdn/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 114 @ Evergreen",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 114 @ Evergreen-Middletown.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WEJkTXJ6dXcxMlFY/Y21hcUhP/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 114 Middletown",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 114 Middletown.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WVNXaFFXTEZZV2Z4/clFLSkpK/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Rt 138A",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Rt 138A.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/VGkxaVVzaDlkS1ZJ/U0RqUTlw/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Rt 214",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Rt 214.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bzR1QklMSHNLcGZt/OU5kZmJ2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Jamestown Br (Island)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Jamestown Br (Island).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bTA5NmhVQW1PU1kz/VXh0UmdT/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Jamestown Br (NK)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Jamestown Br (NK).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/dDc3SE5JOGN4aW5s/dm9CdjBZ/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 9 Northbound (Route 6)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_08.2_N_CAM Exit 9 - Rt 6.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/d3gxR2FDUFJzdG5u/WlBpTEx2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 9 Southbound (Route 6)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_09.2_S_CAM Exit 9C - Rt 6.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UE9GSU9RemFOeGl0/Yyt6TU52/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 12A Northbound (Route 44)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_12.0_S_CAM Exit 12A - Rt 44.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/cVQ4aENlSDNTeHlN/aHBJWTdY/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Route 116",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_16.2_S_CAM Rt 116.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/VDlZUDRiZmkvNXha/N203UUtv/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 18A (Route 146)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_18.4_SM_CAM Exit 18A - Rt 146.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/S2dmQVNJK3VHNkZR/WWh0WVVE/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 20 (Route 112)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_20.0_N_CAM Exit 20 - Rt 122.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/R2dPU0NWODZIeEt4/WFB6YmRl/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 44 @ Rt 5",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 44 @ Rt 5.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SDFZT0FRNzVYTGxj/MEVlN2NH/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 NB @ Rt 116",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_07.0_N_CAM Exit 7 - Rt 116.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/N0FHOUcvRHNpQUMy/QUZyYVB4/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 SB @ Rt 146A Split",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_10.4_S_CAM Exit 10 - Rt 146A Split.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/NkVUSVQvclZiWi8z/bGtmQVV2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at 146-7 Rt 146 NB @ Rt 146A Split",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_10.4_N_CAM Exit 10 - Rt 146A Split.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bjRydnpoL1lqOGVX/R0Q4RzdC/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 N @ Woonsocket Hill Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_12.4_N_CAM Exit 13 - Woonsocket Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/MGFKc0RmWk9BNjd6/Qk1NRERD/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 146 N @ Great Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/146_14.2_N_CAM Exit 14 - Great Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SitkWEFhN0cyem9Z/WWxNSWto/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at NB CT RI State Line",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_00.2_N_CAM - CT_RI State Line.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/S3dReUxpaXpzeWRJ/UVVrdnJm/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S Exit 1",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_00.6_S_CAM - Exit 1.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/NllzdTRXWGtSeThN/OEVHNm5j/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S Exit 4",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_04.4_S_CAM - Exit 4.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/T3RjNkN3dUxTR2g1/V1JRNHpE/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N Exit 7",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_07.2_N_CAM - Exit 7.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/V0hvSU5xNjMxYTRi/ckV4d1BD/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N Exit 9",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_09.2_N_CAM - Exit 9.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/am5RWG9zQWFDY2Fu/NjhUck9E/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S Tefft Hill Trail",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_10.8_S_CAM - Tefft Hill.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/cTZGTllvVDY1T2l4/VHNJbWg3/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S Exit 14B",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_14.0_S_CAM - Exit 14.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/cktlVzkzd1VFNUJF/czdVdm15/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 SB @ Exit 14B DMS",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_15.4_S_CAM - Exit 14B DMS.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/OXVvMTZoT0o2ZGxa/bGlGQzN6/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 @ Weaver Hill Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_17.0_M_CAM - Weaver Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/VXA0bWoyczZGbE9Q/aU1KYytT/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Nooseneck Hill Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_18.2_N_CAM - Nooseneck Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/T0JERU8zbGNveUpR/clM4RHYy/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 78 Westerly",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-10 Rt 1 N @ Rt 78 Westerly.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/dEp5d1pVTXpzN0xk/cnA3TkNj/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Camp Fuller",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-09 Rt 1 S @ Camp Fuller Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Y3Q1ZXh0a1hjVElX/UitFSFJT/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Wakefield",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-08 Rt 1 S @ Wakefield.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WWNJSFBacEZNRXVL/VlNLV21o/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Government Center",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-07 Rt 1 S @ Government Center.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/R2VDeUZXWkFERmsv/bjEzTzhv/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Saugatucket",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-06 Rt 1 N @ Saugatucket Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/RnFsdzNtbnpzTm9G/NytHcWp2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 138 S. Kingstown",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-05 Rt 1 N @ Rt 138 South Kingstown.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/K0luSFhoUjJsQVp0/aEVlMUcr/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 138 N. Kingstown",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-04 Rt 1 N @ Rt 138 North Kingstown.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WUtCaHJHdUJGdGlO/QUJFWldV/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 403 Devils Foot Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-03 Rt 1 N @ Rt 403 Devils Foot Road.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/R0V4RkhuaStDbnhS/ZWtJQTRm/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 402 Frenchtown Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-02 Rt 1 @ Rt 402 Frenchtown Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SW1GSGpxZWY3K2xG/dmhNUmVk/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Fourth Ave East Greenwich",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-01 Rt 1 S @ Fourth Ave East Greenwich.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WXdaWEUzeEV3Q1Bt/WGtiVE5W/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 @ Rt 1",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_00.0_M_CAM - Rt 1.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/a1AyZC9wUEF5TUVW/VjFKWHU2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 @ West Allenton Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_00.6_S_CAM - West Allenton Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bHV2VnhwSnkxSHNE/cEF3VFNH/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 S @ Oak Hill Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_02.0_S_CAM Exit 3A - Oak Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Q2g1eEdYRXF0amRI/V1Q5eVFX/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 SB @ Rt 102 DMS",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_04.6_S_CAM Exit 5 - Rt 102 DMS.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/RGdZSk0xNy9Hdm9H/ZmJXeTU2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 @ 402 Frenchtown",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_07.0_S_CAM Exit 7A - Frenchtown Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Q2dwNlBQZTRadXpw/V3luNmJ4/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 @ Middle Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_08.2_N_CAM Exit 7 - Middle Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WjFmZTYzSmExYVZG/ZjZjYzdp/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 108 @ S. Pier Rd (Dillon's Corner)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 108 @ S. Pier Rd (Dillon's Corner).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Mkp3RlRmREV3U2dj/bk5rekll/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 138 N. Kingstown",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-04 Rt 1 N @ Rt 138 North Kingstown.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WUtCaHJHdUJGdGlO/QUJFWldV/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Rt 1A",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Rt 1A.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bEJIcTRSaEtxNlZI/bGxqQU9z/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Jamestown Br (NK)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Jamestown Br (NK).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/dDc3SE5JOGN4aW5s/dm9CdjBZ/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 138 @ Jamestown Br (Island)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 138 @ Jamestown Br (Island).jpg",
+                "stream_url": "https://cdn3.wowza.com/1/bTA5NmhVQW1PU1kz/VXh0UmdT/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 @ Weaver Hill Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_17.0_M_CAM - Weaver Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/VXA0bWoyczZGbE9Q/aU1KYytT/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Nooseneck Hill Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_18.2_N_CAM - Nooseneck Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/T0JERU8zbGNveUpR/clM4RHYy/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Hopkins Hill Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_20.0_N_CAM - Hopkins Hill Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/YVMwR3FWY1lKRk5U/a2sycEk3/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ New London Tpke",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_21.4_S_CAM - New London Tpke.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UHZ0bkpFRHZJWWNF/OGV3djVR/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Quaker Ln",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_24.0_N_CAM - Quaker Ln.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/MjFzOUtWUUdmZmJ6/NUtsSGd5/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 NB Rt 4 Cell Tower",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_25.4_N_CAM - Rt 4 Cell Tower.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/NHZDd0dJYW50SzU2/ZUFVYVpm/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 SB @ Cowesett",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_26.0_S_CAM - Cowesett Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/OGNPUmtZWGZmWnVk/WHYvRGIx/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Toll Gate Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_27.4_N_CAM - Toll Gate Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/aS81bWRQT0hnVGtW/c0FNc0t4/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Greenwich Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_28.8_S_CAM - Greenwich Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/MDc5Sm1XcWwyN24x/L3lMaktu/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Service Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_30.2_N_CAM - Service Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/a2t1NUlmQmZvNDlw/ZHpxS2FX/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Jefferson Blvd.",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_31.4_N_CAM - Jefferson Blvd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/dG9CbFRyYS9aaWpj/MXpva3p6/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 N @ Wellington Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_32.4_N_CAM - Wellington Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/enZTcDZ0RE5aTnFK/TW05Y2kx/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Laurens St",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_32.6_S_CAM - Laurens St.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/V1ZiOGdWZm11U2NS/bGhpMEdl/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at I-95 S @ Rt 10",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/95_33.6_S_CAM - Rt 10.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Qk4vb0RVVDdoWWM0/Wi81dnFQ/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 1B (Route 2)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_01.2_M_CAM Exit 1B - Rt 2.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UUphek12VE91OVcv/elEwQjYy/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 6 (Route 14)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_06.4_M_CAM Exit 6 - Rt 14.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/YmpjK1JYN2laQS9h/SDFYOVZH/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 9 Northbound (Route 6)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_08.2_N_CAM Exit 9 - Rt 6.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/d3gxR2FDUFJzdG5u/WlBpTEx2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Exit 9 Southbound (Route 6)",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_09.2_S_CAM Exit 9C - Rt 6.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/UE9GSU9RemFOeGl0/Yyt6TU52/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "I-295 at Exit 10 Greenville Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/295_10.8_M_CAM Exit 10.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/TTY4UmhxZzhiZ0pI/VnQwdnZp/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Airport Connector",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Airport Connector.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/QTZJZzNpblZYK2E5/VzM5aFl2/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Fourth Ave East Greenwich",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-01 Rt 1 S @ Fourth Ave East Greenwich.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WXdaWEUzeEV3Q1Bt/WGtiVE5W/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 402 Frenchtown Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-02 Rt 1 @ Rt 402 Frenchtown Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/SW1GSGpxZWY3K2xG/dmhNUmVk/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 1 @ Rt 403 Devils Foot Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/1-03 Rt 1 N @ Rt 403 Devils Foot Road.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/R0V4RkhuaStDbnhS/ZWtJQTRm/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Rt 2 @ I-295",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 2 @ I-295.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Q1lHYkZGMHl3aTNX/czRTLzha/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 4 @ Middle Road",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/4_08.2_N_CAM Exit 7 - Middle Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/WjFmZTYzSmExYVZG/ZjZjYzdp/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 5 @ Rt 113",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 5 @ Rt 113.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/MVpSSHpQSFczSlNx/WFBWdlpp/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 5 @ I-95 Metro Center Blvd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/Rt 5 @ I-95 Metro Center Blvd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/RWhRMnVxRHM2SThv/WVArL0pG/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 37 W @ I-295",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/37_00.3_W_CAM Exit 1A - I-295.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/Qno0cStJQm1qZlpo/K2YzbExU/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 37 between I-295 and Rt 2",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/37_00.7_W_CAM Exit 1C - between I-295 and Rt 2.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/YVJ4OU5RMzBscGhl/Q0JPN3Rs/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 37 E @ Rt 2",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/37_01.4_E_CAM Exit 1C - Rt 2.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/TExJNFlINjdCbTZW/dEVDeFZj/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 37 E @ Pontiac Ave",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/37_02.0_E_CAM Exit 1D - Pontiac Ave.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/NGFuMmlZd3IwSmdq/bGt0ZlQ3/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "Camera at Rt 37 W @ Post Rd",
+                "img": "https://www.dot.ri.gov/img/travel/camimages/37_03.2_W_CAM Exit 3B- Post Rd.jpg",
+                "stream_url": "https://cdn3.wowza.com/1/S3Zzdm44U3JFOWp2/b1pvZ0lr/hls/live/playlist.m3u8"
+            }
+        ]
+    }
+]
