@@ -11,6 +11,14 @@ Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla ç
 
 Merak edenler için en alt kısımda yaptığım çalışmaların detayları mevcuttur.
 
+**ADLANDIRMALAR**
+
+Ülke bazlı içeriklerin klasör ve link yapısında sırasıyla aşağıdaki standartlar kullanılmaktadır.
+- [ISO-3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+- [UN/LOCODE Code List by Country and Territory](https://unece.org/trade/cefact/unlocode-code-list-country-and-territory)
+
+Belirli bir kaynağa ait içeriklerde ise ilgili kaynağın website alan adı ve site içerisinde taranan kısmın bilgisi kullanılmaktadır.
+
 ## Yapılan Çalışmalar
 
 Sistemin ayağa kaldırılması ve kurulumlar tarafındaki desteği için limonsikacagi61 'e teşekkürler.
@@ -145,6 +153,8 @@ http://stream.tvcdn.net/lists/tr-ss.m3u
 <details>
   <summary>Detaylar</summary>
 
+
+
 #### 🇹🇷 Türkiye - Canlı Kameralar Listesi
 
 Türkiye ve KKTC'de bulunan aktif canlı yayın yapan kameraları içerir.
@@ -180,11 +190,14 @@ Amerika'da yer alan trafik kameralarını içermektedir.
 | Iowa | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ia.m3u</code> |
 | Louisana | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/la.m3u</code> |
 | Minnesota | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/mn.m3u</code> |
+| Mississippi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ms.m3u</code> |
 | Nevada | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/nv.m3u</code>|
 | New York | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ny.m3u</code> |
 | Oklahoma | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ok.m3u</code> |
+| Rhode Island | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ri.m3u</code> |
 | South Carolina | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/sc.m3u</code> |
 | Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/va.m3u</code> |
+| Wisconsin | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/wi.m3u</code> |
 </details>
 
 </details>
