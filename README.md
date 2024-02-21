@@ -182,6 +182,7 @@ Amerika'da yer alan trafik kameralarını içermektedir.
 
 | Eyalet | Liste URL |
 |--|--|
+| Alabama | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/al.m3u</code> |
 | California | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ca.m3u</code> |
 | Colorado | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/co.m3u</code> |
 | Delaware | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/de.m3u</code> |
@@ -197,6 +198,7 @@ Amerika'da yer alan trafik kameralarını içermektedir.
 | Rhode Island | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ri.m3u</code> |
 | South Carolina | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/sc.m3u</code> |
 | Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/va.m3u</code> |
+| West Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/wv.m3u</code>|
 | Wisconsin | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/wi.m3u</code> |
 </details>
 
