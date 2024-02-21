@@ -1,0 +1,2702 @@
+[
+    {
+        "name": "Alabama - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "I-10 E McDonald Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1845/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c095.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 E MM 11.7",
+                "img": "https://api.algotraffic.com/v3/Cameras/1844/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c094.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 W MM 12.3",
+                "img": "https://api.algotraffic.com/v3/Cameras/1842/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c093.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 E MM 12.3",
+                "img": "https://api.algotraffic.com/v3/Cameras/1843/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c092.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 E Theodore-Dawes Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1841/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c091.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Theodore Dawes Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1164/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c090.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Carol Plantation Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1163/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c089.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 US 90",
+                "img": "https://api.algotraffic.com/v3/Cameras/1177/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c088.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 16.6",
+                "img": "https://api.algotraffic.com/v3/Cameras/1162/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c087.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Riviere Du Chien Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1158/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c084.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Montlimar Creek",
+                "img": "https://api.algotraffic.com/v3/Cameras/1157/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c083.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 I-65 Interchange",
+                "img": "https://api.algotraffic.com/v3/Cameras/1156/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c082.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Navco Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1154/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c080.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Dauphin Island Parkway",
+                "img": "https://api.algotraffic.com/v3/Cameras/1153/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c079.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Michigan Avenue",
+                "img": "https://api.algotraffic.com/v3/Cameras/1152/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c078.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 25",
+                "img": "https://api.algotraffic.com/v3/Cameras/1150/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c076.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Texas Street",
+                "img": "https://api.algotraffic.com/v3/Cameras/1148/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c074.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Wallace Tunnel Entrance",
+                "img": "https://api.algotraffic.com/v3/Cameras/1238/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c072.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Water Street",
+                "img": "https://api.algotraffic.com/v3/Cameras/1832/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c073.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 26.9 Westbound",
+                "img": "https://api.algotraffic.com/v3/Cameras/1123/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c025.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 27.0",
+                "img": "https://api.algotraffic.com/v3/Cameras/1124/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c027.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 27.2",
+                "img": "https://api.algotraffic.com/v3/Cameras/1126/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c031.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 27.2 WB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1417/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c032.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 27.5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1113/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c033.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 27.6",
+                "img": "https://api.algotraffic.com/v3/Cameras/1248/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c060.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 East Wallace Tunnel Portal",
+                "img": "https://api.algotraffic.com/v3/Cameras/1326/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c035.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 36.3",
+                "img": "https://api.algotraffic.com/v3/Cameras/1335/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c045.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 37.0",
+                "img": "https://api.algotraffic.com/v3/Cameras/1336/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c046.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 AL 181",
+                "img": "https://api.algotraffic.com/v3/Cameras/1146/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c110.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 MP 41.4",
+                "img": "https://api.algotraffic.com/v3/Cameras/1221/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c114.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 AL 59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1166/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c116.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-10 Florida State Line",
+                "img": "https://api.algotraffic.com/v3/Cameras/1165/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c100.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 67",
+                "img": "https://api.algotraffic.com/v3/Cameras/1421/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-67.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Joe Mallisham Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1807/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-68.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 69",
+                "img": "https://api.algotraffic.com/v3/Cameras/1808/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-69.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 70",
+                "img": "https://api.algotraffic.com/v3/Cameras/1809/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-70.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 I-359",
+                "img": "https://api.algotraffic.com/v3/Cameras/1810/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-71.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 72",
+                "img": "https://api.algotraffic.com/v3/Cameras/1811/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-72.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 3rd Ave E",
+                "img": "https://api.algotraffic.com/v3/Cameras/1541/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-72.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 US 82/McFarland Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1812/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-73.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 74",
+                "img": "https://api.algotraffic.com/v3/Cameras/1813/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-74.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 75",
+                "img": "https://api.algotraffic.com/v3/Cameras/1814/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-74.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 US 11/Skyland Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1815/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-76.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 77",
+                "img": "https://api.algotraffic.com/v3/Cameras/1816/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-76.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Buttermilk Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1492/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-77.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Buttermilk Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1818/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-77.5e.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 78",
+                "img": "https://api.algotraffic.com/v3/Cameras/1819/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-78.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 US 11/University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1820/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-79.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 81",
+                "img": "https://api.algotraffic.com/v3/Cameras/1821/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-80.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 82",
+                "img": "https://api.algotraffic.com/v3/Cameras/1420/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-81.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 83",
+                "img": "https://api.algotraffic.com/v3/Cameras/1822/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-82.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 84",
+                "img": "https://api.algotraffic.com/v3/Cameras/1823/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-83.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 85",
+                "img": "https://api.algotraffic.com/v3/Cameras/1824/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-85.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Covered Bridge Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1825/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-86.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 87",
+                "img": "https://api.algotraffic.com/v3/Cameras/1826/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-87.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Daimler Benz Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1827/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-88.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 M-Class Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1828/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-89.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 105",
+                "img": "https://api.algotraffic.com/v3/Cameras/1644/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-105.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1659/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-106a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1658/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-106b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1657/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-106c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 20th St. Ens.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1189/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-121.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Anniston Av.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1572/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-122.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Arkadelphia Rd (Exit 123)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1224/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-123.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Center St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1565/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-124.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Caraway Blvd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1316/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-126a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Caraway Blvd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1385/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-126b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 US-31",
+                "img": "https://api.algotraffic.com/v3/Cameras/1662/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-126c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 31st St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1573/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-127.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Coosa St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1576/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-128.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 Airport Highway (Exit 129)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1243/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-129a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 MP 129",
+                "img": "https://api.algotraffic.com/v3/Cameras/1575/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-129b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20/59 I-20",
+                "img": "https://api.algotraffic.com/v3/Cameras/1184/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-2059-130.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20 Oporto-Madrid Blvd. (Exit 132)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1242/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-20-132.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1608/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-20-138.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20 US-78",
+                "img": "https://api.algotraffic.com/v3/Cameras/1610/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-20-141.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20 AL-77",
+                "img": "https://api.algotraffic.com/v3/Cameras/1713/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/alx-cam-20-168.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20 Leon Smith Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1794/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/alx-cam-20-188.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-20 Almon Street",
+                "img": "https://api.algotraffic.com/v3/Cameras/1793/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/alx-cam-20-199.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-22 MP 3",
+                "img": "https://api.algotraffic.com/v3/Cameras/1771/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-22-2.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-59 1st Av. N.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1187/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-59-132.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-59 Red Oak Rd. (Exit 133)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1240/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-59-133.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-59 Roebuck Pkwy. (Exit 134)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1241/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-59-134.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-10 Interchange",
+                "img": "https://api.algotraffic.com/v3/Cameras/1169/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c151.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Halls Mill Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1769/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c152.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US 90/Government Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1776/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c153.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Cottage Hill Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1172/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c154.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Airport Boulevard",
+                "img": "https://api.algotraffic.com/v3/Cameras/1173/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c155.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Dauphin Street",
+                "img": "https://api.algotraffic.com/v3/Cameras/1174/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c156.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Moffet Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1176/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c158.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 7.4",
+                "img": "https://api.algotraffic.com/v3/Cameras/1218/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c159.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US 45",
+                "img": "https://api.algotraffic.com/v3/Cameras/1217/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c160.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-165",
+                "img": "https://api.algotraffic.com/v3/Cameras/1216/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c161.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 AL-158",
+                "img": "https://api.algotraffic.com/v3/Cameras/1411/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c164.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 AL 225",
+                "img": "https://api.algotraffic.com/v3/Cameras/1161/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c200.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP160",
+                "img": "https://api.algotraffic.com/v3/Cameras/1269/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-160a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP163",
+                "img": "https://api.algotraffic.com/v3/Cameras/1294/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-163a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 164 (US31)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1295/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-163b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 164 (US 31)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1709/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-163c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Hyundai Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1296/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-164a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP166 (Coca Cola)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1297/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-165a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Southlawn Dr (M)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1298/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-166a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 168 (US82-S. Blvd) M",
+                "img": "https://api.algotraffic.com/v3/Cameras/1300/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-168a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP169 (Westgate Park)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1314/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-168b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 170 (Fairview Ave)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1313/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-169a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP170 (Early St)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1312/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-170a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 171 (I-85)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1311/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-171a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 172 (Clay St)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1310/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-171c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 173 (SR152 - N Blvd)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1309/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-172a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 174",
+                "img": "https://api.algotraffic.com/v3/Cameras/1308/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-174a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 176 (SR 143)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1306/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-175a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 176",
+                "img": "https://api.algotraffic.com/v3/Cameras/1777/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-176a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 177",
+                "img": "https://api.algotraffic.com/v3/Cameras/1304/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-177a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 179 (US82 - Cobbs Ford Rd)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1262/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-178c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP181",
+                "img": "https://api.algotraffic.com/v3/Cameras/1251/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-180a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 EXIT 181 (SR14)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1250/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-181a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP182",
+                "img": "https://api.algotraffic.com/v3/Cameras/1264/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-182a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP182",
+                "img": "https://api.algotraffic.com/v3/Cameras/1281/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-182b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP183",
+                "img": "https://api.algotraffic.com/v3/Cameras/1282/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-182c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP183",
+                "img": "https://api.algotraffic.com/v3/Cameras/1283/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-182d.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Co.Rd.85",
+                "img": "https://api.algotraffic.com/v3/Cameras/1271/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-185a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Co.Rd.40",
+                "img": "https://api.algotraffic.com/v3/Cameras/1270/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-188a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Verbena Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1625/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-200.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 204",
+                "img": "https://api.algotraffic.com/v3/Cameras/1621/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-204.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 206",
+                "img": "https://api.algotraffic.com/v3/Cameras/1620/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-206.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Lake Mitchell Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1611/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-208.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 213",
+                "img": "https://api.algotraffic.com/v3/Cameras/1612/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-213.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Park & Ride",
+                "img": "https://api.algotraffic.com/v3/Cameras/1748/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-219.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Jemison-Wilsonville Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1613/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-65-219.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 236.5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1458/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-236.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 past US-31 (Alabaster)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1457/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-237.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US-31 (Alabaster)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1471/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-238.2a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US-31 (Alabaster)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1488/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-238.2b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 before US-31 (MP 239)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1489/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-239.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 239.5 SB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1508/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-239.5s.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 240.1",
+                "img": "https://api.algotraffic.com/v3/Cameras/1509/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-240.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 240.6",
+                "img": "https://api.algotraffic.com/v3/Cameras/1510/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-240.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 past CR-52",
+                "img": "https://api.algotraffic.com/v3/Cameras/1511/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-241.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 CR-52",
+                "img": "https://api.algotraffic.com/v3/Cameras/1512/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-242.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 before CR-52 (MP 242.5)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1513/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-242.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 before CR 52 (242.8)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1515/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-242.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 MP 243.5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1522/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-243.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 past AL-119",
+                "img": "https://api.algotraffic.com/v3/Cameras/1517/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-244.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 before AL-119 (Cahaba Valley)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1518/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-245.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 AL-119 (Cahaba Valley)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1519/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-246.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Valleydale",
+                "img": "https://api.algotraffic.com/v3/Cameras/1520/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-246.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Valleydale Rd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1188/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-247.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Cahaba River",
+                "img": "https://api.algotraffic.com/v3/Cameras/1235/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-249.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1182/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-250.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-459 Jct. (Exit 250)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1228/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-250a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-459 Jct. (Exit 250)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1230/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-250c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US-31 (Exit 252)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1237/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-252.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US-31",
+                "img": "https://api.algotraffic.com/v3/Cameras/1197/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-252a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Before Alford",
+                "img": "https://api.algotraffic.com/v3/Cameras/1183/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-253.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Alford Av.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1236/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-254b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Before Alford Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1193/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-254a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Lakeshore Parkway (Exit 255)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1239/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-255.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Oxmoor",
+                "img": "https://api.algotraffic.com/v3/Cameras/1191/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-256.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Green Springs Ave. (Exit 258)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1244/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-258.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1185/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-259.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 3rd Av N",
+                "img": "https://api.algotraffic.com/v3/Cameras/1245/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-260a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 3rd Ave S.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1190/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-260b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-20/59 SB Ramp",
+                "img": "https://api.algotraffic.com/v3/Cameras/1196/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-261b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1562/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-261c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1564/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-261d.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1567/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-261e.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1568/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-261f.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1194/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-261a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 41st Street (Exit 264)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1225/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-65-264.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US31",
+                "img": "https://api.algotraffic.com/v3/Cameras/1507/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-318.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 AL 36",
+                "img": "https://api.algotraffic.com/v3/Cameras/1390/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-327.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Bethel Crossing",
+                "img": "https://api.algotraffic.com/v3/Cameras/1389/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-329.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Crusher Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1388/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-331.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 AL 67",
+                "img": "https://api.algotraffic.com/v3/Cameras/1453/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-333.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 Tennessee River",
+                "img": "https://api.algotraffic.com/v3/Cameras/1447/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-336.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-65 US 72",
+                "img": "https://api.algotraffic.com/v3/Cameras/1450/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i65-351.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 I-65",
+                "img": "https://api.algotraffic.com/v3/Cameras/1836/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-000a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Lawrence St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1661/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-000b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 2 (Hall St)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1279/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-001a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 2 (Forest Ave)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1307/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-001b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Jackson Hosp (DMS)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1376/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-002a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Jackson/Mulberry",
+                "img": "https://api.algotraffic.com/v3/Cameras/1284/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-002b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Mulberry St ramps",
+                "img": "https://api.algotraffic.com/v3/Cameras/1318/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-002c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 3(N) before Ann St/DMS",
+                "img": "https://api.algotraffic.com/v3/Cameras/1317/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 3 (Ann St)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1358/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 3.3(S) before Ann St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1278/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 3 (Ann St)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1357/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003d.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 3.66(N) past Ann St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1355/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003e.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 3.95(S) before Ann St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1356/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003f.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 3.95(N) past Ann St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1359/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-003g.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 4.2(S) past Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1360/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-004a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 4.3 N before Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1361/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-004b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 4.53(S) Perry Hill Rd (M)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1285/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-004c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 4 (Perry Hill Rd) (M)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1354/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-004d.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1272/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-004e.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1301/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-004f.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 4 (M) (Perry Hill)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1286/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-005a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 5(M) Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1353/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-005b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 5.21(N) past Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1287/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-005c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 5.37(S) before Perry Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1362/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-005d.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 5.53(N)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1363/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-005e.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP 5.99(S) past E Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1366/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-006b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 6 (E Blvd N)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1367/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-006c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 6 (E Blvd SB entrance)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1369/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-006e.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 6 (past E Blvd)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1383/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-006f.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 E Blvd / US231",
+                "img": "https://api.algotraffic.com/v3/Cameras/1288/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-006g.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 6 (Eastern Blvd)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1424/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-007a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 6 (Eastern Blvd)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1425/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-007b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 Bell Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1426/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-007c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP8 (Bell Rd)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1289/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-008a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 9 (Taylor Rd ramp)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1290/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-009a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 9 (Taylor Rd AL271)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1291/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-009b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 9 (Taylor Rd AL271)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1292/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-009c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 MP10",
+                "img": "https://api.algotraffic.com/v3/Cameras/1293/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-010a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 11 (Chantilly Pkwy)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1427/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-011a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 11 (Chantilly Pkwy)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1429/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-011b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-85 EXIT 22 (Shorter)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1749/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-022a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-165 MP 0.5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1215/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c300.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-165 Bay Bridge Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1180/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c301.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-359 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1537/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-359-0.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-359 Inv Dornell Cousette St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1437/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-359-1.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-359 MP 2 - South",
+                "img": "https://api.algotraffic.com/v3/Cameras/1498/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-359-1.8-a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-359 MP 2 - North",
+                "img": "https://api.algotraffic.com/v3/Cameras/1534/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-359-1.8-b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-359 US 11/15th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1538/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-359-2.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Pocahontas Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1656/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-2.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Parkwood Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1655/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-7.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 before Shades Crest",
+                "img": "https://api.algotraffic.com/v3/Cameras/1654/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-8.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 AL150",
+                "img": "https://api.algotraffic.com/v3/Cameras/1660/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-10.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 MP 11.7",
+                "img": "https://api.algotraffic.com/v3/Cameras/1653/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-11.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-31",
+                "img": "https://api.algotraffic.com/v3/Cameras/1645/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-14a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-31",
+                "img": "https://api.algotraffic.com/v3/Cameras/1651/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-14b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 before Acton Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1650/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-16.5a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 before Acton Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1649/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-16.5b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-280",
+                "img": "https://api.algotraffic.com/v3/Cameras/1648/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-19a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-280",
+                "img": "https://api.algotraffic.com/v3/Cameras/1647/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-19b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 MP 21",
+                "img": "https://api.algotraffic.com/v3/Cameras/1646/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-21.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Liberty Parkway",
+                "img": "https://api.algotraffic.com/v3/Cameras/1628/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-23.4a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Liberty Parkway",
+                "img": "https://api.algotraffic.com/v3/Cameras/1627/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-23.4b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Liberty Parkway",
+                "img": "https://api.algotraffic.com/v3/Cameras/1626/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-24.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Grants Mill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1609/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-27.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 I-20",
+                "img": "https://api.algotraffic.com/v3/Cameras/1595/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-29a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 I-20",
+                "img": "https://api.algotraffic.com/v3/Cameras/1596/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-29b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 I-20",
+                "img": "https://api.algotraffic.com/v3/Cameras/1597/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-29c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 Derby Parkway",
+                "img": "https://api.algotraffic.com/v3/Cameras/1599/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-31b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-11 (Gadsden Hwy)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1600/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-32a.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-11 (Gadsden Hwy)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1601/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-32b.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-459 US-11 (Gadsden Hwy)",
+                "img": "https://api.algotraffic.com/v3/Cameras/1602/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-459-32c.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-565 Greenbrier",
+                "img": "https://api.algotraffic.com/v3/Cameras/1449/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i565-3.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "I-565 County Line Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1448/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-i565-7.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11 AL 17",
+                "img": "https://api.algotraffic.com/v3/Cameras/1781/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-8.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11 AL 28/North St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1699/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-17.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11 Grean St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1700/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-17.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Culver Rd Uniroyal-Goodrich Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1476/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-75.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Culver Rd Stillman Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1438/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-76.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/15th St Martin Luther King Jr Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1637/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-76.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd AL 215/Greensboro Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1430/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-80.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd US 82/McFarland Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1557/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-81.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd Sams Club",
+                "img": "https://api.algotraffic.com/v3/Cameras/1558/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-81.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd Andrews St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1581/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-81.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd 18th Ave E",
+                "img": "https://api.algotraffic.com/v3/Cameras/1579/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-82.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd Hargrove Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1451/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-83.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd I-20/59 WB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1440/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-84.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11/Skyland Blvd AL 215/University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1544/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-86.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 11 AL 5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1734/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-11-105.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 14/Tuscaloosa St Springfield Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1779/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-14-46.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 US 90",
+                "img": "https://api.algotraffic.com/v3/Cameras/1136/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c317.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 AL 225",
+                "img": "https://api.algotraffic.com/v3/Cameras/1133/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c318.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 Co.Rd.40",
+                "img": "https://api.algotraffic.com/v3/Cameras/1715/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-199a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 I-65 NB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1770/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-31-217.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 Walmart",
+                "img": "https://api.algotraffic.com/v3/Cameras/1482/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-31-219.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 Jackson Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1483/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-31-221.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 AL 22/AL 145",
+                "img": "https://api.algotraffic.com/v3/Cameras/1481/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-31-221.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1200/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-264.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 E Hoover Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1199/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-265.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 I-65",
+                "img": "https://api.algotraffic.com/v3/Cameras/1198/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-266.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 1st Av. N.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1186/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-274.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 5th Av N",
+                "img": "https://api.algotraffic.com/v3/Cameras/1571/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-275a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 5th Av",
+                "img": "https://api.algotraffic.com/v3/Cameras/1570/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-275b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1387/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-275.4b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 I-20/59",
+                "img": "https://api.algotraffic.com/v3/Cameras/1569/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-275.4c.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 Finley Blvd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1561/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-31-276.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 Wilson St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1756/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-31-358.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 31 Hudson Memorial Bridge",
+                "img": "https://api.algotraffic.com/v3/Cameras/1444/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-31-358.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd 12th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1500/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-194.5-n.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd 12th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1501/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-194.5-s.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd Paul W Bryant Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1502/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-194.6-n.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd Stillman Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1503/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-194.7-s.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1504/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-195.0-n.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1505/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-195.0-s.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd Hugh R Thomas Brg",
+                "img": "https://api.algotraffic.com/v3/Cameras/1531/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-195.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43/Lurleen B Wallace Blvd 20th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1436/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-196.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43 Flatwoods Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1499/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-198.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43 AL 171",
+                "img": "https://api.algotraffic.com/v3/Cameras/1514/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-200.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43 Mitt Lary Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1439/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-203.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 43 Tierce Patton Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1733/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-206.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 67 Country Club Rd. SE",
+                "img": "https://api.algotraffic.com/v3/Cameras/1759/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-67-38.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 67 Spring Avenue SW",
+                "img": "https://api.algotraffic.com/v3/Cameras/1758/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-67-40.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 67 Danville Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1757/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-67-41.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 72 Avalon Avenue",
+                "img": "https://api.algotraffic.com/v3/Cameras/1545/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-72-28.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 72 S of Oneal Bridge",
+                "img": "https://api.algotraffic.com/v3/Cameras/1546/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-72-30.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 72 Tune Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1548/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-72-34.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 78 Finley Ave W",
+                "img": "https://api.algotraffic.com/v3/Cameras/1205/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-78-135.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 80 AL 61",
+                "img": "https://api.algotraffic.com/v3/Cameras/1783/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-80-54.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82 Old Farm Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1263/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-682a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82 AL 159",
+                "img": "https://api.algotraffic.com/v3/Cameras/1663/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-25.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Rose Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1590/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-42.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Airport Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1434/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-43.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd US 43/Main Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1536/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-45.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd US 43/Lurleen B Wallace Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1535/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-46.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Tyler Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1722/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-46.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Watermelon Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1533/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-47.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Academy Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1433/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-48.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Rice Mine Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1532/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-49.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Jack Warner Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1491/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-49.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Campus Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1456/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-50.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1435/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-50.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd AL 215/15th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1526/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-51.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd University Mall Cir",
+                "img": "https://api.algotraffic.com/v3/Cameras/1586/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-51.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd Hargrove Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1582/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-52.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd 31st St E",
+                "img": "https://api.algotraffic.com/v3/Cameras/1559/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-52.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd James I Harrison Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1527/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-52.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd I-20/59 WB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1528/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-53.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd I-20/59 EB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1540/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-53.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82/McFarland Blvd AL 215/Old Montgomery Hwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1643/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-54.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82 Old Farm Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1273/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-682b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82 Bass Pro Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1261/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-682c.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 82 Bass Pro Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1274/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-682d.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 84 Grove Park",
+                "img": "https://api.algotraffic.com/v3/Cameras/1728/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-84-205a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 84 John D Odom",
+                "img": "https://api.algotraffic.com/v3/Cameras/1753/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-84-206a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 84 Shady Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1664/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-84-207a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 84 Westgate Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1665/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-84-208a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 84 Oates",
+                "img": "https://api.algotraffic.com/v3/Cameras/1763/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-84-210b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 84 Foster St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1666/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-84-210a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90 MP 32.9",
+                "img": "https://api.algotraffic.com/v3/Cameras/1350/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c306.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90 MP 33.6",
+                "img": "https://api.algotraffic.com/v3/Cameras/1179/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c307.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90 MP 34.5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1178/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c308.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90 MP 35.5",
+                "img": "https://api.algotraffic.com/v3/Cameras/1144/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c309.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90/98 East Bankhead Tunnel Portal",
+                "img": "https://api.algotraffic.com/v3/Cameras/1791/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c010.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90/98 I-10",
+                "img": "https://api.algotraffic.com/v3/Cameras/1333/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c310.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90/98 MP 37.9",
+                "img": "https://api.algotraffic.com/v3/Cameras/1319/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c312.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90/98 MP 39.8",
+                "img": "https://api.algotraffic.com/v3/Cameras/1320/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c313.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90/98 US 90/US 98 Split",
+                "img": "https://api.algotraffic.com/v3/Cameras/1321/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c316.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 90 I-10 Eastbound/Jubilee Square",
+                "img": "https://api.algotraffic.com/v3/Cameras/1322/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c021.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 West Bankhead Portal",
+                "img": "https://api.algotraffic.com/v3/Cameras/1754/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c001.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 MP 27.6",
+                "img": "https://api.algotraffic.com/v3/Cameras/1114/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c005.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 I-10 Eastbound Ramp/US 90",
+                "img": "https://api.algotraffic.com/v3/Cameras/1323/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c400.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 MP 36.3",
+                "img": "https://api.algotraffic.com/v3/Cameras/1324/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c401.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 Van Buren Street",
+                "img": "https://api.algotraffic.com/v3/Cameras/1132/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c402.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 Main Street/CR 11",
+                "img": "https://api.algotraffic.com/v3/Cameras/1138/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c403.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 Whispering Pines Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1137/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c404.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 Rock Creek Parkway",
+                "img": "https://api.algotraffic.com/v3/Cameras/1129/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c406.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 Homestead Ave/AL 104",
+                "img": "https://api.algotraffic.com/v3/Cameras/1131/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c407.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 98 Fairhope Ave/CR 48",
+                "img": "https://api.algotraffic.com/v3/Cameras/1134/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c408.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Saunders Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1837/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-231-011a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Walmart",
+                "img": "https://api.algotraffic.com/v3/Cameras/1679/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-231-012a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Redmond Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1680/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-231-025a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Napier Field Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1681/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-231-026a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Murphy Mill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1682/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-231-026b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US231 John D Odom",
+                "img": "https://api.algotraffic.com/v3/Cameras/1752/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-231-026d.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Motel 6",
+                "img": "https://api.algotraffic.com/v3/Cameras/1373/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-78b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Murphree St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1374/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-78a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 American Oak",
+                "img": "https://api.algotraffic.com/v3/Cameras/1277/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-114a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Lower Wetumpka Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1256/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-114b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Redland Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1257/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-115b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Redland Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1259/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-115c.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Redland Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1260/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-115a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Jasmine Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1258/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-116a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Walmart",
+                "img": "https://api.algotraffic.com/v3/Cameras/1742/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-119a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 South Main St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1755/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-121a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 AL 14",
+                "img": "https://api.algotraffic.com/v3/Cameras/1744/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-231-123a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Walters St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1375/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-168.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 S. 3 Notch St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1377/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-169b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Lynn Coach",
+                "img": "https://api.algotraffic.com/v3/Cameras/1384/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-169a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Elba Hwy.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1378/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-170.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 George Wallace Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1371/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-171c.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Days Inn",
+                "img": "https://api.algotraffic.com/v3/Cameras/1379/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-171b.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 S. Franklin Dr.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1380/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-171a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 231 Ind. Park Dr.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1382/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-172a.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 278 AL 17",
+                "img": "https://api.algotraffic.com/v3/Cameras/1773/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-278-5.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 278 AL 33",
+                "img": "https://api.algotraffic.com/v3/Cameras/1789/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-278-41.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 278 CR 41",
+                "img": "https://api.algotraffic.com/v3/Cameras/1788/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-278-56.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Chester Dr.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1208/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-0.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Cherokee",
+                "img": "https://api.algotraffic.com/v3/Cameras/1181/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-2.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Rocky Ridge",
+                "img": "https://api.algotraffic.com/v3/Cameras/1233/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-2.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Dolly Ridge",
+                "img": "https://api.algotraffic.com/v3/Cameras/1234/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1232/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-4.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Grandview Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1703/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-5.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Cahaba Park",
+                "img": "https://api.algotraffic.com/v3/Cameras/1214/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-6.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Inverness Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1704/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-6.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Valleydale",
+                "img": "https://api.algotraffic.com/v3/Cameras/1212/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-7.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Brook Highland Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1706/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-7.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Corporate Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1195/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-8.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 AL 119",
+                "img": "https://api.algotraffic.com/v3/Cameras/1213/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-8.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Hugh Daniel Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1705/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-8.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 280 Doug Baker Blvd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1209/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-280-9.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "US 431 Roney Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1683/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-431-019a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 5 Bryan Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1702/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-5-155.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 5 Sharon Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1701/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-5-156.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 5 AL 69/Industrial Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1112/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-5-168.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 5 Walmart",
+                "img": "https://api.algotraffic.com/v3/Cameras/1710/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-5-170.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 5 Airport Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1486/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-5-171.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 13/11th Ave 19th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1413/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-13-270.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 13/11th Ave AL 195",
+                "img": "https://api.algotraffic.com/v3/Cameras/1412/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-13-270.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 13/11th Ave 9th Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1414/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-13-270.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 14 McQueen Smith Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1267/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-614a.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 14 Old Farm Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1268/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-614c.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 14 AL 25/Tuscaloosa St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1720/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-14-68.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 14 AL 289",
+                "img": "https://api.algotraffic.com/v3/Cameras/1784/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-14-87.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 14 McQueen Smith Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1275/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-614b.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 14 Old Farm Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1276/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-614d.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 14 Camp Grandview Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1618/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-14-158a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 14 Grandview Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1619/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-14-158b.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 14 AL 143",
+                "img": "https://api.algotraffic.com/v3/Cameras/1719/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-14-160a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 14 AL 111",
+                "img": "https://api.algotraffic.com/v3/Cameras/1745/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-14-171a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 17 AL 18",
+                "img": "https://api.algotraffic.com/v3/Cameras/1774/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-17-243.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 17 AL 74",
+                "img": "https://api.algotraffic.com/v3/Cameras/1760/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-17-277.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 20 ALDOT Area Office",
+                "img": "https://api.algotraffic.com/v3/Cameras/1552/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-20-28.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 20 US-31",
+                "img": "https://api.algotraffic.com/v3/Cameras/1443/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/hvl-cam-20-71.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 25 Montevallo Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1782/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-25-91.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 59 Flowerwood Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1442/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c1101.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 AL 25/Main St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1721/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-108.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 Mae Hinton Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1729/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-139.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 Patriot Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1587/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-140.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 Bear Creek Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1529/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-141.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 Mimosa Park Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1530/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-142.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 US 11/Skyland Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1589/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-143.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 69 Mitt Lary Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1455/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-69-152.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Thompson Cat Plant Entrance",
+                "img": "https://api.algotraffic.com/v3/Cameras/1459/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Pine Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1460/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-4.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Industrial Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1461/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-4.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 6th Ave/Lawson Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1462/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-5.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Fleming Rd/Valley Crest Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1463/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-5.9.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Pawnee Village Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1464/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-6.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Valley East Industrial Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1465/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-7.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Meadow Craft Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1466/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-7.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Sunhill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1467/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-8.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Carson Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1468/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-9.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Westchester Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1469/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-10.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Sunrise Dr/Sweeney Hollow",
+                "img": "https://api.algotraffic.com/v3/Cameras/1470/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-11.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 79 Narrows Rd/AL-151",
+                "img": "https://api.algotraffic.com/v3/Cameras/1472/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-79-12.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 87 Oak Park Dr.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1372/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/try-cam-60.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 110 Atlanta Hwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1506/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-110-000a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 110 Boyd Cooper",
+                "img": "https://api.algotraffic.com/v3/Cameras/1493/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-110-001a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 110 Eastchase Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1494/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-110-002a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 110 Walmart",
+                "img": "https://api.algotraffic.com/v3/Cameras/1495/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-110-002b.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 110 Ryan Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1496/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-110-002c.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 133 Elliott Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1554/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-133-3.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 133 Tenn River Bridge",
+                "img": "https://api.algotraffic.com/v3/Cameras/1555/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-133-7.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 133 Mars Hill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1593/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/MXk2aG5Lckp2ajhN/tuscumbia-fastly/sho-cam-133-12.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 145 3rd Ave N",
+                "img": "https://api.algotraffic.com/v3/Cameras/1484/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-145-0.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 150 I-459",
+                "img": "https://api.algotraffic.com/v3/Cameras/1201/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-150-8.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 150 Sulphur Springs Rd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1206/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-150-9.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 150 Cahaba River Estates Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1204/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-150-9.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 150 Galleria Woods",
+                "img": "https://api.algotraffic.com/v3/Cameras/1203/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-150-10.stream/playlist.m3u8"
+            },
+            {
+                "name": "SR 150 Merchants Drive",
+                "img": "https://api.algotraffic.com/v3/Cameras/1202/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-150-11.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 171 3rd St NE",
+                "img": "https://api.algotraffic.com/v3/Cameras/1766/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-171-35.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 171 Bevill State",
+                "img": "https://api.algotraffic.com/v3/Cameras/1761/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-171-72.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 182 Loop Road",
+                "img": "https://api.algotraffic.com/v3/Cameras/1128/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c1001.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 182 AL 161",
+                "img": "https://api.algotraffic.com/v3/Cameras/1143/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c1002.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 195/21st St 20th Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1415/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-195-41.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 US 231",
+                "img": "https://api.algotraffic.com/v3/Cameras/1726/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-013c.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Bauman Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1668/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-002a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Choctaw St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1670/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-004a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 US 231",
+                "img": "https://api.algotraffic.com/v3/Cameras/1671/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-005a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Denton Rd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1762/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-006a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Denton Rd.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1764/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-006b.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Reeves St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1672/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-007a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Kinsey Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1673/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-007b.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Webb Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1674/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-008a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 E Main",
+                "img": "https://api.algotraffic.com/v3/Cameras/1696/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-010a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 Prevatt Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1675/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-012a.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 210 S. Park Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1677/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-210-013b.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/University Blvd AL 216/Old Birmingham Hwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1539/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-9.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/Old Montgomery Hwy Bear Creek Cutoff Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1707/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-0.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/Greensboro Ave James I Harrison Pkwy",
+                "img": "https://api.algotraffic.com/v3/Cameras/1735/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-2.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/Greensboro Ave Inv Dornell Cousette St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1391/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-3.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St AL 215/Greensboro Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1419/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-4.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St Queen City Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1393/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-4.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St 10th Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1588/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-5.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St Parkview Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1716/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-5.4.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St Hackberry Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1432/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-5.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St 2nd Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1698/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-6.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/15th St Dr Edward Hillard Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1577/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-6.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/Veterans Memorial Pkwy University Mall Cir",
+                "img": "https://api.algotraffic.com/v3/Cameras/1591/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-7.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/Veterans Memorial Pkwy 13th Ave E",
+                "img": "https://api.algotraffic.com/v3/Cameras/1585/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-7.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 215/Veterans Memorial Pkwy Kicker Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1431/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-215-7.5.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 216 Covered Bridge Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1772/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-216-11.1.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 216 I-20/59 WB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1392/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-216-26.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 216 I-20/59 EB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1402/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-216-26.2.stream/playlist.m3u8"
+            },
+            {
+                "name": "AL 378 US78",
+                "img": "https://api.algotraffic.com/v3/Cameras/1566/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-378-0a.stream/playlist.m3u8"
+            },
+            {
+                "name": "5th St US 43 SB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1688/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-43-195.7.stream/playlist.m3u8"
+            },
+            {
+                "name": "11th Ave 17th St.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1574/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-11th-17th.stream/playlist.m3u8"
+            },
+            {
+                "name": "Broad St Springhill Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1846/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cts-broad-springhill.stream/playlist.m3u8"
+            },
+            {
+                "name": "Greensboro Ave Gary Fitts St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1395/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-greensboro-6th.stream/playlist.m3u8"
+            },
+            {
+                "name": "Greensboro Ave 8th St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1633/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-greensboro-8th.stream/playlist.m3u8"
+            },
+            {
+                "name": "Greensboro Ave University Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1639/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-greensboro-university.stream/playlist.m3u8"
+            },
+            {
+                "name": "Greensboro Ave Paul W Bryant Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1693/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-greensboro-bryant.stream/playlist.m3u8"
+            },
+            {
+                "name": "Jack Warner Pkwy Almon Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1401/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-jwp-21st.stream/playlist.m3u8"
+            },
+            {
+                "name": "Jack Warner Pkwy AL 297 SB",
+                "img": "https://api.algotraffic.com/v3/Cameras/1403/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-297-0.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "Jack Warner Pkwy Greensboro Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1406/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-jwp-greensboro.stream/playlist.m3u8"
+            },
+            {
+                "name": "Jack Warner Pkwy Queen City Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1407/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-jwp-queencity.stream/playlist.m3u8"
+            },
+            {
+                "name": "Jack Warner Pkwy US 82/McFarland Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1831/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-82-49.7w.stream/playlist.m3u8"
+            },
+            {
+                "name": "Lorna Road Hampton Park Dr.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1207/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-lorna-hmp.stream/playlist.m3u8"
+            },
+            {
+                "name": "Lorna Road Municipal Dr.",
+                "img": "https://api.algotraffic.com/v3/Cameras/1210/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/c0JEM1JmSlMvakJX/bhm-fastly/bhm-cam-lorna-mun.stream/playlist.m3u8"
+            },
+            {
+                "name": "Mercedes Dr Daimler Benz Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1833/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-88.3.stream/playlist.m3u8"
+            },
+            {
+                "name": "Mercedes Dr Gate 1",
+                "img": "https://api.algotraffic.com/v3/Cameras/1834/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-88.6.stream/playlist.m3u8"
+            },
+            {
+                "name": "Mercedes Dr Gate 2",
+                "img": "https://api.algotraffic.com/v3/Cameras/1730/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-2059-88.8.stream/playlist.m3u8"
+            },
+            {
+                "name": "Old Farm Lane Water Tower",
+                "img": "https://api.algotraffic.com/v3/Cameras/1265/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-155a.stream/playlist.m3u8"
+            },
+            {
+                "name": "Old Farm Lane PCA",
+                "img": "https://api.algotraffic.com/v3/Cameras/1266/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/mgm-cam-156a.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr Frank Thomas Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1399/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-thomas.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr Hackberry Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1473/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-hackberry.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr 2nd Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1474/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-2nd.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr 10th Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1542/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-10th.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr Queen City Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1692/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-queencity-a.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr Almon Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1694/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-21st-b.stream/playlist.m3u8"
+            },
+            {
+                "name": "Paul W Bryant Dr Queen City Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1695/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-bryant-queencity-b.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rice Mine Rd AL 297",
+                "img": "https://api.algotraffic.com/v3/Cameras/1405/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-297-1.0.stream/playlist.m3u8"
+            },
+            {
+                "name": "Selma St Alice St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1684/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-c001.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Greensboro Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1394/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-greensboro.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Queen City Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1396/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-queencity.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Arcadia Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1397/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-arcadia.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd 20th Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1400/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-20th.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Crescent Ridge Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1408/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-crescent.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Paul W Bryant Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1409/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-bryant.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Helen Keller Blvd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1410/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-keller.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Hackberry Ln",
+                "img": "https://api.algotraffic.com/v3/Cameras/1475/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-hackberry.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd 25th Ave E",
+                "img": "https://api.algotraffic.com/v3/Cameras/1543/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-25th.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Campus Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1556/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-campus.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Brookhill Rd",
+                "img": "https://api.algotraffic.com/v3/Cameras/1634/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-brookhill.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Stadium Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1635/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-stadium.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd 2nd Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1636/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-2nd.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd 19th Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1638/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-19th.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd Almon Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1640/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-21st.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd 22nd Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1641/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-22nd.stream/playlist.m3u8"
+            },
+            {
+                "name": "University Blvd 23rd Ave",
+                "img": "https://api.algotraffic.com/v3/Cameras/1642/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/eUtuSEFkSEtjdzRQ/tuscaloosa-fastly/tus-cam-university-23rd.stream/playlist.m3u8"
+            },
+            {
+                "name": "Westgate Pkwy Whatley Dr",
+                "img": "https://api.algotraffic.com/v3/Cameras/1686/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-c003.stream/playlist.m3u8"
+            },
+            {
+                "name": "Westgate Pkwy Northview",
+                "img": "https://api.algotraffic.com/v3/Cameras/1687/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-wgp-019b.stream/playlist.m3u8"
+            },
+            {
+                "name": "Westgate Pkwy Reeves St",
+                "img": "https://api.algotraffic.com/v3/Cameras/1714/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/RHk2aWJlYkUzYmRQ/mnt-fastly/dth-cam-wgp-019c.stream/playlist.m3u8"
+            },
+            {
+                "name": "Mobile TMC Security Dunlap Drive",
+                "img": "https://api.algotraffic.com/v3/Cameras/1454/snapshot.jpg",
+                "stream_url": "https://cdn3.wowza.com/5/UzlhV3FTVTA3Y2pO/mobile-fastly/mob-cam-c098.stream/playlist.m3u8"
+            }
+        ]
+    }
+]
