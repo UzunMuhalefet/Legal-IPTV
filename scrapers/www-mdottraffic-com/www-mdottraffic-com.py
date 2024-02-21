@@ -9,6 +9,7 @@ sys.path.insert(0, '../../utilities')
 from jsontom3u import create_single_m3u, create_m3us
 
 domain = "https://www.mdottraffic.com/"
+pattern = r"javascript:switchImage\((.*?)\)"
 
 headers = {
     'referer': 'https://www.mdottraffic.com/default.aspx?showMain=true',
@@ -26,29 +27,22 @@ def get_stream_url(url):
     
     return stream_url
 
-def get_cam_detail(url):
-    temp_cam = {
-        "name": "",
-        "img": "",
-        "stream_url": "",
-        "url": ""
-    }
-    r = requests.get(url, headers=headers)
-    soup = BeautifulSoup(r.content, "html.parser")
-    cam_img = soup.find("img", {"id": "camimg"}).get("src")
-    temp_cam["img"] = cam_img
-    parsed = urlparse(cam_img)
-    qs = parse_qs(parsed.query)
-    if 'streamname' in qs:
-        cam_url = domain + "streamcam.aspx?cam=" + qs['streamname'][0].split('.')[0]
-        temp_cam["url"] = cam_url
-        stream_url = get_stream_url(cam_url)
+def parse_img_cam_page(url):
+    cams = []
+    r = requests.get(url)
+    results = re.findall(pattern, r.text)
+    for result in results:
+        temp_cam = {}
+        params = result.split("', ")
+        temp_cam["name"] = params[2].replace("'", "").strip()
+        temp_cam["url"] = domain + "mapbubbles/streamcam.aspx?cam=" + params[1].replace("'", "").strip()
+        temp_cam["img"] = params[0].replace("'", "").strip()
+        stream_url = get_stream_url(temp_cam["url"])
         if stream_url:
-            cam_name = soup.find("img", {"id": "camimg"}).get("alt")
             temp_cam["stream_url"] = stream_url
-            temp_cam["name"] = cam_name
-    return temp_cam
-
+            cams.append(temp_cam)
+    return cams
+    
 
 def get_all_cameras():
     all_items = []
@@ -57,9 +51,8 @@ def get_all_cameras():
     for cam in tqdm(data):
         soup = BeautifulSoup(cam["framehtml"], "html.parser")
         cam_url = domain + soup.find("iframe").get("src")
-        cam_detail = get_cam_detail(cam_url)
-        if cam_detail["stream_url"]:
-            all_items.append(cam_detail)
+        cams = parse_img_cam_page(cam_url)
+        all_items += cams
     
     return all_items
 
@@ -70,7 +63,7 @@ def main():
             "episodes": get_all_cameras()
         }
     ]
-    f = open("www-dot-ri-org.json", "w+")
+    f = open("www-mdottrafic-com.json", "w+")
     json.dump(data, f, ensure_ascii=False, indent=4)
     create_single_m3u("../../lists/cameras/countries/us/traffic", data, "ms")
 
