@@ -220,12 +220,14 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 | TRT 1 - Programlar | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trt1-com-tr/programlar.m3u</code>|
 | Kanal D - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-diziler.m3u</code>|
 | Kanal D - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-programlar.m3u</code>|
+| Kanal D - Evde Sinema | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/evde-sinema.m3u</code>|
 | Show TV - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-diziler.m3u</code>|
 | Show TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-programlar.m3u</code>|
 | Now TV - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/dizi-arsivi.m3u</code>|
 | Now TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/program-arsivi.m3u</code>|
 | Star TV - Arşiv | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-startv-com-tr/arsiv.m3u</code> |
 | TV8 | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv8-com-tr/all.m3u</code>|
+| Puhu TV - Filmler | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/puhutv-com/filmler.m3u</code> |
 | teve2 - Diziler | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/diziler.m3u</code>|
 | teve2 - Programlar | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/programlar.m3u</code>|
 | DMAX | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-dmax-com-tr/all.m3u</code>|
