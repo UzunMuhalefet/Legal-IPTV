@@ -1,0 +1,361 @@
+[
+    {
+        "name": "Evde Sinema",
+        "episodes": [
+            {
+                "name": "Yeniden Başlamak",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7632bb3ab1662564e12bff.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/yeniden-baslamak",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277935_08f6/index.m3u8"
+            },
+            {
+                "name": "Çetin Ceviz 2",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e76623044539512c8d2bc3e.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/cetin-ceviz-2",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277929_08ea/index.m3u8"
+            },
+            {
+                "name": "Aşkın 5 Hali",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e76637844539512c8d2bc52.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/askin-5-hali",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277909_08c2/index.m3u8"
+            },
+            {
+                "name": "Boşu Bir Yerde",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7665b944539512c8d2bc8b.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/bosu-bir-yerde",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277916_08d0/index.m3u8"
+            },
+            {
+                "name": "Muhbir",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7637f43ab1662564e12c1e.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/muhbir",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278077_0a12/index.m3u8"
+            },
+            {
+                "name": "Siyah ya da Beyaz",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e763a013ab1662564e12c46.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/siyah-ya-da-beyaz",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277937_08fa/index.m3u8"
+            },
+            {
+                "name": "Beceriksiz Katil",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7664fc44539512c8d2bc76.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/beceriksiz-katil",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277913_08ca/index.m3u8"
+            },
+            {
+                "name": "Deli Saçması",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e766bd344539512c8d2bcee.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/deli-sacmasi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277930_08ec/index.m3u8"
+            },
+            {
+                "name": "Uyuyana Kadar",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e763c0c3ab1662564e12c79.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/uyuyana-kadar",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277914_08cc/index.m3u8"
+            },
+            {
+                "name": "Suçlu",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e763d713ab1662564e12cab.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/suclu",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277990_0964/index.m3u8"
+            },
+            {
+                "name": "Mahrumlar",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e766dcf44539512c8d2bd03.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/mahrumlar",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277936_08f8/index.m3u8"
+            },
+            {
+                "name": "Elimiz Mahkum",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7667d544539512c8d2bca6.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/elimiz-mahkum",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277931_08ee/index.m3u8"
+            },
+            {
+                "name": "Şimdi Aşk",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e76693044539512c8d2bccb.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/simdi-ask",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277942_0904/index.m3u8"
+            },
+            {
+                "name": "Zengin Kısmet",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e766e6944539512c8d2bd29.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/zengin-kismet",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277945_090a/index.m3u8"
+            },
+            {
+                "name": "Ölümcül Takip",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e764bf244539512c8d2bba3.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/olumcul-takip",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278080_0a18/index.m3u8"
+            },
+            {
+                "name": "Son Vurgun",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e764e2144539512c8d2bbaf.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/son-vurgun",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277902_08b4/index.m3u8"
+            },
+            {
+                "name": "Sahte Cennet",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e76505744539512c8d2bbc7.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/sahte-cennet",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277979_094e/index.m3u8"
+            },
+            {
+                "name": "Çete Savaşları",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e786620933ccb0fa400f421.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/cete-savaslari",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278349_0c32/index.m3u8"
+            },
+            {
+                "name": "Hudut",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7daead44539531d08da1e8.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/hudut",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278495_0d56/index.m3u8"
+            },
+            {
+                "name": "Aşk Bilmecesi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7daf7d44539531d08da1ff.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/ask-bilmecesi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278467_0d1e/index.m3u8"
+            },
+            {
+                "name": "Vikingler",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db04b44539531d08da219.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/vikingler",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278525_0d92/index.m3u8"
+            },
+            {
+                "name": "Yaz Aşkım",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db15f44539531d08da232.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/yaz-askim",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278526_0d94/index.m3u8"
+            },
+            {
+                "name": "Katil Deniz Kızı",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db30e44539531d08da261.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/katil-deniz-kizi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278505_0d6a/index.m3u8"
+            },
+            {
+                "name": "Vatikan Kayıtları",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db3df44539531d08da280.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/vatikan-kayitlari",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278527_0d96/index.m3u8"
+            },
+            {
+                "name": "Yüzde Yüz Kaşmir",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db49f44539531d08da293.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/yuzde-yuz-kasmir",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278523_0d8e/index.m3u8"
+            },
+            {
+                "name": "Burada mısın?",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db56f44539531d08da2b6.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/burada-misin",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278454_0d04/index.m3u8"
+            },
+            {
+                "name": "Ekim Fırtınası",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db69044539531d08da2d4.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/ekim-firtinasi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278506_0d6c/index.m3u8"
+            },
+            {
+                "name": "Gerilim Odası",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e7db8d944539531d08da2f0.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/gerilim-odasi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/278528_0d98/index.m3u8"
+            },
+            {
+                "name": "88 Numaralı Oda",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e8494c2ebc8302ac09bc6bd.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/88-numarali-oda",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279152_1278/index.m3u8"
+            },
+            {
+                "name": "Sevimli Kukla",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e849618ebc8302ac09bc6ff.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/sevimli-kukla",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279156_1280/index.m3u8"
+            },
+            {
+                "name": "Podyumdaki Kül Kedisi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e849a9ee2260103fc70491d.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/podyumdaki-kul-kedisi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279157_1282/index.m3u8"
+            },
+            {
+                "name": "Agorafobi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84a14ce2260103fc704a84.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/agorafobi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279154_127c/index.m3u8"
+            },
+            {
+                "name": "Karartma",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84a247e2260103fc704a9b.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/karartma",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/MP4/KANALD/HDP1A_-279180_12b0-_1500.mp4"
+            },
+            {
+                "name": "Sevgili Kardeşim",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84a360e2260103fc704acd.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/sevgili-kardesim",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279158_1284/index.m3u8"
+            },
+            {
+                "name": "Kirli Oyun",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84a52ee2260103fc704b47.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/kirli-oyun",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279186_12bc/index.m3u8"
+            },
+            {
+                "name": "Yansıma",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84a5fae2260103fc704b77.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/yansima",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279187_12be/index.m3u8"
+            },
+            {
+                "name": "French Dolls",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84a8a1e2260103fc704c0e.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/french-dolls",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279171_129e/index.m3u8"
+            },
+            {
+                "name": "Şeytan Tepesi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84ab1ae2260103fc704c4b.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/seytan-tepesi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279173_12a2/index.m3u8"
+            },
+            {
+                "name": "Büyük Aşk",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84ac75e2260103fc704ca9.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/buyuk-ask",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279192_12c8/index.m3u8"
+            },
+            {
+                "name": "Elveda Dünya",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84adc3e2260103fc704cd4.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/elveda-dunya",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279172_12a0/index.m3u8"
+            },
+            {
+                "name": "Karanlık Kutu",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e84b369e2260103fc704d82.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/karanlik-kutu",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279189_12c2/index.m3u8"
+            },
+            {
+                "name": "Jane'in İntikamı",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e97f3cfebc83025149a1752.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/janein-intikami",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279205_12e2/index.m3u8"
+            },
+            {
+                "name": "Katil Joe",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e97f4d4ebc83025149a1766.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/katil-joe",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279204_12e0/index.m3u8"
+            },
+            {
+                "name": "Kanlı Dövüş",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e97f5c5ebc83025149a1776.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/kanli-dovus",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279214_12f4/index.m3u8"
+            },
+            {
+                "name": "Vasiyet",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e97f6b7ebc83025149a1789.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/vasiyet",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279217_12fa/index.m3u8"
+            },
+            {
+                "name": "Bayan Meadows",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e97fb833ab1661830df1af4.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/bayan-meadows",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279221_1302/index.m3u8"
+            },
+            {
+                "name": "Zıt Kardeşler",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e97fd9b3ab1661830df1b08.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/zit-kardesler",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279220_1300/index.m3u8"
+            },
+            {
+                "name": "Cinayet Planı",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e9801c53ab1661830df1b55.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/cinayet-plani",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279277_1372/index.m3u8"
+            },
+            {
+                "name": "Balerin ve Afacan Mucit",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e984e49933ccb2d9c23afc1.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/balerin-ve-afacan-mucit",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279324_13d0/index.m3u8"
+            },
+            {
+                "name": "Bodybuilder",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e985137933ccb2d9c23b003.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/bodybuilder",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279312_13b8/index.m3u8"
+            },
+            {
+                "name": "Downer's Grove Laneti",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e985376933ccb2d9c23b034.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/downers-grove-laneti",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279313_13ba/index.m3u8"
+            },
+            {
+                "name": "Büyümek ve Diğer Yalanlar",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e9856e7933ccb2d9c23b086.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/buyumek-ve-diger-yalanlar",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279331_13de/index.m3u8"
+            },
+            {
+                "name": "Şifacı",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e985960933ccb2d9c23b0d3.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/sifaci",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279318_13c4/index.m3u8"
+            },
+            {
+                "name": "Dört Psikopat",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e995144933ccb3900a61bc4.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/dort-psikopat",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8"
+            },
+            {
+                "name": "Kanunun Kuvveti",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e995302933ccb3900a61bee.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/kanunun-kuvveti",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279346_13fc/index.m3u8"
+            },
+            {
+                "name": "Ölüm Kalım Evi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e995752933ccb3900a61c51.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/olum-kalim-evi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8"
+            },
+            {
+                "name": "Dehşet Gecesi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e99586e933ccb3900a61c8a.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/dehset-gecesi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8"
+            },
+            {
+                "name": "Dehşet Gemisi",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e995990933ccb3900a61c9e.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/dehset-gemisi",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8"
+            },
+            {
+                "name": "Kurtuluş",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/kurtulus",
+                "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8"
+            }
+        ]
+    }
+]
