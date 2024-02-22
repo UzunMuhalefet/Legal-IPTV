@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Filmler",
+        "episodes": [
+            {
+                "name": "Mutlu Aile Tablosu",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1619",
+                "url": "https://www.nowtv.com.tr/Mutlu-Aile-Tablosu/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Mutlu-Aile-Tablosu&episode=1&.m3u8"
+            },
+            {
+                "name": "Yalancı Sevgilim",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1618",
+                "url": "https://www.nowtv.com.tr/Yalanci-Sevgilim/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Sevgilim&episode=1&.m3u8"
+            },
+            {
+                "name": "Küçük Yalanlar",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1605",
+                "url": "https://www.nowtv.com.tr/Kucuk-Yalanlar/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kucuk-Yalanlar&episode=1&.m3u8"
+            },
+            {
+                "name": "Vay Halime",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1587",
+                "url": "https://www.nowtv.com.tr/Vay-Halime/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Vay-Halime&episode=1&.m3u8"
+            },
+            {
+                "name": "Petrol Sevdası",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1583",
+                "url": "https://www.nowtv.com.tr/Petrol-Sevdasi/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Petrol-Sevdasi&episode=1&.m3u8"
+            },
+            {
+                "name": "Aşkımızın Son Tekmesi",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1522",
+                "url": "https://www.nowtv.com.tr/Askimizin-Son-Tekmesi/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Askimizin-Son-Tekmesi&episode=1&.m3u8"
+            },
+            {
+                "name": "Sabahlar Olmasın",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1521",
+                "url": "https://www.nowtv.com.tr/Sabahlar-Olmasin/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sabahlar-Olmasin&episode=1&.m3u8"
+            },
+            {
+                "name": "Bir Aşk İki Hayat",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1519",
+                "url": "https://www.nowtv.com.tr/Bir-Ask-Iki-Hayat/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bir-Ask-Iki-Hayat&episode=1&.m3u8"
+            },
+            {
+                "name": "Canavar Gibi: Türk İşi Frankeştayn",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1516",
+                "url": "https://www.nowtv.com.tr/Canavar-Gibi-Turk-Isi-Frankestayn/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Canavar-Gibi-Turk-Isi-Frankestayn&episode=1&.m3u8"
+            },
+            {
+                "name": "Bizim İçin Şampiyon",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1504",
+                "url": "https://www.nowtv.com.tr/Bizim-Icin-Sampiyon/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bizim-Icin-Sampiyon&episode=1&.m3u8"
+            },
+            {
+                "name": "Hayatımız Film",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1489",
+                "url": "https://www.nowtv.com.tr/Hayatimiz-Film/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Hayatimiz-Film&episode=1&.m3u8"
+            },
+            {
+                "name": "Başımız Belada",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1488",
+                "url": "https://www.nowtv.com.tr/Basimiz-Belada/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Basimiz-Belada&episode=1&.m3u8"
+            },
+            {
+                "name": "Anamız Var 2",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1487",
+                "url": "https://www.nowtv.com.tr/Anamiz-Var-2/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Anamiz-Var-2&episode=1&.m3u8"
+            },
+            {
+                "name": "Cingöz Recai: Bir Efsanenin Dönüşü",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1485",
+                "url": "https://www.nowtv.com.tr/Cingoz-Recai-Bir-Efsanenin-Donusu/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Cingoz-Recai-Bir-Efsanenin-Donusu&episode=1&.m3u8"
+            },
+            {
+                "name": "25 Litre",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1479",
+                "url": "https://www.nowtv.com.tr/25-Litre/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=25-Litre&episode=1&.m3u8"
+            },
+            {
+                "name": "Anamız Var",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1392",
+                "url": "https://www.nowtv.com.tr/Anamiz-Var/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Anamiz-Var&episode=1&.m3u8"
+            },
+            {
+                "name": "Ağlak Arif",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1391",
+                "url": "https://www.nowtv.com.tr/Aglak-Arif/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Aglak-Arif&episode=1&.m3u8"
+            },
+            {
+                "name": "Kız Babası",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1384",
+                "url": "https://www.nowtv.com.tr/Kiz-Babasi/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kiz-Babasi&episode=1&.m3u8"
+            },
+            {
+                "name": "Prangalı Yarim",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1381",
+                "url": "https://www.nowtv.com.tr/Prangali-Yarim/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Prangali-Yarim&episode=1&.m3u8"
+            },
+            {
+                "name": "Yol Ayrımı",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1380",
+                "url": "https://www.nowtv.com.tr/Yol-Ayrimi/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yol-Ayrimi&episode=1&.m3u8"
+            },
+            {
+                "name": "Organik Aşk",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1370",
+                "url": "https://www.nowtv.com.tr/Organik-Ask/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Organik-Ask&episode=1&.m3u8"
+            },
+            {
+                "name": "Ölümü Gör",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1363",
+                "url": "https://www.nowtv.com.tr/Olumu-Gor/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Olumu-Gor&episode=1&.m3u8"
+            },
+            {
+                "name": "Şansa Bak",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1359",
+                "url": "https://www.nowtv.com.tr/Sansa-Bak/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sansa-Bak&episode=1&.m3u8"
+            },
+            {
+                "name": "Aşktroloji",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1357",
+                "url": "https://www.nowtv.com.tr/Asktroloji/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Asktroloji&episode=1&.m3u8"
+            },
+            {
+                "name": "Sosyetik Gelin",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1351",
+                "url": "https://www.nowtv.com.tr/Sosyetik-Gelin/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sosyetik-Gelin&episode=1&.m3u8"
+            },
+            {
+                "name": "Yalancı Damat",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1350",
+                "url": "https://www.nowtv.com.tr/Yalanci-Damat/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Damat&episode=1&.m3u8"
+            },
+            {
+                "name": "Koca Bulma Sanatı",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1348",
+                "url": "https://www.nowtv.com.tr/Koca-Bulma-Sanati/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Koca-Bulma-Sanati&episode=1&.m3u8"
+            },
+            {
+                "name": "Eski Köye Yeni Adet",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1343",
+                "url": "https://www.nowtv.com.tr/Eski-Koye-Yeni-adet/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Eski-Koye-Yeni-adet&episode=1&.m3u8"
+            },
+            {
+                "name": "4N1K 2",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1322",
+                "url": "https://www.nowtv.com.tr/4N1K-2/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=4N1K-2&episode=1&.m3u8"
+            },
+            {
+                "name": "Hadi Be Oğlum",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1315",
+                "url": "https://www.nowtv.com.tr/Hadi-Be-Oglum/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Hadi-Be-Oglum&episode=1&.m3u8"
+            },
+            {
+                "name": "Kan Kardeşler",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1309",
+                "url": "https://www.nowtv.com.tr/Kan-Kardesler/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kan-Kardesler&episode=1&.m3u8"
+            },
+            {
+                "name": "Badem Şekeri 5",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1308",
+                "url": "https://www.nowtv.com.tr/Badem-Sekeri-5/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Badem-Sekeri-5&episode=1&.m3u8"
+            },
+            {
+                "name": "Badem Şekeri 3",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1299",
+                "url": "https://www.nowtv.com.tr/Badem-Sekeri-3/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Badem-Sekeri-3&episode=1&.m3u8"
+            },
+            {
+                "name": "Babası",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1273",
+                "url": "https://www.nowtv.com.tr/Babasi/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Babasi&episode=1&.m3u8"
+            },
+            {
+                "name": "Benden Bu Kadar",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1084",
+                "url": "https://www.nowtv.com.tr/Benden-Bu-Kadar/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Benden-Bu-Kadar&episode=1&.m3u8"
+            }
+        ]
+    }
+]
