@@ -1,0 +1,1487 @@
+[
+    {
+        "name": "Virginia (Arlington) - Traffic Cameras",
+        "episodes": [
+            {
+                "name": "Columbia Pike @ Walter Reed",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam1.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Glebe Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam2.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia @ George Mason",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam3.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Carlin Springs",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam4.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Fairfax Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam6.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 23 St CAM-1",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam7.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Glebe Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam8.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Fairfax Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam9.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Washington Blvd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam10.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Washington Blvd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam11.stream/playlist.m3u8"
+            },
+            {
+                "name": "Ft Myer Dr @ N Fairfax Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam12.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ N Lynn (EB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam13.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Veitch St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam14.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Military Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam15.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd@ Chain Bridge",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam16.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Glebe Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam17.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ N Harrison St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam18.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Lynn St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam19.stream/playlist.m3u8"
+            },
+            {
+                "name": "18th @ Bell St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam20.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ ArlingtonRidge Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam21.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 26th St S",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam22.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Patrick Henry Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam23.stream/playlist.m3u8"
+            },
+            {
+                "name": "Sycamore St @ I-66 Off Ramp",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam24.stream/playlist.m3u8"
+            },
+            {
+                "name": "19th St @ Moore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam25.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ Glebe Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam26.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 27th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam27.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 26th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam28.stream/playlist.m3u8"
+            },
+            {
+                "name": "Potomac Ave @ Glebe Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam29.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 33d St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam30.stream/playlist.m3u8"
+            },
+            {
+                "name": "Hayes St @ 12th St S",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam31.stream/playlist.m3u8"
+            },
+            {
+                "name": "Hayes St @ 15th St S",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam32.stream/playlist.m3u8"
+            },
+            {
+                "name": "Army Navy Dr @ Eads St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam33.stream/playlist.m3u8"
+            },
+            {
+                "name": "Army Navy Dr @ Joyce St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam34.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ George Mason Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam35.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Walter Reed Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam36.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ I-395 (Off Ramp)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam37.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Glebe Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam38.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Highland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam39.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Uhle St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam40.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Scott St (WB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam41.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Oak St (WB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam42.stream/playlist.m3u8"
+            },
+            {
+                "name": "15th St @ Courthouse Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam43.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Ft Myer Dr  (WB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam44.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ N Kirkwood Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam45.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ 10th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam46.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Kirkwood Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam47.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Edgewood St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam48.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Barton St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam49.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Henderson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam50.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Pershing Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam51.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Pershing Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam52.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Garfield St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam53.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Pollard St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam54.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Vermont St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam57.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Stuart St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam58.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Garfield St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam59.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Queen St St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam60.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Randolph St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam61.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Quincy St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam62.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Stafford St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam63.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Stuart St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam64.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Edgewood St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam65.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Courthouse Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam66.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Barton St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam67.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Wayne St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam68.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Navy Annex",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam69.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Randolph St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam70.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 2nd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam71.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 5th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam72.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 7th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam73.stream/playlist.m3u8"
+            },
+            {
+                "name": "10th St @ Highland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam74.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Joyce St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam75.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Randolph St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam76.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Highland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam77.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Barton St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam78.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Nash St(WB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam79.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Fillmore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam80.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Highland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam81.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ 10th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam82.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Monroe St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam83.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Taylor St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam84.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Highland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam85.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Pershing Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam86.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Montaque",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam87.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fern St @ 15th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam88.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Rhodes St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam89.stream/playlist.m3u8"
+            },
+            {
+                "name": "13th St @ Courthouse Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam90.stream/playlist.m3u8"
+            },
+            {
+                "name": "14th St @ Courthouse Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam91.stream/playlist.m3u8"
+            },
+            {
+                "name": "19th St @ Lynn St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam92.stream/playlist.m3u8"
+            },
+            {
+                "name": "Army Navy @ Parking Garage",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam93.stream/playlist.m3u8"
+            },
+            {
+                "name": "19th St @ Kent St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam94.stream/playlist.m3u8"
+            },
+            {
+                "name": "Key Blvd @ Veitch St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam95.stream/playlist.m3u8"
+            },
+            {
+                "name": "Key Blvd @ Quinn St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam96.stream/playlist.m3u8"
+            },
+            {
+                "name": "Key Bridge @ GW Parkway",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam97.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Highland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam98.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Danville St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam99.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Cleveland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam100.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ N Adams St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam101.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Pierce St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam102.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Rhodes St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam103.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Veitch St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam104.stream/playlist.m3u8"
+            },
+            {
+                "name": "Clarendon Blvd @ Pierce St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam105.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Oak St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam106.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Courthouse Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam107.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Kent St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam108.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Ft Myer Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam109.stream/playlist.m3u8"
+            },
+            {
+                "name": "Lynn St @ Fairfax Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam110.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Nash St(EB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam111.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Ft Myer Dr  (EB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam112.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Lynn St (WB)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam113.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Quinn St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam114.stream/playlist.m3u8"
+            },
+            {
+                "name": "19th St @ Ft Myer Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam115.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Nelson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam116.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 23rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam117.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Nash St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam119.stream/playlist.m3u8"
+            },
+            {
+                "name": "Eads St @ 15th St S",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam120.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed Dr @ 11th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam121.stream/playlist.m3u8"
+            },
+            {
+                "name": "12th St @ Clark St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam122.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 15th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam123.stream/playlist.m3u8"
+            },
+            {
+                "name": "Army Navy @ Fern St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam125.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Carlin Springs",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam126.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Greenbrier St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam127.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Thomas St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam128.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Quincy St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam129.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Monroe St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam130.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 20th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam131.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 18th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam132.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ Water Park",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam133.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ MidBlock A",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam134.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ MidBlock B",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam135.stream/playlist.m3u8"
+            },
+            {
+                "name": "Eads St @ 23rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam136.stream/playlist.m3u8"
+            },
+            {
+                "name": "Eads St @ 18th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam137.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fern St @ 23rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam138.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 27th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam139.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 20th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam140.stream/playlist.m3u8"
+            },
+            {
+                "name": "Kenmore St @ 22nd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam141.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Eads St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam142.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Shirlington Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam143.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 12th St S",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam144.stream/playlist.m3u8"
+            },
+            {
+                "name": "Shirlington Rd @ Campbell St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam145.stream/playlist.m3u8"
+            },
+            {
+                "name": "Shirlington Rd @ 24th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam146.stream/playlist.m3u8"
+            },
+            {
+                "name": "Shirlington Rd @ Arlington Mill",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam147.stream/playlist.m3u8"
+            },
+            {
+                "name": "Shirlington Rd @ 4 Mile Run",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam148.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Dinwiddle St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam149.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Jefferson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam150.stream/playlist.m3u8"
+            },
+            {
+                "name": "Arlington Mill @ S Taylor St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam151.stream/playlist.m3u8"
+            },
+            {
+                "name": "Arlington Mill @ Randolph St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam152.stream/playlist.m3u8"
+            },
+            {
+                "name": "Arlington Mill @ Parking Garage",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam153.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 23rd St (Hawk)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam154.stream/playlist.m3u8"
+            },
+            {
+                "name": "Quincy St @ Campbell St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam155.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ N Wakefield St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam159.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ McKinley St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam160.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Larrimore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam161.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Lexington St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam162.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Jefferson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam163.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fern St @ 18th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam164.stream/playlist.m3u8"
+            },
+            {
+                "name": "15th St St @ Parking Garage",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam165.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ George Mason Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam166.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Abingdon St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam167.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Old Dominion Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam168.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Wakefield St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam169.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ I-66 (Off Ramp)",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam170.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ N15th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam171.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ N16th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam172.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ N18th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam173.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ N11th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam174.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr @ Wakefield Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam175.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ NStafford St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam176.stream/playlist.m3u8"
+            },
+            {
+                "name": "Army Navy Dr @ Hayes St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam177.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed Dr @ 7th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam178.stream/playlist.m3u8"
+            },
+            {
+                "name": "Sycamore St @ 19th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam179.stream/playlist.m3u8"
+            },
+            {
+                "name": "Hayes St @ Fire House",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam180.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Carlin Springs Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam181.stream/playlist.m3u8"
+            },
+            {
+                "name": "Joyce St @ N Entrance",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam182.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 15th St CAM-1",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam183.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 15th St CAM-2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam184.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Buchanan St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam185.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ WB Ramp",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam186.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ EB Ramp",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam187.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Wakefield St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam188.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Edison St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam189.stream/playlist.m3u8"
+            },
+            {
+                "name": "Joyce St @ S Entrance",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam190.stream/playlist.m3u8"
+            },
+            {
+                "name": "Sycamore St @ Washington Blvd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam191.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Rock Springs St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam192.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Fire Station #3",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam193.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Longfellow St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam194.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Manchester St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam195.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Edison St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam196.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Park Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam197.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Henderson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam198.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Irving St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam199.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Ohio St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam200.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ McKinley St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam201.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Patrick Henry St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam202.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ George Mason Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam203.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Quincy St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam204.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Lincoln St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam205.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ 13th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam206.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Kirkwood St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam207.stream/playlist.m3u8"
+            },
+            {
+                "name": "Pershing St @ Fillmore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam208.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Washington Blvd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam209.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Sycamore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam210.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Lexington St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam211.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ George Mason Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam212.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Culpepper St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam213.stream/playlist.m3u8"
+            },
+            {
+                "name": "Cherry Hill Rd @ Lorcom Lane",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam214.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Lorcom Lane",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam215.stream/playlist.m3u8"
+            },
+            {
+                "name": "Military Rd @ Marcey Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam216.stream/playlist.m3u8"
+            },
+            {
+                "name": "Sycamore St @ 26th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam217.stream/playlist.m3u8"
+            },
+            {
+                "name": "Yorktown Blvd @ Little Falls Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam218.stream/playlist.m3u8"
+            },
+            {
+                "name": "Williamsburg Blvd @ Sycamore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam220.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Brookside StCAM-1",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam221.stream/playlist.m3u8"
+            },
+            {
+                "name": "Williamsburg Blvd @ Westmoreland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam222.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Westmoreland St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam223.stream/playlist.m3u8"
+            },
+            {
+                "name": "Old Dominion Dr @ Rock Springs Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam224.stream/playlist.m3u8"
+            },
+            {
+                "name": "Old Dominion Dr @ Williamsburg Blvd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam225.stream/playlist.m3u8"
+            },
+            {
+                "name": "Williamsburg Blvd @ Harrison St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam226.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ GMU/FDIC",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam227.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed/Oakland @ Fire House #",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam228.stream/playlist.m3u8"
+            },
+            {
+                "name": "4-Mile Run @ DMV",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam229.stream/playlist.m3u8"
+            },
+            {
+                "name": "4-Mile Run @ Sports Center",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam230.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ Frederick St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam231.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Pollard St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam232.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ I-66 On Ramp",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam233.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Meade St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam234.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 4-Mile Run",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam235.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 24th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam236.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ National Guard",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam237.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Old Dominion Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam238.stream/playlist.m3u8"
+            },
+            {
+                "name": "Old Dominion Dr @ 26th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam239.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Williamsburg Blvd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam240.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ Chesterbrook Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam241.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed Dr @ Dinwiddle St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam242.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed Dr @ Wakefield St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam243.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed Dr @ Arlington Mill Dr",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam244.stream/playlist.m3u8"
+            },
+            {
+                "name": "Walter Reed Dr @ 4-Mile Run",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam245.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fillmore St @ 2nd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam246.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ Dinwiddle St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam247.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ Columbus St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam248.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ 4-Mile Run",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam249.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ 8th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam250.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ Pershing St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam251.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ Henderson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam252.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ 16th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam253.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ Arlington Hospital",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam254.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Monroe St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam255.stream/playlist.m3u8"
+            },
+            {
+                "name": "Arlington Ridge @ 23rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam256.stream/playlist.m3u8"
+            },
+            {
+                "name": "Courthouse Rd @ 2nd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam257.stream/playlist.m3u8"
+            },
+            {
+                "name": "Carlin Springs Rd @ 6th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam258.stream/playlist.m3u8"
+            },
+            {
+                "name": "Carlin Springs Rd @ 5th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam259.stream/playlist.m3u8"
+            },
+            {
+                "name": "Carlin Springs Rd @ 7th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam260.stream/playlist.m3u8"
+            },
+            {
+                "name": "Carlin Springs Rd @ 3rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam261.stream/playlist.m3u8"
+            },
+            {
+                "name": "Barton St @ 10th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam263.stream/playlist.m3u8"
+            },
+            {
+                "name": "Spout Run Pkwy @ Lorcom Lane",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam264.stream/playlist.m3u8"
+            },
+            {
+                "name": "Lorcom Lane @ Fillmore St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam265.stream/playlist.m3u8"
+            },
+            {
+                "name": "Lorcom Lane @ Military Rd",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam266.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 23rd St CAM-2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam267.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike & Wash Blvd ramp",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam268.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike & Scott St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam269.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike & Orme St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam270.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 27th St CAM-2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam271.stream/playlist.m3u8"
+            },
+            {
+                "name": "Crystal Dr @ 33rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam272.stream/playlist.m3u8"
+            },
+            {
+                "name": "Eads St @ 12th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam273.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fern St @ 12th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam274.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fairfax Dr & Monroe St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam275.stream/playlist.m3u8"
+            },
+            {
+                "name": "Lynn St @19th St Mid Block",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam276.stream/playlist.m3u8"
+            },
+            {
+                "name": "23rd @ Clark St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam278.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Quincy St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam279.stream/playlist.m3u8"
+            },
+            {
+                "name": "Washington Blvd @ Brookside StCAM-2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam280.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ Olin St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam281.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ I66 Off Ramp",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam282.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt 50 @ 10th St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam283.stream/playlist.m3u8"
+            },
+            {
+                "name": "Randolph St @ 9th St N",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam284.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike @ Wayne St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam285.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe Rd @ 26th St N",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8003/live/cam286.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Garfield",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam287.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Oakland",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam288.stream/playlist.m3u8"
+            },
+            {
+                "name": "Rt50 @ park Axis",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam289.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Ballston Midblock",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam290.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Hudson St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam291.stream/playlist.m3u8"
+            },
+            {
+                "name": "Randolph St @ Parking Garage",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam294.stream/playlist.m3u8"
+            },
+            {
+                "name": "10th St @ Fire Station 4",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam295.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 50 @ Fillmore Cam 2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam297.stream/playlist.m3u8"
+            },
+            {
+                "name": "Wilson Blvd @ Glebe Rd Cam 2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam298.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 29 @ Dorothy Hamm",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam299.stream/playlist.m3u8"
+            },
+            {
+                "name": "Potomac Ave @ 33rd St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8001/live/cam300.stream/playlist.m3u8"
+            },
+            {
+                "name": "Fire Station 10",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam301.stream/playlist.m3u8"
+            },
+            {
+                "name": "RT 1 @ 20th St Cam2",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam302.stream/playlist.m3u8"
+            },
+            {
+                "name": "Glebe @ 7th N",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam303.stream/playlist.m3u8"
+            },
+            {
+                "name": "Columbia Pike & S Fredrick St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam304.stream/playlist.m3u8"
+            },
+            {
+                "name": "George Mason Dr @ VHC",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam306.stream/playlist.m3u8"
+            },
+            {
+                "name": "13th St S & S Eads St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam308.stream/playlist.m3u8"
+            },
+            {
+                "name": "15th St S & Elm St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam309.stream/playlist.m3u8"
+            },
+            {
+                "name": "14th St S & S Eads St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam310.stream/playlist.m3u8"
+            },
+            {
+                "name": "15th St S & S Grant St",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam311.stream/playlist.m3u8"
+            },
+            {
+                "name": "Army Navy Dr & 12th",
+                "img": "https://www.arlingtonva.us/files/sharedassets/public/v/1/countylogo_reverse_vertical.png",
+                "stream_url": "https://itsvideo.arlingtonva.us:8002/live/cam312.stream/playlist.m3u8"
+            }
+        ]
+    }
+]
