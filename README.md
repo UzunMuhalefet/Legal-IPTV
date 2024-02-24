@@ -9,7 +9,7 @@ Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla ç
  - Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
  - Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV playerlarının destekleyeceği şekilde yönlendirme yapılmaktadır.
 
-Merak edenler için en alt kısımda yaptığım çalışmaların detayları mevcuttur.
+Merak edenler için alt kısımda yaptığım çalışmaların detayları mevcuttur.
 
 **ADLANDIRMALAR**
 
@@ -91,7 +91,19 @@ https://uzunmuhalefet.serv00.net/rtspme.php?id={ID}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/rtspme.php?id=QRHD7Y2Q&.m3u8`
 
-#### Bursa Büyükşehir Belediyesi
+#### Earth TV (www.earthtv.com)
+Pattern:
+```
+https://uzunmuhalefet.serv00.net/earthtv.php?id={NAME}&.m3u8
+```
+
+Örnek Yayın:
+`https://www.earthtv.com/en/webcam/rotterdam-holland-amerikakade`
+
+Yayın URL:
+`https://uzunmuhalefet.serv00.net/earthtv.php?id=rotterdam-holland-amerikakade&.m3u8`
+
+#### Bursa Büyükşehir Belediyesi (www.bursabuyuksehir.tv)
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8
@@ -103,7 +115,7 @@ https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8
 Yayın URL:
 `https://uzunmuhalefet.serv00.net/bursa.php?id=23542&.m3u8`
 
-#### Kocaeli Büyükşehir Belediyesi
+#### Kocaeli Büyükşehir Belediyesi (kocaeliyiseyret.com)
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/kocaeli.php?id={ID}&.m3u8
@@ -189,6 +201,7 @@ Amerika'da yer alan trafik kameralarını içermektedir.
 | Georgia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ga.m3u</code> |
 | Hawaii | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/hi.m3u</code> |
 | Iowa | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ia.m3u</code> |
+| Kansas | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ks.m3u</code>|
 | Louisana | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/la.m3u</code> |
 | Minnesota | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/mn.m3u</code> |
 | Mississippi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ms.m3u</code> |
@@ -197,6 +210,7 @@ Amerika'da yer alan trafik kameralarını içermektedir.
 | Oklahoma | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ok.m3u</code> |
 | Rhode Island | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/ri.m3u</code> |
 | South Carolina | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/sc.m3u</code> |
+| Tennessee | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/tn.m3u</code>|
 | Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/va.m3u</code> |
 | West Virginia | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/wv.m3u</code>|
 | Wisconsin | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/cameras/countries/us/traffic/wi.m3u</code> |
@@ -225,6 +239,7 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 | Show TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-programlar.m3u</code>|
 | Now TV - Dizi Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/dizi-arsivi.m3u</code>|
 | Now TV - Program Arşivi | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/program-arsivi.m3u</code>|
+| Now TV - Filmler | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/filmler.m3u</code>|
 | Star TV - Arşiv | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-startv-com-tr/arsiv.m3u</code> |
 | TV8 | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv8-com-tr/all.m3u</code>|
 | Puhu TV - Filmler | <code>https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/puhutv-com/filmler.m3u</code> |
@@ -251,8 +266,22 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 Belirli konseptlere, ülke, bölge ve platform (websitesi) özelinde listeler çıkartmayı planlıyorum. Talep ettiğiniz bir konsept var ise belirtebilirsiniz.
 
 **Planlanan Playlistler**
-1. Amerika Trafik Kameraları
-2. Dünya - Şehir Kameraları
-  
+1. Türki Cumhuriyetler - TV Kanalları
+2. Avrupa Ülkeleri - TV Kanalları
+3. Dünya - Şehir Kameraları
+
+
+### 🇹🇷 Türkiye - Video İçerikler
+
+Bu sitelerin içeriklerine bir talep olduğu takdirde içeriklere ait liste çıkartma işlemi gerçekleştirilebilir.
+| İçerik | Site URL|
+|--|--|
+| CNN Türk - Arşiv | https://www.cnnturk.com/tv-cnn-turk/arsiv/ |
+| 24 TV - Programlar | https://www.yirmidort.tv/televizyon/tum-programlar |
+| TVNET - Programlar | https://www.tvnet.com.tr/ |
+| Power App - Videocast | https://www.powerapp.com.tr/videocast/ |
+| Tarım TV | https://www.tarimtv.gov.tr/tr/ |
+| Bloomberg HT - Programlar | https://www.bloomberght.com/video |
+| Vav TV | https://vavtv.com.tr/ |
 
 </details>
