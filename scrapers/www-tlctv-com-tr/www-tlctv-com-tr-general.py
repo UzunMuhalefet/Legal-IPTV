@@ -5,7 +5,7 @@ import json
 import sys
 
 sys.path.insert(0, '../../utilities')
-from jsontom3u import create_single_m3u, create_m3us
+from jsontom3u import create_single_m3u, create_m3us, create_json
 
 ajax_url = "https://www.tlctv.com.tr/ajax/more"
 stream_url_pattern = "https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId={}&SecretKey=NtvApiSecret2014*"
@@ -140,11 +140,8 @@ def main(start=0, end=0):
                     temp_episode["stream_url"] = stream_url
                     temp_program["episodes"].append(temp_episode)
             data.append(temp_program)
-    print(json.dumps(data, indent=4, ensure_ascii=False))
-    input()
     create_single_m3u("../../lists/video/sources/www-tlctv-com-tr", data, "all")
-    f = open("www-tlctv-com-tr-programlar.json", "w+")
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    create_json("www-tlctv-com-tr-programlar.json", data)
     create_m3us("../../lists/video/sources/www-tlctv-com-tr/programlar", data)
 
 

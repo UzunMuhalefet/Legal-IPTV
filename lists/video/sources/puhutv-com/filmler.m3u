@@ -1,53 +1,41 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Filmler",Bizim İçin Şampiyon
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_yedek_title_7x10-1-1599054843.jpg" group-title="Filmler",Bizim İçin Şampiyon
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_bir-kucuk-eylul-meselesi-1561406862.jpg" group-title="Filmler",Bi Küçük Eylül Meselesi
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/7x10_bir-kucuk-eylul-meselesi.jpg" group-title="Filmler",Bi Küçük Eylül Meselesi
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/stanbul-kirmizisititle_16x9-1699627835.jpg" group-title="Filmler",İstanbul Kırmızısı
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/stanbul-kirmizisititle_7x10.jpg" group-title="Filmler",İstanbul Kırmızısı
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834772_B87D749E&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/22-08/08/bacurautitle_16x9.jpg" group-title="Filmler",Bacurau
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_832163_06AF4EA7&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/ikihayat_16x9.jpg" group-title="Filmler",Bir Aşk İki Hayat
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/ikihayat_title_7x10-1.jpg" group-title="Filmler",Bir Aşk İki Hayat
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816365_3015F603&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/08/ozgurdunya_16x9.jpg" group-title="Filmler",Özgür Dünya
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/08/ozgurdunya_title_7x10-1.jpg" group-title="Filmler",Özgür Dünya
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816403_99E23A60&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/24-01/16/dede-korkut-bamsi-beyrektitle_16x9-1705395115.jpg" group-title="Filmler",Dede Korkut Hikayeleri: Bamsı Beyrek
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/24-01/16/dede-korkut-bamsi-beyrektitle_7x10-copy.jpg" group-title="Filmler",Dede Korkut Hikayeleri: Bamsı Beyrek
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_835226_F3F13119&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_16x9.jpg" group-title="Filmler",Gişe Memuru
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_7x10.jpg" group-title="Filmler",Gişe Memuru
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834770_A3DDC625&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/cebimdeki-yabancititle_16x9.jpg" group-title="Filmler",Cebimdeki Yabancı
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/cebimdeki-yabancititle_7x10.jpg" group-title="Filmler",Cebimdeki Yabancı
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834767_DECC725E&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_yola_geldik-1561406650.jpg" group-title="Filmler",Yola Geldik
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/7x10_yola_geldik.jpg" group-title="Filmler",Yola Geldik
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ab07d33-920a-4980-9264-f934c1162b56&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/8-saniyetitle_16x9.jpg" group-title="Filmler",8 Saniye
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/8-saniyetitle_7x10.jpg" group-title="Filmler",8 Saniye
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834785_EAE5ACB4&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_16x9-1699628994.jpg" group-title="Filmler",Silsile
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_7x10-1699629016.jpg" group-title="Filmler",Silsile
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834778_B289DDBC&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_16x9-1699628627.jpg" group-title="Filmler",Saklı Yüzler
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_7x10-1699628640.jpg" group-title="Filmler",Saklı Yüzler
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834777_578E6D11&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/stanbul-kirmizisititle_16x9-1699627835.jpg" group-title="Filmler",İstanbul Kırmızısı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834772_B87D749E&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/gergedan-mevsimititle_16x9.jpg" group-title="Filmler",Gergedan Mevsimi
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/gergedan-mevsimititle_7x10.jpg" group-title="Filmler",Gergedan Mevsimi
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834768_D7C05BCB&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/buyuk-adam-kucuk-asktitle_16x9-1699626550.jpg" group-title="Filmler",Büyük Adam Küçük Aşk
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/buyuk-adam-kucuk-asktitle_7x10.jpg" group-title="Filmler",Büyük Adam Küçük Aşk
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834766_2FE2DA04&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/beynelmileltitle_16x9-1699625771.jpg" group-title="Filmler",Beynelmilel
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/beynelmileltitle_7x10.jpg" group-title="Filmler",Beynelmilel
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834765_79CB5D73&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/anonstitle_16x9-1699625396.jpg" group-title="Filmler",Anons
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/anonstitle_7x10.jpg" group-title="Filmler",Anons
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834762_32B05878&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/annemin-yarasititle_16x9-1699625244.jpg" group-title="Filmler",Annemin Yarası
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/annemin-yarasititle_7x10.jpg" group-title="Filmler",Annemin Yarası
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834761_D3F5EE77&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Filmler",Bizim İçin Şampiyon
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/ikihayat_16x9.jpg" group-title="Filmler",Bir Aşk İki Hayat
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816365_3015F603&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_16x9-1699627969.jpg" group-title="Filmler",Napoli'nin Sırrı
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_7x10-1699628014.jpg" group-title="Filmler",Napoli'nin Sırrı
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834776_8F8B03E0&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_16x9-1699627495.jpg" group-title="Filmler",İncir Reçeli 2
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/title_7x10-1699627524.jpg" group-title="Filmler",İncir Reçeli 2
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834771_3F4F407A&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_bir-kucuk-eylul-meselesi-1561406862.jpg" group-title="Filmler",Bi Küçük Eylül Meselesi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/22-08/08/bacurautitle_16x9.jpg" group-title="Filmler",Bacurau
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_832163_06AF4EA7&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/08/ozgurdunya_16x9.jpg" group-title="Filmler",Özgür Dünya
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816403_99E23A60&SecretKey=NtvApiSecret2014*&.m3u8

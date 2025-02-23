@@ -5,7 +5,7 @@ import json
 import sys
 
 sys.path.insert(0, '../../utilities')
-from jsontom3u import create_single_m3u, create_m3us
+from jsontom3u import create_single_m3u, create_m3us, create_json
 
 base_url = "https://www.tv360.com.tr"
 
@@ -13,11 +13,18 @@ def parse_episode_page(episode_url):
     try:
         r = requests.get(episode_url)
         soup = BeautifulSoup(r.content, "html.parser")
-        stream_url = soup.find("source").get("src")
-        return stream_url.strip()
-    except:
-        return ''
-    
+        source_tag = soup.find("source")
+        streams = {"stream_url": "", "embed_url": ""}
+        if source_tag:
+            streams["stream_url"] = source_tag.get("src").strip()
+        iframe_tag = soup.find("iframe")
+        if iframe_tag:
+            streams["embed_url"] = iframe_tag.get("src").strip()
+        return streams
+    except Exception as e:
+        print(f"Error parsing episode page {episode_url}: {e}")
+        return {"stream_url": "", "embed_url": ""}
+
 def get_episodes_page(content_url):
     all_episodes = []
     if "ekonomi" in content_url:
@@ -75,14 +82,16 @@ def main(url, name, start=0, end=0):
             temp_program = program.copy()
             temp_program["episodes"] = []
             for episode in tqdm(episodes):
-                stream_url = parse_episode_page(episode["url"])
-                episode["stream_url"] = stream_url
-                if stream_url:
+                streams = parse_episode_page(episode["url"])
+                if streams["stream_url"]:
+                    episode["stream_url"] = streams["stream_url"]
+                if streams["embed_url"]:
+                    episode["embed_url"] = streams["embed_url"]
+                if streams:
                     temp_program["episodes"].append(episode)
             data.append(temp_program)
     create_single_m3u("../../lists/video/sources/www-tv360-com-tr", data, name)
-    f = open("www-tv360-com-tr-" + name + ".json", "w+")
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    create_json("www-tv360-com-tr-" + name + ".json", data)
     create_m3us("../../lists/video/sources/www-tv360-com-tr/" + name, data)
 
 main("https://www.tv360.com.tr/yasam-programlar", "programlar")

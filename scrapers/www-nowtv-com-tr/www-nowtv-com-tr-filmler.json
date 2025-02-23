@@ -15,6 +15,12 @@
                 "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Sevgilim&episode=1&.m3u8"
             },
             {
+                "name": "Yaşam Koçu",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1793",
+                "url": "https://www.nowtv.com.tr/Yasam-Kocu/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yasam-Kocu&episode=1&.m3u8"
+            },
+            {
                 "name": "Küçük Yalanlar",
                 "img": "https://www.nowtv.com.tr/i/thumbnail/1605",
                 "url": "https://www.nowtv.com.tr/Kucuk-Yalanlar/izle",
@@ -31,6 +37,30 @@
                 "img": "https://www.nowtv.com.tr/i/thumbnail/1583",
                 "url": "https://www.nowtv.com.tr/Petrol-Sevdasi/izle",
                 "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Petrol-Sevdasi&episode=1&.m3u8"
+            },
+            {
+                "name": "Dokunmayın Şabanıma",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1578",
+                "url": "https://www.nowtv.com.tr/Dokunmayin-Sabanima/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Dokunmayin-Sabanima&episode=1&.m3u8"
+            },
+            {
+                "name": "Bekçiler Kralı",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1577",
+                "url": "https://www.nowtv.com.tr/Bekciler-Krali/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bekciler-Krali&episode=1&.m3u8"
+            },
+            {
+                "name": "İnek Şaban",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1576",
+                "url": "https://www.nowtv.com.tr/Inek-Saban/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Inek-Saban&episode=1&.m3u8"
+            },
+            {
+                "name": "Yüz Numaralı Adam",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1572",
+                "url": "https://www.nowtv.com.tr/Yuz-Numarali-Adam/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yuz-Numarali-Adam&episode=1&.m3u8"
             },
             {
                 "name": "Aşkımızın Son Tekmesi",
@@ -91,6 +121,24 @@
                 "img": "https://www.nowtv.com.tr/i/thumbnail/1479",
                 "url": "https://www.nowtv.com.tr/25-Litre/izle",
                 "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=25-Litre&episode=1&.m3u8"
+            },
+            {
+                "name": "Doktor Civanım",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1465",
+                "url": "https://www.nowtv.com.tr/Doktor-Civanim/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Doktor-Civanim&episode=1&.m3u8"
+            },
+            {
+                "name": "Umudumuz Şaban",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1451",
+                "url": "https://www.nowtv.com.tr/Umudumuz-Saban/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Umudumuz-Saban&episode=1&.m3u8"
+            },
+            {
+                "name": "Gol Kralı",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1445",
+                "url": "https://www.nowtv.com.tr/Gol-Krali/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Gol-Krali&episode=1&.m3u8"
             },
             {
                 "name": "Anamız Var",
@@ -211,6 +259,12 @@
                 "img": "https://www.nowtv.com.tr/i/thumbnail/1084",
                 "url": "https://www.nowtv.com.tr/Benden-Bu-Kadar/izle",
                 "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Benden-Bu-Kadar&episode=1&.m3u8"
+            },
+            {
+                "name": "Fetih 1453",
+                "img": "https://www.nowtv.com.tr/i/thumbnail/1014",
+                "url": "https://www.nowtv.com.tr/Fetih-1453/izle",
+                "stream_url": "https://uzunmuhalefet.serv00.net/nowtv.php?serie=Fetih-1453&episode=1&.m3u8"
             }
         ]
     }
