@@ -395,3 +395,349 @@ https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-0805_mobil.smil/playlist.
 https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-14052022_mobil.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/15/40745d3a-c8f0-4ac0-b301-d96213179784-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 51. Bölüm 15.05.2022
 https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-15052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/20/1e3fafb7-2611-4aaa-8a33-2e8a3f72136f-g.jpg" group-title="Bil Bilebilirsen",Bil Bilebilirsen - 18 01 2025
+https://cdn.tv4.com.tr/video/bil-bilebilirsen-18012025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/c87b82a0-365a-4024-9be9-b57ce0a876f3-foto-düzenleme-640X360.jpg" group-title="Bil Bilebilirsen",Bil Bilebilirsen - 25 01 2025
+https://cdn.tv4.com.tr/video/bil-bilebilirsen-25012025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/3b7fdcd9-b0a7-49a7-a858-69c2b5a04af7-foto-düzenleme-640X360.jpg" group-title="Bil Bilebilirsen",Bil Bilebilirsen - 01 02 2025
+https://cdn.tv4.com.tr/video/bil-bilebilirsen-01022025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/47666d43-4abd-4245-94ea-6fdc66e04b4e-foto-düzenleme-640X360.jpg" group-title="Bil Bilebilirsen",Bil Bilebilirsen - 08 02 2025
+https://cdn.tv4.com.tr/video/bil-bilebilirsen-08022025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/4399e9f5-2a7d-46b9-909b-912cf43e43fe-foto-düzenleme-640X360.jpg" group-title="Bil Bilebilirsen",Bil Bilebilirsen - 15 02 2025
+https://cdn.tv4.com.tr/video/bil-bilebilirsen-15022025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/a37fc145-b308-4761-a1ac-2a4ca2a7f9c5-bodrum.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Bodrum
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-bodrum_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/9f5bce9a-c0d1-4535-8714-19533cd5690a-datca.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Datça
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-datca_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/3df3dbb0-7cbd-4b90-a268-0fa856a24125-eskisehr.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Eskişehir
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-eskisehir_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/6230a8fb-0a98-487a-8035-c6994c6b2d0f-giresun.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Giresun
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-giresun_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/9964039f-3827-45cd-aa62-ff8c00be1ae7-kapadokya.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Kapadokya
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-kapadokya_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/fabe6af1-1216-496b-80a9-d3c7bc6c4540-kastamonu.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Kastamonu
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-kastamonu_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/abbb0426-47d1-49ce-a999-f4fbac183625-inop.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Sinop
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-sinop_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/05997514-40bd-4fd3-8fdd-db65512bf503-urla.jpg" group-title="Gökyüzünden Rehber",Gökyüzünden Rehber - Urla
+https://aksam-vod.mncdn.com/cS3lKI/smil:gokyuzunden-urla_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/26/4c1c1f25-c898-4756-869f-46ea5304106a-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 49. Bölüm 24 02 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-24022024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/04/65a9f7cc-7cfe-4557-8e9c-cdca7bd383ad-ZZZ.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 50. Bölüm 02 03 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-02032024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/12/b9942236-edb5-4dbf-8206-07d58d6cd7e1-foto düzenleme 640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 51. Bölüm 09 03 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-09032024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/25/55dd8be9-ae23-4f5f-86bd-d93df5ec7598-g.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 52. Bölüm 23 03 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-23032023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/01/06e51df9-8361-4de0-95e0-8e08e3f95d98-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 53. Bölüm 30 03 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-300320024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/08/1ab214e3-70a7-468b-ac11-09871087c398-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 54. Bölüm 06 04 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-06042024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/17/b79dbd81-cfc9-4c01-9ecf-acf4f9905ece-cccc.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 55. Bölüm 13 04 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-13042024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/22/73380c2e-b505-41f9-9e9f-c531205be257-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 56. Bölüm 20.04.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-20042024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/29/b4b2d532-c25a-4088-84ef-ea6f588e9c43-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 57. Bölüm 27 04 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-27042024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/06/efe834bb-d902-49a7-89f7-ff37016187ca-bb.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 58. Bölüm 04 05 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-04052024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/13/667ec55e-df0c-4eb7-b022-71156f408947-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 59. Bölüm 11 05 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-11052024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/20/ba456b2b-f258-430d-837f-0708ecfd3a8a-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 60. Bölüm 18 05 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-18042024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/28/54ea3b45-6309-4ece-a842-536956d96955-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 61. Bölüm 25 05 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-25052024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/03/5eea70eb-293b-407f-a242-883e5e164e5e-Ekran görüntüsü 2024-06-03 110552.png" group-title="Tarihi Rotalar",Tarihi Rotalar 62. Bölüm 25 06 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-01062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/10/90cca32f-7ee6-4d5f-81fa-fba58865cb74-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 63. Bölüm 08 06 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-08062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/04/db1f01a3-01c5-4ca3-bb1e-629d25572f4a-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 64. Bölüm 02 11 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-02112024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/14/c44118a9-3906-4e81-96e2-548811c594ce-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 65. Bölüm 09 11 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-09112024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/19/5fdffa7f-d69d-4666-8c86-6037912238a8-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 66. Bölüm 16 11 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-16112024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/23/f837b778-a2d9-4fe1-ac9b-c2d19f3cab43-VVVVVVVVVVVV.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 67. Bölüm 23 11 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-23112024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/12/03/d4163c9d-5da7-45b8-abdf-e3e936436b61-ddddddddd.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 68. Bölüm 30 11 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-30112024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/12/09/96b9ae99-9405-4a7c-98de-16bb25f32f71-f.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 69. Bölüm 07 12 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-07122024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/12/18/29efddf3-45e2-4cf7-9aeb-026f0bb3a967-ddddddddd.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 70. Bölüm 14 12 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarini-rotalar-14122024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/03ba9064-42c8-4610-ab05-ec60c56a3011-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 71. Bölüm 21 12 2024
+https://cdn.tv4.com.tr/video/tarihi-rotalar-21122024r.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/249d5c7f-5bf9-4f5c-a407-759faa2e1055-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 72. Bölüm 28 12 2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-28122024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/73acd716-2dfe-4e81-b26b-0caefbfb87b4-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 73. Bölüm 04 01 2025
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-04012025_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/c0dbb376-6a62-4e26-828e-5b5cb05fe805-gggggggggggg.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 74. Bölüm 11 01 2025
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-11012025_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/20/d6fc2e77-12f2-44be-926e-3adb450f85b7-e.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 75. Bölüm 18 01 2025
+https://cdn.tv4.com.tr/video/tarihi-rotalar-18012025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/14/dd929aed-8412-41be-ba7f-3743f89bf96c-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 76. Bölüm 25 01 2025
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-25012025_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/14/285ab044-0046-46b1-ab5f-124ac57a7a31-gggggggggggg.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 77. Bölüm 01 02 2025
+https://cdn.tv4.com.tr/video/tarihi-rotalar-01022025.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/14/1e555b3d-6663-4c07-9413-19e1aab3fc3b-foto-düzenleme-640X360.jpg" group-title="Tarihi Rotalar",Tarihi Rotalar 78. Bölüm 08 02 2025
+https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-08022025_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/30/2c4eef13-c520-4f76-b470-69192a8d23f1-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 13. Bölüm - 30.03.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-29032022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/06/17d74c64-8cc1-4e89-af34-4d9e03f6a47c-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 14. Bölüm - 06.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-06042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/21/99c1062d-eb32-4666-8f8a-6daba9403a8e-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 15. Bölüm - 13.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-13042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/21/41ddee9b-d041-467e-8994-d793d39355e4-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 16. Bölüm - 20.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-20042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/27/50009007-acfa-403d-9500-a9b774afa611-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 17. Bölüm - 27.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-27042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/04/11f19225-33ba-43c8-81a9-b831e984a4b9-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 18. Bölüm 04.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-04052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/12/b66586bc-1c18-4629-b0d7-1536b50a4879-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 19. Bölüm 11.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-11052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/23/d47f366f-f2dc-475f-8f09-6c2bd7ed468e-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 20. Bölüm 18.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-180520221_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/26/543d0ac4-c767-43d6-8d19-325d1e306a98-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 21. Bölüm 25.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-25052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/06/15/9415c2fb-e57f-47c0-9f58-bfdfda118699-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 22. Bölüm 01.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-01062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/06/15/fae22f8c-9969-45a8-9d45-c34db118ca27-foto düzenleme 640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 23. Bölüm 08.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-08062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/06/15/1b63dc3f-4e6a-4863-9838-0129fa66305e-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 24. Bölüm 15.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-15062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/07/06/400e5211-05a0-451f-907d-07c332e209d8-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 25. Bölüm 22.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-22062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/01/bce2c503-56b1-4233-8791-58bae9c249d7-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 26. Bölüm 31.08.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-31082022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/06/0406a5c3-361e-4b0a-88f3-34e098f221c7-hqdefault.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 27. Bölüm 03.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-03092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/16/8c84b94c-6126-484b-acda-2e3fb42e3b4e-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 28. Bölüm 07.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-07092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/16/788d31c8-4284-4cb5-8771-91d62d33f346-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 29. Bölüm 14.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-14092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/23/34f76cb3-8ce0-4472-bae3-a49b64908bc9-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 30. Bölüm 21.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-21092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/05/a9d5b393-0a98-45c8-abfc-2ed6cb7c7c2c-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 31. Bölüm 05.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-05102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/31/2b679c13-3e5b-48eb-bc84-df3ee6e45acb-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 32. Bölüm 12.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-12102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/31/0605b20d-d257-429f-82a0-c9bc1d891120-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 33. Bölüm 19.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-19102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/31/13e578a4-b78a-4329-b17e-2f6b661c831a-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 34. Bölüm 26.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-26102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/11/04/1020dc16-6ef8-4bf5-96b9-672a7ac3aca3-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 35. Bölüm 02.11.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-02112022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/11/15/82ed1bc4-a696-48f2-a48f-df1aa439b099-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 36. Bölüm 09.11.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-09112022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/11/29/f6f7da51-99ad-407d-ac88-a1b4bf112141-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 37. Bölüm 16.11.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-16112022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/11/30/5b064ab7-b203-407e-83c9-7f281878b43e-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 38. Bölüm 30.11.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-30112022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/12/07/b76f07ea-3c0d-458a-923f-162eb8d09ad6-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 39. Bölüm 07.12.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-07122022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/12/14/2b7307e3-f1fd-4d10-9f32-1e5808fe9fae-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 40. Bölüm 14.12.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-14122022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/12/27/6556e387-e634-437a-81c2-c2fdc4defe4a-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 41. Bölüm 21.12.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-21122022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/01/02/f89c37e8-5130-4b40-a874-03a746895404-foto-düzenleme-640X360.jpg" group-title="Nasıl Beslenmeli?",Nasıl Beslenmeli? 42. Bölüm 28.12.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:nasil-beslenmeli-28122022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/25/e8410364-8baf-4491-a2df-43ce1191ff5d-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 8. Bölüm - 25.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-25022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/04/a561f332-420a-4359-88b9-891f3454caac-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 9. Bölüm - 04.03.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-04032022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/11/2d33a8a0-09fd-48ce-a4a6-3f005c8fdae8-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 10. Bölüm - 11.03.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-11032022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/18/962f0f4f-868d-47ed-8beb-eaf38c94701a-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 11. Bölüm - 18.03.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-18032022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/25/0b978ade-d931-4465-bae0-c0db35d00a6a-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 12. Bölüm - 25.03.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-25032022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/01/3609d0f7-d40d-4e7c-a60c-2d19a52daba7-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 13. Bölüm - 01.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-01042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/08/cae7c3c9-5e87-4098-aa5d-65a777f1884a-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 14. Bölüm - 08.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-08042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/15/9b776d33-86a4-4f7b-9d70-7d9d06e5ed63-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 15. Bölüm - 15.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-15042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/22/a42ba4fa-92e8-44ca-a4c0-ed3d805f6ede-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 16. Bölüm - 22.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-22042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/29/588240f3-de20-4711-b2b4-fcc77127f3e2-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 17. Bölüm - 29.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-29042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/06/f3eb23e6-7c26-49ba-ac68-c17206844e17-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 18. Bölüm 06.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-06052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/13/7e6d52d5-6835-4ded-8640-9ce8f8a84998-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 19. Bölüm 13.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-13052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/23/294d1729-435b-4624-a764-f46ef91800da-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 20. Bölüm 20.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-200520221_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/27/d2dbc318-1cb5-4934-baa9-c883e6f04a4c-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 21. Bölüm 27.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-27052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/06/16/12ba353e-6cd5-466f-8b82-ad439935ff6e-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 22. Bölüm 03.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-03062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/06/18/1e1ceb84-576b-41eb-ac4f-6119a5590e60-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 23. Bölüm 17.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-17062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/07/06/ed79ef31-c046-46a5-ba3a-a2625496e978-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 24. Bölüm 24.06.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-24062022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/07/06/19a0bdbf-6305-4819-aa46-221d2371b7d3-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 25. Bölüm 01.07.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-01072022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/06/7c5ed290-b504-4d82-9a34-3647c518d24c-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 26. Bölüm 08.07.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-08072022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/06/25319752-9035-49af-a142-84a00cb53cdb-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 27. Bölüm 02.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-02092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/16/b9615ce7-5ad8-447b-a97a-36ab47ea4fb0-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 28. Bölüm 16.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-16092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/23/7abec0ba-e4e2-46ee-87af-6a52b00b478d-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 29. Bölüm 23.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-23092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/09/30/acb0d900-a45e-4b6f-a123-830bf934681f-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 30. Bölüm 30.09.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-30092022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/11/751623e9-b50a-4b0b-92b9-a4f48892dc67-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 31. Bölüm 07.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-07102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/31/95a74352-0c79-4897-a7d5-061d38c1f406-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 32. Bölüm 14.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-14102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/31/ccf738c3-addf-406c-9624-ac0214935637-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 33. Bölüm 21.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-21102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/10/31/c79bc1ad-1c3a-4634-ab60-3d589c5acda7-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 34. Bölüm 28.10.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-28102022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/11/29/ccac17d8-3a00-4f97-abf9-394f2b21878b-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 35. Bölüm 25.11.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-25112022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/12/07/d1a67212-82e0-469c-8934-091ecf14b2dd-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 36. Bölüm 02.12.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-02120222_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/12/12/d238ae72-aa24-4a15-82c5-660bee48bc39-foto-düzenleme-640X360.jpg" group-title="Ne Yapmalı?",Ne Yapmalı? 37. Bölüm 09.12.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:ne-yapmali-09122022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/4c36e4ec-a8a3-40c5-b42f-b9f5a620e02f-m-46-2406.jpg" group-title="Metrekare",Metrekare 46. Bölüm 24.06.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-24062023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/a55e34a8-dd83-4656-8276-0c46656d0d91-m-47-0807.jpg" group-title="Metrekare",Metrekare 47. Bölüm - 08.07.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-08072023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/bc954446-142b-49bd-89b8-8ce7c6c4989c-m48-15-07.jpg" group-title="Metrekare",Metrekare 48. Bölüm - 15.07.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-15072023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/db71e4d6-7747-4aaf-94b6-b2babf6d1067-m-49-2207.jpg" group-title="Metrekare",Metrekare 49. Bölüm - 22.07.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-22072023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/04/0c1cdddb-67d7-4bee-9991-bd14c9ae5cb2-m-50-12-08.jpg" group-title="Metrekare",Metrekare 50.Bölüm - 12.08.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-12082023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/09/26/d5fcc0e9-c671-48b7-b434-09ba80823ace-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 51.Bölüm - 23.09.2023
+https://cdn.tv4.com.tr/video/metrekare-51 bölüm.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/10/02/326416eb-3535-4006-9f27-1c291811550d-Adsız.jpg" group-title="Metrekare",Metrekare 52.Bölüm - 30.09.2023
+https://cdn.tv4.com.tr/video/metrekare-30 09 2023.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/12/04/3fcc356b-83e9-466e-b20f-01904861c4b7-dddd.jpg" group-title="Metrekare",Metrekare 53.Bölüm - 25.11.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-25.11.2023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/12/04/9f4122f8-4752-45c7-b6a8-a697c556c9f7-3.jpg" group-title="Metrekare",Metrekare 54.Bölüm - 02.12.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-02122023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2023/12/13/0bf1e7a9-5acb-46a5-85b2-55c263973ba5-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 55.Bölüm - 09.12.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-09122023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/01/02/d052fd37-6452-419a-90ea-a9237369b06c-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 56.Bölüm - 30.12.2023
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-30122023_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/01/30/8bc55a1f-0af7-4dae-a128-ac8d54d343d3-xcxc.jpg" group-title="Metrekare",Metrekare 57.Bölüm - 27.01.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-27012024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/19/a67f8839-013e-4a5b-ab46-0032133eb9f8-xaa.jpg" group-title="Metrekare",Metrekare 58.Bölüm - 17.02.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-17022024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/26/f363d8cc-7a07-429e-81f0-e02c2b0c8007-xxxx.jpg" group-title="Metrekare",Metrekare 59.Bölüm - 24.02.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-24022024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/04/ea7a6726-ebd5-45a7-ab4d-486c572e5859-XXXX.jpg" group-title="Metrekare",Metrekare 60.Bölüm - 02.03.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-02032024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/03/140f3cbe-a23c-4976-b30c-ef9593f1a6a8-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 61.Bölüm - 01.06.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-01062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/10/60ca82d5-1e74-43c9-ab2d-1bbf1dbe6a64-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 62.Bölüm - 08.06.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-08062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/25/583a5450-66a1-487f-8d0f-7ec4a6d377c8-bbbbb.jpg" group-title="Metrekare",Metrekare 63.Bölüm - 15.06.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-15062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/25/f506a0ad-f2f9-4755-a9a6-ba1449077fd8-işi.jpg" group-title="Metrekare",Metrekare 64.Bölüm - 22.06.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-22062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/01/63439716-c673-4ae8-bb76-b81cb8de3043-zzz.jpg" group-title="Metrekare",Metrekare 65.Bölüm - 29.06.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-29062024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/12/681d3044-fd35-4e18-8176-0cb3fc522b5c-m2.jpg" group-title="Metrekare",Metrekare 66.Bölüm - 06.07.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-06072024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/17/95e8eca2-6598-47fc-b3a4-3e69e1308fde-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 67.Bölüm - 13.07.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-13072024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/22/ee4582cd-3e33-4790-8d49-6d26206c700b-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 68.Bölüm - 20.07.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-20072024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/29/252f6ad8-0982-4f81-ba89-8a602308be17-ggg.jpg" group-title="Metrekare",Metrekare 69.Bölüm - 27.07.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-27072024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/08/13/90030793-13f8-4566-97fc-2727e7230762-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 70.Bölüm - 10.08.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-10082024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/08/21/dc14d248-a574-499b-9f5f-91aae8ddcb17-dddddddddd.jpg" group-title="Metrekare",Metrekare 71.Bölüm - 17.08.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-17082024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/08/26/0d947c1b-bf4a-4a97-9e61-b4d55dd43ab5-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 72.Bölüm - 24.08.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-24082024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/09/02/da02a850-510c-415d-aa90-df83770e06ed-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 73.Bölüm - 31.08.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-31082024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/09/10/e05ec7c7-6cf6-4791-8cdc-a2f833768638-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 74.Bölüm - 07.09.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-07092024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/09/16/e2692291-70f5-4d74-b019-4da6caab313a-foto-düzenleme-640X360.jpg" group-title="Metrekare",Metrekare 75.Bölüm - 14.09.2024
+https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-14092024_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/43af4ac5-bfb0-4327-8a96-a961c774fc43-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 1. Bölüm - 10.06.2021
+https://cdn.tv4.com.tr/video/dr-murat-anlatiyor-10062021.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/d61a8258-6872-4027-a8ae-95e22618060f-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 2. Bölüm - 17.06.2021
+https://cdn.tv4.com.tr/video/dr-murat-anlatiyor-17062021.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/af99f69b-38a4-4060-91dc-9143ea53fd09-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 3. Bölüm - 23.06.2021
+https://cdn.tv4.com.tr/video/dr-murat-anlatiyor-23062021.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/3f4dc3cb-8b6a-46be-b171-5aa521f91be6-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 4. Bölüm - 30.06.2021
+https://aksam-vod.mncdn.com/cS3lKI/smil:dr-murat-anlatiyor-30062021_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/9a0423cc-1a2f-42a5-91d9-c9dcdeb37f52-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 5. Bölüm - 07.07.2021
+https://aksam-vod.mncdn.com/cS3lKI/smil:dr-murat-anlatiyor-07072021_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/5035ce46-e635-4ef3-9948-e6f2567e314e-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 6. Bölüm - 14.07.2021
+https://aksam-vod.mncdn.com/cS3lKI/smil:dr-murat-anlatiyor-14072021_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/1276f184-8844-49fd-9821-177fb77950f1-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 7. Bölüm - 21.07.2021
+https://aksam-vod.mncdn.com/cS3lKI/smil:dr-murat-anlatiyor-21072021_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/37fe9930-d2f2-4998-954f-e7032b2d39bd-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 8. Bölüm - 28.07.2021
+https://aksam-vod.mncdn.com/cS3lKI/smil:dr-murat-anlatiyor-28072021_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/7b3b37bd-0816-40ac-983d-c9f40d5ded0f-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 9. Bölüm - 04.08.2021
+https://aksam-vod.mncdn.com/cS3lKI/smil:dr-murat-anlatiyor-04082021_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/03/09/c49ef1a2-1d63-4c89-bbc4-0b3452a34c5b-Adsız.jpg" group-title="Doktor Murat Anlatıyor",Doktor Murat Anlatıyor 10. Bölüm - 11.08.2021
+https://cdn.tv4.com.tr/video/dr-murat-anlatiyor-11082021.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/02/050cbb24-33f3-4d37-89fa-f7f70a660ca7-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 22. Bölüm - 01.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-01022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/02/e6689135-23db-4b9c-b655-05d75625b4f2-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 23. Bölüm - 02.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-02022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/04/6c41a64d-3f88-44ff-b284-24a5d6064d66-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 24. Bölüm - 03.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-03022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/04/4f85eb04-5a68-4fe1-92ce-65015d058ee5-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 25. Bölüm - 04.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-04022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/07/ce974565-6575-4cc7-90ea-33332545d1ef-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 26. Bölüm - 07.02.2022
+https://cdn.tv4.com.tr/video/yemek-atolyesi-07022022.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/09/6e05c876-5450-45c6-a899-76434d0df47a-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 27. Bölüm - 09.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-09022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/11/3fe45c56-861b-4823-8695-bc055fe96dea-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 28. Bölüm - 11.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-11022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/14/2a4c050b-376a-4f11-8a02-a4b9a6cdf29f-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 29. Bölüm - 14.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-14022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/18/44556039-dfae-4a85-b800-9a49405bc9b7-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 30. Bölüm - 16.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-16022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/18/755baefb-974f-4aff-aeb0-d8f92685ea55-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 31. Bölüm - 18.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-180222_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/21/91fe3d85-4720-4555-adea-a8bc0562037f-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 32. Bölüm - 21.02.2022
+https://cdn.tv4.com.tr/video/yemek-atolyesi-21022022.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/23/9b9d9ea5-20ad-4530-9177-3d3b8c6ebdfd-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 33. Bölüm - 23.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-23022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/02/25/4c2362c7-4a38-4df0-ae45-43fe20fb5c17-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 34. Bölüm - 25.02.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-25022022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/03/eac8dcbf-d14a-4d03-99d5-b0cd18ec3b6e-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 35. Bölüm - 02.04.2022
+https://cdn.tv4.com.tr/video/yemek-atolyesi-02042022.mp4
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/04/19aedbdf-00f9-43e4-a196-6ddb3d97dd43-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 36. Bölüm - 03.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-03042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/04/321eec72-88f5-4aee-a7ee-f43fa48115b7-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 37. Bölüm - 04.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-04042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/05/816b87f5-072d-4eb3-a660-d58004bdbfd8-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 38. Bölüm - 05.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-05042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/06/2b717ce5-6ce2-489a-ac81-9abd4b4ce171-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 39. Bölüm - 06.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-06042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/07/447a14ac-1025-463c-b71c-ff26f00f5a51-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 40. Bölüm - 07.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-07042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/08/4cbbf51f-ff68-46f3-8c66-e83ce1553a9d-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 41. Bölüm - 08.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-08042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/16/c57bf68b-a584-48e7-86b8-9e5e5b981143-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 42. Bölüm - 16.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-11042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/17/bbbd3869-8e22-43a3-b0e1-01ac6e5380a2-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 43. Bölüm - 17.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-17042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/23/83fd031c-ef3a-4859-ae2a-b4b52c7eea2c-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 44. Bölüm - 23.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-23042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/24/f15dca18-597f-4e58-8c03-3d6158c9ce87-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 45. Bölüm - 24.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-24042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/04/30/362d5854-5608-4289-b3ac-827b720b79a5-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 46. Bölüm - 30.04.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-30042022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/01/f58e5a09-128e-44ee-b64e-feff28052ca2-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 47. Bölüm - 01.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-01052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/07/80e1423b-e111-41f2-b55b-2f2058035591-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 48. Bölüm 07.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-07052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/14/e3d4e744-4972-436a-b152-92616e9689fb-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 49. Bölüm 08.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-0805_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/14/4d0cef46-2706-468a-967b-4f3488c63aea-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 50. Bölüm 14.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-14052022_mobil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgs.turkmedya.com.tr/Documents/tv4/Images/2022/05/15/40745d3a-c8f0-4ac0-b301-d96213179784-foto-düzenleme-640X360.jpg" group-title="Yemek Atölyesi",Yemek Atölyesi 51. Bölüm 15.05.2022
+https://aksam-vod.mncdn.com/cS3lKI/smil:yemek-atolyesi-15052022_mobil.smil/playlist.m3u8

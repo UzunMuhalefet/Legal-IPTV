@@ -187,6 +187,43 @@
         ]
     },
     {
+        "name": "Bil Bilebilirsen",
+        "img": "https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/13-01-2025-48-11-01-tv4-program.png",
+        "url": "https://www.tv4.com.tr/yasam/bil-bilebilirsen--940",
+        "episodes": [
+            {
+                "name": "Bil Bilebilirsen - 18 01 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/20/1e3fafb7-2611-4aaa-8a33-2e8a3f72136f-g.jpg",
+                "url": "https://www.tv4.com.tr/Video/bil-bilebilirsen---18-01-2025--1080907",
+                "stream_url": "https://cdn.tv4.com.tr/video/bil-bilebilirsen-18012025.mp4"
+            },
+            {
+                "name": "Bil Bilebilirsen - 25 01 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/c87b82a0-365a-4024-9be9-b57ce0a876f3-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/bil-bilebilirsen---25-01-2025--1080960",
+                "stream_url": "https://cdn.tv4.com.tr/video/bil-bilebilirsen-25012025.mp4"
+            },
+            {
+                "name": "Bil Bilebilirsen - 01 02 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/3b7fdcd9-b0a7-49a7-a858-69c2b5a04af7-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/bil-bilebilirsen---01-02-2025--1080961",
+                "stream_url": "https://cdn.tv4.com.tr/video/bil-bilebilirsen-01022025.mp4"
+            },
+            {
+                "name": "Bil Bilebilirsen - 08 02 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/47666d43-4abd-4245-94ea-6fdc66e04b4e-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/bil-bilebilirsen---08-02-2025--1080962",
+                "stream_url": "https://cdn.tv4.com.tr/video/bil-bilebilirsen-08022025.mp4"
+            },
+            {
+                "name": "Bil Bilebilirsen - 15 02 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/17/4399e9f5-2a7d-46b9-909b-912cf43e43fe-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/bil-bilebilirsen---15-02-2025--1080963",
+                "stream_url": "https://cdn.tv4.com.tr/video/bil-bilebilirsen-15022025.mp4"
+            }
+        ]
+    },
+    {
         "name": "Gökyüzünden Rehber",
         "img": "https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/02-08-2023-05-51-11-photo_5931447860270840940_x.jpg",
         "url": "https://www.tv4.com.tr/yasam/gokyuzunden-rehber--907",
@@ -243,7 +280,8 @@
     },
     {
         "name": "Tarihi Rotalar",
-        "img": "https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/18-05-2022-46-50-05-tv4-program_OMER_KOKAL.png",
+        "oldimg": "https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/18-05-2022-46-50-05-tv4-program_OMER_KOKAL.png",
+        "img": "https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/18-11-2024-42-52-09-tv4-program.png",
         "url": "https://www.tv4.com.tr/yasam/tarihi-rotalar--864",
         "episodes": [
             {
@@ -425,6 +463,186 @@
                 "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/12/21ab1fd6-a0fc-4b51-9b13-89ac6b1011d8-foto-düzenleme-640X360.jpg",
                 "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-47-bolum-10-02-2024--1080161",
                 "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-10022024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 49. Bölüm 24 02 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/26/4c1c1f25-c898-4756-869f-46ea5304106a-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-49-bolum-24-02-2024--1080182",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-24022024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 50. Bölüm 02 03 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/04/65a9f7cc-7cfe-4557-8e9c-cdca7bd383ad-ZZZ.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-50-bolum-02-03-2024--1080228",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-02032024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 51. Bölüm 09 03 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/12/b9942236-edb5-4dbf-8206-07d58d6cd7e1-foto düzenleme 640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-51-bolum-09-03-2024--1080238",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-09032024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 52. Bölüm 23 03 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/25/55dd8be9-ae23-4f5f-86bd-d93df5ec7598-g.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-52-bolum-23-03-2024--1080258",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-23032023_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 53. Bölüm 30 03 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/01/06e51df9-8361-4de0-95e0-8e08e3f95d98-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-53-bolum-30-03-2024--1080287",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-300320024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 54. Bölüm 06 04 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/08/1ab214e3-70a7-468b-ac11-09871087c398-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-54-bolum-06-04-2024--1080297",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-06042024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 55. Bölüm 13 04 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/17/b79dbd81-cfc9-4c01-9ecf-acf4f9905ece-cccc.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-55-bolum-13-04-2024--1080358",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-13042024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 56. Bölüm 20.04.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/22/73380c2e-b505-41f9-9e9f-c531205be257-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-56-bolum-20042024--1080367",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-20042024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 57. Bölüm 27 04 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/04/29/b4b2d532-c25a-4088-84ef-ea6f588e9c43-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-57-bolum-27-04-2024--1080396",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-27042024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 58. Bölüm 04 05 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/06/efe834bb-d902-49a7-89f7-ff37016187ca-bb.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-58-bolum-04-05-2024--1080407",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-04052024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 59. Bölüm 11 05 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/13/667ec55e-df0c-4eb7-b022-71156f408947-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-59-bolum-11-05-2024--1080416",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-11052024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 60. Bölüm 18 05 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/20/ba456b2b-f258-430d-837f-0708ecfd3a8a-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-60-bolum-18-05-2024--1080432",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-18042024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 61. Bölüm 25 05 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/05/28/54ea3b45-6309-4ece-a842-536956d96955-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-61-bolum-25-05-2024--1080450",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-25052024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 62. Bölüm 25 06 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/03/5eea70eb-293b-407f-a242-883e5e164e5e-Ekran görüntüsü 2024-06-03 110552.png",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-62-bolum-25-06-2024--1080459",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-01062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 63. Bölüm 08 06 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/10/90cca32f-7ee6-4d5f-81fa-fba58865cb74-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-63-bolum-08-06-2024--1080509",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-08062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 64. Bölüm 02 11 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/04/db1f01a3-01c5-4ca3-bb1e-629d25572f4a-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-64-bolum-02-11-2024--1080793",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-02112024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 65. Bölüm 09 11 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/14/c44118a9-3906-4e81-96e2-548811c594ce-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-65-bolum-09-11-2024--1080822",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-09112024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 66. Bölüm 16 11 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/19/5fdffa7f-d69d-4666-8c86-6037912238a8-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-66-bolum-16-11-2024--1080852",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-16112024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 67. Bölüm 23 11 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/11/23/f837b778-a2d9-4fe1-ac9b-c2d19f3cab43-VVVVVVVVVVVV.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-67-bolum-23-11-2024--1080857",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-23112024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 68. Bölüm 30 11 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/12/03/d4163c9d-5da7-45b8-abdf-e3e936436b61-ddddddddd.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-68-bolum-30-11-2024--1080868",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-30112024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 69. Bölüm 07 12 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/12/09/96b9ae99-9405-4a7c-98de-16bb25f32f71-f.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-69-bolum-07-12-2024--1080873",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-07122024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 70. Bölüm 14 12 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/12/18/29efddf3-45e2-4cf7-9aeb-026f0bb3a967-ddddddddd.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-70-bolum-14-12-2024--1080887",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarini-rotalar-14122024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 71. Bölüm 21 12 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/03ba9064-42c8-4610-ab05-ec60c56a3011-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-71-bolum-21-12-2024--1080894",
+                "stream_url": "https://cdn.tv4.com.tr/video/tarihi-rotalar-21122024r.mp4"
+            },
+            {
+                "name": "Tarihi Rotalar 72. Bölüm 28 12 2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/249d5c7f-5bf9-4f5c-a407-759faa2e1055-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-72-bolum-28-12-2024--1080895",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-28122024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 73. Bölüm 04 01 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/73acd716-2dfe-4e81-b26b-0caefbfb87b4-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-73-bolum-04-01-2025--1080896",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-04012025_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 74. Bölüm 11 01 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/14/c0dbb376-6a62-4e26-828e-5b5cb05fe805-gggggggggggg.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-74-bolum-11-01-2025--1080897",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-11012025_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 75. Bölüm 18 01 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/01/20/d6fc2e77-12f2-44be-926e-3adb450f85b7-e.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-75-bolum-18-01-2025--1080908",
+                "stream_url": "https://cdn.tv4.com.tr/video/tarihi-rotalar-18012025.mp4"
+            },
+            {
+                "name": "Tarihi Rotalar 76. Bölüm 25 01 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/14/dd929aed-8412-41be-ba7f-3743f89bf96c-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-76-bolum-25-01-2025--1080957",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-25012025_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Tarihi Rotalar 77. Bölüm 01 02 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/14/285ab044-0046-46b1-ab5f-124ac57a7a31-gggggggggggg.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-77-bolum-01-02-2025--1080958",
+                "stream_url": "https://cdn.tv4.com.tr/video/tarihi-rotalar-01022025.mp4"
+            },
+            {
+                "name": "Tarihi Rotalar 78. Bölüm 08 02 2025",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2025/02/14/1e555b3d-6663-4c07-9413-19e1aab3fc3b-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/tarihi-rotalar-78-bolum-08-02-2025--1080959",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:tarihi-rotalar-08022025_mobil.smil/playlist.m3u8"
             }
         ]
     },
@@ -986,6 +1204,114 @@
                 "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/01/30/8bc55a1f-0af7-4dae-a128-ac8d54d343d3-xcxc.jpg",
                 "url": "https://www.tv4.com.tr/Video/metrekare-57bolum---27012024--1080140",
                 "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-27012024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 58.Bölüm - 17.02.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/19/a67f8839-013e-4a5b-ab46-0032133eb9f8-xaa.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-58bolum---17022024--1080173",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-17022024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 59.Bölüm - 24.02.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/02/26/f363d8cc-7a07-429e-81f0-e02c2b0c8007-xxxx.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-59bolum---24022024--1080183",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-24022024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 60.Bölüm - 02.03.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/03/04/ea7a6726-ebd5-45a7-ab4d-486c572e5859-XXXX.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-60bolum---02032024--1080227",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-02032024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 61.Bölüm - 01.06.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/03/140f3cbe-a23c-4976-b30c-ef9593f1a6a8-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-61bolum---01062024--1080460",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-01062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 62.Bölüm - 08.06.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/10/60ca82d5-1e74-43c9-ab2d-1bbf1dbe6a64-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-62bolum---08062024--1080508",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-08062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 63.Bölüm - 15.06.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/25/583a5450-66a1-487f-8d0f-7ec4a6d377c8-bbbbb.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-63bolum---15062024--1080537",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-15062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 64.Bölüm - 22.06.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/06/25/f506a0ad-f2f9-4755-a9a6-ba1449077fd8-işi.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-64bolum---22062024--1080538",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-22062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 65.Bölüm - 29.06.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/01/63439716-c673-4ae8-bb76-b81cb8de3043-zzz.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-65bolum---29062024--1080543",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-29062024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 66.Bölüm - 06.07.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/12/681d3044-fd35-4e18-8176-0cb3fc522b5c-m2.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-66bolum---06072024--1080557",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-06072024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 67.Bölüm - 13.07.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/17/95e8eca2-6598-47fc-b3a4-3e69e1308fde-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-67bolum---13072024--1080591",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-13072024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 68.Bölüm - 20.07.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/22/ee4582cd-3e33-4790-8d49-6d26206c700b-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-68bolum---20072024--1080595",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-20072024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 69.Bölüm - 27.07.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/07/29/252f6ad8-0982-4f81-ba89-8a602308be17-ggg.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-69bolum---27072024--1080600",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-27072024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 70.Bölüm - 10.08.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/08/13/90030793-13f8-4566-97fc-2727e7230762-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-70bolum---10082024--1080616",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-10082024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 71.Bölüm - 17.08.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/08/21/dc14d248-a574-499b-9f5f-91aae8ddcb17-dddddddddd.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-71bolum---17082024--1080630",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-17082024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 72.Bölüm - 24.08.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/08/26/0d947c1b-bf4a-4a97-9e61-b4d55dd43ab5-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-72bolum---24082024--1080645",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-24082024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 73.Bölüm - 31.08.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/09/02/da02a850-510c-415d-aa90-df83770e06ed-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-73bolum---31082024--1080665",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-31082024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 74.Bölüm - 07.09.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/09/10/e05ec7c7-6cf6-4791-8cdc-a2f833768638-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-74bolum---07092024--1080685",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-07092024_mobil.smil/playlist.m3u8"
+            },
+            {
+                "name": "Metrekare 75.Bölüm - 14.09.2024",
+                "img": "https://imgs.turkmedya.com.tr/Documents/tv4/Images/2024/09/16/e2692291-70f5-4d74-b019-4da6caab313a-foto-düzenleme-640X360.jpg",
+                "url": "https://www.tv4.com.tr/Video/metrekare-75bolum---14092024--1080699",
+                "stream_url": "https://aksam-vod.mncdn.com/cS3lKI/smil:metrekare-14092024_mobil.smil/playlist.m3u8"
             }
         ]
     },
