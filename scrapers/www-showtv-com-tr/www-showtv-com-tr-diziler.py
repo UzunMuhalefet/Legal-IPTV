@@ -11,18 +11,20 @@ from jsontom3u import create_single_m3u, create_m3us, create_json
 site_url = "https://www.showtv.com.tr"
 dizi_arsiv = "https://www.showtv.com.tr/diziler"
 
-m3u8_pattern = 'file":\"(.*?)\"'
-
 def parse_bolum_page(url):
     try:
         r = requests.get(url)
-        streams = re.findall(m3u8_pattern, r.text)
-        for stream in streams:
-            if stream.endswith(".m3u8"):
-                return streams[0].replace('\\', "")
+        match = re.search(r'data-hope-video=\'(.*?)\'', r.text)
+        if match:
+            video_data = json.loads(match.group(1).replace('&quot;', '"'))
+            m3u8_list = video_data.get("media", {}).get("m3u8", [])
+            for item in m3u8_list:
+                if "src" in item and item["src"].endswith(".m3u8"):
+                    return item["src"]
     except Exception as e:
         print(url, str(e))
-        input()
+
+    return None
 
 def parse_episodes_page(url):
     item_list = []
