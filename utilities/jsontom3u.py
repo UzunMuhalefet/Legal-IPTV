@@ -11,14 +11,14 @@ def slugify(deger: str, unicode_izin=False) -> str:
     """
     if unicode_izin:
         deger = unicodedata.normalize("NFKC", deger)
+        # Unicode alfasayısal ve tireleri koru
+        deger = re.sub(r"[^\w\s-]", "", deger, flags=re.UNICODE)
     else:
         deger = unicodedata.normalize("NFKD", deger).encode("ascii", "ignore").decode("ascii")
-    
-    # Alfanümerik olmayan karakterleri kaldır (alt çizgi ve tire hariç)
-    deger = re.sub(r"[^\w\s-]", "", deger.lower())
+        deger = re.sub(r"[^\w\s-]", "", deger.lower())
 
     # Boşlukları ve tireleri tek tireye dönüştür
-    deger = re.sub(r"\s+", "-", deger.strip())
+    deger = re.sub(r"[\s_-]+", "-", deger.strip())
 
     return deger
 
