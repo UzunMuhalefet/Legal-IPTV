@@ -105,18 +105,6 @@
                 "stream_url": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834761_D3F5EE77&SecretKey=NtvApiSecret2014*&.m3u8"
             },
             {
-                "name": "Bizim İçin Şampiyon",
-                "img": "https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_yedek_title_7x10-1-1599054843.jpg",
-                "url": "https://puhutv.com/bizim-icin-sampiyon-izle",
-                "stream_url": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8"
-            },
-            {
-                "name": "Bir Aşk İki Hayat",
-                "img": "https://img-puhutv.mncdn.com/media/20-09/02/ikihayat_title_7x10-1.jpg",
-                "url": "https://puhutv.com/bir-ask-iki-hayat-izle",
-                "stream_url": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816365_3015F603&SecretKey=NtvApiSecret2014*&.m3u8"
-            },
-            {
                 "name": "Napoli'nin Sırrı",
                 "img": "https://img-puhutv.mncdn.com/media/23-11/10/title_7x10-1699628014.jpg",
                 "url": "https://puhutv.com/napolinin-sirri-izle",
@@ -129,17 +117,11 @@
                 "stream_url": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834771_3F4F407A&SecretKey=NtvApiSecret2014*&.m3u8"
             },
             {
-                "name": "Bi Küçük Eylül Meselesi",
-                "img": "https://img-puhutv.mncdn.com/media/19-06/24/7x10_bir-kucuk-eylul-meselesi.jpg",
-                "url": "https://puhutv.com/bi-kucuk-eylul-meselesi-izle",
-                "stream_url": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8"
-            },
-            {
                 "name": "Bacurau",
                 "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
                 "url": "https://puhutv.com/bacurau-izle",
                 "stream_url": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_832163_06AF4EA7&SecretKey=NtvApiSecret2014*&.m3u8"
-            },
+            }
         ]
     }
 ]
