@@ -9,7 +9,7 @@ sys.path.insert(0, '../../utilities')
 from jsontom3u import create_single_m3u, create_m3us, create_json
 
 site_url = "https://www.showtv.com.tr"
-dizi_arsiv = "https://www.showtv.com.tr/diziler"
+diziler_url = "https://www.showtv.com.tr/diziler"
 
 def parse_bolum_page(url):
     try:
@@ -42,7 +42,6 @@ def parse_episodes_page(url):
         item_list.insert(0, temp_item)
     return item_list
 
-
 def get_episodes_page(serie_url):
     all_items = []
     base_url = "https://www.showtv.com.tr/dizi/pagination/SERIE_ID/2/"
@@ -59,7 +58,6 @@ def get_episodes_page(serie_url):
             all_items = page_items + all_items
         page_no = page_no + 1
     return all_items
-
 
 def get_arsiv_page(url):
     item_list = []
@@ -80,10 +78,9 @@ def get_arsiv_page(url):
         item_list.append(temp_item)
     return item_list
 
-
 def main(start=0, end=0):
     data = []
-    series_list = get_arsiv_page(dizi_arsiv)
+    series_list = get_arsiv_page(diziler_url)
     if end == 0:
         end_index = len(series_list)
     else:
