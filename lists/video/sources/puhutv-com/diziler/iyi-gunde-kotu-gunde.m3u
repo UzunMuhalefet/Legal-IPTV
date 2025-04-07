@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/11/igkg_1bol_mobil_1-1599812055.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816413_DE498BB4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/19/igkg_2bol_mobil_4.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816445_AEA78392&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/25/igkg_3bol_mobil_2.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816488_CF95F155&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-10/02/igkg_4bol_mobil_2.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816547_BC1DABF6&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-10/10/igkg_5bol_mobil_3-1602354626.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816668_0E490757&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-10/17/igkg_6bol_mobil_2.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816705_61431D4E&SecretKey=NtvApiSecret2014*&.m3u8

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-06/12/screenshot-2020-06-12-at-121109.png",1. Sezon - Pilot Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_815292_E7BA5807&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-06/19/gun_on4_bolum1_16x9_v2-1592551698.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_815534_4A857F64&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-06/25/gunon4_bol2_16x9_v3.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_815811_A37D28ED&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-07/03/gunon4_bol3_mobil_v2.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816120_4531E6D7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-07/09/gunon4_4_mobil_v3.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816132_CB83D32F&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-07/17/gunon4_5_mobil_v2.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816137_CE7A2716&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-07/24/gunon4_16x9_v2.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816168_5EC68E2B&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-07/31/gunon4_7bol_mobil_2.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816241_0E96D921&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-08/07/gunon4_mobil_2.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816249_01F638FF&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-08/14/gunon4_9bol_mobil_1.jpg",1. Sezon - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816319_08A9EE08&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-08/21/gunon4_bol10_final_16x9_v2.jpg",1. Sezon - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816325_CB7D4410&SecretKey=NtvApiSecret2014*&.m3u8

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh01.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_db33e46e-b5fb-4647-b816-3dec5500b08c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh02.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ba3d4ee2-3c6d-4942-876a-5c7e68b75e42&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh03.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a123b8df-2daf-43b3-bbef-f658007a5056&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh04.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0dc0ce3d-5eb4-4808-850a-f424db676459&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh05.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_11bbe6aa-abc0-4d90-8293-2c6b4760907b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh06.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4305d26e-be09-4882-884b-534f52586036&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh07.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f8394583-8914-4aae-9ac2-c3963da39906&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh08.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1641ec8e-98c4-4bd0-b7c2-1cbc7ded7d90&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh09.jpg",1. Sezon - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_32d51d64-c5bb-47f4-b84b-819d6f50ab0a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kh10.jpg",1. Sezon - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a5e6444d-92d6-4cda-a604-6a4e9067ccd6&SecretKey=NtvApiSecret2014*&.m3u8

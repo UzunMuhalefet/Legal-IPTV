@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-01/15/zemheri_1bol_mobil_5.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814101_50788FEF&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-01/22/zemheri_2_16x9_v1.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814135_DF59CDEE&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-01/29/zemheri_3bol_mobil_2.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814171_CE0A2FE1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-02/05/zemheri_4bol_mobil_4.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814212_4FE1B102&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-02/12/zemheri_5bol_mobil_1.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814245_EDB5598A&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-02/19/zemheri_6bol_mobil_2.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814283_75A85C06&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-02/26/zemheri_7bol_mobil_4-1582727736.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814349_BCD7E059&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-03/04/zemheri_8bol_mobil_1-1583307072.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814379_1C233457&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-03/11/9.jpg",1. Sezon - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814448_D69BBF81&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-03/17/zemheri_10bol_mobil_1.jpg",1. Sezon - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814851_8B9D34DA&SecretKey=NtvApiSecret2014*&.m3u8

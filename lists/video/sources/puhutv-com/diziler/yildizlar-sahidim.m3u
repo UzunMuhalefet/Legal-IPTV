@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/yildizlar_sahidim_1bolum_mobil_1920x1080.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_98c4bbc1-c727-4407-b7e0-f08c8a905128&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/yildizlar_sahidim_2bolum_mobil_1920x1080.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d767c06b-a705-40ef-a0a7-47d31389de68&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/yildizlar_sahidim_3bolum_mobil_1920x1080.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_46d45315-5c33-4c38-a393-07d7da3caf90&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/yildizlar_sahidim_4bolum_mobil_1920x1080.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c914b4f4-101d-4827-bc4c-88becde5ff8a&SecretKey=NtvApiSecret2014*&.m3u8

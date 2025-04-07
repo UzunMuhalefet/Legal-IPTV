@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_1bolum_mobil_1920x1080.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c0a27c9d-1f2f-4f7e-a5d5-9e0e823c209d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_2bolum_mobil_1920x1080.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_898def1e-4773-43b0-b31e-167e60dfb41b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_3bolum_mobil_1920x1080.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_02045ac5-d31c-401b-be78-5d2eb4c9fc84&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kasu-4-65745342.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_429bac13-eebb-41ec-baed-1b2dcdadba3d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_5bolum_mobil_1920x1080.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_301cd6a5-83d5-4ccd-98d0-674ae3f3e0be&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_6bol_169_1.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5504dba8-e8c4-4a02-ad6d-6a7840c692a6&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_7bol_mobil_1.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d68a17a6-9957-4e42-acd3-5a565b0cdab8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/kalbimin_sultani_8bol_mobil_1.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6d37d8ba-90cd-40c6-b753-d6df8662766c&SecretKey=NtvApiSecret2014*&.m3u8

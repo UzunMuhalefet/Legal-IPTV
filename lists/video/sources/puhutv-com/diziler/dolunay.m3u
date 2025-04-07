@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_1_bolum_mobil_1920x1080.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ed5c05de-b502-4e48-a90f-1b39b0c179e9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_2_bolum_mobil_1920x1080.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_04c3b11d-859d-491d-84cd-717dfaf344be&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_3_blm_mobil_1920x1080.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_cdded6e6-9fce-4eb3-b0c0-780034163865&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_4_bolum_mobil_1920x1080.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a91fc3cc-3e8c-4b39-9312-d941490c5638&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_5_bolum_mobil_1920x1080.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_3351f78f-e30a-4db2-b458-71979317c5e7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_6_bolum_mobil_1920x1080.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_83feb8d9-f0cb-45a6-9123-7217a15918cb&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_7_blm_mobil_1920x1080.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9ebb7f60-12cb-438a-b3e4-bfbe70421bdc&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_8_bolum_mobil_1920x1080.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d7f3bf4e-bccc-4d7e-9d26-e5bb6524b413&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_9_blm_mobil_1920x1080.jpg",1. Sezon - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_eb96d16a-1636-41e2-9500-233531aba27a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_10_bolum_mobil_1920x1080.jpg",1. Sezon - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c3c5e24f-9af7-4afb-9c2d-45db4b42a866&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_11_bolum_mobil_1920x1080.jpg",1. Sezon - 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_33d71b2f-1bfe-4565-96e8-1e06694797c1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_12_bolum_mobil_1920x1080-1-1561404426.jpg",1. Sezon - 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_669338c1-7046-453e-bb03-c24bb0ff096a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_13_bolum_mobil_1920x1080.jpg",1. Sezon - 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_226d5934-ba20-45eb-8524-efee6dc0b6ff&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_14_bolum_mobil_1920x1080.jpg",1. Sezon - 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_537f168d-fafd-4c3a-93e1-fd03412d775d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_15_bolum_mobil_1920x1080.jpg",1. Sezon - 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4dbebc31-38d7-4741-a042-b6e424d36cc5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_16_bolum_mobil_1920x1080.jpg",1. Sezon - 16. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_604eee39-cbc4-4647-9852-9277d371f3da&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_17_bolum_mobil_1920x1080.jpg",1. Sezon - 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6a7abf65-f044-4616-992d-9fc7871662b1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_18_blm_mobil_1920x1080.jpg",1. Sezon - 18. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b65ecd30-46ca-40c1-8851-a637f336b1b3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_19_bolum_mobil_1920x1080.jpg",1. Sezon - 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_205979f2-b85a-4592-93ad-c6645535de85&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_20_blm_mobil_1920x1080.jpg",1. Sezon - 20. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c9c04ae2-cc32-4cc4-afe5-9b1873d59fc5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_21_bolum_mobil_1920x1080.jpg",1. Sezon - 21. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c60faa65-64c2-49d0-b728-e773263e9d24&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_22_bolum_mobil_1920x1080.jpg",1. Sezon - 22. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_221f2073-0d1b-4962-92f1-e00ae9a76651&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_23_bolum_mobil_1920x1080.jpg",1. Sezon - 23. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ed7bd476-cc9f-4dba-8575-acb60d58f751&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_24_bolum_mobil_1920x1080.jpg",1. Sezon - 24. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_91149821-f65d-49dd-ae60-74a0d427a6e7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_25_bolum_mobil_1920x1080.jpg",1. Sezon - 25. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_81ac52f9-f689-40be-9e0e-0941edbf8815&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/dolunay_26_bolum_mobil_1920x1080.jpg",1. Sezon - 26. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c2ba393b-e4c7-4751-8e88-4117bee51721&SecretKey=NtvApiSecret2014*&.m3u8

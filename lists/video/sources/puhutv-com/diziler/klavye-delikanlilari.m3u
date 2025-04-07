@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_1_bolum_mobil_1920x1080-1.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_09d4acc4-478c-49cc-9170-24c19a0be211&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_2_bolum_mobil_1920x1080.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8506a565-0fb3-452c-b88a-29444a72974f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_3_bolum_mobil_1920x1080.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_7379790a-88c5-47ce-8852-275dc808cc75&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_4_bolum_mobil_1920x1080.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1003cf14-bd85-4069-af5d-a5cc3933f720&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_5_bolum_mobil_1920x1080.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_eb38f080-89f3-4aa7-925e-e9b0fa5b124e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_6_bolum_mobil_1920x1080.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fa21acc2-d846-4596-a663-2a5df5a67a18&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_7_bolum_mobil_1920x1080.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9af91e4d-95f5-4096-adff-36dac1c62d87&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/klavye_delikanlilari_8_blm_mobil_1920x1080.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_821d82af-a49e-4f30-945c-cd5f83e3b14c&SecretKey=NtvApiSecret2014*&.m3u8

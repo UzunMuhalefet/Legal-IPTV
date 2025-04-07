@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_1bolum_mobil_1920x1080.jpg",1. Sezon - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f4977323-a85d-47e5-962c-cb19066edead&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_2bolum_mobil_1920x1080-1.jpg",1. Sezon - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_130898da-9c8a-4ed3-8d64-058c1a4667bf&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_3bolum_mobil_1920x1080-2.jpg",1. Sezon - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0941f7f6-94fa-4bbf-bd71-82767185b186&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_4bolum_mobil_1920x1080.jpg",1. Sezon - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5fe7b66a-1944-4cee-8b67-24c0a4907b18&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_5bolum_mobil_1920x1080.jpg",1. Sezon - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_076004fa-efd4-4800-a30d-10be48f2dc3b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_6bolum_mobil_1920x1080.jpg",1. Sezon - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_7f281e35-5684-4eda-9d94-7d3d4c86e391&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_7bolum_mobil_1920x1080.jpg",1. Sezon - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_dc73949b-773f-4663-b351-20029a149066&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_8_bolum_mobil_1920x1080.jpg",1. Sezon - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6a001af2-9331-4fd7-87f8-a443f7bdd66f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_9bolum_mobil_1920x1080.jpg",1. Sezon - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2d48d7a3-2267-41b6-b5f3-80f96e7181a4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_10bolum_mobil_1920x1080.jpg",1. Sezon - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f977cdc1-2394-48e3-b9ea-cf750753b8cd&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_11bolum_mobil_1920x1080-1.jpg",1. Sezon - 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_3210992d-0899-45fd-97aa-160c62ba270c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_12bolum_mobil_1920x1080.jpg",1. Sezon - 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fed850d1-683e-4ea2-bdd4-1147cdee6c7f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_1bolum_mobil_1920x1080-1.jpg",2. Sezon - Çİ - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_86c05300-1e50-4d66-b014-90799527ed35&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_2bolum_mobil_1920x1080-2.jpg",2. Sezon - Çİ - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4349617e-e60c-436c-88de-417b5cafdb78&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_3bolum_mobil_1920x1080-1.jpg",2. Sezon - Çİ - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_25b4eaaf-3486-4e28-94c7-924cb8ae0fd9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_4bolum_mobil_1920x1080.jpg",2. Sezon - Çİ - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_346ca508-35f8-40e3-ab9c-f1385bc0a501&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_5bolum_mobil_1920x1080.jpg",2. Sezon - Çİ - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_47f9bc57-3718-4f6e-8d61-d7fdc193cba7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_6bolum_mobil_1920x1080.jpg",2. Sezon - Çİ - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5612007c-5c20-4f5d-afd9-633f97330be2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_7bolum_mobil_1920x1080-6.jpg",2. Sezon - Çİ - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_e2ad7c95-1547-44f1-b2d0-98f36ae4fe93&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_8bolum_mobil_1920x1080-2.jpg",2. Sezon - Çİ - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1a9c8200-f2fc-444d-9aba-2251dcf83320&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_9bolum_mobil_1920x1080.jpg",2. Sezon - Çİ - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1b7f26db-deb0-4291-bca9-42f2bf539e23&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/fi_ci_10bolum_mobil_1920x1080-2.jpg",2. Sezon - Çİ - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f4e062ef-9ed8-46c8-ab1d-8a37b26cfb3e&SecretKey=NtvApiSecret2014*&.m3u8
