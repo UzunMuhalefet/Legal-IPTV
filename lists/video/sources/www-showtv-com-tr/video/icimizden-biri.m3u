@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/09/12/ver1631689106/A2F74798E82C8F99FB4682FB6C5D12D9_640x360.jpg",İçimizden Biri 1. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/09/12/A2F74798E82C8F99FB4682FB6C5D12D9_640x360.jpg",İçimizden Biri 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2021/09/12/A2F74798E82C8F99FB4682FB6C5D12D9.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/09/19/ver1632818776/EC36F385E1CEF8A5ED46A1E2F97B89C6_640x360.jpg",İçimizden Biri 2. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/09/19/EC36F385E1CEF8A5ED46A1E2F97B89C6_640x360.jpg",İçimizden Biri 2. Bölüm
 https://vmcdn.ciner.com.tr/ht/2021/09/19/EC36F385E1CEF8A5ED46A1E2F97B89C6.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/09/26/ver1632898339/E1BB1589C397E011B4F88B47D86FF6E2_640x360.jpg",İçimizden Biri 3. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/09/26/E1BB1589C397E011B4F88B47D86FF6E2_640x360.jpg",İçimizden Biri 3. Bölüm
 https://vmcdn.ciner.com.tr/ht/2021/09/26/E1BB1589C397E011B4F88B47D86FF6E2.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/10/05/ver1633685007/33C3FA502485E4955FA063BEA7A318F6_640x360.jpg",İçimizden Biri 4. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/10/05/33C3FA502485E4955FA063BEA7A318F6_640x360.jpg",İçimizden Biri 4. Bölüm
 https://vmcdn.ciner.com.tr/ht/2021/10/05/33C3FA502485E4955FA063BEA7A318F6.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/10/12/ver1634282014/DEF0730440F02214BBC7B90A5D61DDDD_640x360.jpg",İçimizden Biri 5. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/10/12/DEF0730440F02214BBC7B90A5D61DDDD_640x360.jpg",İçimizden Biri 5. Bölüm
 https://vmcdn.ciner.com.tr/ht/2021/10/12/DEF0730440F02214BBC7B90A5D61DDDD.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/10/19/ver1695133005/237BA2BC5616AA8284FA2213DFC3F672_640x360.jpg",İçimizden Biri Final Bölümü
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2021/10/19/237BA2BC5616AA8284FA2213DFC3F672_640x360.jpg",İçimizden Biri Final Bölümü
 https://vmcdn.ciner.com.tr/ht/2021/10/19/237BA2BC5616AA8284FA2213DFC3F672.m3u8

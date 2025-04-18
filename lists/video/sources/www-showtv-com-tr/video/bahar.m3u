@@ -1,81 +1,87 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/02/22/ver1726038663/BE61B566AEA5219082D29427519A065D_640x360.jpg",Bahar 1. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/02/22/BE61B566AEA5219082D29427519A065D_640x360.jpg",Bahar 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/02/22/BE61B566AEA5219082D29427519A065D.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/19/ver1726038663/80C5A2284D6B877BCEE1729D6DFF883E_640x360.jpg",Bahar 2. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/19/80C5A2284D6B877BCEE1729D6DFF883E_640x360.jpg",Bahar 2. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/03/19/80C5A2284D6B877BCEE1729D6DFF883E.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/02/28/ver1726038663/67604355BB4F2B46AEB97A12561386A3_640x360.jpg",Bahar 3. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/02/28/67604355BB4F2B46AEB97A12561386A3_640x360.jpg",Bahar 3. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/02/28/67604355BB4F2B46AEB97A12561386A3.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/06/ver1726038663/27993A62D59B4293CB87C07952F24B84_640x360.jpg",Bahar 4. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/06/27993A62D59B4293CB87C07952F24B84_640x360.jpg",Bahar 4. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/03/06/27993A62D59B4293CB87C07952F24B84.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/12/ver1726038663/DF84FEE43D6061A796EE898BBEDB9A60_640x360.jpg",Bahar 5. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/12/DF84FEE43D6061A796EE898BBEDB9A60_640x360.jpg",Bahar 5. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/03/12/DF84FEE43D6061A796EE898BBEDB9A60.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/20/ver1726038663/F1A502C8C3613E617555378B6F022B9D_640x360.jpg",Bahar 6. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/20/F1A502C8C3613E617555378B6F022B9D_640x360.jpg",Bahar 6. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/03/20/F1A502C8C3613E617555378B6F022B9D.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/27/ver1726038663/8595D8106266661E8F3AF8DE6591D0D9_640x360.jpg",Bahar 7. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/03/27/8595D8106266661E8F3AF8DE6591D0D9_640x360.jpg",Bahar 7. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/03/27/8595D8106266661E8F3AF8DE6591D0D9.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/02/ver1726038663/EDE36BAFDD98A3224EC46C206649C024_640x360.jpg",Bahar 8. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/02/EDE36BAFDD98A3224EC46C206649C024_640x360.jpg",Bahar 8. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/04/02/EDE36BAFDD98A3224EC46C206649C024.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/09/ver1726038663/C2B5C144A2DDA4C20BF9A856477B2CD2_640x360.jpg",Bahar Özel Bölümü
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/09/C2B5C144A2DDA4C20BF9A856477B2CD2_640x360.jpg",Bahar Özel Bölümü
 https://vmcdn.ciner.com.tr/ht/2024/04/09/C2B5C144A2DDA4C20BF9A856477B2CD2.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/16/ver1726038663/986A5F8070EAA71CA133923029B54715_640x360.jpg",Bahar 9. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/16/986A5F8070EAA71CA133923029B54715_640x360.jpg",Bahar 9. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/04/16/986A5F8070EAA71CA133923029B54715.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/24/ver1726038663/B12A20D8EB4F899776F20D360B4B6F97_640x360.jpg",Bahar 10. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/04/24/B12A20D8EB4F899776F20D360B4B6F97_640x360.jpg",Bahar 10. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/04/24/B12A20D8EB4F899776F20D360B4B6F97.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/01/ver1726038663/7FB1720E8EAB5F491FB5F99CA2631224_640x360.jpg",Bahar 11. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/01/7FB1720E8EAB5F491FB5F99CA2631224_640x360.jpg",Bahar 11. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/05/01/7FB1720E8EAB5F491FB5F99CA2631224.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/14/ver1726038663/F84765A30D447C025E7EAAD4E6F9F1F5_640x360.jpg",Bahar 12. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/14/F84765A30D447C025E7EAAD4E6F9F1F5_640x360.jpg",Bahar 12. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/05/14/F84765A30D447C025E7EAAD4E6F9F1F5.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/21/ver1726038663/50E3CD946F8C765C8F8401EA3144DD84_640x360.jpg",Bahar 13. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/21/50E3CD946F8C765C8F8401EA3144DD84_640x360.jpg",Bahar 13. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/05/21/50E3CD946F8C765C8F8401EA3144DD84.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/29/ver1726038663/54477681A4EE6A806DBB3E308E318F29_640x360.jpg",Bahar 14. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/05/29/54477681A4EE6A806DBB3E308E318F29_640x360.jpg",Bahar 14. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/05/29/54477681A4EE6A806DBB3E308E318F29.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/06/05/ver1726038663/62E4110805EE13C620AA5095CF40EF1F_640x360.jpg",Bahar 15. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/06/05/62E4110805EE13C620AA5095CF40EF1F_640x360.jpg",Bahar 15. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/06/05/62E4110805EE13C620AA5095CF40EF1F.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/06/14/ver1726038663/59B4A50D6E254A73F3CAB8F2F92FC0CC_640x360.jpg",Bahar 16. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/06/14/59B4A50D6E254A73F3CAB8F2F92FC0CC_640x360.jpg",Bahar 16. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/06/14/59B4A50D6E254A73F3CAB8F2F92FC0CC.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/09/24/ver1727375707/B60D976FE1989879EEB9451272CA3916_640x360.jpg",Bahar 17. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/09/24/B60D976FE1989879EEB9451272CA3916_640x360.jpg",Bahar 17. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/09/24/B60D976FE1989879EEB9451272CA3916.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/01/ver1728070179/1A47C60003850FF8AE63D372152A5FAF_640x360.jpg",Bahar 18. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/01/1A47C60003850FF8AE63D372152A5FAF_640x360.jpg",Bahar 18. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/01/1A47C60003850FF8AE63D372152A5FAF.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/08/ver1728595612/4AD18D1328C2480879CD962075B03C48_640x360.jpg",Bahar 19. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/08/4AD18D1328C2480879CD962075B03C48_640x360.jpg",Bahar 19. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/08/4AD18D1328C2480879CD962075B03C48.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/16/ver1729174133/E405E93FF5838BA4985FD0AF887917F2_640x360.jpg",Bahar 20. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/16/E405E93FF5838BA4985FD0AF887917F2_640x360.jpg",Bahar 20. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/16/E405E93FF5838BA4985FD0AF887917F2.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/23/ver1729795810/D0A088149B2D61FF11DF802A73AE4845_640x360.jpg",Bahar 21. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/23/D0A088149B2D61FF11DF802A73AE4845_640x360.jpg",Bahar 21. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/23/D0A088149B2D61FF11DF802A73AE4845.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/30/ver1730442647/73719145120C2F728D227D115C2E2593_640x360.jpg",Bahar 22. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/10/30/73719145120C2F728D227D115C2E2593_640x360.jpg",Bahar 22. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/30/73719145120C2F728D227D115C2E2593.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/06/ver1731010631/7AFFB400314AC7F32F6B3C4442F0B267_640x360.jpg",Bahar 23. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/06/7AFFB400314AC7F32F6B3C4442F0B267_640x360.jpg",Bahar 23. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/11/06/7AFFB400314AC7F32F6B3C4442F0B267.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/15/ver1731930494/E20283FD3035B2EA95910079A50CB77E_640x360.jpg",Bahar 24. Bölüm 
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/15/E20283FD3035B2EA95910079A50CB77E_640x360.jpg",Bahar 24. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/11/15/E20283FD3035B2EA95910079A50CB77E.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/20/ver1732262252/E6D624CA4BDB152BFD48DCBCF2E7F093_640x360.jpg",Bahar 25. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/20/E6D624CA4BDB152BFD48DCBCF2E7F093_640x360.jpg",Bahar 25. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/11/20/E6D624CA4BDB152BFD48DCBCF2E7F093.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/27/ver1732876301/06C2E154A20A8F27AB30FA6210747713_640x360.jpg",Bahar 26. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/11/27/06C2E154A20A8F27AB30FA6210747713_640x360.jpg",Bahar 26. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/11/27/06C2E154A20A8F27AB30FA6210747713.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/04/ver1733477575/C039B00EA0E326D39313E04B143C8B33_640x360.jpg",Bahar 27. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/04/C039B00EA0E326D39313E04B143C8B33_640x360.jpg",Bahar 27. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/04/C039B00EA0E326D39313E04B143C8B33.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/11/ver1734066484/73DAEB7E67FE2EAD3B97F3D259F2A71E_640x360.jpg",Bahar 28. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/11/73DAEB7E67FE2EAD3B97F3D259F2A71E_640x360.jpg",Bahar 28. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/11/73DAEB7E67FE2EAD3B97F3D259F2A71E.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/18/ver1734634420/940A3D3304779A9D95C95DB9628D0173_640x360.jpg",Bahar 29. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/18/940A3D3304779A9D95C95DB9628D0173_640x360.jpg",Bahar 29. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/18/940A3D3304779A9D95C95DB9628D0173.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/25/ver1735275663/390960A9739BCC0A1802C5B12506F5D6_640x360.jpg",Bahar 30. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2024/12/25/390960A9739BCC0A1802C5B12506F5D6_640x360.jpg",Bahar 30. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/25/390960A9739BCC0A1802C5B12506F5D6.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/01/14/ver1737117804/03DB4825F3D0BF31A2D465DE19525D2B_640x360.jpg",Bahar 31. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/01/14/03DB4825F3D0BF31A2D465DE19525D2B_640x360.jpg",Bahar 31. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/01/14/03DB4825F3D0BF31A2D465DE19525D2B.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/01/28/ver1738313465/21C67DDE6C25A6C2F5D35DDADF36B80D_640x360.jpg",Bahar 32. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/01/28/21C67DDE6C25A6C2F5D35DDADF36B80D_640x360.jpg",Bahar 32. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/01/28/21C67DDE6C25A6C2F5D35DDADF36B80D.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/04/ver1738910971/A059A18EF2346BDCADB8F419F60F598C_640x360.jpg",Bahar 33. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/04/A059A18EF2346BDCADB8F419F60F598C_640x360.jpg",Bahar 33. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/02/04/A059A18EF2346BDCADB8F419F60F598C.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/11/ver1739965164/F89C95B46B8D791BEACBB741E79B72F3_640x360.jpg",Bahar 34. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/11/F89C95B46B8D791BEACBB741E79B72F3_640x360.jpg",Bahar 34. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/02/11/F89C95B46B8D791BEACBB741E79B72F3.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/19/ver1740117394/668E74BB6ADD7516F3C9D8226529839B_640x360.jpg",Bahar 35. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/19/668E74BB6ADD7516F3C9D8226529839B_640x360.jpg",Bahar 35. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/02/19/668E74BB6ADD7516F3C9D8226529839B.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/25/ver1740669365/E043FF67AAC8C66A4D7B59484E9E5EF2_640x360.jpg",Bahar 36. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/02/25/E043FF67AAC8C66A4D7B59484E9E5EF2_640x360.jpg",Bahar 36. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/02/25/E043FF67AAC8C66A4D7B59484E9E5EF2.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/03/05/ver1741273287/5AAD77AF3BDE34CDC6FDF47DD49AE155_640x360.jpg",Bahar 37. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/03/05/5AAD77AF3BDE34CDC6FDF47DD49AE155_640x360.jpg",Bahar 37. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/03/05/5AAD77AF3BDE34CDC6FDF47DD49AE155.m3u8
-AF89916D869A163EA537FDC31C866173_640x360.jpg",Bahar 38. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/03/12/AF89916D869A163EA537FDC31C866173_640x360.jpg",Bahar 38. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/03/12/AF89916D869A163EA537FDC31C866173.m3u8
-#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/03/19/ver1742490077/EAE2556A4F476C6A3A4A156F9A9CD51A_640x360.jpg",Bahar 39. Bölüm
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/03/19/EAE2556A4F476C6A3A4A156F9A9CD51A_640x360.jpg",Bahar 39. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/03/19/EAE2556A4F476C6A3A4A156F9A9CD51A.m3u8
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/03/26/8C4B51F3FE8D65AA0EBA420776E4854A_640x360.jpg",Bahar 40. Bölüm
+https://vmcdn.ciner.com.tr/ht/2025/03/26/8C4B51F3FE8D65AA0EBA420776E4854A.m3u8
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/04/09/B2A2FE4E6189F73B0804E3C5CB05C8B7_640x360.jpg",Bahar 41. Bölüm
+https://vmcdn.ciner.com.tr/ht/2025/04/09/B2A2FE4E6189F73B0804E3C5CB05C8B7.m3u8
+#EXTINF:1 tvg-logo="https://mo.ciner.com.tr/video/2025/04/16/C2EB563A50CA8A09A9334AAC5DB8016D_640x360.jpg",Bahar 42. Bölüm
+https://vmcdn.ciner.com.tr/ht/2025/04/16/C2EB563A50CA8A09A9334AAC5DB8016D.m3u8
