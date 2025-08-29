@@ -9,6 +9,13 @@
                 "stream_url": "https://kanaldvod.duhnet.tv/S11/HLS_VOD/277935_08f6/index.m3u8"
             },
             {
+                "name": "Çetin Ceviz 1",
+                "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e765d9f44539512c8d2bc0e.jpg",
+                "url": "https://www.kanald.com.tr/evde-sinema/cetin-ceviz-1",
+                "stream_url": "https://www.dailymotion.com/cdn/manifest/video/x8mfs56.m3u8?sec=iCttaWvjvxbCon-zMzD3rQ0noUUyp5qn-4wa2_PtDTXlJFsrUXf1PAGQoaUdqTJ1fA7WbJZSbodwpZYapOttmQ&dmTs=839644&dmV1st=90198634-4ee9-42c7-89b1-76ae171aace4",
+                "embed_url": "https://www.dailymotion.com/video/k4aJxr6jo8WLlyzhOs2"
+            },
+            {
                 "name": "Çetin Ceviz 2",
                 "img": "https://image.kanald.com.tr/i/kanald/100/264x111/5e76623044539512c8d2bc3e.jpg",
                 "url": "https://www.kanald.com.tr/evde-sinema/cetin-ceviz-2",

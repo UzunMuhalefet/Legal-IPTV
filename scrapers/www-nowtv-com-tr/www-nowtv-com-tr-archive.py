@@ -3,9 +3,11 @@ from tqdm import tqdm
 from bs4 import BeautifulSoup
 import json
 import sys
+import urllib3
 
+urllib3.disable_warnings()
 sys.path.insert(0, '../../utilities')
-from jsontom3u import create_single_m3u, create_m3us
+from jsontom3u import create_single_m3u, create_m3us, create_json
 
 headers = {
     "Content-Type": "application/x-www-form-urlencoded",
@@ -32,7 +34,7 @@ def get_all_videos(id, serie_name=""):
     total = 0
     while flag:
         page_list = []
-        r = requests.post(video_url, body, headers=headers)
+        r = requests.post(video_url, body, headers=headers, verify=False)
         html = r.json()['data']
         data_count = r.json()["count"]
         soup = BeautifulSoup(html, "html.parser")
@@ -75,7 +77,7 @@ def get_all_items(content_type):
     item_list = []
     flag = True
     while flag:
-        r = requests.post(api_url, body, headers=headers)
+        r = requests.post(api_url, body, headers=headers, verify=False)
         html = r.json()["data"]
         soup = BeautifulSoup(html, "html.parser")
         items = soup.find_all("div", {"class": "list-item"})
@@ -111,8 +113,7 @@ def main(content_type, name, start=0, end=0):
         temp_serie["episodes"] = episodes
         data.append(temp_serie)
     
-    f = open("www-nowtv-com-tr-" + name + ".json", "w+")
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    create_json("www-nowtv-com-tr-" + name + ".json", data)
     create_single_m3u("../../lists/video/sources/www-nowtv-com-tr", data, name)
     create_m3us("../../lists/video/sources/www-nowtv-com-tr/" + name, data)
 

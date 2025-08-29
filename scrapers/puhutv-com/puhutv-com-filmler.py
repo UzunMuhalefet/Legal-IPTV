@@ -7,7 +7,7 @@ import json
 import sys
 
 sys.path.insert(0, '../../utilities')
-from jsontom3u import create_single_m3u, create_m3us
+from jsontom3u import create_single_m3u, create_m3us, create_json
 
 filmler_url = "https://puhutv.com/filmler"
 
@@ -31,7 +31,7 @@ def get_all_content(url):
     for item in tqdm(contents):
         item_path = item.find("a").get("href").replace("detay", "izle")
         item_url = urljoin(url, item_path)
-        item_img = item.find("img").get("src")
+        item_img = item.find("noscript").find("img").get("src").replace("mnresize/432/618/", "")
         item_name = item.find("img").get("title").strip()
         stream_url = get_stream_url(item_url)
         if stream_url:
@@ -51,11 +51,9 @@ def main():
             "episodes": get_all_content(filmler_url)
         }
     ]
-    f = open("puhutv-com-filmler.json", "w+")
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    create_json("puhutv-com-filmler.json", data)
     create_single_m3u("../../lists/video/sources/puhutv-com", data, "filmler")
 
 
 if __name__=="__main__": 
-    main() 
-
+    main()

@@ -9,7 +9,7 @@ from jsontom3u import create_single_m3u, create_m3us
 
 def get_all_shows():
     all_shows = []
-    url = "https://www.cartoonnetwork.com.tr/api/shows?locale=tr-TR&device=DESKTOP"
+    url = "https://www.cartoonnetwork.co.uk/api/shows?locale=tr-TR&device=DESKTOP"
     r = requests.get(url)
     print(r.status_code)
     shows = r.json()
@@ -33,7 +33,7 @@ def get_all_episodes_by_show(showid, show_name=""):
         "limit": 1000,
         "showId": showid
     }
-    url = "https://www.cartoonnetwork.com.tr/api/filtered-contents"
+    url = "https://www.cartoonnetwork.co.uk/api/filtered-contents"
     r = requests.get(url, params=params)
     episodes = r.json()
     for episode in episodes:
@@ -67,7 +67,7 @@ def get_asset_id(friendly_url):
         "device": "DESKTOP"
     }
     try:
-        r = requests.get("https://www.cartoonnetwork.com.tr/api/content-by-friendly-url", params=params)
+        r = requests.get("https://www.cartoonnetwork.co.uk/api/content-by-friendly-url", params=params)
         return r.json()["video"]["asset_id"]
     except:
         return ""
@@ -107,8 +107,8 @@ def main(start=0, end=0):
                     temp_show["episodes"].append(temp_episode)
             data.append(temp_show)
     create_single_m3u("../../lists/video/sources/www-cartoonnetwork-com-tr", data, "videolar")
-    f = open("www-cartoonnetwork-com-tr-videolar.json", "w+")
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    with open("www-cartoonnetwork-com-tr-videolar.json", "w+", encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
     create_m3us("../../lists/video/sources/www-cartoonnetwork-com-tr/videolar", data)
 
 

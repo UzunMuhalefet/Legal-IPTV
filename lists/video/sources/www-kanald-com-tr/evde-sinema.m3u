@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7632bb3ab1662564e12bff.jpg" group-title="Evde Sinema",Yeniden Başlamak
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/277935_08f6/index.m3u8
+#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e765d9f44539512c8d2bc0e.jpg" group-title="Evde Sinema",Çetin Ceviz 1
+https://www.dailymotion.com/cdn/manifest/video/x8mfs56.m3u8?sec=iCttaWvjvxbCon-zMzD3rQ0noUUyp5qn-4wa2_PtDTXlJFsrUXf1PAGQoaUdqTJ1fA7WbJZSbodwpZYapOttmQ&dmTs=839644&dmV1st=90198634-4ee9-42c7-89b1-76ae171aace4
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76623044539512c8d2bc3e.jpg" group-title="Evde Sinema",Çetin Ceviz 2
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/277929_08ea/index.m3u8
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76637844539512c8d2bc52.jpg" group-title="Evde Sinema",Aşkın 5 Hali

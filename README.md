@@ -6,14 +6,16 @@ FTA (Free-to-air veya ücretsiz uydu yayınları) ve internetten ücretsiz olara
 Atıfta bulunulması ve ticari bir eyleme dönüştürülmemesi şartlarıyla çalışmalarımı paylaşabilirsiniz.
 
 **UYARILAR**
- - Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
- - Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV playerlarının destekleyeceği şekilde yönlendirme yapılmaktadır.
+
+- Paylaşımlar içerisinde herhangi bir ücretli platforma ait içerikler veya direkt ücretli içerikler bulunmamaktadır.
+- Proje içerisinde herhangi bir içeriğin yayını tarafımca yapılmamakta olup farklı kaynaklardan alınan içeriklere IPTV playerlarının destekleyeceği şekilde yönlendirme yapılmaktadır.
 
 Merak edenler için alt kısımda yaptığım çalışmaların detayları mevcuttur.
 
 **ADLANDIRMALAR**
 
 Ülke bazlı içeriklerin klasör ve link yapısında sırasıyla aşağıdaki standartlar kullanılmaktadır.
+
 - [ISO-3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 - [UN/LOCODE Code List by Country and Territory](https://unece.org/trade/cefact/unlocode-code-list-country-and-territory)
 
@@ -22,13 +24,14 @@ Belirli bir kaynağa ait içeriklerde ise ilgili kaynağın website alan adı ve
 ## Yapılan Çalışmalar
 
 Sistemin ayağa kaldırılması ve kurulumlar tarafındaki desteği için limonsikacagi61 'e teşekkürler.
+
 <details>
   <summary>Detaylar</summary>
 
 ### Canlı Kanalların Yönetimi
 
- - Ön-tanımsız (Headless) bir CMS (İYS) çözümü olan [Directus](https://directus.io/) sistemi ayağa kaldırılmıştır. 
- - Directus üzerinde gereken veri tipleri (Kanal, Yayın, Kategori vb.) oluşturulup. 450+ kanal için logo, yayın, kaynak vb. bilgiler girilmiştir. ![enter image description here](https://i.imgur.com/a2E1HAQ.png)
+- Ön-tanımsız (Headless) bir CMS (İYS) çözümü olan [Directus](https://directus.io/) sistemi ayağa kaldırılmıştır.
+- Directus üzerinde gereken veri tipleri (Kanal, Yayın, Kategori vb.) oluşturulup. 450+ kanal için logo, yayın, kaynak vb. bilgiler girilmiştir. ![enter image description here](https://i.imgur.com/a2E1HAQ.png)
 - Python ile geliştirilen sistem günlük olarak verileri [CMS API](https://docs.directus.io/reference/introduction.html) üzerinden çekip, yayınları denetleyip en yüksek öncelikli linke yönlendirme yapmaktadır.
 - Yayınların denetiminde basit istek atılıp cevap kontrol edilmektedir. FFmpeg çözümleri denenmiş fakat işlem süresini çok arttırması sebebiyle basit istek şekline geri döndürülmüştür.
 
@@ -41,6 +44,7 @@ https://github.com/UzunMuhalefet/yayinlar
 ```
 
 ### YT, DM, Twitch Yayınlarının Dinamik Linkleri
+
 - [Query Streamlink](https://github.com/BellezaEmporium/query-streamlink/tree/flask) reposu [Render](https://render.com/) platformu üzerinde ücretsiz hesap ile aktif edilmiştir.
 - Streamlink desteği olan sitelere ait yayının bulunduğu linkler *url* sorgu parametresi ile geçilerek sonuç alınabilir. 
 - NOT: IP adresi bazlı link koruması bulunan sitelerde çalışmaz. Youtube, Dailymotion, Twitch siteleri için çalışmaktadır fakat ülke bazlı kısıtlama bulunan içeriklerde çalışmayabilir.
@@ -50,12 +54,14 @@ https://tvcdn.onrender.com/iptv-query?url={ICERIK_ADRESI}&.m3u8
 ```
 
 ### Ticket (Secure Token) İçeren Sistemler
+
 - Stabil clean (saf) linki bulunmayan platform ve yayınları listelere ekleyebilmek için PHP ve Regex kullanılarak son kullanıcı için link elde eden basit scriptler geliştirilmiş ve [serv00](https://www.serv00.com/) platformu üzerinde ücretsiz hesap ile çalıştırılmaktadır.
 
 <details>
   <summary>Detaylar</summary>
 
 #### Click2Stream (click2stream.com)
+
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/angelcam.php?id={SUBDOMAIN}&.m3u8
@@ -68,6 +74,7 @@ Yayın URL:
 `https://uzunmuhalefet.serv00.net/angelcam.php?id=abana-belediyesi&.m3u8`
 
 #### IPCamLive (ipcamlive.com)
+
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/ipcamlive.php?id={ALIAS/ID}&.m3u8
@@ -80,6 +87,7 @@ Yayın URL:
 `https://uzunmuhalefet.serv00.net/ipcamlive.php?id=655b2fd67214e&.m3u8`
 
 #### RTSP Me (rtsp.me)
+
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/rtspme.php?id={ID}&.m3u8
@@ -92,6 +100,7 @@ Yayın URL:
 `https://uzunmuhalefet.serv00.net/rtspme.php?id=QRHD7Y2Q&.m3u8`
 
 #### Earth TV (www.earthtv.com)
+
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/earthtv.php?id={NAME}&.m3u8
@@ -104,6 +113,7 @@ Yayın URL:
 `https://uzunmuhalefet.serv00.net/earthtv.php?id=rotterdam-holland-amerikakade&.m3u8`
 
 #### Bursa Büyükşehir Belediyesi (www.bursabuyuksehir.tv)
+
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/bursa.php?id={ID}&.m3u8
@@ -116,6 +126,7 @@ Yayın URL:
 `https://uzunmuhalefet.serv00.net/bursa.php?id=23542&.m3u8`
 
 #### Kocaeli Büyükşehir Belediyesi (kocaeliyiseyret.com)
+
 Pattern:
 ```
 https://uzunmuhalefet.serv00.net/kocaeli.php?id={ID}&.m3u8
@@ -130,6 +141,7 @@ Yayın URL:
 </details>
 
 ### EPG (Elektronik Program Rehberi)
+
 IPTV Org ekibinin geliştirdiği [EPG](https://github.com/iptv-org/epg) yazılımı kurulup devreye alınmıştır.
 Destekleyen playerlarda aşağıdaki URL eklenip kullanılabilir.
 
@@ -144,27 +156,31 @@ http://epg.tvcdn.net/guide/tr-guide.xml
 ### Canlı Yayınlar
 
 #### 🇹🇷 Türkçe - Canlı Kanallar Listesi
+
 M3U formatının standartlarının keskin olmaması sebebiyle 3 farklı çıktı üretilmektedir. Kullandığınız IPTV playerın formatına uyan halini seçebilirsiniz. Listelerin içeriği değişmemektedir.
 
 **Standard Liste**
+
 ```
 http://stream.tvcdn.net/lists/tr.m3u
 ```
 
 **Alternatif Liste**
+
 ```
 http://stream.tvcdn.net/lists/tr-alt.m3u
 ```
 
 **SS-IPTV Listesi**
+
 ```
 http://stream.tvcdn.net/lists/tr-ss.m3u
 ```
 
 ### Kameralar
+
 <details>
   <summary>Detaylar</summary>
-
 
 
 #### 🇹🇷 Türkiye - Canlı Kameralar Listesi
@@ -258,6 +274,7 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 
 
 ## Planlanan Çalışmalar
+
 <details>
   <summary>Detaylar</summary>
 
@@ -266,6 +283,7 @@ Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içer
 Belirli konseptlere, ülke, bölge ve platform (websitesi) özelinde listeler çıkartmayı planlıyorum. Talep ettiğiniz bir konsept var ise belirtebilirsiniz.
 
 **Planlanan Playlistler**
+
 1. Türki Cumhuriyetler - TV Kanalları
 2. Avrupa Ülkeleri - TV Kanalları
 3. Dünya - Şehir Kameraları

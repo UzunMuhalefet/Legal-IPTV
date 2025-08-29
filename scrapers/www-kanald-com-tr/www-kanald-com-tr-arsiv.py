@@ -9,6 +9,15 @@ from jsontom3u import create_single_m3u, create_m3us
 
 site_base_url = "https://www.kanald.com.tr"
 
+def get_dailystream_url(media_secure_path_id):
+    url = "https://www.dailymotion.com/player/metadata/video/"+ media_secure_path_id
+    try:
+        r = requests.get(url)
+        data = r.json()
+        return data["qualities"]["auto"][0]["url"]
+    except:
+        return " "
+
 def get_stream_url(media_id):
     url = "https://www.kanald.com.tr/actions/media"
     params = {
@@ -21,7 +30,8 @@ def get_stream_url(media_id):
         r = requests.get(url, params=params)
         data = r.json()["data"]
         if data["media"]["link"]["type"] == "video/dailymotion":
-            return ""
+            url = get_dailystream_url(data["media"]["link"]["securePath"])
+            return url
         else:
             path = data["media"]["link"]["securePath"].split("?")[0]
             if path[0] != "/":
