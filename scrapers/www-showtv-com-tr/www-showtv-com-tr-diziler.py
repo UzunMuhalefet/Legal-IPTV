@@ -102,11 +102,6 @@ def get_arsiv_page(url):
             item_name = item.find("span", {"class": "line-clamp-3"}).get_text().strip()
             item_id = item_url.split("/")[-1]
             
-            # "Son Bölüm" kontrolü - eğer dizi adında "Son Bölüm" varsa atla
-            if "son bölüm" in item_name.lower():
-                print(f"Son Bölüm atlandı: {item_name}")
-                continue
-                
             temp_item = {
                 "name": item_name,
                 "img": item_img,
